@@ -1,0 +1,580 @@
+@media only screen and (max-width: 1598px){
+	.stroke_text{
+		font-size: 130px;
+	}
+	.theme-tab .brk-tab{
+        padding-right: 3px;
+		padding-left: 3px;
+	}
+	.page_text h2.page_name br{
+        display: none;
+	}
+	.nca_circles_img{
+		max-width: 400px !important;
+	    left: -15px !important;
+	}
+	.accordion.width .card-header{
+		width: auto;
+	}
+	.accordion .card-header.horizontal_accordion span{
+		font-size: 36px !important;
+	}
+	.accordion.width .card .card-header.horizontal_accordion span.item_number{
+		font-size: 80px !important;
+		left: 8px !important;
+	}
+	.accordion .card-header.horizontal_accordion{
+		padding: 28px 20px !important;
+	}
+	.header_btn.btn.btn-prime{
+        margin-left: 0px;
+	}
+	.co_investors_form{
+		padding: 50px !important;
+	}
+	.co_investors_form .contact_text h2{
+        font-size: 50px !important;
+	}
+	.investors_content .headline .title.tile_2{
+        font-size: 50px;
+        line-height: 70px;
+	}
+}
+@media only screen and (max-width: 1598px) and (min-width: 1230px){
+    .col-lg-3.nca_circle_image_col{
+		flex: 0 0 40%;
+        max-width: 40%;
+	}
+	
+	.col-lg-9.nca_circle_text_col{
+		flex: 0 0 60%;
+        max-width: 60%;
+	}
+	.card-body{
+		width: 800px !important;
+	}
+}
+
+@media only screen and (max-width: 1229px) and (min-width: 992px){
+	.card-body{
+		width: 690px !important;
+	}
+	.member_card .question-box.question-box-height{
+		height: 515px;
+	}
+}
+
+@media only screen and (max-width: 1229px){
+	.stroke_text{
+		font-size: 100px;
+		line-height: 100px;
+	}
+	.question-box h2{
+		font-size: 34px;
+		line-height: 42px;
+	}
+	.headline .title{
+		font-size: 29px;
+		line-height: 45px;
+	}
+	.headline .subtitle{
+		font-size: 17px;
+	}
+	.invest-heading{
+		font-size: 45px;
+	}
+	.theme-tab .brk-tab{
+		 padding-right: 16px;
+		padding-left: 16px;
+	}
+	.theme-tab .brk-tab span{
+		font-size: 1.25rem !important;
+	}
+	.brk-form-strict .brk-form-checkbox-label{
+		font-size: 19px;
+	}
+	.three_circles.talents_circle,.three_circles.smes_circle{
+        bottom: 150px;
+	}
+	.col-lg-3.nca_circle_image_col{
+		flex: 0 0 100%;
+        max-width: 100%;
+        padding-bottom: 50px;
+	}
+	.col-lg-9.nca_circle_text_col{
+		flex: 0 0 100%;
+        max-width: 100%;
+        padding-right: 50px;
+	}
+	.about_headline .subtitle_text{
+		max-width: none;
+	}
+	.what_we_do_text{
+		max-width: none;
+	}
+	.nca_circles_img{
+		position: initial !important;
+		text-align: center;
+	}
+	.chart_circels.pt-120{
+		padding-top: 0px !important;
+		justify-content: center;
+	}
+	.accordion .card-header.horizontal_accordion{
+		padding: 28px 10px !important;
+	}
+	.accordion.width .card .card-body .card_body_content{
+		padding: 50px 0px;
+	}
+	.accordion.width .card{
+		margin-right: 5px;
+	}
+	.accordion.width .card .card-header.horizontal_accordion span.item_number{
+		font-size: 50px !important;
+	}
+	.strike_heading_2.mt-200{
+		margin-top: 70px !important;
+	}
+	.strike_heading_2.pt-155{
+		padding-top: 70px !important;
+	}
+	.co_invester_contact .form_main_col{
+       padding-right: 0px !important;
+	}
+	.investors_content .headline .title.tile_2{
+		font-size: 36px;
+        line-height: 55px;
+	}
+	.play_button.left_btn{
+		margin-top: -230px;
+        left: 70px;
+	}
+	.play_button.right_btn{
+		margin-top: -240px;
+        right: 100px;
+	}
+	.means_section .headline h4{
+        font-size: 32px;
+        line-height: 45px;
+	}
+}
+
+@media only screen and (max-width: 991px){
+	.header_third_part .brk-header__item.justify-content-center{
+        justify-content: flex-start !important;
+	}
+	.question-box{
+		max-width: 100%;
+	}
+	.question-box-height{
+		height: auto;
+		min-height: auto;
+	}
+	.intermediaries .row{
+        display: flex;
+        flex-direction: column-reverse;
+	}
+	.question-box.question-box-height.mt-200{
+		margin-top: 0px !important;
+	}
+	.invest-heading{
+		font-size: 35px;
+		line-height: 60px;
+	}
+	.where-invest .container.pt-150{
+        padding-top: 80px !important;
+	}
+	h3.footer_main_heading{
+		font-size: 1.50rem;
+	}
+	.brk-header-mobile-wrap .brk-before{
+		background-color: rgba(255,255,255,1);
+	}
+	.theme-tab .brk-tab span{
+		font-size: 1rem !important;
+	}
+	.theme-tab .brk-tab{
+		 padding-right: 6px;
+		padding-left: 6px;
+	}
+	.brk-header-mobile__open span:after{
+		width: 50%;
+	}
+	.brk-header-mobile{
+		background-color: #ffffff;
+	} 
+	.pt_tab_60{
+		padding-top: 60px !important;
+	}
+	.owner-text{
+        left: 0px;
+	}
+	.owner_img{
+		top: -80px;
+		z-index: 99;
+	}
+	.question_box_responsive{
+		margin-top: -80px;
+	}
+	.ml-140.ml-sm-0{
+		margin-left: 0px !important;
+	}
+	.theme-tab .brk-tab{
+		max-width: 80%;
+        flex: 0 0 80%;
+        margin-bottom: 5px;
+        justify-content: flex-start;
+        height: 60px;
+	}
+	.theme-tab .brk-tab.active, .theme-tab .brk-tab.active:hover{
+		max-width: 100%;
+        flex: 0 0 100%;
+		height: 60px;
+	}
+	.responsive_bottom_text{
+		font-size: 29px;
+		line-height: 45px !important;
+	}
+	span.menu_for{
+		display: block;
+	}
+	.d-xs-none{
+		display: none;
+	}
+	.brk-header-mobile-wrap .brk-nav__menu>li>a{
+		line-height: 22px;
+		font-size: 20px !important;
+		font-family: "EuclidFlex-Bold";
+		padding-left: 0px !important;
+	}
+	.brk-header-mobile-wrap .brk-nav__menu>li>a span{
+        font-size: 10px !important;
+	}
+	.brk-header-mobile-wrap .brk-nav__menu>li{
+        margin-bottom: 40px;
+	}
+	.brk-header-mobile-wrap .brk-nav__menu>li:not(:last-child):after{
+		width: 30px;
+		height: 2px;
+		background-color: var(--brand-primary);
+		position: absolute;
+		content: '';
+		left: 0px;
+        bottom: -20px;
+	}
+	.brk-header-mobile-wrap .brk-nav__menu{
+       margin-top: 60px;
+	}
+	.main-page header .container{
+		background: none;
+	}
+	.brk-header-mobile-wrap__header{
+		border-bottom: 0px;
+	}
+	.header_btn{
+		font-size: 9px;
+		padding: 0px 12px;
+		width: 27.5%;
+	}
+	.brk-header__item.d-flex{
+        flex-wrap: wrap;
+	}
+	.footer_btns{
+		width: 100%;
+		text-align: center;
+		margin-top: 15px;
+	}
+	.brk-header-mobile-wrap .brk-header__main-bar{
+		padding-left: 25px;
+		padding-right: 25px;
+		max-width: 340px;
+	}
+	.brk-header__item a:first-child{
+		margin-left: 0px;
+	}
+	.header_btn.header_btn_mb.btn-prime{
+        color: #bea581;
+	}
+	.brk-header-mobile-wrap__logo{
+		text-align: center;
+	}
+	.brk-header-mobile-wrap__close{
+		left: 30px;
+		right: auto;
+	}
+	.brk-header-mobile-wrap__close:after, .brk-header-mobile-wrap__close:before{
+		background-color: var(--brand-primary);
+	}
+	.footer_row_container{
+		padding-top: 40px !important;
+	}
+	.justify-content-right.footer_btns{
+		justify-content: flex-start;
+	}
+	.footer_btns .language_btn{
+        margin-left: 0px;
+	}
+	h3.footer_main_heading{
+		line-height: 32px;
+		margin-top: 15px;
+	} 
+	.copyright_menu{
+		float: left;
+	}
+	.copyright_menu li:first-child{
+		padding-left: 0px;
+	}
+	footer.brk-footer .brk-footer__wrapper{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.main-page .container, footer .container{
+		background-size: 15.3% 1px;
+        background-position: calc(7%);
+	}
+	.card-body{
+		width: 460px !important;
+	}
+	.card_body_title{
+		font-size: 32px;
+	}
+	.member_card .question-box.question-box-height{
+		max-width: 100%;
+	}
+	.investors_content .headline .title{
+		top: 0px;
+		margin-bottom: 50px !important;
+		padding-left: 0px !important;
+	}
+	.co_strike_heading .stroke_text{
+		top: 0px;
+	}
+	footer .container{
+		background: none;
+	}
+	.play_button.left_btn{
+		display: flex;
+		justify-content: center;
+		left: 0px;
+	}
+	.play_button.right_btn{
+		display: flex;
+		justify-content: center;
+		right: 0px;
+	}
+	.stroke_wrap .stroke_text,.telent_section .stroke_text{
+		font-size: 60px !important;
+        line-height: 70px !important;
+	}
+
+}
+
+@media only screen and (max-width:767px){
+	.col-xs-12{
+		-webkit-flex: 0 0 100.00%;
+        flex: 0 0 100.00%;
+        max-width: 100.00%;
+	}
+	.footer_main_heading.pl-10{
+		padding-left: 0px !important;
+	}
+	.justify-content-right{
+		justify-content: flex-start;
+	}
+	.justify-content-right .btn-prime{
+        margin-left: 0px;
+	}
+	.footer_custom_colum{
+		margin-top: 30px;
+	}
+	.copyright_menu{
+		float: left;
+	}
+	.copyright_menu li:not(:last-child){
+		padding-left: 0px;
+	}
+	.intermediaries .container-inner-1170.ml-140{
+        margin-left: 0px !important;
+	}
+	.strike_heading .stroke_text,.strike_heading_2 .stroke_text{
+        font-size: 60px !important;
+        line-height: 70px !important;
+	}
+	.accrodian_main_col{
+		width: 100%;
+		overflow-x: auto;
+		padding-top: 40px;
+		overflow-y: hidden;
+	}
+	.accrodian_main_col .accordion{
+        height: 555px !important;
+	}
+	.nca_circles_img{
+		max-width: 100% !important;
+	}
+	.member_card .question-box.question-box-height{
+		height: 270px;
+	}
+	.co_strike_heading .stroke_text{
+		font-size: 50px !important;
+		line-height: 70px !important;
+	}
+
+}
+@media only screen and (max-width: 575px){
+	.stroke_text{
+		font-size: 50px;
+        line-height: 60px;
+        top: 40px;
+	}
+	.stroke_text br{
+		display: none;
+	}
+	.headline .title{
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.headline .subtitle{
+		font-size: 16px;
+	}
+	.invest-heading{
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.question-box h2{
+		font-size: 23px;
+		line-height: 33px;
+	}
+	.responsive_xs_pad{
+        padding-top: 60px !important;
+        padding-bottom: 60px !important;
+	}
+	.question-box .p-5{
+		padding:30px !important;
+	}
+	.brk-form-strict .brk-form-checkbox-label{
+		font-size: 16px;
+	}
+	.text-xs-left{
+        text-align: left !important;
+	}
+	section .stroke_text{
+		font-size: 55px !important;
+		line-height: 60px !important;
+	}
+	.pb-xs-60{
+		padding-bottom: 60px;
+	}
+	.ml-xs-0{
+		margin-left: 0px !important;
+	}
+	.px-xs-50{
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+	.mx-xs-0{
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+	}
+	.responsive_bottom_text br{
+		display: none;
+	}
+	.px-xs-0{
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+	.px-xs-20{
+        padding-left: 20px !important;
+		padding-right: 20px !important;
+	}
+	.theme-tab .brk-tab{
+		justify-content: flex-start;
+	}
+	section .stroke_text{
+		font-size: 45px !important;
+        line-height: 55px !important;
+	}
+	.co_investors_form{
+		padding: 30px !important;
+	}
+	.investors_content .headline .title.tile_2{
+		font-size: 28px;
+        line-height: 45px;
+	}
+	.co_strike_heading .stroke_text{
+		font-size: 40px !important;
+        line-height: 70px !important;
+	}
+	.p-xs-20{
+		padding: 20px !important;
+	}
+	.strike_heading_2 .stroke_text{
+		font-size: 40px !important;
+        line-height: 70px !important;
+	}
+	.headline .title.tile_2{
+		font-size: 36px;
+        line-height: 50px;
+	}
+
+}
+@media only screen and (max-width: 480px){
+    .theme-tab .brk-tab span{
+        font-size: 0.75rem !important;
+	}
+	.invest_tabs ul li.font__size-20{
+        font-size: 1rem;
+	}
+	.invest_tabs ul span.font__size-16{
+       font-size: 0.8rem;
+       margin-left: 37px !important;
+	}
+	.invest_tabs ul i.font__size-14{
+       font-size: .6rem;
+       margin-right: 10px !important;
+	}
+	.responsive_bottom_text{
+		font-size: 22px;
+		line-height: 32px !important;
+	}
+}
+
+@media (max-width: 1399px){
+header .brk-nav__menu>li a{
+    font-size: 12px !important;
+}
+}
+
+@media (max-width: 1598px){
+	.question-box {
+    max-width: 406px;
+}
+.question-box h2 {
+    font-size: 37px;
+}
+}
+
+/********responsive-css-AR*******/
+@media (max-width: 1500px){
+    .stroke_text {
+    font-size:120px !important;
+    line-height: 110px !important;
+}
+}
+@media (max-width: 1280px){
+    .stroke_text {
+    font-size: 95px !important;
+    line-height: 90px !important;
+}
+.question-box h2 {
+    font-size: 29px;
+}
+}
+/********responsive-css-AR*******/
+
+
+.nca_circles_img{
+	max-width: 506px;
+	position: absolute;
+    left: -235px;
+}
