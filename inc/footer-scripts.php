@@ -1,6 +1,9 @@
 <script src="js/scripts.min.js"></script>
     <script type="text/javascript" src="js/rtop.videoPlayer.1.0.1.min.js"></script>
+	<script src="js/assets/jquery.min.js"></script> 
 	<script src="js/custom.js"></script> 
+	<script src="js/zoho.js"></script> 
+	<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="9251f2fd-b0cc-453e-8f7e-54c940308e84" data-blockingmode="auto" type="text/javascript"></script>
 	<!--<script src="vendor/revslider/js/jquery.themepunch.tools.min.js"></script>
 	<script src="vendor/revslider/js/jquery.themepunch.revolution.min.js"></script>
 	<script src="vendor/revslider/js/extensions/revolution.extension.actions.min.js"></script>
@@ -125,7 +128,7 @@
 		    </div>
 	    </div>
     </div>
-    <?php include 'inc/cookies.php'; ?>
+    <?php //include 'inc/cookies.php'; ?>
 </body>
 
 </html>
