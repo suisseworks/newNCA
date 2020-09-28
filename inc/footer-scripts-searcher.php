@@ -42,7 +42,7 @@
 			document.cookie = name + "=" + value + ";" + expires + ";path=/";
 		}
 	</script> -->
-	<?php include 'inc/cookies.php'; ?>
+	<?php // include 'inc/cookies.php'; ?>
 </body>
 
 </html>
