@@ -4,6 +4,11 @@ $(document).ready(function () {
         e.preventDefault();
         registerZoho("form-business-owner")
     });
+
+    $("#form-co-investor").on('submit', function (e) {
+        e.preventDefault();
+        registerZoho("form-co-investor")
+    });
 });
 
 
@@ -24,8 +29,12 @@ function registerZoho(formId) {
         processData: false,
         success: function (data) {
             $("#"+formId).hide();
-            $("#"+formId+"-success").show();
+            $("#form-alert-success").show();
             document.getElementById(formId).reset();
+            setTimeout(function(){
+                $("#form-alert-success").hide();
+                $("#"+formId).show();
+            }, 3000);
         },
         error: function (data) {
         }
