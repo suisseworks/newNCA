@@ -229,16 +229,16 @@
 			<div class="container-inner-1170 pl-lg-50 pl-0">
 				<div class="row no-gutters">
 					<div class="col-12 strike_heading_2 mt-lg-200 mt-70">
-	                    <h2 class="stroke_text text-uppercase text-center text-lg-left text-sm-left text-xs-left mb-10 mb-lg-0 wow fadeInLeft">Our team</h2>
+	                    <h2 class="stroke_text text-uppercase text-center text-lg-left text-sm-left text-xs-left mb-10 mb-lg-0 wow fadeInLeft">Unser Team</h2>
 	                </div>
 	                <div class="col-lg-7">
 	                	<div class="position-relative z-index-1">
 							<div class="headline">
 							<h3 class="mb-3 underline title tile_2 wow fadeInUp">
-								NCA Entrepreneurs 
+							NCA-Unternehmer  
 							</h3>
 							<h4 class="mb-5 subtitle wow fadeInUp">
-								Our current cohort of NCA entrepreneurs underwent a rigorous selection process; only exceptional talents, who are ready to embark on an exceptional journey, are chosen for our program. 
+							Nach einem strikten Auswahlverfahren besteht unsere aktuelle Kohorte von NCA-Unternehmern ausschliesslich aus aussergewöhnlichen Talenten, die ausgesprochen motiviert sind, den einzigartigen Weg unseres EtA-Programmes zu beschreiten.  
 							</h4>
 							</div>
 						</div>
@@ -273,9 +273,9 @@
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Jan Nikolaisen</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>20 <span class="fas fa-arrow-right member_count_arrow px-3 pt-2 d-inline-flex"></span> 21</p>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34"> NCA-Unternehmer<br>20 <span class="fas fa-arrow-right member_count_arrow px-3 pt-2 d-inline-flex"></span> 21</p>
 			        			<div class="d-flex align-items-center justify-content-center">
-								<a href="searcher-jan.php" target="_blank" class="font__size-12 font__family-open-sans btn btn-prime btn-md-1 learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								<a href="searcher-jan.php" target="_blank" class="font__size-12 font__family-open-sans btn btn-prime btn-md-1 learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Mehr erfahren </a>
 							</div>	
 							
 						</div>	
@@ -300,7 +300,7 @@
 					<div class="col-lg-4 member_card mt-10 mt-lg-0 pl-5 pr-5">
                         	<div class="bg-primary question-box question-box-height">
 								<a href="" class="d-block py-5 px-4 text-white h-100">
-								<h2 class="text-white mb-1 font__family-efb text-uppercase">Interested in joining us?</h2>
+								<h2 class="text-white mb-1 font__family-efb text-uppercase">Interessiert, sich uns anzuschliessen? </h2>
 								<div class="text-right arrow_link">
 									<img src="img/arrow.png" alt="arrow" />
 								</div>
@@ -313,10 +313,10 @@
 						<div class="position-relative z-index-1">
 							<div class="headline">
 							<h3 class="mb-3 underline title tile_2 wow fadeInUp">
-								Core team
+							Kernteam
 							</h3>
 							<h4 class="mb-5 subtitle wow fadeInUp">
-								NCA’s core team is highly experienced in all aspects of talent sourcing, search and acquisition, investor relations, and value creation. Our extensive network and collective experience will take your success to the next level.
+							Unser Kernteam bei Novastone Capital Advisors (NCA) bringt vielseitige Kenntnisse mit für das Anwerben von Talenten sowie für die Such- und Kaufprozesse samt Anlegerbeziehungen und Wertschöpfungspotentialen. Durch diese kollektive Expertise und unser umfangreiches Netzwerk erreichen Sie mit uns Ihre nächste Erfolgsstufe.   
 							</h4>
 							</div>
 						</div>
