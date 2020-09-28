@@ -89,55 +89,66 @@
 						    </a>
 						</div>	
 					</div>
-					<div class="col-lg-12" id="infocontent">
-						<div class="functon_div" id="info2content">
-							<div class="get_in_touch_content">
-								<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
-									Please complete the form below and we will be in touch.
-								</p>
-							</div>
-							<div class="resources_form resources_form_side">  
-                                <form id="business_owner_contact_form" class="investors_contact_form">
-								<div class="d-inline brk-form-round mr-30 selection_div s_side">
-									<select name="select you profile">
-										<option value="Title" selected disabled>Title</option>
-										<option value="Mr.">Mr.</option>
-										<option value="Ms.">Ms.</option>
-										<option value="Dr.">Dr.</option>
-									</select>
-								</div>
-                                	<div class="form-group  position-relative">
-                                		<span class="text-white label_staric position-absolute">*</span>
-                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="first-name" id="first-name" placeholder="Name" required>
-                                	</div>
-                                	<div class="form-group  position-relative">
-                                		<span class="text-white label_staric position-absolute">*</span>
-                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="last-name" id="last-name" placeholder="Surname" required>
-                                	</div>
-                                	<div class="form-group  position-relative">
-                                		<span class="text-white label_staric position-absolute">*</span>
-                                		<input type="e-mail" class="form-control bg-white px-4 border-radius-25" name="e_mail" id="e_mail" placeholder="E-mail" required>
-                                	</div>
-                                	<div class="form-group">
-									    <div class="radio d-inline-flex">
-									    	<input type="radio" id="optradio1" name="optradio1">
-									        <label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio1">Subscribe to our newsletter</label>
-									    </div>
-									    <div class="radio d-inline-flex">
-									    	<input type="radio" id="optradio2" name="optradio2">
-									        <label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio2">By signing up to the form, you agree to our terms and privacy policy.</label>
-									    </div>
-                                	</div>
-                                	<div class="submit_btn w-100 text-center">	
-                                	    <button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
-                                	</div>    
-                                </form>
-                                <div class="privacy_policy_link text-center mt-20">
-                                	<a href="img/TermsAndConditions.pdf" download target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
-                                </div>	
-							</div>
-						</div>	
+					<div style="display: none;" id="form-business-owner-success" class="alert alert-success" role="alert">
+                        Information was sent successfully!
 					</div>
+					<form  id="form-business-owner" name="form-business-owner" method="post">
+						<div class="col-lg-12" id="infocontent">
+							<div class="functon_div" id="info2content">
+								<div class="get_in_touch_content">
+									<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
+										Please complete the form below and we will be in touch.
+									</p>
+								</div>
+								<div class="resources_form resources_form_side">  
+									<form id="business_owner_contact_form" class="investors_contact_form">
+									<div class="d-inline brk-form-round mr-30 selection_div s_side">
+										<select name="Title">
+											<option value="Title" selected disabled>Title</option>
+											<option value="Mr.">Mr.</option>
+											<option value="Ms.">Ms.</option>
+											<option value="Dr.">Dr.</option>
+										</select>
+									</div>
+										<div class="form-group  position-relative">
+											<span class="text-white label_staric position-absolute">*</span>
+											<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
+										</div>
+										<div class="form-group  position-relative">
+											<span class="text-white label_staric position-absolute">*</span>
+											<input type="text" class="form-control bg-white px-4 border-radius-25" name="Last_Name" id="last-name" placeholder="Surname" required>
+										</div>
+										<div class="form-group  position-relative">
+											<span class="text-white label_staric position-absolute">*</span>
+											<input type="email" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="E-mail" required>
+										</div>
+										<div class="form-group">
+											<div class="radio d-inline-flex">
+												<input type="radio" id="optradio1" name="optradio1">
+												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio1">Subscribe to our newsletter</label>
+											</div>
+											<div class="radio d-inline-flex">
+												<input type="radio" id="optradio2" name="optradio2" required>
+												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio2">By signing up to the form, you agree to our terms and privacy policy.</label>
+											</div>
+										</div>
+										<div id="form-business-owner-sumit" class="submit_btn w-100 text-center">	
+											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
+										</div>    
+										<div id="form-business-owner-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
+											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
+												<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>	
+												<span>Sending...</span><span class="border-btn submit_border"></span>
+											</button>
+										</div>    
+									</form>
+									<div class="privacy_policy_link text-center mt-20">
+										<a href="img/TermsAndConditions.pdf" download target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
+									</div>	
+								</div>
+							</div>	
+						</div>
+					</form>
 					<div class="col-lg-12" id="infocontent">
 						<div class="functon_div" id="info3content">
 							<div class="get_in_touch_content">
