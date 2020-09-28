@@ -128,7 +128,7 @@
 		    </div>
 	    </div>
     </div>
-    <?php include 'inc/cookies.php'; ?>
+    <?php //include 'inc/cookies.php'; ?>
 </body>
 
 </html>
