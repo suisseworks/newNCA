@@ -9,16 +9,22 @@ $(document).ready(function () {
         e.preventDefault();
         registerZoho("form-co-investor")
     });
+
+    $("#form-intermediary").on('submit', function (e) {
+        e.preventDefault();
+        registerZoho("form-intermediary")
+    });
 });
 
 
 function registerZoho(formId) {
 
-    $("#"+formId+"-sumit").hide();
+    $("#"+formId+"-submit").hide();
     $("#"+formId+"-loading").show();
 
     var myform = document.getElementById(formId);
     var dataForm = new FormData(myform);
+    dataForm.append('Contact_Type', "Company contact");
 
     $.ajax({
         url: "https://nca-api.whagons.com/api/registerContactZoho",
@@ -31,9 +37,12 @@ function registerZoho(formId) {
             $("#"+formId).hide();
             $("#form-alert-success").show();
             document.getElementById(formId).reset();
+
             setTimeout(function(){
                 $("#form-alert-success").hide();
                 $("#"+formId).show();
+                $("#"+formId+"-loading").hide();
+                $("#"+formId+"-submit").show();
             }, 3000);
         },
         error: function (data) {

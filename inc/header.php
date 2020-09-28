@@ -133,7 +133,7 @@
 												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio2">By signing up to the form, you agree to our terms and privacy policy.</label>
 											</div>
 										</div>
-										<div id="form-business-owner-sumit" class="submit_btn w-100 text-center">	
+										<div id="form-business-owner-submit" class="submit_btn w-100 text-center">	
 											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
 										</div>    
 										<div id="form-business-owner-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
@@ -188,7 +188,7 @@
 												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio02">By signing up to the form, you agree to our terms and privacy policy.</label>
 											</div>
 										</div>
-										<div id="form-co-investor-sumit" class="submit_btn w-100 text-center">	
+										<div id="form-co-investor-submit" class="submit_btn w-100 text-center">	
 											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
 										</div>
 										<div id="form-co-investor-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
@@ -207,55 +207,66 @@
 					</form>
 					<!-- end  form-co-investor-->
 
-					<div class="col-lg-12" id="infocontent">
-						<div class="functon_div" id="info4content">
-							<div class="get_in_touch_content">
-								<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
-									Please complete the form below and we will be in touch.
-								</p>
-							</div>
-							<div class="resources_form resources_form_side">  
-                                <form id="intermediatry_contact_form" class="investors_contact_form">
-                                	<div class="d-inline brk-form-round mr-30 selection_div s_side ">
-									<select name="select you profile">
-										<option value="Title" selected disabled>Title</option>
-										<option value="Mr.">Mr.</option>
-										<option value="Ms.">Ms.</option>
-										<option value="Dr.">Dr.</option>
-									</select>
+					<!-- start  form-intermediary-->
+					<form  id="form-intermediary" name="form-intermediary" method="post">
+						<div class="col-lg-12" id="infocontent">
+							<div class="functon_div" id="info4content">
+								<div class="get_in_touch_content">
+									<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
+										Please complete the form below and we will be in touch.
+									</p>
 								</div>
-                                	<div class="form-group  position-relative">
-                                		<span class="text-white label_staric position-absolute">*</span>
-                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="first-name" id="first-name" placeholder="Name" required>
-                                	</div>
-                                	<div class="form-group  position-relative">
-                                		<span class="text-white label_staric position-absolute">*</span>
-                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="last-name" id="last-name" placeholder="Surname" required>
-                                	</div>
-                                	<div class="form-group  position-relative">
-                                		<span class="text-white label_staric position-absolute">*</span>
-                                		<input type="e-mail" class="form-control bg-white px-4 border-radius-25" name="e_mail" id="e_mail" placeholder="E-mail" required>
-                                	</div>
-                                	<div class="form-group">
-									    <div class="radio d-inline-flex">
-									    	<input type="radio" id="optradio3" name="optradio3">
-									        <label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio3">Subscribe to our newsletter</label>
-									    </div>
-									    <div class="radio d-inline-flex">
-									    	<input type="radio" id="optradio4" name="optradio4">
-									        <label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio4">By signing up to the form, you agree to our terms and privacy policy.</label>
-									    </div>
-                                	</div>
-                                	<div class="submit_btn w-100 text-center">	
-                                	    <button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
-                                	</div>    
-                                </form>
-                                <div class="privacy_policy_link text-center mt-20">
-                                	<a download href="img/TermsAndConditions.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
-                                </div>	
-							</div>
-						</div>	
-					</div>
+								<div class="resources_form resources_form_side">  
+									<form id="intermediatry_contact_form" class="investors_contact_form">
+										<div class="d-inline brk-form-round mr-30 selection_div s_side ">
+										<select name="select you profile">
+											<option value="Title" selected disabled>Title</option>
+											<option value="Mr.">Mr.</option>
+											<option value="Ms.">Ms.</option>
+											<option value="Dr.">Dr.</option>
+										</select>
+									</div>
+										<div class="form-group  position-relative">
+											<span class="text-white label_staric position-absolute">*</span>
+											<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
+										</div>
+										<div class="form-group  position-relative">
+											<span class="text-white label_staric position-absolute">*</span>
+											<input type="text" class="form-control bg-white px-4 border-radius-25" name="Last_Name" id="last-name" placeholder="Surname" required>
+										</div>
+										<div class="form-group  position-relative">
+											<span class="text-white label_staric position-absolute">*</span>
+											<input type="mail" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="E-mail" required>
+										</div>
+										<div class="form-group">
+											<div class="radio d-inline-flex">
+												<input type="radio" id="optradio3" name="optradio3">
+												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio3">Subscribe to our newsletter</label>
+											</div>
+											<div class="radio d-inline-flex">
+												<input type="radio" id="optradio4" name="optradio4" required>
+												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio4">By signing up to the form, you agree to our terms and privacy policy.</label>
+											</div>
+										</div>
+										<div id="form-intermediary-submit" class="submit_btn w-100 text-center">	
+											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
+										</div>    
+										<div id="form-intermediary-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
+											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
+												<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>	
+												<span>Sending...</span><span class="border-btn submit_border"></span>
+											</button>
+										</div>
+									</form>
+									<div class="privacy_policy_link text-center mt-20">
+										<a download href="img/TermsAndConditions.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
+									</div>	
+								</div>
+							</div>	
+						</div>
+					</form>
+					<!-- end  form-intermediary-->
+
 					<div class="col-lg-12" id="infocontent">
 						<div class="functon_div" id="info5content">
 							<a href="talents.php" class="h-100">
