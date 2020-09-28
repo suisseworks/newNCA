@@ -25,7 +25,7 @@
 				</div>
 				<div class="landing_col_3 landing_page_menus">
 					<div class="page_text">
-						<a href="business-owners.php" class="position-relative">
+						<a href="business-owners-de.php" class="position-relative">
 							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name"><span class="font__size-13 font__family-efblack position-absolute for_text">Für </span>Geschäftsinhaber <br> & vermittler</h2>
 							<p class="font__size-12 font__family-open-sans line__height-17 pt-2 pr-70">
                             Leiten Sie eine Firma, die eine Zukunftsvision entwickeln muss? Geschäftsinhaber und -vermittler beenden mit NCA ihre Nachfolgersuche und gewährleisten damit ein nachhaltiges Firmenvermächtnis.  
