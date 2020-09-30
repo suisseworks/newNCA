@@ -7,7 +7,7 @@
 						<h2 class="stroke_text px-5 text-uppercase text-center text-lg-left text-md-left text-sm-left text-xs-left mb-40 wow fadeInLeft">Talents</h2>
 						<div class="responsive_xs_pad px-5">
                      <div class="brk-ic-left-slide image_caption" data-brk-library="component__image_caption_css">
-                        <img src="img/play-sec-1.png" alt="alt" class="image_video">
+                        <img src="img/christian_video.jpg" alt="alt" class="image_video w-100">
                        
 
                         <div class="heading_text_video position-absolute w-100 px-3 py-2">
@@ -25,10 +25,12 @@
                         	</div>
                         </div>
                      </div>
-                     <div class="play_button left_btn">
+                     <div class="play_button left_btn brk-hosted-video" data-brk-library="component__media_embeds,fancybox">
                         <!-- <a class="d-flex align-items-center fancybox" href="https://youtu.be/AFtUpMTs4vI" data-brk-library="fancybox"><i class="fas fa-play font__size-25"></i><span class="ml-2 font__size-12">PLAY</span></a> -->
-                        <a class="d-flex align-items-center" href="https://f.io/e1jeM05o" target="_blank"><i class="fas fa-play font__size-25"></i><span class="ml-2 font__size-12">PLAY</span></a>
-                        </div>
+                        <div class="brk-hosted-video__body">
+	                        <a class="d-flex align-items-center fancybox brk-hosted-video__btn" href="video/h264_540.mp4" data-brk-library="component__button"><img src="img/video_thumbnail.png"></i><span class="ml-2 font__size-12">PLAY</span></a>
+	                    </div>    
+                    </div>
                         	<!-- <video id="player" playsinline controls data-poster="/path/to/poster.jpg">
 							  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4" />
 							</video> -->
@@ -43,9 +45,9 @@
 						<div class="responsive_xs_pad">
 							<div class="headline pt-lg-0 pt-150">
 							<h4 class="mb-3 underline title wow fadeInUp">
-								Who Can Join The Program? </h4>
+								How does our program work? </h4>
 							</div>
-							<p class="font__family-open-sans text-content wow fadeInUp font__size-16">We are Looking for exceptional telents who are ready to embark on an exceptional journey.</p>
+							<p class="font__family-open-sans text-content wow fadeInUp font__size-16">We are Looking for exceptional talents who are ready to embark on an exceptional journey.</p>
 							
 						</div>
 					</div>
@@ -71,10 +73,10 @@
 								Who Can Join The Program? </h4>
 							</div>
 						</div>
-						<p class="font__family-open-sans text-content wow fadeInUp font__size-20">Meet Elena, our co-founder, on the key attributes of an NCA entrepreneur..</p>
+						<p class="font__family-open-sans text-content wow fadeInUp font__size-20">Meet Elena, our co-founder, on the key attributes of an NCA Entrepreneur.</p>
 						<ul class="list_for_tips mt-2">
-								<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Operational Excellance</li>
-								<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Soft & hard skils</li>
+								<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Operational excellance</li>
+								<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Soft & hard skills</li>
 								<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Insider tips</li>
 							</ul>
 					</div>
@@ -87,7 +89,7 @@
                         	<div class="row">
                         		<div class="col-6">
                         			<h6 class="mt-1">
-			                           	<span class="font__family-montserrat font__weight-semibold font__size-14 letter-spacing--60 uppercase text-white">Our program in 3 minutes</span>
+			                           	<span class="font__family-montserrat font__weight-semibold font__size-14 letter-spacing--60 uppercase text-white">What we look for in talents?</span>
 			                          </h6>
                         		</div>
                         		<div class="col-6">
@@ -98,24 +100,25 @@
                         	</div>
                         </div>
                      </div>
-                     <div class="play_button right_btn">
+                     <div class="play_button right_btn brk-hosted-video" data-brk-library="component__media_embeds,fancybox">
                        <!--  <a class="d-flex align-items-center fancybox" href="https://youtu.be/AFtUpMTs4vI" data-brk-library="fancybox"><span class="mr-2 font__size-12">PLAY</span><i class="fas fa-play font__size-25"></i></a> -->
-                       <a class="d-flex align-items-center" href="https://f.io/8GcpSnvz" target="_blank"><span class="mr-2 font__size-12">PLAY</span><i class="fas fa-play font__size-25"></i></a>
+                        <div class="brk-hosted-video__body">
+	                       <a class="d-flex align-items-center fancybox brk-hosted-video__btn" href="video/Elena testimonial_v3.mp4" data-brk-library="component__button"><span class="mr-2 font__size-12">PLAY</span><img src="img/video_thumbnail.png"></i></a> 	
                         </div>
-						</div>
 					</div>
-					
 				</div>
-			</div>
-			</div>
-		</section>
+			</div>						
+		</div>
+	</div>			
+	</div>
+</section>
 
 <section class="means_section">
 			<div class="container">
 				<div class="pt-80 pb-120">
 				<div class="row no-gutters mb-40 d-flex align-items-center">
 					<div class="col-12 col-lg-6">
-						<h2 class="stroke_text pl-4 ml-3 text-uppercase text-center text-lg-left mb-40 wow fadeInLeft">What It Means </h2>
+						<h2 class="stroke_text pl-4 ml-3 text-uppercase text-center text-lg-left text-md-left text-sm-left text-xs-left mb-40 wow fadeInLeft">What It Means </h2>
 					</div>
 					<div class="col-12 col-lg-5">
 						<div class="headline mt-4">
@@ -124,7 +127,7 @@
 								<br>
 								to Partner with NCA:
 								<br>
-								A New Professional path</h4>
+								A New Professional Path</h4>
 							</div>
 					</div>
 				</div>
@@ -139,7 +142,7 @@
                         	<div class="row">
                         		<div class="col-6">
                         			<h6 class="mt-1">
-			                           	<span class="font__family-montserrat font__weight-semibold font__size-14 letter-spacing--60 uppercase text-white">Our program in 3 minutes</span>
+			                           	<span class="font__family-montserrat font__weight-semibold font__size-14 letter-spacing--60 uppercase text-white">Meet NCA Entrepreneur Jan Nikolaisen</span>
 			                          </h6>
                         		</div>
                         		<div class="col-6">
@@ -150,18 +153,20 @@
                         	</div>
                         </div>
                      </div>
-                     <div class="play_button left_btn center_btn">
-                       <!--  <a class="d-flex align-items-center fancybox" href="https://youtu.be/AFtUpMTs4vI" data-brk-library="fancybox"><i class="fas fa-play font__size-25"></i><span class="ml-2 font__size-12">PLAY</span></a> -->
-                       <a class="d-flex align-items-center" href="https://f.io/lhr26CbL" target="_blank"><i class="fas fa-play font__size-25"></i><span class="ml-2 font__size-12">PLAY</span></a>
-                        </div>
-						</div>
-					</div>
-					<div class="col-12 col-lg-5">
-					</div>
+                     <div class="play_button left_btn center_btn brk-hosted-video" data-brk-library="component__media_embeds,fancybox">
+                        <!-- <a class="d-flex align-items-center fancybox" href="https://youtu.be/AFtUpMTs4vI" data-brk-library="fancybox"><i class="fas fa-play font__size-25"></i><span class="ml-2 font__size-12">PLAY</span></a> -->
+                        <div class="brk-hosted-video__body">
+	                        <a class="d-flex align-items-center fancybox brk-hosted-video__btn" href="video/jan_video.mp4" data-brk-library="component__button"><img src="img/video_thumbnail.png"><span class="ml-2 font__size-12">PLAY</span></a>
+	                    </div>    
+                    </div>
 				</div>
 			</div>
+			<div class="col-12 col-lg-5">
+			</div>
 		</div>
-		</section>
+	</div>
+</div>
+</section>
 
 		<section class="slider_process_section">
 			<div class="container">
@@ -174,7 +179,7 @@
 							</div>
 					</div>
 					<div class="col-12">
-						<h2 class="stroke_text pl-4 ml-3 text-uppercase text-center text-lg-left wow fadeInLeft">Selection Process</h2>
+						<h2 class="stroke_text pl-4 ml-3 text-uppercase text-center text-lg-left text-md-left text-sm-left text-xs-left wow fadeInLeft">Selection Process</h2>
 					</div>
 				</div>
 				<div class="row no-gutters d-flex align-items-center">
@@ -186,7 +191,7 @@
 									<div class="brk-testimonials-layered-horizontal__item text-center rounded-0 shadow-none">
 										<div class="font__weight-bold process_title_count">1</div>
 										<div class="font__weight-bold font__size-40 process_title">Application</div>
-										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">In order to join our ETA program and become an NCA partner, please complete our online Application Form. Be ready to submit your CV and two professional references, along with a Cover Letter that details why you would like to participate in our program and which industry/sector your search will be focused on. Required documents can also be emailed to <a href="mailto:apply@novastone-ca.com">apply@novastone-ca.com</a>.</div>
+										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">In order to join our ETA program and become an NCA entrepreneur, please complete our online <a href="#" class="underline">Application Form</a>. Be ready to submit your CV and two professional references, along with a Cover Letter that details why you would like to participate in our program and which industry/sector your search will be focused on. Required documents can also be emailed to <a href="mailto:apply@novastone-ca.com" class="underline">apply@novastone-ca.com</a>.</div>
 										<div class="slider_footer d-flex justify-content-center w-100  py-2">
 											<div class="separator_f_slider position-absolute"></div>
 											<br>
@@ -222,7 +227,7 @@
 									<div class="brk-testimonials-layered-horizontal__item text-center rounded-0 shadow-none">
 										<div class="font__weight-bold process_title_count">4</div>
 										<div class="font__weight-bold font__size-40 process_title">Fundraising</div>
-										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">After developing a thorough investment case, NCA will commence a roadshow targeting relevant investors within our investor base, allowing us to pitch your investment case together to raise the necessary search capital. During this phase, we highly encourage our candidates to leverage their own networks and bring a potential investor to support your case alongside NCA and NCA’s core investor base..</div>
+										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">After developing a thorough investment case, NCA will commence a roadshow targeting relevant investors within our investor base, allowing us to pitch your investment case together to raise the necessary search capital. During this phase, we highly encourage our candidates to leverage their own networks and bring a potential investor to support your case alongside NCA and NCA’s core investor base.</div>
 										<div class="slider_footer d-flex justify-content-center w-100  py-2">
 											<div class="separator_f_slider position-absolute"></div>
 											<br>
@@ -233,7 +238,7 @@
 								<div class="swiper-slide">
 									<div class="brk-testimonials-layered-horizontal__item text-center rounded-0 shadow-none">
 										<div class="font__weight-bold process_title_count">5</div>
-										<div class="font__weight-bold font__size-40 process_title">Fundraising</div>
+										<div class="font__weight-bold font__size-40 process_title">Official Enrollment</div>
 										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">After the Search Capital has been raised – Congratulations! You are officially an NCA Entrepreneur! At this stage, to sign with NCA, you will need to provide criminal and financial records or a certificate of good standing, and a copy of your passport and work permit.</div>
 										<div class="slider_footer d-flex justify-content-center w-100  py-2">
 											<div class="separator_f_slider position-absolute"></div>
@@ -266,18 +271,18 @@
 				<div class="row no-gutters d-flex align-items-center">
 					<h2 class="stroke_text text-uppercase text-center text-lg-left mb-40 wow fadeInLeft">FAQ</h2>
 					<div class="col-12">
-						<div class="accordion_wrap accordion  accordion-simple accordion-simple-image mt-20" role="tablist" aria-multiselectable="true" data-brk-library="component__accordions">
-								<div class="card expanded">
+						<div class="accordion_wrap accordion-simple accordion-simple-image mt-20" role="tablist" aria-multiselectable="true" data-brk-library="component__accordions">
+								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading013">
 										<span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
+										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
 
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse013" aria-expanded="true" aria-controls="collapse013">How many entrepreneurs does NCA have? </a>
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse013" aria-expanded="true" aria-controls="collapse013">How many entrepreneurs does NCA have? <span class="fa fa-angle-right"></span> </a>
 
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse013" aria-expanded="true" aria-controls="collapse013">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse013" aria-expanded="true" aria-controls="collapse013">
+											
+										</a> -->
 									</div>
 									<div id="collapse013" class="collapse show" role="tabpanel" aria-labelledby="heading013">
 										<div class="card-block text-left font__family-open-sans bg-cover">
@@ -289,12 +294,12 @@
 								
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading023"><span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse023" aria-expanded="true" aria-controls="collapse023">I don't have an Industry of choice, can I still apply?</a>
+										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse023" aria-expanded="false" aria-controls="collapse023">I don't have an Industry of choice, can I still apply? <span class="fa fa-angle-right"></span></a>
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse023" aria-expanded="true" aria-controls="collapse023">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse023" aria-expanded="true" aria-controls="collapse023">
+											<span class="fa fa-angle-right"></span>
+										</a> -->
 									</div>
 									<div id="collapse023" class="collapse" role="tabpanel" aria-labelledby="heading023">
 										<div class="card-block text-left font__family-open-sans bg-cover">
@@ -307,12 +312,12 @@
 
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading033"><span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse033" aria-expanded="true" aria-controls="collapse033">I don't have M&A experience, will I be supported by NCA for this? </a>
+										<h5 class="mb-0 font__family-montserrat font__weight-semibold d-block w-100 letter-spacing-20 font__size-16 line__height-16">
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse033" aria-expanded="false" aria-controls="collapse033">I don't have M&A experience, will I be supported by NCA for this? <span class="fa fa-angle-right"></span></a>
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse033" aria-expanded="true" aria-controls="collapse033">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse033" aria-expanded="true" aria-controls="collapse033">
+											<span class="fa fa-angle-right"></span>
+										</a> -->
 									</div>
 									<div id="collapse033" class="collapse" role="tabpanel" aria-labelledby="heading033">
 										<div class="card-block text-left font__family-open-sans bg-cover">
@@ -325,17 +330,17 @@
 
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading043"><span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse043" aria-expanded="true" aria-controls="collapse043">Do you hire female entrepreneurs?</a>
+										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse043" aria-expanded="false" aria-controls="collapse043">Do you hire female entrepreneurs? <span class="fa fa-angle-right"></span></a>
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse043" aria-expanded="true" aria-controls="collapse043">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse043" aria-expanded="true" aria-controls="collapse043">
+											<span class="fa fa-angle-right"></span>
+										</a> -->
 									</div>
 									<div id="collapse043" class="collapse" role="tabpanel" aria-labelledby="heading043">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Of course, and we encourage women to apply! We are an Equal Opportunity employer and all submitted CVs pass through the same application process, regardless of gender, religion, national origin, sexual orientation, race , political affiliation marital status, disability , age , parental status, or any other non-merit factor.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Of course, and we encourage women to apply! We are an Equal Opportunity employer and all submitted CVs pass through the same application process, regardless of gender, religion, national origin, sexual orientation, race , political affiliation marital status, disability, age, parental status, or any other non-merit factor.</p>
 													
 										</div>
 									</div>
@@ -343,17 +348,17 @@
 
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading053"><span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse053" aria-expanded="true" aria-controls="collapse053">Do I need to speak several languages? </a>
+										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse053" aria-expanded="false" aria-controls="collapse053">Do I need to speak several languages? <span class="fa fa-angle-right"></span></a>
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse053" aria-expanded="true" aria-controls="collapse053">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse053" aria-expanded="true" aria-controls="collapse053">
+											<span class="fa fa-angle-right"></span>
+										</a> -->
 									</div>
 									<div id="collapse053" class="collapse" role="tabpanel" aria-labelledby="heading053">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">NCA's company language is English and, In addition to English, you must fluently speak the language of the region where you plan your focus your search.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">NCA's company language is English and, in addition to English, you must fluently speak the language of the region where you plan your focus your search.</p>
 													
 										</div>
 									</div>
@@ -361,13 +366,12 @@
 
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading063"><span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse063" aria-expanded="true" aria-controls="collapse063">What are the key requirements to become an NCA entrepreneur?
-</a>
+										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse063" aria-expanded="false" aria-controls="collapse063">What are the key requirements to become an NCA entrepreneur? <span class="fa fa-angle-right"></span></a>
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse063" aria-expanded="true" aria-controls="collapse063">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse063" aria-expanded="true" aria-controls="collapse063">
+											<span class="fa fa-angle-right"></span>
+										</a> -->
 									</div>
 									<div id="collapse063" class="collapse" role="tabpanel" aria-labelledby="heading063">
 										<div class="card-block text-left font__family-open-sans bg-cover">
@@ -380,17 +384,17 @@
 
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading073"><span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse073" aria-expanded="true" aria-controls="collapse073">What are NCA's target geographies?</a>
+										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse073" aria-expanded="false" aria-controls="collapse073">What are NCA's target geographies? <span class="fa fa-angle-right"></span></a>
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse073" aria-expanded="true" aria-controls="collapse073">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse073" aria-expanded="true" aria-controls="collapse073">
+											<span class="fa fa-angle-right"></span>
+										</a> -->
 									</div>
 									<div id="collapse073" class="collapse" role="tabpanel" aria-labelledby="heading073">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">For the time being NCA is focused on Western Europe and specifically In the DACH region (Germany, Switzerland, and Austria). In 2021, we plan to launch searcher is Benelux and the UK. Eventually we will also launch searchers in the US</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">For the time being NCA is focused on Western Europe and specifically In the DACH region (Germany, Switzerland, and Austria). In 2021, we plan to launch searcher is Benelux and the UK. Eventually we will also launch searchers in the US.</p>
 													
 										</div>
 									</div>
@@ -398,17 +402,17 @@
 
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading083"><span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse083" aria-expanded="true" aria-controls="collapse083">Do you partner with more than one entrepreneur for the search? </a>
+										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse083" aria-expanded="false" aria-controls="collapse083">Do you partner with more than one entrepreneur for the search? <span class="fa fa-angle-right"></span></a>
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse083" aria-expanded="true" aria-controls="collapse083">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse083" aria-expanded="true" aria-controls="collapse083">
+											<span class="fa fa-angle-right"></span>
+										</a> -->
 									</div>
 									<div id="collapse083" class="collapse" role="tabpanel" aria-labelledby="heading083">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">No, we only partner with solo-entrepreneurs with solid operational experience in their industries of interest. In our view, NCA as a partner will add more value to the entrepreneur than other partner entrepreneur, additionally; our partnership scheme is economically more compelling for entrepreneurs than typical partnered searches.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">No, we only partner with solo-entrepreneurs with solid operational experience in their industries of interest. In our view, NCA as a partner will add more value to the entrepreneur than another entrepreneur, additionally; our partnership scheme is economically more compelling for entrepreneurs than typical partnered searches.</p>
 													
 										</div>
 									</div>
@@ -416,12 +420,12 @@
 
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading093"><span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse103" aria-expanded="true" aria-controls="collapse093">What are the economics for NCA Entrepreneurs? </a>
+										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse093" aria-expanded="false" aria-controls="collapse093">What are the economics for NCA Entrepreneurs? <span class="fa fa-angle-right"></span></a>
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse093" aria-expanded="true" aria-controls="collapse093">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse093" aria-expanded="true" aria-controls="collapse093">
+											<span class="fa fa-angle-right"></span>
+										</a> -->
 									</div>
 									<div id="collapse093" class="collapse" role="tabpanel" aria-labelledby="heading093">
 										<div class="card-block text-left font__family-open-sans bg-cover">
@@ -434,12 +438,12 @@
 
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading103"><span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse103" aria-expanded="true" aria-controls="collapse103">Does the monthly stipend cover professional out-of-pocket expenses?</a>
+										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse103" aria-expanded="false" aria-controls="collapse103">Does the monthly stipend cover professional out-of-pocket expenses? <span class="fa fa-angle-right"></span></a>
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse103" aria-expanded="true" aria-controls="collapse103">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse103" aria-expanded="true" aria-controls="collapse103">
+											<span class="fa fa-angle-right"></span>
+										</a> -->
 									</div>
 									<div id="collapse103" class="collapse" role="tabpanel" aria-labelledby="heading103">
 										<div class="card-block text-left font__family-open-sans bg-cover">
@@ -452,12 +456,12 @@
 
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading113"><span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse113" aria-expanded="true" aria-controls="collapse113">Can I keep my current job while being part of the program?</a>
+										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse113" aria-expanded="false" aria-controls="collapse113">Can I keep my current job while being part of the program? <span class="fa fa-angle-right"></span></a>
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse113" aria-expanded="true" aria-controls="collapse113">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse113" aria-expanded="true" aria-controls="collapse113">
+											<span class="fa fa-angle-right"></span>
+										</a> -->
 									</div>
 									<div id="collapse113" class="collapse" role="tabpanel" aria-labelledby="heading113">
 										<div class="card-block text-left font__family-open-sans bg-cover">
@@ -470,17 +474,17 @@
 
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading123"><span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse123" aria-expanded="true" aria-controls="collapse123">Do NCA entrepreneurs compete for deals? </a>
+										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse123" aria-expanded="false" aria-controls="collapse123">Do NCA entrepreneurs compete for deals? <span class="fa fa-angle-right"></span></a>
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse123" aria-expanded="true" aria-controls="collapse123">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse123" aria-expanded="true" aria-controls="collapse123">
+											<span class="fa fa-angle-right"></span>
+										</a> -->
 									</div>
 									<div id="collapse123" class="collapse" role="tabpanel" aria-labelledby="heading123">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">No, since each of our entrepreneurs is focused on specific geographies and industries, they do not compete for acquisition opportunities. On the contrary, they collaborate by sharing deals between them based on their geographic and industry preferences. NCA will also ensure that deal allocation is fairly distributed between entrepreneurs</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">No, since each of our entrepreneurs is focused on specific geographies and industries, they do not compete for acquisition opportunities. On the contrary, they collaborate by sharing deals between them based on their geographic and industry preferences. NCA will also ensure that deal allocation is fairly distributed between entrepreneurs.</p>
 													
 										</div>
 									</div>
@@ -488,12 +492,12 @@
 
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading133"><span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse133" aria-expanded="true" aria-controls="collapse133">How is the investment decision made?</a>
+										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse133" aria-expanded="false" aria-controls="collapse133">How is the investment decision made? <span class="fa fa-angle-right"></span></a>
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse133" aria-expanded="true" aria-controls="collapse133">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse133" aria-expanded="true" aria-controls="collapse133">
+											<span class="fa fa-angle-right"></span>
+										</a> -->
 									</div>
 									<div id="collapse133" class="collapse" role="tabpanel" aria-labelledby="heading133">
 										<div class="card-block text-left font__family-open-sans bg-cover">
@@ -506,12 +510,12 @@
 
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading143"><span class="card-dash brk-base-bg-gradient-right"></span>
-										<h5 class="mb-0 font__family-montserrat font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse143" aria-expanded="true" aria-controls="collapse143">How are day-to-day decisions taken once the company is acquired? </a>
+										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse143" aria-expanded="false" aria-controls="collapse143">How are day-to-day decisions taken once the company is acquired? <span class="fa fa-angle-right"></span></a>
 										</h5>
-										<a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse143" aria-expanded="true" aria-controls="collapse143">
-											<span class="arrow"></span>
-										</a>
+										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse143" aria-expanded="true" aria-controls="collapse143">
+											<span class="fa fa-angle-right"></span>
+										</a> -->
 									</div>
 									<div id="collapse143" class="collapse" role="tabpanel" aria-labelledby="heading143">
 										<div class="card-block text-left font__family-open-sans bg-cover">
@@ -538,7 +542,7 @@
 				<div class="row no-gutters d-flex">
 					<div class="col-12 col-lg-6 px-2">
 								<div class="bg-primary wow fadeInLeft w-100 apply_sec_div">
-								<a href="" class="d-block p-5 text-white">
+								<a href="news-resources.php" class="d-block p-5 text-white">
 								<h2 class="text-white mb-2 font__family-efb font__size-60">NOT YET READY <br>TO APPLY?</h2>
 								<p class="font__family-open-sans font__size-20 question-box-text pb-2 border-bottom font__weight-500">Deep dive into our resource library to learn more </p>
 								<div class="text-right arrow_link">
@@ -550,7 +554,7 @@
 					</div>
 					<div class="col-12 col-lg-6 px-2">
 						<div class="bg-primary wow fadeInRight w-100 apply_sec_div">
-								<a href="" class="d-block p-5 text-white">
+								<a href="https://recruiterflow.com/db_0fc1b0c1621a0503c0811aa2c11a9774/jobs/16" target="_blank" class="d-block p-5 text-white">
 								<h2 class="text-white mb-2 font__family-efb font__size-60">READY FOR <br>THE NEXT STEP?</h2>
 								<p class="font__family-open-sans font__size-20 question-box-text mb-5"><span class="border-bottom pb-2">Apply Now</span></p>
 								<p class="font__size-16 mb-2 font__family-open-sans font__weight-500">Please have the following documents ready for upload:</p>

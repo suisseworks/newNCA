@@ -25,12 +25,12 @@
 						</div>
 						<div class="col-lg-2 align-self-lg-stretch text-lg-right header_third_part">
 						<div class="brk-header__item h-100 d-flex align-items-center justify-content-center">
-							<a href="#" class="bg-transparent font_family-arial btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
+							<a href="#" class="bg-transparent font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
 							<a href="#" class="bg-transparent font_family-arial btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn header_btn_mb d-lg-none" data-brk-library="component__button">Deutsch</a>
 							<a href="#" class="bg-transparent font_family-arial btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn header_btn_mb d-lg-none" data-brk-library="component__button">Francais</a>
 
 							<div class="footer_btns">
-							<a href="#" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a></div>
+							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a></div>
 						</div>
 						</div>
 					</div>
@@ -123,7 +123,7 @@
 											<span class="text-white label_staric position-absolute">*</span>
 											<input type="email" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="E-mail" required>
 										</div>
-										<div class="form-group">
+										<div class="form-group ml-2">
 											<div class="radio d-inline-flex">
 												<input type="radio" id="optradio1" name="optradio1">
 												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio1">Subscribe to our newsletter</label>

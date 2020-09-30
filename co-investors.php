@@ -15,6 +15,14 @@
                                     <p class="text-white font__size-20 font__family-open-sans">Please complete the form below and our Investor Relations Director will be in touch shortly.</p>
                                 </div>  
                                 <form id="co_investors_contact_form" class="pt-5 investors_contact_form">
+                                	<div class="d-inline brk-form-round mr-30 selection_div s_side">
+									<select name="select you profile">
+										<option value="Title" selected disabled>Title</option>
+										<option value="Mr.">Mr.</option>
+										<option value="Mrs.">Mrs.</option>
+										<option value="Dr.">Dr.</option>
+									</select>
+								</div>
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
                                 		<input type="text" class="form-control bg-white px-4 border-radius-25" name="first-name" id="first-name" placeholder="Name" required>
@@ -29,23 +37,28 @@
                                 	</div>
                                 	<div class="form-group  position-relative">
                                 		<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" placeholder="Message" rows="3"></textarea>
-                                	</div>	
-                                	<div class="form-group">
-                                		<div class="radio d-inline-flex">
-                                			<input type="radio" name="optradio01" id="optradio01">
-									        <label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio01">Subscribe to our newsletter</label>
-									    </div>
-									    <div class="radio d-inline-flex">
-									    	<input type="radio" id="optradio02" name="optradio02">
-									        <label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio02">By signing up to the form, you agree to our terms and privacy policy.</label>
-									    </div>
+                                	</div>
+                                	<div class="form-group ml-2">	
+                                	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
+							            <input id="co-investor01" type="checkbox">
+							            <label for="co-investor01" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
+							             </label>
+							             Subscribe to our newsletter
+							          </div>
+
+							          <div class="checkbox checkbox-info checkbox-circle d-flex line__height-16 text-white font__size-14">
+							            <input id="co-investor02" type="checkbox">
+							            <label for="co-investor02" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
+							             </label>
+							              By signing up to the form, you agree to our terms and privacy policy.
+							          </div>
                                 	</div>
                                 	<div class="submit_btn w-100 text-center">	
                                 	    <button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
                                 	</div>    
                                 </form>
                                 <div class="privacy_policy_link text-center mt-20">
-                                	<a href="img/TermsAndConditions.pdf" download target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
+                                	<a href="img/TermsAndConditions.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
                                 </div>	
 							</div>	
 						</div>	
@@ -56,7 +69,7 @@
 										Our consortium of<br> Single-Family Offices<br> supports the next generation of exceptional entrepreneurial talents. 
 									</h3>
 								</div>
-								<div class="investors_content_text bg-white pl-lg-80 pr-lg-115 pb-lg-100 pt-lg-140 p-5 p-xs-20">
+								<div class="investors_content_text bg-white pl-lg-80 pr-lg-115 pb-lg-60 pt-lg-100 p-5 p-xs-20">
 									<p class="font__size-16 font__family-open-sans line__height-30">
 										Investors in this asset class have historically benefitted from a diversified portfolio of profitable and well-established companies and an IRR performance of over 30%.<br> If you want to know more about our role as co-investors, please complete the contact form on this page<br> and our Investor Relations Director will be in touch shortly. 
 									</p>

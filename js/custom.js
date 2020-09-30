@@ -6,38 +6,49 @@ jQuery(document).ready(function($) {
   if(pageURL.search("co-investors.php") > -1) {
     $(".form_side_bar").hide();
   }
- 
-    const horizontalAccordions = $(".accordion.width");
 
+ 
+    
+})
+
+function horizontal_tabs(){
+const horizontalAccordions = jQuery(".accordion.width");
+var width = jQuery(window).width();
+  if (width > 768) {
     horizontalAccordions.each((index, element) => {
-        const accordion = $(element);
+        const accordion = jQuery(element);
         const collapse = accordion.find(".collapse");
         const bodies = collapse.find("> *");
         accordion.height(accordion.height(814));
         bodies.width(bodies.eq(0).width());
         collapse.not(".show").each((index, element) => {
-            $(element).parent().find("[data-toggle='collapse']").addClass("collapsed");
+            jQuery(element).parent().find("[data-toggle='collapse']").addClass("collapsed");
         });
     });
-})
+  }
+}
 
+jQuery(function($) {
+  remove_horizontal_tabs();
+  horizontal_tabs();
+});
+jQuery(window).resize(function(){
+  remove_horizontal_tabs();
+  horizontal_tabs();
+});
 
-// jQuery(function($) {
-//   remove_horizontal_tabs();
-// });
-// jQuery(window).resize(function(){
-//   remove_horizontal_tabs();
-// });
+function remove_horizontal_tabs(){
+  var width = jQuery(window).width();
 
-// function remove_horizontal_tabs(){
-//   var width = jQuery(window).width();
-//    if (width < 768) {
-//     jQuery(".accordion").removeClass('width');
-//     jQuery(".accordion").addClass('mobilewidth');
-//   }else{
-//     jQuery(".accordion").addClass('width');
-//   }
-// }
+   if (width < 768) {
+    jQuery(".accrodian_main_col .accordion").removeClass('width');
+    jQuery(".accrodian_main_col .accordion").addClass('mobilewidth');
+    jQuery(".accrodian_main_col .collapse").removeClass("width")
+  }else{
+    jQuery(".accrodian_main_col .accordion").addClass('width');
+  }
+
+}
 
 // header active js
 
@@ -96,3 +107,32 @@ jQuery(document).ready(function($) {
 
 });              
 
+jQuery(document).ready(function($){
+ 
+  $(document).on('click','.business_owner_form',function(){
+    setTimeout(function(){ 
+  $(".brk-theme-options__panel.panel-open").trigger("click");
+  clickbtn();
+  }, 100);
+    
+  });
+
+
+  $(document).on('click','.business_owner_form_2',function(){
+    setTimeout(function(){ 
+  $(".brk-theme-options__panel.panel-open").trigger("click");
+  clickbtn_2();
+  }, 100); 
+   
+  });
+  
+  
+});
+
+function clickbtn(){
+  jQuery("#info2").trigger("click");
+}
+
+function clickbtn_2(){
+  jQuery("#info4").trigger("click");
+}

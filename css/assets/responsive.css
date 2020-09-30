@@ -39,6 +39,16 @@
         font-size: 50px;
         line-height: 70px;
 	}
+	.brk-hosted-video__body{
+		left: 220px;
+	}
+	.play_button.right_btn{
+		right:570px;
+		margin-top:-450px;
+	}
+	.play_button.left_btn.center_btn{
+		margin-top: -530px;
+	}
 }
 @media only screen and (max-width: 1598px) and (min-width: 1230px){
     .col-lg-3.nca_circle_image_col{
@@ -53,6 +63,10 @@
 	.card-body{
 		width: 800px !important;
 	}
+	.entrepreneurs_section .stroke_wrap .stroke_text{
+      font-size: 120px !important;
+      top: 110px;
+	}
 }
 
 @media only screen and (max-width: 1229px) and (min-width: 992px){
@@ -61,6 +75,10 @@
 	}
 	.member_card .question-box.question-box-height{
 		height: 515px;
+	}
+	.entrepreneurs_section .stroke_wrap .stroke_text{
+		font-size: 95px !important;
+        top: 110px;
 	}
 }
 
@@ -145,17 +163,21 @@
 		font-size: 36px;
         line-height: 55px;
 	}
-	.play_button.left_btn{
-		margin-top: -230px;
-        left: 70px;
-	}
-	.play_button.right_btn{
-		margin-top: -240px;
-        right: 100px;
-	}
 	.means_section .headline h4{
         font-size: 32px;
         line-height: 45px;
+	}
+	.play_button span{
+		letter-spacing: 8px;
+	}
+	.brk-hosted-video__body a img{
+        width: 15px;
+	}
+	.brk-hosted-video__body{
+		left: 140px;
+	}
+	.play_button.right_btn{
+		right: 410px;
 	}
 }
 
@@ -328,7 +350,7 @@
 		padding-left: 30px;
 		padding-right: 30px;
 	}
-	.main-page .container, footer .container{
+	.main-page .container, footer .container,.main-page.landing-page .container{
 		background-size: 15.3% 1px;
         background-position: calc(7%);
 	}
@@ -365,6 +387,13 @@
 	.stroke_wrap .stroke_text,.telent_section .stroke_text{
 		font-size: 60px !important;
         line-height: 70px !important;
+        padding: 0px !important;
+	}
+	.landing_page_content .container.h-vh{
+		height: auto !important;
+	}
+	.brk-hosted-video__body{
+		left: 0px;
 	}
 
 }
@@ -402,12 +431,9 @@
 	}
 	.accrodian_main_col{
 		width: 100%;
-		overflow-x: auto;
+		/*overflow-x: auto;*/
 		padding-top: 40px;
-		overflow-y: hidden;
-	}
-	.accrodian_main_col .accordion{
-        height: 555px !important;
+		/*overflow-y: hidden;*/
 	}
 	.nca_circles_img{
 		max-width: 100% !important;
@@ -419,6 +445,44 @@
 		font-size: 50px !important;
 		line-height: 70px !important;
 	}
+	/*f*/
+	.card-body {
+    	width: 100% !important;
+	}
+	.accordion.mobilewidth .card .card-header .item_number {
+	    position: absolute;
+	    bottom: 0;
+	    font-size: 150px;
+	    left: 15px;
+	    color: var(--secondary);
+	    top: 0;
+	    z-index: 29;
+	    right: auto;
+	    display: flex !important;
+	    justify-content: center;
+	    align-items: center;
+	}
+	.accordion.mobilewidth .card-header{
+	    font-size: 36px;
+	    color: var(--brk-secondary-3);
+	    background-color: var(--white);
+	    border: none;
+	    position: relative;
+	    padding-left: 50px !important;
+	}
+	.accordion.mobilewidth .card.expanded .card-header{
+    	pointer-events: none;
+	}
+	.accrodian_main_col {
+    	padding-right: 15px;
+	}
+	.accordion .card-header.horizontal_accordion span.card_title_heading  {
+	    font-size: 24px !important;
+	}
+	.mobilewidth {
+	    padding-right: 15px;
+	}
+	/*f ends*/
 
 }
 @media only screen and (max-width: 575px){
@@ -516,6 +580,10 @@
 		font-size: 36px;
         line-height: 50px;
 	}
+	.entrepreneurs_section .stroke_text {
+        font-size: 30px !important;
+        line-height: 40px !important;
+    }
 
 }
 @media only screen and (max-width: 480px){

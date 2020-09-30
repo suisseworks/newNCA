@@ -11,26 +11,27 @@
 
 					<div class="col-12 col-sm-12 col-lg-3 col-xs-12 d-xs-none order-lg-2">
 						<ul class="d-flex flex-column brk-white-font-color font__size-14 font__weight-normal line__height-16 text-sm-left  footer_custom_colum mt-4">
-							<li class="mb-20"><a href="#" class="font__family-efb font__size-15">Home</a></li>
-							<li class="mb-20"><a href="#" class="font__family-efb font__size-15">About us</a></li>
-							<li class="mb-20"><a href="#" class="font__family-efb font__size-15">Talents</a></li>
-							<li class="mb-20"><a href="#" class="font__family-efb font__size-15">Business owners & Intermediaries</a></li>
-							<li class="mb-20"><a href="#" class="font__family-efb font__size-15">Co-investors</a></li>
-							<li class="mb-20"><a href="#" class="font__family-efb font__size-15">News & Resources</a></li>
+							<li class="mb-20"><a href="index.php" class="font__family-efb font__size-15">Home</a></li>
+							<li class="mb-20"><a href="about-us.php" class="font__family-efb font__size-15">About us</a></li>
+							<li class="mb-20"><a href="talents.php" class="font__family-efb font__size-15">Talents</a></li>
+							<li class="mb-20"><a href="business-owners.php" class="font__family-efb font__size-15">Business owners & intermediaries</a></li>
+							<li class="mb-20"><a href="co-investors.php" class="font__family-efb font__size-15">Co-investors</a></li>
+							<li class="mb-20"><a href="news-resources.php" class="font__family-efb font__size-15">News & Resources</a></li>
 						</ul>
 					</div>
 
 					<div class="col-12 col-sm-12 col-lg-3 col-xs-12 footer_mb_btns order-lg-3 order-1">
 						<div class="d-flex align-items-center justify-content-right footer_btns mt-2">
 							<a href="#" class="font__size-10 font__family-open-sans btn language_btn btn-prime btn-sm-1 bg-transparent text-capitalize letter-spacing-100 border-radius-25 btn-no-shadow btn_lang px-1 font__weight-bold" data-brk-library="component__button">English</a>
-							<a href="#" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							
 						</div>	
 					</div>
 
 					<div class="col-lg-12 footer_info_text order-lg-4 order-3">
 						<p class="font__size-12 line__height-18 footer_text_clr mt-50 pr-2">
-							This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.
+							Diese Website stellt kein Angebot an die Öffentlichkeit oder eine Aufforderung zum Kauf oder zur Investition in ein Finanzinstrument dar. Die auf dieser Website bereitgestellten Informationen dienen nur zu Informationszwecken und stellen kein Angebot, keine Aufforderung oder Empfehlung dar, eine Finanzdienstleistung zu abonnieren. Soweit diese Website Ansichten zu Anlagestrategien und Anlageideen zum Ausdruck bringt, sind solche Informationen nur allgemeiner Natur und dürfen nicht als Werbung zum Abonnieren einer Finanzdienstleistung oder zur Anlage in ein bestimmtes Finanzinstrument ausgelegt werden.
+
 						</p>
 					</div>
                    
@@ -47,7 +48,7 @@
 						</div>
 						<div class="col-lg-4 col-sm-12 col-12 col-xs-12">
 							<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12">
-								<li><a href="img/TermsAndConditions.pdf" download>Terms and Conditions</a></li>
+								<li><a href="img/TermsAndConditions.pdf" target="_blank">Terms and Conditions</a></li>
 								<li><a href="#">Privacy Policy</a></li>
 							</ul>
 						</div>
