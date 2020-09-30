@@ -134,8 +134,8 @@
 								            <span class="fas fa-angle-right next_accordion position-absolute" data-toggle="collapse" data-target="#collapseThree"></span>
 								        </div>    
 								        <div class="bg-primary question-box card_question_box mt-3">
-											<a href="" class="d-block px-4 py-4 text-white">
-											<p class="font__size-20 text-uppercase font__family-efb question-box-text pr-50">What we look for in target companies </p>
+											<a href="business-owners.php#where-invest" class="d-block px-4 py-4 text-white" id="target-companies">
+											<p class="font__size-20 text-uppercase font__family-efb question-box-text">What we look for<br> in target companies </p>
 											<div class="text-right arrow_link">
 												<img src="img/arrow.png" alt="arrow" />
 											</div>
@@ -178,7 +178,7 @@
 								      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">Value Creation</h2>
 									        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 									        	<span class="font__weight-bold">
-										        	Post-acquisition, NCA Entrepreneurs typically operate acquired businesses over several years (3-7+), managing the company for operational excellence, financial optimisation, digitalisation, and revenue growth.
+										        	Post-acquisition, NCA Entrepreneurs typically operate acquired businesses over several years (3-7), managing the company for operational excellence, financial optimisation, digitalisation, and revenue growth.
 									            </span><br> 
 									        	<span class="d-block mt-20">
 										        	Because our ETA program allows NCA Entrepreneurs to become a majority owner of the company during acquisition, we ensure our long-term  commitment to the business legacy. NCA continues to support Entrepreneurs through active involvement in the company’s management and advising on financial matters, while co-investors continue to offer transaction and industry experience as board members alongside NCA.
@@ -201,7 +201,7 @@
 								      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">FINAL REWARDS</h2>
 									        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 									        	<span class="font__weight-bold">
-										        	Our Entrepreneurship Through Acquisition program generates mutually benefitial financial rewards for all stakeholders.
+										        	Our Entrepreneurship Through Acquisition program generates mutually beneficial financial rewards for all stakeholders.
 										        </span><br>
 									        	<span class="d-block mt-20">
 										        	NCA’s highly specialised ETA program offers co-investors the possibility to build a diversified portfolio of profitable and well-established European companies, identified and managed by top-notch industry professionals in partnership with NCA. NCA Entrepreneurs benefit professionally by establishing a meaningful economic stake in an existing business legacy, and existing businesses can rest assured that we’re in it for the long haul, with NCA talent incentivised to optimise long term growth as they become the main shareholders.
@@ -266,10 +266,10 @@
                         <div class="img_section w-100">
                         	<img class="w-100" src="img/Jan.jpg">
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Jan Nikolaisen</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>20 <span class="fas fa-arrow-right member_count_arrow px-3 pt-2 d-inline-flex"></span> 21</p>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Jan Nikolaisen</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>20 NOV <span class="fas fa-arrow-right member_count_arrow px-3 pt-2 d-inline-flex"></span> 22 NOV</p>
 			        			<div class="d-flex align-items-center justify-content-center">
 								<a href="searcher-jan.php" target="_blank" class="font__size-12 font__family-open-sans btn btn-prime btn-md-1 learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 							</div>	
@@ -284,9 +284,9 @@
                         		stay tuned
                         	</h2>
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Coming soon</h5>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Coming soon</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">3 NCA Entrepreneurs<br>20 <span class="fas fa-arrow-right member_count_arrow px-3 pt-2 d-inline-flex"></span> 21</p>
 			        			<div class="d-flex align-items-center justify-content-center">
 			        		</div>		
@@ -295,7 +295,7 @@
 					</div>	
 					<div class="col-lg-4 member_card mt-10 mt-lg-0 pl-5 pr-5">
                         	<div class="bg-primary question-box question-box-height">
-								<a href="" class="d-block py-5 px-4 text-white h-100">
+								<a href="talents.php" class="d-block py-5 px-4 text-white h-100">
 								<h2 class="text-white mb-1 font__family-efb text-uppercase">Interested in joining us?</h2>
 								<div class="text-right arrow_link">
 									<img src="img/arrow.png" alt="arrow" />
@@ -321,10 +321,10 @@
                         <div class="img_section w-100">
                         	<img class="w-100" src="img/christian_malek.jpg">
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Christian Malek</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">CO-CEO<br> Co-investors relations & Fund management</p>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Christian Malek</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CO-CEO<br> Co-investors relations & Fund management</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="#" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>	
@@ -336,10 +336,10 @@
                         <div class="img_section w-100">
                         	<img class="w-100" src="img/Degmar_berker.jpg">
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Dagmar Birker</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">Executive Director,<br>Head of Business Development Unit, Co-Investor management</p>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Dagmar Birker</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">Executive Director,<br>Head of Business Development Unit,<br> Co-Investor management</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="#" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
@@ -350,10 +350,10 @@
                         <div class="img_section w-100">
                         	<img class="w-100" src="img/Elena.jpg">
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Elena Trukhina</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">CO-CEO<br>NCA entrepreneur’s selection & Onboarding</p>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Elena Trukhina</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CO-CEO<br>NCA entrepreneur’s selection & Onboarding</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="#" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
@@ -364,10 +364,10 @@
                         <div class="img_section w-100">
                         	<img class="w-100" src="img/graciela.jpg">
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Graciela Ramirez</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">Head of Legal & Operations <br>Legal & finance</p>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Graciela Ramirez</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">Head of Legal & Operations <br>Legal & finance</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="#" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
@@ -378,10 +378,10 @@
                         <div class="img_section w-100">
                         	<img class="w-100" src="img/Marine.jpg">
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Marine Hamou</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">Engagement Director <br>Deal flow, SME ecosystem DACH</p>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Marine Hamou</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">Engagement Director <br>Deal flow, SME ecosystem DACH</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="#" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
@@ -392,10 +392,10 @@
                         <div class="img_section w-100">
                         	<img class="w-100" src="img/sandrine.jpg">
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Sandrine Steiner</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">Director <br>Business Development, Co-Investor management</p>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Sandrine Steiner</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">Director <br>Business Development, Co-Investor management</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="#" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
@@ -406,10 +406,10 @@
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/Erick.jpg">
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Erick </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Elisa Lorenzi </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 			        				VP Talent management<br>NCA entrepreneur’s selection & Onboarding 
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
@@ -422,10 +422,10 @@
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/Sebastien.jpg">
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Sebastien </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Gil rosenKrants </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 			        				Marketing Associate<br>Marketing, communication & PR
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
@@ -438,10 +438,10 @@
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/Mike.jpg">
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Mike  </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Jessica Ajzensztejn  </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 			        				Analytics intern<br>Search operations support
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
@@ -454,10 +454,10 @@
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/dummy_img.png">
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Anna Troitskaya </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Anna Troitskaya </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 			        				Head of Analytics<br>Pre-search, Search and Deal flow operation
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
@@ -470,10 +470,10 @@
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/dummy_img.png">
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Vincent de Boursetty </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Vincent de Boursetty </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 			        				Director<br>Business Development,Co-Investor management 
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
@@ -486,10 +486,10 @@
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/dummy_img.png">
                         </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-2">
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Nicolas Gonzalez Luna </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Nicolas Gonzalez Luna </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 			        				Chief Investment Officer<br>Due diligence and Deal negotiations 
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
@@ -512,8 +512,8 @@
 					<div class="col-lg-4 pl-5 pr-5 mt-10 mt-lg-0">
 						<div class="member_content bg-white py-4 d-flex align-items-center justify-content-center">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Mordy Rapaport </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Mordy Rapaport </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 			        				Founder & CEO at A-6684 Capital<br>NCA advisory board
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
@@ -525,8 +525,8 @@
 					<div class="col-lg-4 pl-5 pr-5 mt-10 mt-lg-0">
 						<div class="member_content bg-white py-4 d-flex align-items-center justify-content-center">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Olivier Utz </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Olivier Utz </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 			        				Partner at ELLIPSYA<br>NCA advisory board
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
@@ -538,8 +538,8 @@
 					<div class="col-lg-4 pl-5 pr-5 mt-10 mt-lg-0">
 						<div class="member_content bg-white py-4 d-flex align-items-center justify-content-center">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30">Meet<br> Angel Alvarez Cadavieco</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34 member_status">
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Angel Alvarez Cadavieco</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 			        				Co-Founder & CEO at Alza Capital Partners<br>NCA advisory board
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">

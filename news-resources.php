@@ -39,7 +39,7 @@
 								<a href="https://www.searchfund.org/" target="_blank" class="font__size-20 font__family-efb">Searchfund.org<span class="arrow_link_a"></span></a>
 							</div>
 							<div class="anchore_div anchore_div py-3 px-3 position-relative">
-								<a href="#" target="_blank" class="font__size-20 font__family-efb">Stanford GSB: Search Fund Videos<span class="arrow_link_a"></span></a>
+								<a href="https://www.searchfunder.com/" target="_blank" class="font__size-20 font__family-efb">SearchFunder.com<span class="arrow_link_a"></span></a>
 							</div>
 						</div>
 					</div>
@@ -57,7 +57,7 @@
 									<select name="Select your profile">
 										<option value="Title" selected disabled>Title</option>
 										<option value="Mr.">Mr.</option>
-										<option value="Ms.">Ms.</option>
+										<option value="Mrs.">Mrs.</option>
 										<option value="Dr.">Dr.</option>
 									</select>
 								</div>
@@ -84,7 +84,7 @@
                                 	</div>    
                                 </form>
                                 <div class="privacy_policy_link text-center mt-20">
-                                	<a href="img/TermsAndConditions.pdf" download target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
+                                	<a href="img/TermsAndConditions.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
                                 </div>	
 							</div>
 					</div>
@@ -94,7 +94,7 @@
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Nca <br> News</h2>
 						<div class="resource_wrap_links">
 							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-								<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="font__size-20 font__family-efb">Visit Our LinkdIn page for Our latest News<span class="arrow_link_a"></span></a>
+								<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="font__size-20 font__family-efb">Visit Our LinkedIn page for Our latest News<span class="arrow_link_a"></span></a>
 							</div>
 						</div>
 					</div>

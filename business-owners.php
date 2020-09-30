@@ -26,7 +26,7 @@
 						<div class="row">
 							<div class="col-12">
 								<div class="bg-primary question-box question_box_responsive wow fadeInUp pb-50 mx-lg-0 mx-5">
-								<a href="" class="d-block p-5 text-white">
+								<a href="javascript:void(0)" class="d-block p-5 business_owner_form text-white" role="button">
 								<h2 class="text-white mb-1">LOOKING FOR A PERFECT MATCH? </h2>
 								<p class="font__family-open-sans font__size-16 question-box-text">NCA works with you to find the best talent to secure your company's legacy.<br> Please use our contact form and our team will get back to you shortly. </p>
 								<div class="text-right arrow_link">
@@ -50,7 +50,7 @@
 				<div class="row no-gutters">
 					<div class="col-12 col-lg-5">
 								<div class="bg-primary question-box question-box-height question_box_responsive ml-lg-auto ml-5 mt-200 wow fadeInLeft">
-								<a href="" class="d-block p-5 text-white h-100">
+								<a href="javascript:void(0)" class="d-block p-5 business_owner_form_2 text-white h-100" role="button">
 								<h2 class="text-white mb-1">DO YOU HAVE AN OPPORTUNITY YOU WOULD LIKE US TO REVIEW?</h2>
 								<p class="font__family-open-sans font__size-16 question-box-text">Please use our contact form to get in touch and we will respond shortly. </p>
 								<div class="text-right arrow_link">
@@ -106,15 +106,15 @@
 										<div class="tabs_wrap">
 											<ul>
 												<li class="text-left font__size-20 font__weight-bold"><i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded mt-2"></i>Located in Europe<br> <span class="d-block font__size-16">(primarily in DACH)</span></li>
-											<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+											<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 												<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 												EBITDA in the range of EUR 2-5 million
 											</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 												<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 												Enterprise Value in the range of EUR 10-35 million
 											</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Target valuation of 4x-6x EBITDA
 												</li>
@@ -124,19 +124,19 @@
 									<div class="col-lg-6">
 										<div class="tabs_wrap">
 											<ul>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-30">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-30 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Recurring revenues
 												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-30">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-30 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Profitable with positive cash flows
 												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-30">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-30 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Ability to achieve full control through purchase
 												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-30">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-30 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Space for operational improvement and/or revenue expansion
 												</li>
@@ -151,11 +151,11 @@
 									<div class="col-lg-4">
 										<div class="tabs_wrap">
 											<ul>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Stable or growing
 												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Fragmented
 												</li>
@@ -166,11 +166,11 @@
 									<div class="col-lg-4">
 										<div class="tabs_wrap">
 											<ul>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													10%+ EBITDA margins
 												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Barriers to entry
 												</li>
@@ -180,7 +180,7 @@
 									<div class="col-lg-4">
 										<div class="tabs_wrap">
 											<ul>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Asset light
 												</li>
@@ -194,21 +194,21 @@
 									<div class="col-lg-6">
 										<div class="tabs_wrap">
 											<ul>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Online or offline education
 												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Light manufacturing
 												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Software-as-a-Service (SaaS)
 												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Healthcare and Wellness through purchase
+													Healthcare and Wellness<br> through purchase
 												</li>
 
 											</ul>
@@ -217,15 +217,15 @@
 									<div class="col-lg-6">
 										<div class="tabs_wrap">
 											<ul>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Fintech
 												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Service providers of large manufacturing companies
 												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													BPOs
 												</li>

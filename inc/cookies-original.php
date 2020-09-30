@@ -1,4 +1,3 @@
-
 <script type="text/javascript">
 	jQuery(document).ready(function($)  {
       const hasCookieConsent = getCookie('cookies-nca');
@@ -108,37 +107,38 @@
 		}
     </style>
 <section class="cookies_section alert alert-dismissible fade show p-0 m-0 wow fadeInUpBig"  data-wow-duration="0.5s" data-wow-delay="2s" role="alert">
-	<div class="">
-		<div class="row justify-content-end">
-			<!-- <div class="col-1"></div> -->
-			<div class="col-12 cookie-wrap">
-				<div class="cookies_box mb-5 bg-white position-relative">
-					<!-- <div class="close_button d-flex justify-content-end position-absolute">
-						<a href="#"><i class="fa fa-times font__size-20"></i></a>
-					</div> -->
-					<div class="row d-flex align-items-center">
-						<div class="col-md-8 text-lg-left text-md-left text-sm-center text-center">
-							<h2 class="font__size-20 mb-2 font__family-efb color-primary">Cookies & Privacy</h2>
-							<p class="font__size-14 font__family-sspr">This website uses cookies. We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it  ith other information that you’ve provided to them or that they’ve collected from your use of their services. You consent to our cookies if you continue to use our website.</p>
-						</div>
-						<div class="col-md-4 mt-lg-0 mt-md-0 mt-4 mt-sm-4">
-							<div class="cookies_buttons text-lg-right text-md-right text-sm-center text-center">
-								<div>
-									<button type="button" class="btn font__size-16 bg-primary text-white font__family-sspb px-4 mx-0 accept_cookies">Accept cookies</button>
-								</div> 
-								<div>
-									<a href="#" type="button" class="btn font__size-16 font__family-sspb px-4 mx-0 setting_cookies mr-4">cookie Setting</a>
-								</div> 
+	<div class="container">
+		<div class="container-inner-1200">
+			<div class="row justify-content-end">
+				<!-- <div class="col-1"></div> -->
+				<div class="col-12 cookie-wrap">
+					<div class="cookies_box mb-5 bg-white position-relative">
+						<!-- <div class="close_button d-flex justify-content-end position-absolute">
+							<a href="#"><i class="fa fa-times font__size-20"></i></a>
+						</div> -->
+						<div class="row d-flex align-items-center">
+							<div class="col-md-10 text-lg-left text-md-left text-sm-center text-center">
+								<h2 class="font__size-20 mb-2 font__family-efb color-primary">Cookies & Privacy</h2>
+								<p class="font__size-14 font__family-sspr">This website uses cookies. We use cookies to personalise content and ads, to provide social media features and to analyse our traffic.<br> We also share information about your use of our site with our social media, advertising and analytics partners who may combine it<br>  ith other information that you’ve provided to them or that they’ve collected from your use of their services. You consent to our cookies<br> if you continue to use our website.</p>
+							</div>
+							<div class="col-md-2 mt-lg-0 mt-md-0 mt-4 mt-sm-4 pl-7">
+								<div class="cookies_buttons text-lg-left text-md-left text-sm-left text-left">
+									<div>
+										<button type="button" class="btn font__size-16 bg-primary text-white font__family-sspb px-4 mx-0 my-0 accept_cookies">Accept cookies</button>
+									</div> 
+									<div>
+										<a href="#" type="button" class="btn font__size-16 font__family-sspb px-4 mx-3 setting_cookies mr-4">cookie Setting</a>
+									</div> 
+								</div>
 							</div>
 						</div>
 					</div>
+					<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+				      <span aria-hidden="true">&times;</span>
+				    </button>
 				</div>
-				<button type="button" class="close" data-dismiss="alert" aria-label="Close">
-			      <span aria-hidden="true">&times;</span>
-			    </button>
-			</div>
-			<!-- <div class="col-1"></div> -->
-		</div> 
+				<!-- <div class="col-1"></div> -->
+			</div> 
+		</div>	
 	</div> 
 </section>
-

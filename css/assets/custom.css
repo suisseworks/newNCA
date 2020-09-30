@@ -190,7 +190,7 @@ body{
     font-family: "EuclidFlex-Bold";
 }
 .question-box-text {
-    max-width: 315px;
+    max-width: 260px;
 }
 .stroke_text_noposition{
 	position: initial;
@@ -353,7 +353,7 @@ header .brk-nav__menu>li>a:hover{
 	color: var(--brand-primary) !important;
 }
 .footer_btns .btn_lang {
-    width: 71px;
+    width: 72px;
     height: 30px;
 }
 .footer_btns  .social_icon{
