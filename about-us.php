@@ -388,7 +388,7 @@
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Dagmar Birker</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">Head of Business Development Unit & <br>Co-Investor Management </p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="#" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/in/hamoumarine/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
