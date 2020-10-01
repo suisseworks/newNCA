@@ -145,7 +145,7 @@
 			<div class="col-lg-2"></div>
 			  <div class="col-lg-6">
 				<div class="pouse_sec d-flex pt-60">
-					<div class="pouse_button mr-2">
+					<div class="pouse_button mr-4">
 						<a href="#">
 							<img src="img/pouse.png" class="mt-3">
 						</a>
