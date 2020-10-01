@@ -546,7 +546,10 @@
 								<h2 class="text-white mb-2 font__family-efb font__size-60">NOT YET READY <br>TO APPLY?</h2>
 								<p class="font__family-open-sans font__size-20 question-box-text pb-2 border-bottom font__weight-500">Deep dive into our resource library to learn more </p>
 								<div class="text-right arrow_link">
-									<img src="img/arrow.png" alt="arrow" />
+									<svg id="Forward_arrow" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+									  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
+									</svg>
+
 								</div>
 								</a>
 								</div>
@@ -564,7 +567,10 @@
 									<li class="text-white font__size-16"><i class="fa fa-check mr-3 mt-1"></i>Cover Letter indicating industry focus</li>
 								</ul>
 								<div class="text-right arrow_link">
-									<img src="img/arrow.png" alt="arrow" />
+									<svg id="Forward_arrow" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+									  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
+									</svg>
+
 								</div>
 								</a>
 								</div>

@@ -30,7 +30,10 @@
 								<h2 class="text-white mb-1">LOOKING FOR A PERFECT MATCH? </h2>
 								<p class="font__family-open-sans font__size-16 question-box-text">NCA works with you to find the best talent to secure your company's legacy.<br> Please use our contact form and our team will get back to you shortly. </p>
 								<div class="text-right arrow_link">
-									<img src="img/arrow.png" alt="arrow" />
+									<svg id="Group_1008" data-name="Group 1008" xmlns="http://www.w3.org/2000/svg" width="34.975" height="34.975" viewBox="0 0 34.975 34.975">
+									  <path id="Path_10" data-name="Path 10" d="M17.488,0l-3.18,3.18L26.345,15.217H0v4.542H26.345L14.308,31.8l3.18,3.18L34.975,17.488Z" fill="#fff"/>
+									</svg>
+
 								</div>
 								</a>
 								</div>
@@ -54,7 +57,10 @@
 								<h2 class="text-white mb-1">DO YOU HAVE AN OPPORTUNITY YOU WOULD LIKE US TO REVIEW?</h2>
 								<p class="font__family-open-sans font__size-16 question-box-text">Please use our contact form to get in touch and we will respond shortly. </p>
 								<div class="text-right arrow_link">
-									<img src="img/arrow.png" alt="arrow" />
+									<svg id="Group_1009" data-name="Group 1009" xmlns="http://www.w3.org/2000/svg" width="34.975" height="34.975" viewBox="0 0 34.975 34.975">
+									  <path id="Path_10" data-name="Path 10" d="M17.488,0l-3.18,3.18L26.345,15.217H0v4.542H26.345L14.308,31.8l3.18,3.18L34.975,17.488Z" fill="#fff"/>
+									</svg>
+
 								</div>
 								</a>
 								</div>
