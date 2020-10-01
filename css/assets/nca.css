@@ -767,7 +767,7 @@ letter-spacing: 1px;
     height: 90px;
 }
 .resources_form {
-    padding: 0px !important;
+    padding: 40px !important;
 }
 .play_button.left_btn.play_btn_white i, .play_button.left_btn.play_btn_white span {
     font-size: 10px !important;
@@ -980,6 +980,9 @@ letter-spacing: 1px;
     .play_button.left_btn.play_btn_white {
     top: 70px;
 }
+.resources_form {
+    padding: 40px 20px !important;
+}
 .learn_more_btns.resume_btn a {
     font-size: 12px;
 }
@@ -1068,16 +1071,21 @@ letter-spacing: 1px;
 .form_side_bar .investors_contact_form input.form-control {
     height: 43px;
 }
-.brk-form-round .jq-selectbox__select {
+.form_side_bar .brk-form-round .jq-selectbox__select {
     height: 45px !important;
     margin-bottom: 10px !important;
 }
 .form_side_bar  .form-group {
     margin-bottom: 10px;
 }
-.brk-form-round .jq-selectbox__select-text{
+.form_side_bar .brk-form-round .jq-selectbox__select-text{
     line-height: 43px;
+}
+.form_side_bar .jq-selectbox__dropdown{
+top: 45px !important;
+}
+.checkbox {
+    margin-left: -15px !important;
 }
 }
 /*********searcher-page*******/
-
