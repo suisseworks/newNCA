@@ -57,7 +57,7 @@
 									<select name="Select your profile">
 										<option value="Title" selected disabled>Title</option>
 										<option value="Mr.">Mr.</option>
-										<option value="Mrs.">Mr.</option>
+										<option value="Ms.">Ms.</option>
 										<option value="Dr.">Dr.</option>
 									</select>
 								</div>
