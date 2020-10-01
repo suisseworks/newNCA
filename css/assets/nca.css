@@ -258,7 +258,7 @@ line-height: 90px;
     left: 12px;
     border-right: 6px solid transparent;
     border-left: 6px solid transparent;
-    border-top: 7px solid var(--brk-secondary-2);
+    border-top: 6px solid var(--brk-secondary-2);
 }
 .brk-form-round .jq-selectbox__trigger-arrow:before {
     top: -8px;
