@@ -261,8 +261,8 @@ line-height: 90px;
     border-top: 6px solid var(--brk-secondary-2);
 }
 .brk-form-round .jq-selectbox__trigger-arrow:before {
-    top: -8px;
-    border-top: 6px solid var(--brk-secondary-1);
+    top: -7px;
+    border-top: 4px solid var(--brk-secondary-1);
 }
 .brk-form-round .jq-selectbox__dropdown{
     background-color: var(--brk-secondary-1) !important;
@@ -1044,6 +1044,12 @@ letter-spacing: 1px;
 .slider_footer p {
     line-height: 1.2;
 }
+.contact_me_btn {
+    padding-left:10px !important;
+}
+.contact_me_btn a {
+    font-size: 20px;
+}
 }
 @media (max-width: 415px){
 .my_searcher ul li{
@@ -1055,6 +1061,22 @@ letter-spacing: 1px;
 }
 .swiper-pagination-base-reviews .swiper-pagination-bullet:after {
     width: 45px;
+}
+.form_side_bar .brk-theme-options__panel{
+    height: 230px !important;
+}
+.form_side_bar .investors_contact_form input.form-control {
+    height: 43px;
+}
+.brk-form-round .jq-selectbox__select {
+    height: 45px !important;
+    margin-bottom: 10px !important;
+}
+.form_side_bar  .form-group {
+    margin-bottom: 10px;
+}
+.brk-form-round .jq-selectbox__select-text{
+    line-height: 43px;
 }
 }
 /*********searcher-page*******/
