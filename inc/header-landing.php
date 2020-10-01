@@ -38,6 +38,7 @@
 				<div class="container">
 					<div class="row align-items-center">
 						<div class="col-lg-2">
+						</div>	
 						<div class="col-lg-8 align-self-lg-center landing_page_header justify-content-center d-none d-lg-flex">
 							<a href="index.php" class="brk-header__logo brk-header_index_logo brk-header__item @@modifier"><img class="brk-header__logo-1 lazyload" src="img/landing-logo.png" data-src="img/landing-logo.png" alt="alt"> <img class="brk-header__logo-2 lazyload" src="img/landing-logo.png" data-src="img/landing-logo.png" alt="alt"></a>
 						</div>
