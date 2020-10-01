@@ -609,6 +609,9 @@ letter-spacing: 1px;
     width: 150px;
     height: 150px;
 }
+.cookies_section .cookies_box br{
+    display: none;
+}
 .play_button.left_btn.play_btn_white i, .play_button.left_btn.play_btn_white span {
     font-size: 16px !important;
 }
