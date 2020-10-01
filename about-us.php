@@ -136,7 +136,10 @@
 											<a href="business-owners.php#where-invest" class="d-block px-4 py-4 text-white" id="target-companies">
 											<p class="font__size-20 text-uppercase font__family-efb question-box-text">What we look for<br> in target companies </p>
 											<div class="text-right arrow_link">
-												<img src="img/arrow.png" alt="arrow" />
+												<!-- <img src="img/arrow.png" alt="arrow" /> -->
+												<svg id="Forward_arrow" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 60 60">
+												  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
+												</svg>
 											</div>
 											</a>
 								       </div>	
@@ -297,7 +300,10 @@
 								<a href="talents.php" class="d-block py-5 px-4 text-white h-100">
 								<h2 class="text-white mb-1 font__family-efb text-uppercase">Interested in joining us?</h2>
 								<div class="text-right arrow_link">
-									<img src="img/arrow.png" alt="arrow" />
+									<svg id="SMALL_ARROW" data-name="SMALL ARROW" xmlns="http://www.w3.org/2000/svg" width="34.975" height="34.976" viewBox="0 0 34.975 34.976">
+									  <path id="Path_10" data-name="Path 10" d="M17.488,0l-3.18,3.18L26.345,15.217H0v4.542H26.345L14.308,31.8l3.18,3.18L34.975,17.488Z" fill="#fff"/>
+									</svg>
+
 								</div>
 								</a>
 							</div>	
