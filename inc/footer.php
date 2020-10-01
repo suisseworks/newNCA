@@ -48,8 +48,8 @@
 						</div>
 						<div class="col-lg-4 col-sm-12 col-12 col-xs-12">
 							<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12">
-								<li><a href="img/TermsAndConditions.pdf" target="_blank">Terms and Conditions</a></li>
-								<li><a href="#">Privacy Policy</a></li>
+								<li><a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank">Terms and Conditions</a></li>
+								<li><a href="img/NCA - Privacy-Policy.pdf" target="_blank">Privacy Policy</a></li>
 							</ul>
 						</div>
 					</div>
