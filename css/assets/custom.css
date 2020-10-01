@@ -108,9 +108,9 @@ body{
     background-size: 257px 1px;
     background-position: calc(13px);
 }
-.brk-header_scroll{
+/*.brk-header_scroll{
 	padding: 2px 2.3px;
-}
+}*/
 .social_icon {
 	border: 2px solid var(--brand-primary);
 	padding: 2px 2.3px;
@@ -165,6 +165,9 @@ body{
 }
 .container-inner-1260{
 	max-width: 1260px;
+}
+.container-inner-1400{
+	max-width: 1400px;
 }
 .headline {
     max-width: 580px;

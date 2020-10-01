@@ -36,6 +36,7 @@
 		<header class="brk-header brk-header-landing brk-header_style-1 brk-header_skin-1 position-fixed d-lg-flex flex-column brk-header_color-dark position-fixed pt-110" style="display: none;" data-logo-src="img/logo.png" data-brk-library="component__header">
 			<div class="brk-header__main-bar order-lg-2 order-1" style="height: 72px;">
 				<div class="container">
+				<div class="container-inner-1400 m-auto">
 					<div class="row align-items-center">
 						<div class="col-lg-2">
 						</div>	
@@ -48,6 +49,7 @@
 							<a href="#" class="bg-transparent btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
 						</div>
 						</div>
+					</div>
 					</div>
 				</div>
 			</div>
