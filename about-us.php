@@ -77,7 +77,11 @@
 								        	a)	Our program carefully selects talents (with an MBA/EMBA and ~10 years work experience) and our team supports them through every phase of the search and acquisition process. All candidates who submit an application to become an NCA entrepreneur undergo a rigorous screening and selection process before being accepted into our program (read more about our selection process on our dedicated <a href="talents.php" class="underline">Talents page</a>).<br> In addition to accepting direct applications through our website, we also partner with the best business schools to source top-tier entrepreneurial talent for our ETA program. 
 								        </p>
 								        <div class="next_arrow w-100">
-								            <span class="fas fa-angle-right next_accordion position-absolute" data-toggle="collapse" data-target="#collapseTwo"></span>
+								            <span class="next_accordion position-absolute" data-toggle="collapse" data-target="#collapseTwo">
+								            	<svg xmlns="http://www.w3.org/2000/svg" width="12.522" height="20.664" viewBox="0 0 12.522 20.664">
+												  <path id="Path_1982" data-name="Path 1982" d="M5.88,4.19l8.142,8.142L5.88,20.474l2.19,2.19L18.4,12.332,8.07,2Z" transform="translate(-5.88 -2)" fill="#e57200"/>
+												</svg>
+								            </span>
 								        </div>
 								        <!-- <div class="row mt-50">
 								        	<div class="col-lg-4 col-md-4">
@@ -130,7 +134,11 @@
 								        	</span>
 								        </p>
 								        <div class="next_arrow w-100 mt-30">
-								            <span class="fas fa-angle-right next_accordion position-absolute" data-toggle="collapse" data-target="#collapseThree"></span>
+								            <span class="next_accordion position-absolute" data-toggle="collapse" data-target="#collapseThree">
+								            	<svg xmlns="http://www.w3.org/2000/svg" width="12.522" height="20.664" viewBox="0 0 12.522 20.664">
+												  <path id="Path_1982" data-name="Path 1982" d="M5.88,4.19l8.142,8.142L5.88,20.474l2.19,2.19L18.4,12.332,8.07,2Z" transform="translate(-5.88 -2)" fill="#e57200"/>
+												</svg>
+								            </span>
 								        </div>    
 								        <div class="bg-primary question-box card_question_box mt-3">
 											<a href="business-owners.php#where-invest" class="d-block px-4 py-4 text-white" id="target-companies">
@@ -164,7 +172,11 @@
 									        	</span>	
 									        </p>	
 									        <div class="next_arrow w-100">
-									            <span class="fas fa-angle-right next_accordion position-absolute" data-toggle="collapse" data-target="#collapseFour"></span>
+									            <span class="next_accordion position-absolute" data-toggle="collapse" data-target="#collapseFour">
+									            	<svg xmlns="http://www.w3.org/2000/svg" width="12.522" height="20.664" viewBox="0 0 12.522 20.664">
+												  <path id="Path_1982" data-name="Path 1982" d="M5.88,4.19l8.142,8.142L5.88,20.474l2.19,2.19L18.4,12.332,8.07,2Z" transform="translate(-5.88 -2)" fill="#e57200"/>
+												</svg>
+									            </span>
 									        </div>
 									    </div>    
 							      </div>
@@ -187,7 +199,11 @@
                                                 </span>
 									        </p>	
 									        <div class="next_arrow w-100">
-									            <span class="fas fa-angle-right next_accordion position-absolute" data-toggle="collapse" data-target="#collapseFive"></span>
+									            <span class="next_accordion position-absolute" data-toggle="collapse" data-target="#collapseFive">
+									            	<svg xmlns="http://www.w3.org/2000/svg" width="12.522" height="20.664" viewBox="0 0 12.522 20.664">
+												  <path id="Path_1982" data-name="Path 1982" d="M5.88,4.19l8.142,8.142L5.88,20.474l2.19,2.19L18.4,12.332,8.07,2Z" transform="translate(-5.88 -2)" fill="#e57200"/>
+												</svg>
+									            </span>
 									        </div>
 									    </div>    
 							        </div>
@@ -210,7 +226,11 @@
 										        </span>	
 									        </p>
 									        <div class="next_arrow w-100">
-									            <span class="fas fa-angle-right next_accordion position-absolute" data-toggle="collapse" data-target="#collapseOne"></span>
+									            <span class="next_accordion position-absolute" data-toggle="collapse" data-target="#collapseOne">
+									            	<svg xmlns="http://www.w3.org/2000/svg" width="12.522" height="20.664" viewBox="0 0 12.522 20.664">
+												  <path id="Path_1982" data-name="Path 1982" d="M5.88,4.19l8.142,8.142L5.88,20.474l2.19,2.19L18.4,12.332,8.07,2Z" transform="translate(-5.88 -2)" fill="#e57200"/>
+												</svg>
+									            </span>
 									        </div>	
 									    </div>    
 							        </div>
