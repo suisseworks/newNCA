@@ -78,7 +78,7 @@
                                 	</div>
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
-                                		<input type="e-mail" class="form-control bg-white px-4 border-radius-25" name="e_mail" id="e_mail" placeholder="E-mail" required>
+                                		<input type="email" class="form-control bg-white px-4 border-radius-25" name="e_mail" id="e_mail" placeholder="E-mail" required>
                                 		<div class="invalid-feedback">
 									        Please provide your email address.
 									      </div>
