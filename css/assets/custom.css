@@ -380,3 +380,9 @@ header .brk-nav__menu>li>a:hover{
 .brk-header__logo img, .brk-header-mobile__logo img, .brk-header-mobile-wrap__logo img {
     max-height: 30px;
 }
+
+.invalid-feedback {
+    font-size: 100%;
+    color: #e4eaeb;
+    padding-left: 25px;
+}

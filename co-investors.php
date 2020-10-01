@@ -14,7 +14,7 @@
                                     <h2 class="text-uppercase text-white font__family-efb font__size-60 mb-2">contact</h2>
                                     <p class="text-white font__size-20 font__family-open-sans">Please complete the form below and our Investor Relations Director will be in touch shortly.</p>
                                 </div>  
-                                <form id="co_investors_contact_form" class="pt-5 investors_contact_form">
+                                <form id="co_investors_contact_form" class="pt-5 investors_contact_form needs-validation" novalidate>
                                 	<div class="d-inline brk-form-round mr-30 selection_div s_side">
 									<select name="select you profile">
 										<option value="Title" selected disabled>Title</option>
@@ -26,6 +26,9 @@
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
                                 		<input type="text" class="form-control bg-white px-4 border-radius-25" name="first-name" id="first-name" placeholder="Name" required>
+                                		<div class="invalid-feedback">
+									        Please provide your name.
+									      </div>
                                 	</div>
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
