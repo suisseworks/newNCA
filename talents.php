@@ -267,6 +267,7 @@
 		<section class="pb-0 faq_section bg-white">
 			<div class="container-outer1643">
 				<div class="faq_accordion">
+					<span class="faq_circle_bg"></span>
 					<div class="container-inner875">
 				<div class="row no-gutters d-flex align-items-center">
 					<h2 class="stroke_text text-uppercase text-center text-lg-left mb-40 wow fadeInLeft">FAQ</h2>

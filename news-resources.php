@@ -53,7 +53,7 @@
                                     <h2 class="text-white font__family-efb font__size-30 mb-1">Join our mailing list</h2>
                                 </div>  
                                 
-                                <form id="resources_form" class="pt-3 investors_contact_form">
+                                <form id="resources_form" class="pt-3 investors_contact_form needs-validation" novalidate>
                                 	<div class="d-inline brk-form-round mr-30 selection_div s_side">
 									<select name="select you profile">
 										<option value="Title" selected disabled>Title</option>
@@ -65,14 +65,23 @@
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
                                 		<input type="text" class="form-control bg-white px-4 border-radius-25" name="first-name" id="first-name" placeholder="Name" required>
+                                		<div class="invalid-feedback">
+									        Please provide your name.
+									      </div>
                                 	</div>
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
                                 		<input type="text" class="form-control bg-white px-4 border-radius-25" name="last-name" id="last-name" placeholder="Surname" required>
+                                		<div class="invalid-feedback">
+									        Please provide your surname.
+									      </div>
                                 	</div>
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
-                                		<input type="e-mail" class="form-control bg-white px-4 border-radius-25" name="e_mail" id="e_mail" placeholder="E-mail" required>
+                                		<input type="email" class="form-control bg-white px-4 border-radius-25" name="e_mail" id="e_mail" placeholder="E-mail" required>
+                                		<div class="invalid-feedback">
+									        Please provide your email address.
+									      </div>
                                 	</div>
                                 	
                                 	<div class="form-group ml-2">	
