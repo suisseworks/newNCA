@@ -358,6 +358,8 @@ header .brk-nav__menu>li>a:hover{
 .footer_btns .btn_lang {
     width: 72px;
     height: 30px;
+    line-height: 14px;
+    padding-top: 5px;
 }
 .footer_btns  .social_icon{
 	width: 30px;
