@@ -98,7 +98,7 @@
 			<div class="col-lg-4">
 				<div class="about_contact_info pl-100 bg-white pr-100 pt-60 pb-80">
 					<h2 class="font__family-efb text-uppercase mb-3">LASS UNS REDEN !</h2>
-					<a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a>
+					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
 					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:Jan.nikolaisen@novastone-ca.com">Jan.nikolaisen@novastone-ca.com</a>
 				</div>
