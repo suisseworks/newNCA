@@ -101,8 +101,8 @@
 								<div class="d-inline brk-form-round mr-30 selection_div s_side">
 									<select name="select you profile">
 										<option value="Title" selected disabled>Title</option>
-										<option value="Herr.">Herr.</option>
-										<option value="Frau.">Frau.</option>
+										<option value="Mr.">Mr.</option>
+										<option value="Ms.">Ms.</option>
 										<option value="Dr.">Dr.</option>
 									</select>
 								</div>
@@ -139,7 +139,7 @@
                                 	</div>    
                                 </form>
                                 <div class="privacy_policy_link text-center mt-20">
-                                	<a href="img/TermsAndConditions.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
+                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white"> & </span><a href="img/NCA - Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
                                 </div>	
 							</div>
 						</div>	
@@ -189,7 +189,7 @@
                                 	</div>    
                                 </form>
                                 <div class="privacy_policy_link text-center mt-20">
-                                	<a href="img/TermsAndConditions.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
+                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white"> & </span><a href="img/NCA - Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
                                 </div>	
 							</div>
 						</div>	
@@ -206,8 +206,8 @@
                                 	<div class="d-inline brk-form-round mr-30 selection_div s_side ">
 									<select name="select you profile">
 										<option value="Title" selected disabled>Title</option>
-										<option value="Herr.">Herr.</option>
-										<option value="Frau.">Frau.</option>
+										<option value="Mr.">Mr.</option>
+										<option value="Ms.">Ms.</option>
 										<option value="Dr.">Dr.</option>
 									</select>
 								</div>
@@ -244,7 +244,7 @@
                                 	</div>    
                                 </form>
                                 <div class="privacy_policy_link text-center mt-20">
-                                	<a href="img/TermsAndConditions.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
+                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white"> & </span><a href="img/NCA - Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
                                 </div>	
 							</div>
 						</div>	
