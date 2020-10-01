@@ -98,7 +98,7 @@
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Nca <br> News</h2>
 						<div class="resource_wrap_links">
 							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-								<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="font__size-20 font__family-efb">Visit Our LinkedIn page for Our latest News<span class="arrow_link_a"></span></a>
+								<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="font__size-20 font__family-efb">Visit our <a href="https://www.linkedin.com/company/novastone-capital-advisors" target="_blank">LinkedIn</a> for the latest NCA news<span class="arrow_link_a"></span></a>
 							</div>
 						</div>
 					</div>

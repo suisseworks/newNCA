@@ -66,7 +66,7 @@
 							<div class="investors_content pt-lg-100 pt-50">
 								<div class="headline about_headline">
 									<h3 class="mb-3 underline title tile_2 position-relative wow fadeInUp pl-80">
-										Our consortium of<br> Single-Family Offices<br> supports the next generation of exceptional entrepreneurial talents. 
+										Our consortium of <br>Single Family Offices<br> supports the next generation of exceptional entrepreneurial talents.
 									</h3>
 								</div>
 								<div class="investors_content_text bg-white pl-lg-80 pr-lg-115 pb-lg-60 pt-lg-100 p-5 p-xs-20">

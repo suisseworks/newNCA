@@ -19,7 +19,7 @@
                         		</div>
                         		<div class="col-6">
                         			<p class="text-right">
-			                           	<span class="font__family-montserrat font__weight-semibold font__size-12 letter-spacing--60 text-white"><img class="mt-1" src="img/Time.png"> 3 min</span>
+			                           	<span class="font__family-montserrat font__weight-semibold font__size-12 letter-spacing--60 text-white"><img class="mt-1" src="img/Time.png"> 2:33 min</span>
 			                          </p>
                         		</div>
                         	</div>
@@ -45,9 +45,9 @@
 						<div class="responsive_xs_pad">
 							<div class="headline pt-lg-0 pt-150">
 							<h4 class="mb-3 underline title wow fadeInUp">
-								How does our program work? </h4>
+								How Does Our Program Work? </h4>
 							</div>
-							<p class="font__family-open-sans text-content wow fadeInUp font__size-16">We are Looking for exceptional talents who are ready to embark on an exceptional journey.</p>
+							<p class="font__family-open-sans text-content wow fadeInUp font__size-16">We pair exceptional entrepreneurs with SMEs who are facing a succession challenge.</p>
 							
 						</div>
 					</div>
@@ -70,15 +70,15 @@
 						<div class="responsive_xs_pad">
 							<div class="headline">
 							<h4 class="mb-3 underline title wow fadeInUp">
-								Who Can Join The Program? </h4>
+								Who Can Join Our Program? </h4>
 							</div>
 						</div>
-						<p class="font__family-open-sans text-content wow fadeInUp font__size-20">Meet Elena, our co-founder, on the key attributes of an NCA Entrepreneur.</p>
+						<p class="font__family-open-sans text-content wow fadeInUp font__size-20">Meet Elena, our Co-founder, on the key attributes of an NCA Entrepreneur.</p>
 						<ul class="list_for_tips mt-2">
-								<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Operational excellance</li>
-								<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Soft & hard skills</li>
-								<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Insider tips</li>
-							</ul>
+							<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Operational Excellence</li>
+							<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Soft & Hard Skills</li>
+							<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Insider Tips</li>
+						</ul>
 					</div>
 					</div>
 					<div class="col-12 col-lg-7">
@@ -94,7 +94,7 @@
                         		</div>
                         		<div class="col-6">
                         			<p class="text-right">
-			                           	<span class="font__family-montserrat font__weight-semibold font__size-12 letter-spacing--60 text-white"><img class="mt-1" src="img/Time.png"> 3 min</span>
+			                           	<span class="font__family-montserrat font__weight-semibold font__size-12 letter-spacing--60 text-white"><img class="mt-1" src="img/Time.png"> 3:05 min</span>
 			                          </p>
                         		</div>
                         	</div>
@@ -125,7 +125,7 @@
 							<h4 class="mb-3 underline wow fadeInUp font__size-50 line__height-70">
 								What It Means 
 								<br>
-								to Partner with NCA:
+								To Partner With NCA:
 								<br>
 								A New Professional Path</h4>
 							</div>
@@ -147,7 +147,7 @@
                         		</div>
                         		<div class="col-6">
                         			<p class="text-right">
-			                           	<span class="font__family-montserrat font__weight-semibold font__size-12 letter-spacing--60 text-white"><img class="mt-1" src="img/Time.png"> 3 min</span>
+			                           	<span class="font__family-montserrat font__weight-semibold font__size-12 letter-spacing--60 text-white"><img class="mt-1" src="img/Time.png"> 2:48 min</span>
 			                          </p>
                         		</div>
                         	</div>
@@ -175,7 +175,7 @@
 					<div class="col-12 col-lg-6">
 						<div class="headline ml-auto">
 							<h4 class="mb-3 underline wow fadeInUp font__size-50 line__height-70">
-								What is Our Selection Process Like?</h4>
+								What Is Our Selection Process Like?</h4>
 							</div>
 					</div>
 					<div class="col-12">
@@ -191,11 +191,11 @@
 									<div class="brk-testimonials-layered-horizontal__item text-center rounded-0 shadow-none">
 										<div class="font__weight-bold process_title_count">1</div>
 										<div class="font__weight-bold font__size-40 process_title">Application</div>
-										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">In order to join our ETA program and become an NCA entrepreneur, please complete our online <a href="#" class="underline">Application Form</a>. Be ready to submit your CV and two professional references, along with a Cover Letter that details why you would like to participate in our program and which industry/sector your search will be focused on. Required documents can also be emailed to <a href="mailto:apply@novastone-ca.com" class="underline">apply@novastone-ca.com</a>.</div>
+										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">In order to join our ETA program and become an NCA Entrepreneur, please complete our online  <a href="https://recruiterflow.com/db_0fc1b0c1621a0503c0811aa2c11a9774/jobs/16" target="_blank" class="underline">Application Form</a>.Be ready to submit your CV and two professional references, along with a Cover Letter that details why you would like to participate in our program and which industry/sector your search will be focused on.</div>
 										<div class="slider_footer d-flex justify-content-center w-100  py-2">
 											<div class="separator_f_slider position-absolute"></div>
 											<br>
-											<p class="mt-2 font__size-12">Step 1 takes place biannually in January/June</p>
+											<p class="mt-2 font__size-12">Step 1 takes place in Jan. Apr. Jul. for Europe; Mar. May. Nov. for the US.</p>
 										</div>
 									</div>
 								</div>
@@ -203,11 +203,11 @@
 									<div class="brk-testimonials-layered-horizontal__item text-center rounded-0 shadow-none">
 										<div class="font__weight-bold process_title_count">2</div>
 										<div class="font__weight-bold font__size-40 process_title">Interviews & Assessment Center</div>
-										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">There are 2-3 rounds of 1-hour interviews with NCA human resources, NCA internal team members, and representatives from NCA’s external advisory. Candidates will also be asked to complete a timed online financial skill test. After interviews, successful candidates will be given 3-4 weeks to prepare a presentation of their investment case, to be presented to NCA and NCA external advisory representatives at our assessment centre. Further instructions will be provided upon invitation. </div>
+										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">a.	There are 1-3 rounds of 1-hour interviews with NCA human resources and NCA internal team members. Candidates will also be asked to complete a timed online financial skill test. After the final interview, candidates will be given a week to complete a business case in order to review the candidates’ strategic and financial proficiency. In the final stage, successful candidates will be given 3-4 weeks to prepare a presentation of their investment case, to be presented to NCA and NCA external advisory representatives at our assessment center. Further details and instructions will be provided upon invitation.</div>
 										<div class="slider_footer d-flex justify-content-center w-100  py-2">
 											<div class="separator_f_slider position-absolute"></div>
 											<br>
-											<p class="mt-2 font__size-12">Step 2 takes place biannually in February-March/July-August</p>
+											<p class="mt-2 font__size-12">Step 2 takes place three times a year, following Step 1.</p>
 										</div>
 									</div>
 								</div>
@@ -219,7 +219,7 @@
 										<div class="slider_footer d-flex justify-content-center w-100  py-2">
 											<div class="separator_f_slider position-absolute"></div>
 											<br>
-											<p class="mt-2 font__size-12">Step 3 takes place biannually in April/September</p>
+											<p class="mt-2 font__size-12">Step 3 takes place in Apr. Jul. Nov. for Europe; Jun. Sep. Feb. for the US.</p>
 										</div>
 									</div>
 								</div>
@@ -227,11 +227,11 @@
 									<div class="brk-testimonials-layered-horizontal__item text-center rounded-0 shadow-none">
 										<div class="font__weight-bold process_title_count">4</div>
 										<div class="font__weight-bold font__size-40 process_title">Fundraising</div>
-										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">After developing a thorough investment case, NCA will commence a roadshow targeting relevant investors within our investor base, allowing us to pitch your investment case together to raise the necessary search capital. During this phase, we highly encourage our candidates to leverage their own networks and bring a potential investor to support your case alongside NCA and NCA’s core investor base.</div>
+										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">a.	After developing a thorough investment case, NCA will commence a roadshow targeting relevant investors within our investor base, allowing us to pitch your investment case together to raise the necessary search capital. During this phase, we highly encourage our candidates to leverage their own networks and bring a potential investor to support their case alongside NCA and NCA’s core investor base.</div>
 										<div class="slider_footer d-flex justify-content-center w-100  py-2">
 											<div class="separator_f_slider position-absolute"></div>
 											<br>
-											<p class="mt-2 font__size-12">Step 4 takes place biannually in May/October</p>
+											<p class="mt-2 font__size-12">Step 4 takes place in May. Sep. Jan. for Europe; Jul. Oct. Mar. for the US.</p>
 										</div>
 									</div>
 								</div>
@@ -243,7 +243,7 @@
 										<div class="slider_footer d-flex justify-content-center w-100  py-2">
 											<div class="separator_f_slider position-absolute"></div>
 											<br>
-											<p class="mt-2 font__size-12">Step 5 takes place biannually in June/November</p>
+											<p class="mt-2 font__size-12">Step 5 takes place in Jul. Nov. Mar. for Europe; Sep. Dec. May. for the US</p>
 										</div>
 									</div>
 								</div>
@@ -277,7 +277,7 @@
 										<span class="card-dash brk-base-bg-gradient-right"></span>
 										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
 
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse013" aria-expanded="true" aria-controls="collapse013">How many entrepreneurs does NCA have? <span class="fa fa-angle-right"></span> </a>
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse013" aria-expanded="true" aria-controls="collapse013">How many Entrepreneurs does NCA have? <span class="fa fa-angle-right"></span> </a>
 
 										</h5>
 										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse013" aria-expanded="true" aria-controls="collapse013">
@@ -286,7 +286,7 @@
 									</div>
 									<div id="collapse013" class="collapse show" role="tabpanel" aria-labelledby="heading013">
 										<div class="card-block text-left font__family-open-sans bg-cover">
-													<p class="font__family-open-sans font__size-16 line__height-27">Our first cohort of entrepreneurs started in 2H 2020. You can see their bios on our website.</p>
+													<p class="font__family-open-sans font__size-16 line__height-27">Our first cohort of Entrepreneurs started in 2H 2020. You can see their bios on our website.</p>
 												</div>
 											</div>
 								</div>
@@ -304,7 +304,7 @@
 									<div id="collapse023" class="collapse" role="tabpanel" aria-labelledby="heading023">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">In order to be selected for our program, candidates have to demonstrate substantial experience in one or more of our industries of interest. Please visit our Business Owners & Intermediaries page on our website for more details about our industries of interest</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">In order to be selected for our program, candidates have to demonstrate substantial experience in one or more of our industries of interest. Please visit our Business Owners & Intermediaries page for more details about our industries of interest.</p>
 													
 										</div>
 									</div>
@@ -322,7 +322,7 @@
 									<div id="collapse033" class="collapse" role="tabpanel" aria-labelledby="heading033">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Yes, our teams of analysts and our Chief Investment Officer will support and mentor our Entrepreneurs during the acquisition deal process. Sound financial experience is a must; previous M&A experience is desired, but not compulsory.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Yes, our team of analysts and our Chief Investment Officer will support and mentor our Entrepreneurs during the acquisition deal process. Sound financial experience is a must; previous M&A experience is desired, but not compulsory.</p>
 													
 										</div>
 									</div>
@@ -340,7 +340,7 @@
 									<div id="collapse043" class="collapse" role="tabpanel" aria-labelledby="heading043">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Of course, and we encourage women to apply! We are an Equal Opportunity employer and all submitted CVs pass through the same application process, regardless of gender, religion, national origin, sexual orientation, race, political affiliation, marital status, disability, age, parental status, or any other non-merit factor.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Of course, and we encourage women to apply! We are an Equal Opportunity Employer and all submitted CVs pass through the same application process, regardless of gender, religion, national origin, sexual orientation, race, political affiliation, marital status, disability, age, parental status, or any other non-merit factor.</p>
 													
 										</div>
 									</div>
@@ -358,7 +358,7 @@
 									<div id="collapse053" class="collapse" role="tabpanel" aria-labelledby="heading053">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">NCA's company language is English and, in addition to English, you must fluently speak the language of the region where you plan your focus your search.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">NCA’s company language is English and, in addition to English, you must fluently speak the language of the region where you plan to focus your search.</p>
 													
 										</div>
 									</div>
@@ -367,7 +367,7 @@
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading063"><span class="card-dash brk-base-bg-gradient-right"></span>
 										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse063" aria-expanded="false" aria-controls="collapse063">What are the key requirements to become an NCA entrepreneur? <span class="fa fa-angle-right"></span></a>
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse063" aria-expanded="false" aria-controls="collapse063">What are the key requirements to become an NCA Entrepreneur? <span class="fa fa-angle-right"></span></a>
 										</h5>
 										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse063" aria-expanded="true" aria-controls="collapse063">
 											<span class="fa fa-angle-right"></span>
@@ -376,7 +376,7 @@
 									<div id="collapse063" class="collapse" role="tabpanel" aria-labelledby="heading063">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">We partner with highly motivated individuals who have a proven operational track record in their target industries. Some key characteristics of successful entrepreneurs include strong self-motivation and work ethic, highly developed interpersonal and sales skills, and the ability to execute and implement. Additionally, entrepreneurs must be willing to undergo a comprehensive selection process and be willing to take risks in their career, embracing uncertainty and challenge, in order to achieve the long-term benefits of partnering with us.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">We partner with highly motivated individuals who have proven operational track records in their target industries. Some key characteristics of successful Entrepreneurs include strong self-motivation and work ethic, highly developed interpersonal and sales skills, and the ability to execute and implement. Additionally, talents must be willing to undergo a comprehensive selection process and be willing to take risks in their career, embracing uncertainty and challenge, in order to achieve the long-term benefits of partnering with us.</p>
 													
 										</div>
 									</div>
@@ -394,7 +394,7 @@
 									<div id="collapse073" class="collapse" role="tabpanel" aria-labelledby="heading073">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">For the time being NCA is focused on Western Europe, specifically the DACH region (Germany, Switzerland, and Austria), and the USA. In 2021, we plan to launch searches in Benelux and the UK.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">For the time being NCA is focused on Western Europe, specifically in the DACH region (Germany, Switzerland, Austria). This will be followed by the rest of Europe and the USA in 2021.</p>
 													
 										</div>
 									</div>
@@ -403,7 +403,7 @@
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading083"><span class="card-dash brk-base-bg-gradient-right"></span>
 										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse083" aria-expanded="false" aria-controls="collapse083">Do you partner with more than one entrepreneur for the search? <span class="fa fa-angle-right"></span></a>
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse083" aria-expanded="false" aria-controls="collapse083">Do you partner with more than one Entrepreneur for a search? <span class="fa fa-angle-right"></span></a>
 										</h5>
 										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse083" aria-expanded="true" aria-controls="collapse083">
 											<span class="fa fa-angle-right"></span>
@@ -412,7 +412,7 @@
 									<div id="collapse083" class="collapse" role="tabpanel" aria-labelledby="heading083">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">No, we only partner with solo-entrepreneurs with solid operational experience in their industries of interest. In our view, NCA as a partner will add more value to the entrepreneur than another entrepreneur. Additionally, our partnership scheme is economically more compelling for entrepreneurs than typical partnered searches.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">No, we only partner with solo-entrepreneurs with solid operational experience in their industries of interest. In our view, NCA as a partner will add more value to the Entrepreneur than another Entrepreneur. Additionally, our partnership scheme is economically more compelling for Entrepreneurs than typical partnered searches.</p>
 													
 										</div>
 									</div>
@@ -430,7 +430,7 @@
 									<div id="collapse093" class="collapse" role="tabpanel" aria-labelledby="heading093">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">During the 24-month search phase, our entrepreneurs receive a monthly stipend that covers reasonable expenses. Some of our entrepreneurs decide to open a limited company for the duration of the search; others register as freelancers in their country of search and invoice us monthly. It is up to the entrepreneurs to decide which legal set up works best for her/him. After they acquire a company and become its CEO, they will receive market-standard salaries plus a highly attractive profit share scheme that fully aligns the entrepreneur's incentives with that of their co-investors'</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">During the 24-month search phase, our Entrepreneurs receive a monthly stipend that covers reasonable expenses. Some of our Entrepreneurs decide to open a limited company for the duration of the search; others register as freelancers in their country of search and invoice us monthly. It is up to the Entrepreneurs to decide which legal setup works best for her/him. After they acquire a company and become its CEO, they will receive market-standard salaries plus a highly attractive profit share scheme that fully aligns the Entrepreneur’s incentives with those of their co-investors’.</p>
 													
 										</div>
 									</div>
@@ -466,7 +466,7 @@
 									<div id="collapse113" class="collapse" role="tabpanel" aria-labelledby="heading113">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">No, our entrepreneurs are dedicated full time to their search. It is a very intense process and therefore cannot be combined with another job.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">No, our Entrepreneurs are dedicated full time to their search. It is a very intense process and therefore cannot be combined with another job.</p>
 													
 										</div>
 									</div>
@@ -475,7 +475,7 @@
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading123"><span class="card-dash brk-base-bg-gradient-right"></span>
 										<h5 class="mb-0 font__family-montserrat d-block w-100 font__weight-semibold letter-spacing-20 font__size-16 line__height-16">
-											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse123" aria-expanded="false" aria-controls="collapse123">Do NCA entrepreneurs compete for deals? <span class="fa fa-angle-right"></span></a>
+											<a class="card-title brk-base-font-color font__family-efb font__size-20" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse123" aria-expanded="false" aria-controls="collapse123">Do NCA Entrepreneurs compete for deals? <span class="fa fa-angle-right"></span></a>
 										</h5>
 										<!-- <a class="card-toggle-icon" data-toggle="collapse" data-parent=".accordion-simple-image" href="#collapse123" aria-expanded="true" aria-controls="collapse123">
 											<span class="fa fa-angle-right"></span>
@@ -484,7 +484,7 @@
 									<div id="collapse123" class="collapse" role="tabpanel" aria-labelledby="heading123">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">No, since each of our entrepreneurs is focused on specific geographies and industries, they do not compete for acquisition opportunities. On the contrary, they collaborate by sharing deals between them based on their geographic and industry preferences. NCA will also ensure that deal allocation is fairly distributed between entrepreneurs.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">No, since each of our Entrepreneurs is focused on specific geographies and industries, they do not compete for acquisition opportunities. On the contrary, they collaborate by sharing deals between them based on their geographic and industry preferences. NCA will also ensure that deal allocation is fairly distributed between Entrepreneurs.</p>
 													
 										</div>
 									</div>
@@ -502,7 +502,7 @@
 									<div id="collapse133" class="collapse" role="tabpanel" aria-labelledby="heading133">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Once the entrepreneur identifies an attractive company, and all due diligence and negotiations have been successfully conducted, the deal is presented to the coinvestors that financed that entrepreneur's search. Once enough co-investors approve the deal and fund its needed equity, the deal can move forward and the Entrepreneur becomes the company's CEO.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Once the Entrepreneur identifies an attractive company, and all due diligence and negotiations have been successfully conducted, the deal is presented to the co-investors that financed that Entrepreneur’s search. Once enough co-investors approve the deal and fund its needed equity, the deal can move forward and the Entrepreneur becomes the company’s CEO.</p>
 													
 										</div>
 									</div>
@@ -529,7 +529,7 @@
 					</div>
 				</div>
 				<div class="download_pdf d-flex justify-content-center position-absolute w-100">
-					<a class="font__family-efb font__size-20" href="img/FAQ's.pdf" download type="button">DOWNLOAD OUR FULL FAQ’S AS A PDF</a>
+					<a class="font__family-efb font__size-20" href="img/FAQ's.pdf" download type="button">DOWNLOAD OUR FULL FAQ AS A PDF</a>
 				</div>
 			</div>
 		</div>
