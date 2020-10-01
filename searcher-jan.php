@@ -106,7 +106,7 @@
 							      <rect width="38" height="38" fill="none"/>
 							    </clipPath>
 							  </defs>
-							  <g id="Forward_arrow" data-name="Forward arrow" clip-path="url(#clip-path)">
+							  <g id="Forward_arrow" data-name="Forward arrow" clip-path="">
 							    <path id="Path_10" data-name="Path 10" d="M19,0,15.545,3.455,28.623,16.532H0v4.935H28.623L15.545,34.545,19,38,38,19Z" fill="#fff"/>
 							  </g>
 							</svg>
@@ -120,7 +120,7 @@
 								      <rect width="38" height="38" fill="none"/>
 								    </clipPath>
 								  </defs>
-								  <g id="Forward_arrow" data-name="Forward arrow" transform="translate(38) rotate(90)" clip-path="url(#clip-path)">
+								  <g id="Forward_arrow" data-name="Forward arrow" transform="translate(38) rotate(90)" clip-path="">
 								    <path id="Path_10" data-name="Path 10" d="M19,0,15.545,3.455,28.623,16.532H0v4.935H28.623L15.545,34.545,19,38,38,19Z" fill="#fff"/>
 								  </g>
 								</svg>
