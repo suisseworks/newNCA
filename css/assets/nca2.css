@@ -334,7 +334,7 @@ input[type='radio']:checked:after {
     border-radius:50%;
     background-color:#BEA581;
 }
-* , body a, body div {
+html,* , body a, body div,body h2 {
   cursor: url('../../img/cursor.png'),auto !important;
 }
 .form-control:focus{
