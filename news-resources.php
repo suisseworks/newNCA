@@ -52,9 +52,10 @@
 								<div class="contact_text">
                                     <h2 class="text-white font__family-efb font__size-30 mb-1">Join our mailing list</h2>
                                 </div>  
-                                <form id="resources_contact_form" class="pt-3 investors_contact_form">
-                                	<div class="d-inline brk-form-round mr-30 selection_div">
-									<select name="Select your profile">
+                                
+                                <form id="resources_form" class="pt-3 investors_contact_form">
+                                	<div class="d-inline brk-form-round mr-30 selection_div s_side">
+									<select name="select you profile">
 										<option value="Title" selected disabled>Title</option>
 										<option value="Mr.">Mr.</option>
 										<option value="Ms.">Ms.</option>
@@ -73,14 +74,17 @@
                                 		<span class="text-white label_staric position-absolute">*</span>
                                 		<input type="e-mail" class="form-control bg-white px-4 border-radius-25" name="e_mail" id="e_mail" placeholder="E-mail" required>
                                 	</div>
-                                	<div class="form-group">
-									    <div class="radio d-inline-flex">
-									    	<input type="radio" id="optradio05" name="optradio05">
-									        <label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio05">By signing up to the form, you agree to our terms and privacy policy.</label>
-									    </div>
+                                	
+                                	<div class="form-group ml-2">	
+							          <div class="checkbox checkbox-info checkbox-circle d-flex line__height-16 text-white font__size-14">
+							            <input id="co-investor02" type="checkbox">
+							            <label for="co-investor02" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
+							             </label>
+							              By signing up to the form, you agree to our terms and privacy policy.
+							          </div>
                                 	</div>
                                 	<div class="submit_btn w-100 text-center">	
-                                	    <button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"  data-toggle="modal" data-target="#exampleModalCenter"><span>Send</span><span class="border-btn submit_border"></span></button>
+                                	    <button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
                                 	</div>    
                                 </form>
                                 <div class="privacy_policy_link text-center mt-20">
