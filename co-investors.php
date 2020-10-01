@@ -33,10 +33,16 @@
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
                                 		<input type="text" class="form-control bg-white px-4 border-radius-25" name="last-name" id="last-name" placeholder="Surname" required>
+                                		<div class="invalid-feedback">
+									        Please provide your surname.
+									      </div>
                                 	</div>
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
                                 		<input type="e-mail" class="form-control bg-white px-4 border-radius-25" name="e_mail" id="e_mail" placeholder="E-mail" required>
+                                		<div class="invalid-feedback">
+									        Please provide your email address.
+									      </div>
                                 	</div>
                                 	<div class="form-group  position-relative">
                                 		<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" placeholder="Message" rows="3"></textarea>
