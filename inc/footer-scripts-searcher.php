@@ -1,7 +1,6 @@
 </div> <!-- /.main-page -->
 
-<script src="js/scripts.min.js"></script>
-    <script type="text/javascript" src="js/rtop.videoPlayer.1.0.1.min.js"></script>
+	<script src="js/scripts.min.js"></script>
 	<script src="js/custom.js"></script> 
 
 	<!-- <script>
