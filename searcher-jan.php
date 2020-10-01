@@ -19,7 +19,17 @@
 						<p class="font__size-18 line__height-24">Nach meiner Kindheit in Norwegen habe ich in Deutschland, der Schweiz, Spanien, den Niederlanden, England und Schottland gelebt. Ein vielseitig interessierter Karriereweg führte mich über Jura, Strategieberatung und Venture/Private-Equity-Investitionen schliesslich zu meiner grössten Leidenschaft, dem Unternehmertum. Ich war Mitgründer von zwei Unternehmen in den Bereichen erneuerbare Energien und Biotechnologie. Meinen unternehmerischen Weg möchte nun durch einen Firmenkauf fortsetzen. </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="#" type="button" class="btn text-white font__family-efb">kontaktiere mich<i class="fa fa-arrow-right ml-3"></i></a>
+						<a href="#" type="button" class="btn text-white font__family-efb">kontaktiere mich<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+								  <defs>
+								    <clipPath id="clip-path">
+								      <rect width="30" height="31" fill="none"/>
+								    </clipPath>
+								  </defs>
+								  <g id="Forward_arrow" data-name="Forward arrow" clip-path="url(#clip-path)">
+								    <path id="Path_10" data-name="Path 10" d="M15.056,0,12.319,2.738,22.682,13.1H0v3.911H22.682L12.319,27.375l2.738,2.738L30.113,15.056Z" fill="#fff"/>
+								  </g>
+								</svg>
+								</span></a>
 					</div>
 				</div>
 		</div>
@@ -78,7 +88,15 @@
 		<div class="row no-gutters">
 			<div class="col-lg-4 bg-white">
 				<div class="about_learn pt-100 pb-80 pl-100 pr-100">
-					<img src="img/LOGO-WHITE.png" width="124px">
+					<span>
+						<svg id="LOGO" xmlns="http://www.w3.org/2000/svg" width="122.254" height="53.98" viewBox="0 0 122.254 53.98">
+						  <path id="Path_6599" data-name="Path 6599" d="M831.743-839.838a3.048,3.048,0,0,1-3.024-3.071,3.048,3.048,0,0,1,3.024-3.072,3.048,3.048,0,0,1,3.024,3.072A3.048,3.048,0,0,1,831.743-839.838Z" transform="translate(-801.438 849.425)" fill="#fff"/>
+						  <path id="Path_6604" data-name="Path 6604" d="M3.03-.007A3.023,3.023,0,0,1,6.047,3.051,3.074,3.074,0,0,1,3.009,6.131,3.023,3.023,0,0,1-.007,3.072,3.074,3.074,0,0,1,3.03-.007Z" transform="translate(26.662 4.229) rotate(-13.282)" fill="#fff"/>
+						  <path id="Path_6600" data-name="Path 6600" d="M1099.743-728.186a3.048,3.048,0,0,0-3.025,3.072,3.048,3.048,0,0,0,3.025,3.071,3.048,3.048,0,0,0,3.024-3.071A3.048,3.048,0,0,0,1099.743-728.186Z" transform="translate(-1000.344 762.47)" fill="#fff"/>
+						  <path id="Path_6601" data-name="Path 6601" d="M902.1-820.66c5.005-8.947,12.356-25.768,15.107-32.162l19.958,44.661.131.293h2.739l-22.886-51.218-1.115,2.644c-.406.96-10.019,23.655-16.1,34.53-5.43,9.7-12.615,14.225-22.613,14.225a24.3,24.3,0,0,1-24.082-24.456A24.3,24.3,0,0,1,877.321-856.6a23.954,23.954,0,0,1,20.255,11.188h2.908a26.462,26.462,0,0,0-23.162-13.722,26.816,26.816,0,0,0-26.578,26.99,26.817,26.817,0,0,0,26.568,26.99h.019C888.314-805.155,896.187-810.084,902.1-820.66Z" transform="translate(-817.784 859.133)" fill="#fff"/>
+						  <path id="Path_6602" data-name="Path 6602" d="M725.4-850.671c6.158,4.2,23.007,17.9,29.133,45.4l.086.389h2.547l-.132-.607c-7.571-34.61-32.04-48.449-32.286-48.585l-1.842-1.013v50.233h2.5Z" transform="translate(-722.906 856.146)" fill="#fff"/>
+						</svg>
+					</span>
 					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Entrepreneurship</h3>
 					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">NCA’s Entrepreneurship Through <br> Das Akquisitionsprogramm unterstützt die nächste Generation außergewöhnlicher Talente in jeder Phase der unternehmerischen Reise.</p>
 					<div class="learn_more_btns learn_about_btn mt-5 mb-4 pb-2">
@@ -96,7 +114,17 @@
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="img/Jan-Nikolaisen-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD LEBENSLAUF (ENGLISCH)<img class="ml-5" src="img/arrow-down.png"></a>
+						<a download href="img/Jan-Nikolaisen-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD LEBENSLAUF (ENGLISCH)<span class="ml-5"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+								  <defs>
+								    <clipPath id="clip-path">
+								      <rect width="38" height="38" fill="none"/>
+								    </clipPath>
+								  </defs>
+								  <g id="Forward_arrow" data-name="Forward arrow" transform="translate(38) rotate(90)" clip-path="url(#clip-path)">
+								    <path id="Path_10" data-name="Path 10" d="M19,0,15.545,3.455,28.623,16.532H0v4.935H28.623L15.545,34.545,19,38,38,19Z" fill="#fff"/>
+								  </g>
+								</svg>
+								</span></a>
 					</div>
 			</div>
 			<div class="col-lg-8">
@@ -146,7 +174,17 @@
 						<div class="jan_detail mt-4">
 							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">Diese Website stellt kein Angebot an die Öffentlichkeit oder eine Aufforderung zum Kauf oder zur Investition in ein Finanzinstrument dar. Die auf dieser Website bereitgestellten Informationen dienen nur zu Informationszwecken und stellen kein Angebot, keine Aufforderung oder Empfehlung dar, eine Finanzdienstleistung zu abonnieren. Soweit diese Website Ansichten zu Anlagestrategien und Anlageideen zum Ausdruck bringt, sind solche Informationen nur allgemeiner Natur und dürfen nicht als Werbung für die Zeichnung einer Finanzdienstleistung oder für eine Anlage in ein bestimmtes Finanzinstrument ausgelegt werden.</p>
 
-							<a href="index.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Webseite <img class="ml-2" src="img/arrow.png" width="12px"></a>
+							<a href="index.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Webseite <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
+								  <defs>
+								    <clipPath id="clip-path">
+								      <rect width="10" height="10" fill="none"/>
+								    </clipPath>
+								  </defs>
+								  <g id="Forward_arrow" data-name="Forward arrow" clip-path="url(#clip-path)">
+								    <path id="Path_10" data-name="Path 10" d="M4.611,0,3.773.838,6.947,4.013H0v1.2H6.947L3.773,8.384l.838.838L9.223,4.611Z" fill="#fff"/>
+								  </g>
+								</svg>
+								</span></a>
 						</div>
 					</div>
 				</div>
