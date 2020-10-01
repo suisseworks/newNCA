@@ -9,12 +9,12 @@
 		</div>
 		<div class="col-lg-6 pr-0">
 				<div class="searcher_content pt-100 ml-4">
-					<a href="#" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+					<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					<div class="detail_searcher mt-2">
 						<h2 class="font__family-efb text-uppercase line__height-90">Jan <br> Nikolaisen</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneurship</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2020</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2021</span>
+							<span class="font-weight-bold font__size-22">2020</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2022</span>
 						</div>
 						<p class="font__size-18 line__height-24">Nach meiner Kindheit in Norwegen habe ich in Deutschland, der Schweiz, Spanien, den Niederlanden, England und Schottland gelebt. Ein vielseitig interessierter Karriereweg führte mich über Jura, Strategieberatung und Venture/Private-Equity-Investitionen schliesslich zu meiner grössten Leidenschaft, dem Unternehmertum. Ich war Mitgründer von zwei Unternehmen in den Bereichen erneuerbare Energien und Biotechnologie. Meinen unternehmerischen Weg möchte nun durch einen Firmenkauf fortsetzen. </p>
 					</div>
@@ -154,8 +154,8 @@
 						</div>
 						<div class="col-lg-4 col-sm-12 col-12 col-xs-12">
 							<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12">
-								<li><a href="img/TermsAndConditions.pdf" download="">Geschäftsbedingungen</a></li>
-								<li><a href="#">Datenschutz-Bestimmungen</a></li>
+								<li><a href="img/Terms-and-Conditions-Legal Notice.pdf" download="">Geschäftsbedingungen</a></li>
+								<li><a href="img/NCA - Privacy-Policy.pdf" download="">Datenschutz-Bestimmungen</a></li>
 							</ul>
 						</div>
 					</div>

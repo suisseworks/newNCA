@@ -70,7 +70,7 @@
 								We specialize in matching exceptional talents<br> with existing SMEs to enhance growth and strengthen sustainable business legacies.
 							</h4>
 							</div>
-							<p class="font__family-open-sans text-content wow fadeInUp">We are constantly building our network of intermediaries and government officials active in SME succession challenges. We are always open to opportunities that may be a great fit for our partners and we work hard to deliver rapid feedback on potential new deals. Please scroll down to see more information about the types of companies we are looking for. </p>
+							<p class="font__family-open-sans text-content wow fadeInUp">We are constantly building our network of intermediaries and key stakeholders active in SME succession challenges. We are always open to opportunities that may be a great fit for our partners and we work hard to deliver rapid feedback on potential new deals. Please scroll down to see more information about the types of companies we are looking for. </p>
 						</div>
 					</div>
 					
@@ -87,11 +87,7 @@
 				<div class="container-inner-1260 m-auto pb-lg-180 pb-100 ">
 					<div class="headline headline_edit">
 						<h3 class="mb-5 underline wow fadeInUp font__size-50 responsive_bottom_text line__height-60 pl-lg-0 pl-sm-30 px-xs-50">
-						We are industry agnostic 
-						but we refer to the following 
-						criteria when looking<br> 
-						at potential companies 
-						<br>to acquire.  </h3>
+						We are industry agnostic, but we refer to the following criteria when looking<br> at potential companies<br> to acquire.  </h3>
 					</div>
 					<div class="brk-tabs brk-tabs-simple theme-tab wow fadeInUp pl-lg-0 pl-sm-30 px-xs-50" data-hash="true" data-brk-library="component__tabs">
 						<ul class="brk-tabs-nav font__family-efb font__weight-bold mb-3 justify-content-between align-items-end">
@@ -105,7 +101,10 @@
 									<div class="col-lg-6">
 										<div class="tabs_wrap">
 											<ul>
-												<li class="text-left font__size-20 font__weight-bold"><i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded mt-2"></i>Located in Europe<br> <span class="d-block font__size-16">(primarily in DACH)</span></li>
+											<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-30 text-uppercase">
+												<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+												Located in DACH for 2020, followed by the rest of Europe and the US in 2021
+											</li>
 											<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 												<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 												EBITDA in the range of EUR 2-5 million
@@ -196,19 +195,23 @@
 											<ul>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Online or offline education
+													Online or Offline Education
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Light manufacturing
+													Programming
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Software-as-a-Service (SaaS)
+													Software-as-a-Service (Saas)
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Healthcare and Wellness<br> through purchase
+													Healthcare and Wellness
+												</li>
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+													Fintech, Payments or Financial Company Services
 												</li>
 
 											</ul>
@@ -219,15 +222,23 @@
 											<ul>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Fintech
-												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
-													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Service providers of large manufacturing companies
-												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
-													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													BPOs
+												</li>
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+													Publishing
+												</li>
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+													Specialized Construction
+												</li>
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+													Consultancy services
+												</li>
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+													This is a non-exhaustive list; other sectors will be considered
 												</li>
 											</ul>
 										</div>
