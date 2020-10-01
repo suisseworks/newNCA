@@ -304,7 +304,7 @@
 									<div id="collapse023" class="collapse" role="tabpanel" aria-labelledby="heading023">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">In order to be selected in our program, candidates have to demonstrate substantial experience in one or more of our  industries of interest. Please visit our Business Owners & Intermediaries page for more details about our industries of  interest.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">In order to be selected for our program, candidates have to demonstrate substantial experience in one or more of our industries of interest. Please visit our Business Owners & Intermediaries page on our website for more details about our industries of interest</p>
 													
 										</div>
 									</div>
@@ -322,7 +322,7 @@
 									<div id="collapse033" class="collapse" role="tabpanel" aria-labelledby="heading033">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Yes, our teams of analysts and our Chief Investment Officer will support and mentor our entrepreneurs during acquisition deal process. Sound financial experience is a must; previous M&A experience is desired, but not compulsory.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Yes, our teams of analysts and our Chief Investment Officer will support and mentor our Entrepreneurs during the acquisition deal process. Sound financial experience is a must; previous M&A experience is desired, but not compulsory.</p>
 													
 										</div>
 									</div>
@@ -340,7 +340,7 @@
 									<div id="collapse043" class="collapse" role="tabpanel" aria-labelledby="heading043">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Of course, and we encourage women to apply! We are an Equal Opportunity employer and all submitted CVs pass through the same application process, regardless of gender, religion, national origin, sexual orientation, race , political affiliation marital status, disability, age, parental status, or any other non-merit factor.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Of course, and we encourage women to apply! We are an Equal Opportunity employer and all submitted CVs pass through the same application process, regardless of gender, religion, national origin, sexual orientation, race, political affiliation, marital status, disability, age, parental status, or any other non-merit factor.</p>
 													
 										</div>
 									</div>
@@ -376,7 +376,7 @@
 									<div id="collapse063" class="collapse" role="tabpanel" aria-labelledby="heading063">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">We partner with highly motivated individual who have proven operational track record in their target industries. Some key characteristics of successful entrepreneurs include strong self-motivation and work ethic, highly developed interpersonal and sales skills, and the ability to execute and implement. Additionally, entrepreneurs uncertainty and challenge, in order to achieve the long term benefits of partnering with us.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">We partner with highly motivated individuals who have a proven operational track record in their target industries. Some key characteristics of successful entrepreneurs include strong self-motivation and work ethic, highly developed interpersonal and sales skills, and the ability to execute and implement. Additionally, entrepreneurs must be willing to undergo a comprehensive selection process and be willing to take risks in their career, embracing uncertainty and challenge, in order to achieve the long-term benefits of partnering with us.</p>
 													
 										</div>
 									</div>
@@ -394,7 +394,7 @@
 									<div id="collapse073" class="collapse" role="tabpanel" aria-labelledby="heading073">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">For the time being NCA is focused on Western Europe and specifically In the DACH region (Germany, Switzerland, and Austria). In 2021, we plan to launch searcher is Benelux and the UK. Eventually we will also launch searchers in the US.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">For the time being NCA is focused on Western Europe, specifically the DACH region (Germany, Switzerland, and Austria), and the USA. In 2021, we plan to launch searches in Benelux and the UK.</p>
 													
 										</div>
 									</div>
@@ -412,7 +412,7 @@
 									<div id="collapse083" class="collapse" role="tabpanel" aria-labelledby="heading083">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">No, we only partner with solo-entrepreneurs with solid operational experience in their industries of interest. In our view, NCA as a partner will add more value to the entrepreneur than another entrepreneur, additionally; our partnership scheme is economically more compelling for entrepreneurs than typical partnered searches.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">No, we only partner with solo-entrepreneurs with solid operational experience in their industries of interest. In our view, NCA as a partner will add more value to the entrepreneur than another entrepreneur. Additionally, our partnership scheme is economically more compelling for entrepreneurs than typical partnered searches.</p>
 													
 										</div>
 									</div>
@@ -430,7 +430,7 @@
 									<div id="collapse093" class="collapse" role="tabpanel" aria-labelledby="heading093">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">During the 24-month search phase, our entrepreneurs receive a monthly stipend that covers reasonable expenses. Some of our entrepreneurs decide to open a limited company for the duration of the search; others register as freelancers in their country of search and invoice us monthly. It is up to the entrepreneurs to decide which legal set up works best for her/him. After they acquire a company and become its CEO, they will receive market-standard salaries plus a highly attractive profit share scheme that fully aligns the entrepreneur's incentives with that of their co-investors'.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">During the 24-month search phase, our entrepreneurs receive a monthly stipend that covers reasonable expenses. Some of our entrepreneurs decide to open a limited company for the duration of the search; others register as freelancers in their country of search and invoice us monthly. It is up to the entrepreneurs to decide which legal set up works best for her/him. After they acquire a company and become its CEO, they will receive market-standard salaries plus a highly attractive profit share scheme that fully aligns the entrepreneur's incentives with that of their co-investors'</p>
 													
 										</div>
 									</div>
@@ -448,7 +448,7 @@
 									<div id="collapse103" class="collapse" role="tabpanel" aria-labelledby="heading103">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Yes, you will have a small budget for travel expenses such as attending fairs, conferences, etc. to network within your industry of choice.</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Yes, you will have a small budget for travel expenses such as attending fairs, conferences, etc. to network within your industry of choice</p>
 													
 										</div>
 									</div>
