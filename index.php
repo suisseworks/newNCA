@@ -8,7 +8,7 @@
 						<a href="about-us.php">
 							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name">About Us</h2>
 							<p class="font__size-12 font__family-open-sans line__height-17 pt-2">
-								NCA is a Swiss company, founded serve a consortium of Single Family Offices, that runs an Entrepreneurship Through Acquisition program.
+								NCA is a Swiss company, founded by a consortium of Single Family Offices, that runs an Entrepreneurship Through Acquisition program.
 							</p>
 						</a>	
 					</div>	
