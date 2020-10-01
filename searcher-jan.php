@@ -82,7 +82,17 @@
 					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Entrepreneurship</h3>
 					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">NCA’s Entrepreneurship Through <br> Das Akquisitionsprogramm unterstützt die nächste Generation außergewöhnlicher Talente in jeder Phase der unternehmerischen Reise.</p>
 					<div class="learn_more_btns learn_about_btn mt-5 mb-4 pb-2">
-						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">Erfahren Sie mehr über uns<img class="ml-5" src="img/arrow-right.png"></a></i></a>
+						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">lerne mehr über uns span <span class="ml-5"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+							  <defs>
+							    <clipPath id="clip-path">
+							      <rect width="38" height="38" fill="none"/>
+							    </clipPath>
+							  </defs>
+							  <g id="Forward_arrow" data-name="Forward arrow" clip-path="url(#clip-path)">
+							    <path id="Path_10" data-name="Path 10" d="M19,0,15.545,3.455,28.623,16.532H0v4.935H28.623L15.545,34.545,19,38,38,19Z" fill="#fff"/>
+							  </g>
+							</svg>
+							</span></a>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">

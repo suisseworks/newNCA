@@ -170,7 +170,7 @@
 
 		<section class="slider_process_section">
 			<div class="container">
-				<div class="pt-100 pb-120">
+				<div class="pt-100 pb-200">
 				<div class="row no-gutters mb-50 d-flex align-items-center">
 					<div class="col-12 col-lg-6">
 						<div class="headline ml-auto">
@@ -263,16 +263,15 @@
 			</div>
 		</section>
 
-
 		<section class="pb-0 faq_section bg-white">
 			<div class="container-outer1643">
-				<div class="faq_accordion">
+				<div class="faq_accordion position-relative">
 					<span class="faq_circle_bg"></span>
 					<div class="container-inner875">
 				<div class="row no-gutters d-flex align-items-center">
 					<h2 class="stroke_text text-uppercase text-center text-lg-left mb-40 wow fadeInLeft">FAQ</h2>
 					<div class="col-12">
-						<div class="accordion_wrap accordion-simple accordion-simple-image mt-20" role="tablist" aria-multiselectable="true" data-brk-library="component__accordions">
+						<div class="accordion_wrap accordion-simple accordion-simple-image mt-35" role="tablist" aria-multiselectable="true" data-brk-library="component__accordions">
 								<div class="card">
 									<div class="card-header pl-0 card-header-sm text-left py-3 d-flex align-items-center" role="tab" id="heading013">
 										<span class="card-dash brk-base-bg-gradient-right"></span>

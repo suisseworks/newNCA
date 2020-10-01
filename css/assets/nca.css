@@ -1085,11 +1085,23 @@ letter-spacing: 1px;
 
 .faq_circle_bg{
     background-image: url(../../img/faq_circle.png);
-    background-size: 450px;
+    background-size: 100%;
     background-repeat: no-repeat;
-    width: 450px;
-    height: 450px;
+    width: 30%;
+    height: 32%;
     display: block;
     position: absolute;
-    z-index: ;
+    top: -175px;
+    left: 40px;
+}
+
+@media only screen and (max-width: 1229px){
+    .faq_circle_bg{
+        top: -105px;
+    }
+}
+@media only screen and (max-width: 991px){
+    .faq_circle_bg{
+        top: 0px;
+    }
 }
