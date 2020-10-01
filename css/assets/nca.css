@@ -139,7 +139,7 @@ line-height: 90px;
 }
 .faq_accordion {
     padding: 100px 0px 260px;
-    background-image: url(../../img/circle.png);
+   /* background-image: url(../../img/circle.png);*/
     background-size: 420px;
     background-position: top left;
     position: relative;
@@ -316,7 +316,7 @@ line-height: 90px;
     max-width: 512px;
 }
 .key_skill h2 {
-    font-size: 22px;
+    font-size: 21px;
     transform: rotate(270deg);
     position: absolute;
     left: -6px;
@@ -1079,3 +1079,17 @@ letter-spacing: 1px;
 }
 }
 /*********searcher-page*******/
+
+
+/*faq circle css*/
+
+.faq_circle_bg{
+    background-image: url(../../img/faq_circle.png);
+    background-size: 450px;
+    background-repeat: no-repeat;
+    width: 450px;
+    height: 450px;
+    display: block;
+    position: absolute;
+    z-index: ;
+}
