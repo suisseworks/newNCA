@@ -1170,8 +1170,8 @@ input[type='radio']:checked:after {
 .page_text a:hover h2.page_name{
     color: var(--brand-primary);
     transition: 0.5s ease;
-    font-size: 46px;
-    line-height: 48px;
+    font-size: 46px !important;
+    line-height: 48px !important;
 }
 .page_text:hover p{
 	opacity: 1;
