@@ -1361,8 +1361,13 @@ header .brk-nav__menu>li a{
 	}
 	.page_text a h2.page_name{
     transition: none;
-	}
+    -webkit-transition: none;
+    font-size: 24px !important;
+
+	} 
 	.page_text a:hover h2.page_name{
 	    transition: none;
+	    -webkit-transition: none;
+	    font-size: 24px !important;
 	}
 }
