@@ -666,6 +666,10 @@ header .brk-nav__menu>li a{
     font-size: 30px !important;
     line-height: 40px !important;
 }
+.page_text a:hover h2.page_name{
+	 font-size: 33px !important;
+    line-height: 40px !important;
+}
 }
 @media (max-width: 1229px){
   .landing_row {
@@ -1002,7 +1006,7 @@ header .brk-nav__menu>li a{
     bottom: 150px;
 }
 .faq_accordion {
-    padding: 0 0px 60px;
+    padding: 50px 0px 60px;
     background:none;
     position: static;
 }
@@ -1233,7 +1237,7 @@ header .brk-nav__menu>li a{
     margin-left: 0 !important;
 }
 .accordion_wrap .card-header{
-    padding-right: 25px;
+    padding-right:8px;
 }
 .apply_section a {
     padding: 25px !important;
