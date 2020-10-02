@@ -1,3 +1,6 @@
+<?php 
+	$_SESSION["lan"] = "English";
+?>
 <?php include 'inc/header.php'; ?>
 		<section class="telent_section bg-white">
 			<div class="container">
