@@ -92,8 +92,7 @@
 					<div style="display: none;" id="form-alert-success" class="alert alert-success" role="alert">
                     Informationen wurden erfolgreich gesendet!
 					</div>
-					<!-- start  form-business-owner-->
-					<form  id="form-business-owner" name="form-business-owner" method="post">
+					<!-- start  business_owner_contact_form-->
 						<div class="col-lg-12" id="infocontent">
 							<div class="functon_div" id="info2content">
 								<div class="get_in_touch_content">
@@ -133,10 +132,10 @@
 												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio2"> Mit der Anmeldung zum Formular stimmen Sie unseren Nutzungsbedingungen und Datenschutzbestimmungen zu.</label>
 											</div>
 										</div>
-										<div id="form-business-owner-submit" class="submit_btn w-100 text-center">	
+										<div id="business_owner_contact_form-submit" class="submit_btn w-100 text-center">	
 											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
 										</div>    
-										<div id="form-business-owner-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
+										<div id="business_owner_contact_form-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
 											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
 												<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>	
 												<span>Senden...</span><span class="border-btn submit_border"></span>
@@ -149,63 +148,60 @@
 								</div>
 							</div>	
 						</div>
-					</form>
-					 <!-- end  form-business-owner-->
+					 <!-- end  business_owner_contact_form-->
 
-					<!-- start  form-co-investor-->
-					<form  id="form-co-investor" name="form-co-investor" method="post">
-						<div class="col-lg-12" id="infocontent">
-							<div class="functon_div" id="info3content">
-								<div class="get_in_touch_content">
-									<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
-										Please complete the form below and our Investor Relations Director will be in touch shortly.
-									</p>
-								</div>
-								<div class="co_investors_form">  
-									<form id="header_co_investors_contact_form" class="investors_contact_form">
-										<div class="form-group  position-relative">
-											<span class="text-white label_staric position-absolute">*</span>
-											<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
-										</div>
-										<div class="form-group  position-relative">
-											<span class="text-white label_staric position-absolute">*</span>
-											<input type="text" class="form-control bg-white px-4 border-radius-25" name="Last_Name" id="last-name" placeholder="Nachname" required>
-										</div>
-										<div class="form-group  position-relative">
-											<span class="text-white label_staric position-absolute">*</span>
-											<input type="mail" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="Email" required>
-										</div>
-										<div class="form-group  position-relative">
-											<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Description" placeholder="Nachricht" rows="3"></textarea>
-										</div>	
-										<div class="form-group">
-											<div class="radio d-inline-flex">
-												<input type="radio" name="optradio01" id="optradio01">
-												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio01">Newsletter abonnieren </label>
-											</div>
-											<div class="radio d-inline-flex">
-												<input type="radio" id="optradio02" name="optradio02" required>
-												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio02">Mit der Anmeldung zum Formular stimmen Sie unseren Nutzungsbedingungen und Datenschutzbestimmungen zu.</label>
-											</div>
-										</div>
-										<div id="form-co-investor-submit" class="submit_btn w-100 text-center">	
-											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
-										</div>
-										<div id="form-co-investor-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
-											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
-												<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>	
-												<span>Sending...</span><span class="border-btn submit_border"></span>
-											</button>
-										</div>    
-									</form>
-									<div class="privacy_policy_link text-center mt-20">
-										<a download href="img/TermsAndConditions.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
+					<!-- start  header_co_investors_contact_form-->
+					<div class="col-lg-12" id="infocontent">
+						<div class="functon_div" id="info3content">
+							<div class="get_in_touch_content">
+								<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
+									Please complete the form below and our Investor Relations Director will be in touch shortly.
+								</p>
+							</div>
+							<div class="co_investors_form">  
+								<form id="header_co_investors_contact_form" class="investors_contact_form">
+									<div class="form-group  position-relative">
+										<span class="text-white label_staric position-absolute">*</span>
+										<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
+									</div>
+									<div class="form-group  position-relative">
+										<span class="text-white label_staric position-absolute">*</span>
+										<input type="text" class="form-control bg-white px-4 border-radius-25" name="Last_Name" id="last-name" placeholder="Nachname" required>
+									</div>
+									<div class="form-group  position-relative">
+										<span class="text-white label_staric position-absolute">*</span>
+										<input type="mail" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="Email" required>
+									</div>
+									<div class="form-group  position-relative">
+										<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Description" placeholder="Nachricht" rows="3"></textarea>
 									</div>	
-								</div>
-							</div>	
+									<div class="form-group">
+										<div class="radio d-inline-flex">
+											<input type="radio" name="optradio01" id="optradio01">
+											<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio01">Newsletter abonnieren </label>
+										</div>
+										<div class="radio d-inline-flex">
+											<input type="radio" id="optradio02" name="optradio02" required>
+											<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio02">Mit der Anmeldung zum Formular stimmen Sie unseren Nutzungsbedingungen und Datenschutzbestimmungen zu.</label>
+										</div>
+									</div>
+									<div id="header_co_investors_contact_form-submit" class="submit_btn w-100 text-center">	
+										<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
+									</div>
+									<div id="header_co_investors_contact_form-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
+										<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
+											<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>	
+											<span>Senden...</span><span class="border-btn submit_border"></span>
+										</button>
+									</div>    
+								</form>
+								<div class="privacy_policy_link text-center mt-20">
+									<a download href="img/TermsAndConditions.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
+								</div>	
+							</div>
 						</div>	
-					</form>
-					<!-- end  form-co-investor-->
+					</div>	
+					<!-- end  header_co_investors_contact_form-->
 
 					<!-- start  form-intermediary-->
 					<form  id="form-intermediary" name="form-intermediary" method="post">
@@ -219,7 +215,7 @@
 								<div class="resources_form resources_form_side">  
 									<form id="intermediatry_contact_form" class="investors_contact_form">
 										<div class="d-inline brk-form-round mr-30 selection_div s_side ">
-										<select name="select you profile">
+										<select name="Title">
 											<option value="Title" selected disabled>Title</option>
 											<option value="Mr.">Frau</option>
 											<option value="Ms.">Herr</option>

@@ -1,18 +1,18 @@
 $(document).ready(function () {
 
-    $("#form-business-owner").on('submit', function (e) {
+    $("#business_owner_contact_form").on('submit', function (e) {
         e.preventDefault();
-        registerZoho("form-business-owner")
+        registerZoho("business_owner_contact_form")
     });
 
-    $("#form-co-investor").on('submit', function (e) {
+    $("#header_co_investors_contact_form").on('submit', function (e) {
         e.preventDefault();
-        registerZoho("form-co-investor")
+        registerZoho("header_co_investors_contact_form")
     });
 
-    $("#form-intermediary").on('submit', function (e) {
+    $("#intermediatry_contact_form").on('submit', function (e) {
         e.preventDefault();
-        registerZoho("form-intermediary")
+        registerZoho("intermediatry_contact_form")
     });
 });
 
