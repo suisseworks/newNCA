@@ -204,7 +204,6 @@
 					<!-- end  header_co_investors_contact_form-->
 
 					<!-- start  form-intermediary-->
-					<form  id="form-intermediary" name="form-intermediary" method="post">
 						<div class="col-lg-12" id="infocontent">
 							<div class="functon_div" id="info4content">
 								<div class="get_in_touch_content">
@@ -244,10 +243,10 @@
 												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio4">Mit der Anmeldung zum Formular stimmen Sie unseren Nutzungsbedingungen und Datenschutzbestimmungen zu.</label>
 											</div>
 										</div>
-										<div id="form-intermediary-submit" class="submit_btn w-100 text-center">	
+										<div id="intermediatry_contact_form-submit" class="submit_btn w-100 text-center">	
 											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
 										</div>    
-										<div id="form-intermediary-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
+										<div id="intermediatry_contact_form-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
 											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
 												<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>	
 												<span>Senden...</span><span class="border-btn submit_border"></span>
@@ -260,7 +259,6 @@
 								</div>
 							</div>	
 						</div>
-					</form>
 					<!-- end  form-intermediary-->
 
 					<div class="col-lg-12" id="infocontent">
