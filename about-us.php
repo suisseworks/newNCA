@@ -284,6 +284,63 @@
 	                </div>	
 				</div>
 				<div class="row no-gutters new_row mt-70 mb-130">
+					<div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                        <div class="img_section w-100">
+                        	<img class="w-100" src="img/Mike.jpg">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Mike Hindi</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>20 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
+									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
+									</svg>
+			        			</span> 22</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/mike-hindi/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>
+							
+						</div>	
+                        </div>	
+					</div>
+					<div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                        <div class="img_section w-100">
+                        	<img class="w-100" src="img/Sebastien.jpg">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Sebastien Perroud   </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>20 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
+									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
+									</svg>
+			        			</span> 22</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>	
+							
+						</div>	
+                        </div>	
+					</div>
+					<div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                        <div class="img_section w-100">
+                        	<img class="w-100" src="img/Erick.jpg">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Erick Azen</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>20 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
+									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
+									</svg>
+			        			</span> 22</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/erickazen/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>	
+							
+						</div>	
+                        </div>	
+					</div>
 					<div class="col-lg-4 member_card mt-10 mt-lg-0 pl-5 pr-5">
                         <div class="img_section w-100">
                         	<img class="w-100" src="img/Jan.jpg">
@@ -357,7 +414,7 @@
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Elena Trukhina</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CO-CEO<br>NCA Entrepreneur Selection & Onboarding</p>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CO-CEO<br>NCA entrepreneur's management, Deal flow & Europe Operations</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/elena-trukhina-b058453/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
@@ -371,7 +428,7 @@
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Christian Malek</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CO-CEO<br> Co-Investor Relations & Fund Management</p>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CO-CEO<br> Co-investors relations, Fund management & US Operations</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/christian-malek-2088368b/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>	
@@ -418,7 +475,7 @@
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Graciela Ramirez</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-			        			    Head of Legal & Operations <br>Legal & Finance
+			        			    Head of Legal & Compliance
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/graciela-ramirez-cuevas-4561a311/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -434,7 +491,7 @@
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Elisa Lorenzi </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-			        				VP Talent Management<br> NCA Entrepreneur Selection<br> & Onboarding  
+			        				VP Talent management 
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/elisa-lorenzi/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
