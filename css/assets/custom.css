@@ -405,6 +405,7 @@ header .brk-nav__menu>li>a:hover{
     left: -70px;
     background: var(--brand-primary);
     transition: ease 1.7s;
+    -webkit-transition: ease 1.7s;
     border-radius: 0;
     cursor: pointer;
 }
@@ -916,6 +917,7 @@ letter-spacing: 1px;
 
 .collapsing.width {
   transition: width 0.35s ease;
+  -webkit-transition: width 0.35s ease;
   height: auto;
   width: 0;
 }
@@ -996,6 +998,7 @@ div.checkbox.switcher label input + span, div.radio.switcher label input + span 
   border: 1px solid #707070;
   border-radius: 50px;
   transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
 }
 div.checkbox.switcher label input + span small, div.radio.switcher label input + span small {
   position: absolute;
@@ -1005,6 +1008,7 @@ div.checkbox.switcher label input + span small, div.radio.switcher label input +
   background: var(--brk-secondary-2);
   border-radius: 50%;
   transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
   left: 0;
 }
 div.checkbox.switcher label input:checked + span, div.radio.switcher label input:checked + span {
@@ -1134,6 +1138,7 @@ input[type='radio']:checked:after {
 .form_side_bar .brk-theme-options__panel.checked{
 	opacity: 0;
     transition: ease 0.1s;
+    -webkit-transition: ease 0.1s;
 }
 .font__size-62{
 	font-size: 62px;
@@ -1157,6 +1162,7 @@ input[type='radio']:checked:after {
 	opacity: 0;
 	visibility: hidden;
 	transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
 }
 .page_text .for_text{
 	transform: rotate(180deg);
@@ -1166,10 +1172,12 @@ input[type='radio']:checked:after {
 }
 .page_text a h2.page_name{
     transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
 }
 .page_text a:hover h2.page_name{
     color: var(--brand-primary);
     transition: 0.5s ease;
+    -webkit-transition:  0.5s ease;
     font-size: 46px !important;
     line-height: 48px !important;
 }
@@ -1177,6 +1185,7 @@ input[type='radio']:checked:after {
 	opacity: 1;
 	visibility: visible;
 	transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
 	color: var(--brk-secondary-2);
 }
 .main-page.landing-page .container{
@@ -1219,6 +1228,7 @@ input[type='radio']:checked:after {
     justify-content:center;
     transform:translate3d(-50%,-50%,0);
     transition:transform 0.2s cubic-bezier(.02,1.23,.79,1.08);
+    -webkit-transition:transform 0.2s cubic-bezier(.02,1.23,.79,1.08);
     z-index: 999;
 }
 .inner_circle{
