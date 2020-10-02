@@ -1,3 +1,6 @@
+<?php 
+	$_SESSION["page"] = "business-owners-de.php";
+?>
 <?php include 'inc/header.php'; ?>
 		<section class="pt-lg-70 pt-100 pt_tab_60 about_section" id="about">
 			<div class="container">
