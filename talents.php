@@ -7,7 +7,7 @@
 						<h2 class="stroke_text px-5 text-uppercase text-center text-lg-left text-md-left text-sm-left text-xs-left mb-40 wow fadeInLeft">Talents</h2>
 						<div class="responsive_xs_pad px-5">
                      <div class="brk-ic-left-slide image_caption" data-brk-library="component__image_caption_css">
-                        <img src="img/christian_video.jpg" alt="alt" class="image_video w-100">
+                        <img src="img/Christian_video_tumbnail.jpg" alt="alt" class="image_video w-100">
                        
 
                         <div class="heading_text_video position-absolute w-100 px-3 py-2">
