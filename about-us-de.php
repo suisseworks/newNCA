@@ -26,15 +26,15 @@
 									<div class="responsive_xs_pad pl-60 pt-120 pb-90 position-relative z-index-1">
 										<div class="headline about_headline">
 										<h3 class="mb-3 underline title wow fadeInUp">
-										Novastone Capital Advisors (NCA) ist ein Schweizer Unternehmen bestehend aus einem Konsortium <br> von privaten Family Offices. <br>Diese Single-Family-Offices (SFO) haben NCA gegründet, um ein Programm für das <br>Unternehmertum durch einen Firmenkauf <br> zu offerieren. 
+										Ein Konsortium privater Single-Family-Offices gründete das Schweizer Unternehmen Novastone Capital Advisors (NCA), um ein Programm für Unternehmertum durch Firmenkauf <br> zu offerieren. 
 										</h3>
 										<h4 class="mb-5 subtitle wow fadeInUp subtitle_text">
-										Unser Entrepreneurship Through Acquisition (EtA) Programm vernetzt zielgerichtet Investoren mit talentierten Unternehmern, die eine privat geführte Firma finden, übernehmen und weiterentwickeln möchten. 
+										Unser Entrepreneurship Through Acquisition (ETA) Programm vernetzt zielgerichtet Investoren mit talentierten Unternehmern, die eine privat geführte Firma finden, übernehmen, führen und weiterentwickeln möchten.
 										</h4>
 										</div>
 										<p class="font__family-open-sans font__size-16 text-content wow fadeInUp what_we_do_text">
 											
-                                        Wir legen Wert auf ein beidseitiges Nutzen, Profitieren und Wachsen für die beteiligten Interessengruppen. Aufstrebende Unternehmer*innen profitieren während unserer Zusammenarbeit vom Zugriff auf Kapitalressourcen und unserer Unterstützung bei der Suche eines direkten Weges zum Kauf und zur Leitung eines kleinen oder mittleren/mittelständischen Unternehmens (KMU). Bereits bestehende KMU’s finden qualifizierte, finanzstarke Unternehmer als Nachfolger aus dem Eta-Programm. Partnerinvestoren profitieren von robusten Investitionschancen mit ausserordentlich hohen Erfolgsquoten. 
+                                        Wir legen Wert auf ein beidseitiges Nutzen, Profitieren und Wachsen für die beteiligten Interessengruppen. Der firmeneigene Rekrutierungs- und Auswahlprozess unseres Programms bestimmt sorgfältig die Talente, die fähig sind ein Unternehmen zu leiten und dessen Wachstum zu fördern. Wir kollaborieren ausserdem mit den renommiertesten Business Schools, um überragende Kandidaten direkt für das ETA-Programm anzuwerben. Aufstrebende Unternehmer*innen profitieren während unserer Zusammenarbeit vom Zugriff auf Kapitalressourcen und unserer Unterstützung bei der Suche eines direkten Weges zum Kauf und zur Leitung eines kleinen oder mittleren/mittelständischen Unternehmens (KMU). Bereits bestehende KMU’s finden qualifizierte, finanzstarke Unternehmer als Nachfolger. Partnerinvestoren profitieren von robusten Investitionschancen mit ausserordentlich hohen Erfolgsquoten.
 									    
 									    </p>
 									</div>
@@ -81,7 +81,7 @@
 							      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">Talentbeschaffung</h2>
 								        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 								        	
-                                        Unser Entrepreneurship Through Acquisition (EtA) Programm wählt sorgfältig Talente mit MBA/EMBA und mindestens 10 Jahren Berufserfahrung aus. Während des gesamten Such- und Kaufprozesses steht das Novastone Capital Advisors (NCA) Team unterstützend zur Verfügung. Alle Bewerber mit Interesse am Werdegang zum NCA-Unternehmer durchlaufen ein striktes Prüfungs- und Auswahlverfahren, bevor sie in unser Programm aufgenommen werden (lesen Sie mehr über unser Verfahren auf der Talents Seite). 
+                                        a)	Unser Entrepreneurship Through Acquisition (ETA) Programm wählt sorgfältig Talente mit MBA/EMBA und mindestens 10 Jahren Berufserfahrung aus. Während des gesamten Such- und Kaufprozesses steht das Novastone Capital Advisors (NCA) Team unterstützend zur Verfügung. Alle Bewerber mit Interesse am Werdegang zum NCA-Unternehmer durchlaufen ein striktes Prüfungs- und Auswahlverfahren, bevor sie in unser Programm aufgenommen werden (lesen Sie mehr über unser Verfahren auf der <a href="talents.php">Talents-Seite</a> ). Zur Akquisition hochkarätiger unternehmerischer Talente für unser ETA-Programm nehmen wir nicht nur Direktbewerbungen über unsere Website entgegen, sondern kollaborieren ausserdem mit den renommiertesten Business Schools.
 								        </p>
 								        <div class="next_arrow w-100">
 								            <span class="next_accordion position-absolute" data-toggle="collapse" data-target="#collapseTwo">
@@ -133,11 +133,11 @@
 							    <div id="collapseTwo" class="collapse width" data-parent="#accordionHorizontalExample">
 							      <div class="card-body">
 							      	<div class="card_body_content">
-							      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">su</h2>
+							      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">suche</h2>
 								        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
-								        	<span class="font__weight-bold">Die Teilnehmer*innen des NCA EtA-Programms mobilisieren zunächst ausreichend Kapital für eine 24-monatige Recherchephase. Das Ziel dieser Phase ist eine Kaufoption mit einem bestehenden Geschäftsinhaber zu eruieren.</span><br>
+								        	<span class="font__weight-bold">a)	Die Teilnehmer*innen des NCA ETA-Programms mobilisieren zunächst ausreichend Kapital für eine 24-monatige Recherchephase. Das Ziel dieser Phase ist eine Kaufoption mit einem bestehenden Geschäftsinhaber zu eruieren.  </span><br>
                                             <span class="d-block mt-20">
-								        	Unsere NCA-Unternehmer haben den Auftrag, nach etablierten und profitablen Unternehmen mit einem geschätzten Unternehmenswert zwischen 10 und 25 Millionen Euro zu suchen. Meist befinden sich diese in fragmentierten Wirtschaftszweigen. Jeder NCA-Unternehmer trifft mit seinen Investoren eine Vorauswahl von Branchen für die weitere Recherche. Grundsätzlich wurde unser Programm aber mit einem Bottom-up-Ansatz konzipiert. Auf unsere Seite speziell für Geschäftsinhaber (untenstehender Link) finden Sie weitere Informationen über die Art von Unternehmen, nach denen wir suchen.
+								        	b)	Unsere NCA-Unternehmer haben den Auftrag, nach etablierten und profitablen Unternehmen mit einem geschätzten Unternehmenswert zwischen 10 und 35 Millionen Euro zu suchen. Meist befinden sich diese in fragmentierten Wirtschaftszweigen. Jeder NCA-Unternehmer trifft mit seinen Investoren eine Vorauswahl von Branchen für die weitere Recherche. Grundsätzlich wurde unser Programm aber mit einem Bottom-up-Ansatz konzipiert. Auf unsere Seite speziell für Geschäftsinhaber (untenstehender Link) finden Sie weitere Informationen über die Art von Unternehmen, nach denen wir suchen.
 								        	</span>
 								        </p>
 								        <div class="next_arrow w-100 mt-30">
@@ -149,7 +149,7 @@
 								        </div>    
 								        <div class="bg-primary question-box card_question_box mt-3">
 											<a href="business-owners.php#where-invest" class="d-block px-4 py-4 text-white" id="target-companies">
-											<p class="font__size-20 text-uppercase font__family-efb question-box-text">Wonach suchen wir in einer ausgewählten KMU? </p>
+											<p class="font__size-20 text-uppercase font__family-efb question-box-text">c) WELCHE ART VON KMU SUCHEN WIR?</p>
 											<div class="text-right arrow_link">
 												<!-- <img src="img/arrow.png" alt="arrow" /> -->
 												<svg id="Forward_arrow" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 60 60">
@@ -172,10 +172,10 @@
 								      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">KAUF</h2>
 									        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 									        	<span class="font__weight-bold">
-												Wir wissen aus eigener Erfahrung, wie man eine erfolgreiche Firma konzipiert, gründet und betreibt. Jeder Schritt dieses Prozesses wird durch Novastone Capital Advisors (NCA) proaktiv supervidiert. NCA agiert bei allen Käufen als Co-Investor und unterstützt zugleich als Pate im Rahmen des Entrepreneurship Through Acquisition (EtA) Programms den Unternehmer, der im Anschluss an den Kauf eine Führungsrolle innerhalb der Firma übernimmt.
+												a)	Wir wissen aus eigener Erfahrung, wie man eine erfolgreiche Firma konzipiert, gründet und betreibt. Jeder Schritt dieses Prozesses wird durch Novastone Capital Advisors (NCA) proaktiv supervidiert. NCA agiert bei allen Käufen als Co-Investor und unterstützt zugleich als Pate im Rahmen des Entrepreneurship Through Acquisition (ETA) Programms den Unternehmer, der im Anschluss an den Kauf eine Führungsrolle innerhalb der Firma übernimmt.
 									            </span><br>		        	 
 									        	<span class="d-block mt-20">
-												NCA unterstützt die Unternehmer unseres EtA-Programms bei den Due-Diligence-Prüfungen und Übernahmeverhandlungen, sobald ein Zielunternehmen ausgewählt worden ist. NCA-Unternehmer stellen anschließend ihr Geschäftskonzept den Investoren vor, um eine Folgefinanzierung für den Kauf zu akquirieren. Sobald der Kauf vollzogen ist, wird eine Gesellschaftervereinbarung mit allen Co-Investoren aufgesetzt, und der NCA-Unternehmer übernimmt die Leitung der ausgewählten Firma. Darüber hinaus sichert der eingesetzte Vorstand das Wachstum der Firma durch die Förderung der vorhandenen Personalressourcen, des Wissen und des Kapitals.
+												b)	NCA unterstützt die Unternehmer unseres ETA-Programms bei den Due-Diligence-Prüfungen und Übernahmeverhandlungen, sobald ein Zielunternehmen ausgewählt worden ist. NCA-Unternehmer stellen anschließend ihr Geschäftskonzept den Investoren vor, um eine Folgefinanzierung für den Kauf zu akquirieren. Sobald der Kauf vollzogen ist, wird eine Gesellschaftervereinbarung mit allen Co-Investoren aufgesetzt, und der NCA-Unternehmer übernimmt die Leitung der ausgewählten Firma. Darüber hinaus sichert der eingesetzte Vorstand das Wachstum der Firma durch die Förderung der vorhandenen Personalressourcen, des Wissens und Kapitals.
 									        	</span>	
 									        </p>	
 									        <div class="next_arrow w-100">
