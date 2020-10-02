@@ -18,8 +18,6 @@
 	<link rel="stylesheet" id="brk-direction-offsets" href="css/assets/offsets.css">
 	<link id="brk-css-min" rel="stylesheet" href="css/assets/styles.min.css">
 	<link rel="stylesheet" type="text/css" href="css/assets/custom.css">
-	<link rel="stylesheet" type="text/css" href="css/assets/nca.css">
-	<link rel="stylesheet" type="text/css" href="css/assets/nca2.css">
 	<link rel="stylesheet" type="text/css" href="css/assets/responsive.css">
 	<!-- <link rel="stylesheet" href="vendor/revslider/css/settings.css"> 
 	<style>#rev_slider_21_1_wrapper .tp-loader.spinner2{ background-color: #0071fc !important; }</style>-->
