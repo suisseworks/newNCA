@@ -25,7 +25,7 @@
 						</div>						
 						<div class="col-lg-2 align-self-lg-stretch text-lg-right header_third_part">
 						<div class="brk-header__item h-100 d-flex align-items-center justify-content-center">
-							<a href="<?php echo $_SESSION['page'] ?>" class="bg-transparent font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button"><?php echo $_SESSION['lan'] ?></a>
+							<a href="<?php echo $_SESSION['page'] ?>" class="bg-transparent font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button"><?php echo $_SESSION['lan']?></a>
 							<a href="#" class="bg-transparent font_family-arial btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn header_btn_mb d-lg-none" data-brk-library="component__button">Deutsch</a>
 							<a href="#" class="bg-transparent font_family-arial btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn header_btn_mb d-lg-none" data-brk-library="component__button">Francais</a>
 

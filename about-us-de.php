@@ -199,10 +199,10 @@
 								      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">Wertschöpfung</h2>
 									        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 									        	<span class="font__weight-bold">
-												Im Anschluss an den Firmenkauf übernehmen NCA-Unternehmer als Nachfolger die Leitung des erworbenen KMU mit den Managementzielen: operative Spitzenleistung, Finanzoptimierung, Digitalisierung und Umsatzanstieg; meist für eine Dauer von mehreren Jahren (3-7+).
+												a)	Im Anschluss an den Firmenkauf übernehmen NCA-Unternehmer als Nachfolger die Leitung des erworbenen KMU mit den Managementzielen: operative Spitzenleistung, Finanzoptimierung, Digitalisierung und Umsatzanstieg; meist für eine Dauer von mehreren Jahren.
 									            </span><br> 
 									        	<span class="d-block mt-20">
-												Unser Entrepreneurship Through Acquisition (EtA) Programm befähigt die NCA-Unternehmer dazu, während des Kaufprozess Mehrheitseigentümer des kleinen oder mittleren/mittelständischen Unternehmens (KMU) zu werden. Es entsteht eine nachhaltige Verbundenheit mit dem Firmenvermächtnis. Durch eine aktive Beteiligung am Management des KMU und durch Beratung in Finanzangelegenheiten erhalten die Unternehmer eine fortlaufende Unterstützung von Novastone Capital Advisors (NCA). Daneben steuern die Co-Investoren als Vorstandsmitglieder ihre Transaktions- und Branchenerfahrung bei.
+												b)	Unser Entrepreneurship Through Acquisition (ETA) Programm befähigt die NCA-Unternehmer dazu, während des Kaufprozess der Mehrheitseigentümer des kleinen oder mittleren/mittelständischen Unternehmens (KMU) zu werden. Es entsteht eine nachhaltige Verbundenheit mit dem Firmenvermächtnis. Durch eine aktive Beteiligung am Management des KMU und durch Beratung in Finanzangelegenheiten erhalten unsere Unternehmer eine fortlaufende Unterstützung von Novastone Capital Advisors (NCA). Daneben steuern die Co-Investoren als Vorstandsmitglieder ihre Transaktions- und Branchenerfahrung bei.
                                                 </span>
 									        </p>	
 									        <div class="next_arrow w-100">
@@ -226,10 +226,10 @@
 								      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">Finanzielle Anreize</h2>
 									        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 									        	<span class="font__weight-bold">
-												Unser Entrepreneurship Through Acquisition (EtA) Programm bietet für alle Interessengruppen gleichermassen attraktive finanzielle Anreize.
+												a)	Unser Entrepreneurship Through Acquisition (ETA) Programm bietet für alle Interessengruppen gleichermassen attraktive finanzielle Anreize.
 										        </span><br>
 									        	<span class="d-block mt-20">
-												Das hochspezialisierte EtA-Programm von Novastone Capital Advisors (NCA) bietet Co-Investoren die Chance, ein diversifiziertes Portfolio bestehend aus profitablen und bestens etablierten europäischen Unternehmen aufzubauen, die von hochkarätigen Branchenexperten in Kollaboration mit NCA ausgewählt und geführt werden. NCA-Unternehmer erreichen durch die bedeutende Beteiligung an einem bestehenden Firmenvermächtnis die nächste Karrierestufe. Die Rolle als Mehrheitseigentümer motiviert unsere NCA-Talente dazu, nachhaltige Wachstumsperspektiven zu schaffen. Somit können etablierte Unternehmen darauf vertrauen, dass wir auf lange Sicht engagiert bleiben.
+												b)	Das hochspezialisierte ETA-Programm von Novastone Capital Advisors (NCA) bietet Co-Investoren die Chance, ein diversifiziertes Portfolio bestehend aus profitablen und bestens etablierten europäischen Unternehmen aufzubauen, die von hochkarätigen Branchenexperten in Kollaboration mit NCA ausgewählt und geführt werden. NCA-Unternehmer erreichen durch die bedeutende Beteiligung an einem bestehenden Firmenvermächtnis die nächste Karrierestufe. Die Rolle als Mehrheitseigentümer motiviert unsere NCA-Talente dazu, nachhaltige Wachstumsperspektiven zu schaffen. Somit können etablierte Unternehmen darauf vertrauen, dass wir auf lange Sicht engagiert bleiben.
 										        </span>	
 									        </p>
 									        <div class="next_arrow w-100">
@@ -623,7 +623,7 @@
 						<div class="position-relative z-index-1">
 							<div class="headline">
 								<h3 class="mb-5 underline title tile_2 wow fadeInUp">
-									Advisory Board
+									Beirat
 								</h3>
 							</div>
 						</div>

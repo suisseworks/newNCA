@@ -15,10 +15,10 @@
 							<h3 class="mb-5 underline title wow fadeInUp">
 							Möchten Sie als Geschäftsinhaber den Bestand Ihres Firmenvermächtnisses nachhaltig sichern?</h3>
 							<h4 class="mb-3 subtitle wow fadeInUp">
-							Durch unser hochspezialisiertes zusammenführen von bestehenden kleinen oder mittleren/mittelständischen Unternehmen (KMU) mit einem hochqualifizierten, talentierten Management können wir Ihre bereits vorhandenen Potenziale und Stärken aufdecken und mit dem Ziel eines kontinuierlichen Wachstums fördern.  
+							Durch unser spezialisiertes zusammenführen von bestehenden KMU mit einem hochqualifizierten, begabten Management können wir vorhandene Potenziale und Stärken aufdecken, mit dem Ziel eines kontinuierlichen Wachstums.
 							</h4>
 							</div>
-							<p class="font__family-open-sans text-content wow fadeInUp pb-xs-60">Suchen Sie aktuell einen Nachfolger oder haben Sie mit einem nicht ausreichend geführten Unternehmen ausserhalb Ihres Kerngeschäfts zu kämpfen? Wir sind für Sie da! Unsere Expertise liegt darin, das Wachstum von KMU durch massgeschneiderte Nachfolgelösungen zu beschleunigen, die Kontinuität und maximale Potentialausschöpfung gewährleisten. Geschäftsinhaber entscheiden sich für Novastone Capital Advisors (NCA), weil wir uns langfristig engagieren. Uns ist bewusst, wie man eine Firma aufbaut und betreibt. Wir schätzen Ihr Unternehmen genau so wie Sie. Gemeinsam mit NCA finden Sie die besten Talente und übertragen Ihre Firma an die nächste Unternehmergeneration, mit allen Ressourcen, die Sie brauchen, um Ihr Firmenvermächtnis zu erhalten und eine nachhaltige Zukunft zu ermöglichen. </p>
+							<p class="font__family-open-sans text-content wow fadeInUp pb-xs-60">Suchen Sie aktuell einen Nachfolger oder haben Sie mit einem nicht ausreichend geführten Unternehmen ausserhalb Ihres Kerngeschäfts zu kämpfen? Wir sind für Sie da! Unsere Expertise liegt darin, das Wachstum von kleinen oder mittleren/mittelständischen Unternehmen (KMU) durch massgeschneiderte Nachfolgelösungen zu beschleunigen, die Kontinuität und maximale Potentialausschöpfung gewährleisten. Geschäftsinhaber entscheiden sich für Novastone Capital Advisors (NCA), weil wir uns langfristig engagieren. Uns ist bewusst, wie man eine Firma aufbaut und betreibt. Wir schätzen Ihr Unternehmen genauso wie Sie. Gemeinsam mit NCA finden Sie die besten Talente und übertragen Ihre Firma an die nächste Unternehmergeneration, mit allen Ressourcen, die Sie brauchen, um Ihr Firmenvermächtnis zu erhalten und eine nachhaltige Zukunft zu ermöglichen. </p>
 						</div>
 					</div>
 					<div class="col-12 col-lg-5">
@@ -31,7 +31,7 @@
 								<div class="bg-primary question-box question_box_responsive wow fadeInUp pb-50 mx-lg-0 mx-5">
 								<a href="" class="d-block p-5 text-white">
 								<h2 class="text-white mb-1">Suchen Sie die perfekte Verbindung?  </h2>
-								<p class="font__family-open-sans font__size-16 question-box-text">Nutzen Sie unser Kontaktformular. </p>
+								<p class="font__family-open-sans font__size-16 question-box-text">Gemeinsam mit NCA finden Sie die besten Talente zur Sicherung Ihres Firmenvermächtnisses. Nutzen Sie unser Kontaktformular und unser Team meldet sich zeitnah zurück.</p>
 								<div class="text-right arrow_link">
 									<img src="img/arrow.png" alt="arrow" />
 								</div>
