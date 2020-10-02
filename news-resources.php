@@ -1,3 +1,6 @@
+<?php 	
+	$_SESSION["lan"] = "English";
+?>
 <?php include 'inc/header.php'; ?>
 
 <section class="pt-80 pb-100 resource_section">

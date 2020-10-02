@@ -1,3 +1,7 @@
+<?php 
+	
+	$_SESSION["lan"] = "English";
+?>
 <?php include 'inc/header.php'; ?>
     <section class="pt-70 co_investors_main mb-5">
         <div class="container">

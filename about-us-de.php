@@ -1,5 +1,6 @@
 <?php 
 	$_SESSION["page"] = "about-us.php";
+	$_SESSION["lan"] = "English";
 ?>
 <?php include 'inc/header-de.php'; ?>
     <section class="pt-lg-70 pt-70 about_section" id="about">

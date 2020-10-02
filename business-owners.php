@@ -1,4 +1,5 @@
 <?php 
+	$_SESSION["lan"] = "Deutsch";
 	$_SESSION["page"] = "business-owners-de.php";
 ?>
 <?php include 'inc/header.php'; ?>

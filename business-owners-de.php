@@ -1,4 +1,5 @@
 <?php 
+	$_SESSION["lan"] = "English";
 	$_SESSION["page"] = "business-owners.php";
 ?>
 
