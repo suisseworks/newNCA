@@ -11,10 +11,10 @@
 
 					<div class="col-12 col-sm-12 col-lg-3 col-xs-12 d-xs-none order-lg-2">
 						<ul class="d-flex flex-column brk-white-font-color font__size-14 font__weight-normal line__height-16 text-sm-left  footer_custom_colum mt-4">
-							<li class="mb-20"><a href="index.php" class="font__family-efb font__size-15">Home</a></li>
-							<li class="mb-20"><a href="about-us.php" class="font__family-efb font__size-15">About us</a></li>
-							<li class="mb-20"><a href="talents.php" class="font__family-efb font__size-15">Talents</a></li>
-							<li class="mb-20"><a href="business-owners.php" class="font__family-efb font__size-15">Business owners & intermediaries</a></li>
+							<li class="mb-20"><a href="index-de.php" class="font__family-efb font__size-15">Home</a></li>
+							<li class="mb-20"><a href="about-us-de.php" class="font__family-efb font__size-15">Über Uns</a></li>
+                            <li class="mb-20"><a href="talents.php" class="font__family-efb font__size-15">Talents</a></li>                            
+							<li class="mb-20"><a href="business-owners-de.php" class="font__family-efb font__size-15">Für Geschäftsinhaber & Vermittler</a></li>
 							<li class="mb-20"><a href="co-investors.php" class="font__family-efb font__size-15">Co-investors</a></li>
 							<li class="mb-20"><a href="news-resources.php" class="font__family-efb font__size-15">News & Resources</a></li>
 						</ul>
@@ -22,6 +22,7 @@
 
 					<div class="col-12 col-sm-12 col-lg-3 col-xs-12 footer_mb_btns order-lg-3 order-1">
 						<div class="d-flex align-items-center justify-content-right footer_btns mt-2">
+						
 						<a href="<?php echo $_SESSION['page'] ?>" class="font__size-10 font__family-open-sans btn language_btn btn-prime btn-sm-1 bg-transparent text-capitalize letter-spacing-100 border-radius-25 btn-no-shadow btn_lang px-1 font__weight-bold" data-brk-library="component__button"><?php echo $_SESSION['lan'] ?></a>
 							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							
@@ -30,10 +31,7 @@
 
 					<div class="col-lg-12 footer_info_text order-lg-4 order-3">
 						<p class="font__size-12 line__height-18 footer_text_clr mt-50 pr-2">
-						This website does not constitute an offer to the public or a solicitation to purchase or
-invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a
-recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is
-of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.
+						Auf dieser Internetpräsenz werden keine öffentlichen Angebote unterbreitet, die zum Kauf eines Finanzinstrumentes oder zur Investition in ein solches auffordern würden. Auf dieser Internetpräsenz zur Verfügung gestellte Daten dienen ausschließlich Informationszwecken und stellen weder ein Angebot, eine Aufforderung noch eine Empfehlung zur Zeichnung einer Finanzdienstleistung dar. Soweit auf dieser Internetpräsenz Ansichten zu Anlagestrategien und Anlageideen zum Ausdruck gebracht werden, sind diese Informationen nur allgemeiner Art und dürfen nicht als Werbung zur Zeichnung einer Finanzdienstleistung oder zur Investition in ein bestimmtes Finanzinstrument ausgelegt werden.
 
 						</p>
 					</div>
@@ -47,7 +45,7 @@ of a general nature only and shall not be construed as advertisement to subscrib
 					<div class="row align-items-center">
 							
 						<div class="col-lg-8 col-sm-12 col-12 col-xs-12">
-							<p class="footer_text_clr font__size-12 pt-15 pb-15 text-sm-left">&#xA9; Novastone Capital Advisors 2020 All rights reserved - <br class="d-lg-none"><a  class="opacity-100 underline brk-white-font-color">Haldenstrasse 5, 6340 Baar, Switzerland</a></p>
+							<p class="footer_text_clr font__size-12 pt-15 pb-15 text-sm-left">&#xA9; Novastone Capital Advisors 2020 All rights reserved - <br class="d-lg-none"><a class="opacity-100 underline brk-white-font-color">Haldenstrasse 5, 6340 Baar, Switzerland</a></p>
 						</div>
 						<div class="col-lg-4 col-sm-12 col-12 col-xs-12">
 							<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12">

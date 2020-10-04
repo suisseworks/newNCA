@@ -12,14 +12,14 @@
 					<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					<div class="detail_searcher mt-2">
 						<h2 class="font__family-efb text-uppercase line__height-90">Jan <br> Nikolaisen</h2>
-						<h4 class="font__size-38 mt-4">NCA Entrepreneurship</h4>
+						<h4 class="font__size-38 mt-4">NCA Unternehmer</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2020</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2022</span>
+							<span class="font-weight-bold font__size-22">2020</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2021</span>
 						</div>
-						<p class="font__size-18 line__height-24">Nach meiner Kindheit in Norwegen habe ich in Deutschland, der Schweiz, Spanien, den Niederlanden, England und Schottland gelebt. Ein vielseitig interessierter Karriereweg führte mich über Jura, Strategieberatung und Venture/Private-Equity-Investitionen schliesslich zu meiner grössten Leidenschaft, dem Unternehmertum. Ich war Mitgründer von zwei Unternehmen in den Bereichen erneuerbare Energien und Biotechnologie. Meinen unternehmerischen Weg möchte nun durch einen Firmenkauf fortsetzen. </p>
+						<p class="font__size-18 line__height-24">Nach meiner Kindheit in Norwegen habe ich in Deutschland, der Schweiz, Spanien, den Niederlanden, England und Schottland gelebt. Ein vielseitig interessierter Karriereweg führte mich über Jura, Strategieberatung und Venture/Private-Equity-Investitionen schliesslich zu meiner grössten Leidenschaft, dem Unternehmertum. Ich war Mitgründer von zwei Unternehmen in den Bereichen erneuerbare Energien und Biotechnologie. Meinen unternehmerischen Weg möchte nun durch einen Firmenkauf fortsetzen.</p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="#" type="button" class="btn text-white font__family-efb">kontaktiere mich<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:jan.nikolaisen@novaston-ca.com" type="button" class="btn text-white font__family-efb">kontaktiere mich<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -53,7 +53,7 @@
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MEINE SUCHE</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Ich möchte ein auf vielerlei Ebenen bedeutendes Unternehmen erwerben und das Vermächtnis gestalten</p>
+					<p class="font__size-16 line__height-24 font__family-efb">Ich möchte ein auf vielen Ebenen bedeutendes Unternehmen erwerben und das Vermächtnis gestalten.</p>
 					<p class="font__size-16 line__height-24 mt-2">Mich interessieren insbesondere die Themen Nachhaltigkeit und alternde Gesellschaft, samt der Herausforderungen, die diese für Unternehmen mitbringt. Geografisch suche ich in erster Linie in der DACH-Region oder in den nordischen Ländern.</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">Mein Beitrag</h2>
@@ -97,10 +97,10 @@
 						  <path id="Path_6602" data-name="Path 6602" d="M725.4-850.671c6.158,4.2,23.007,17.9,29.133,45.4l.086.389h2.547l-.132-.607c-7.571-34.61-32.04-48.449-32.286-48.585l-1.842-1.013v50.233h2.5Z" transform="translate(-722.906 856.146)" fill="#fff"/>
 						</svg>
 					</span>
-					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Entrepreneurship</h3>
-					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">NCA’s Entrepreneurship Through <br> Das Akquisitionsprogramm unterstützt die nächste Generation außergewöhnlicher Talente in jeder Phase der unternehmerischen Reise.</p>
+					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Unternehmer </h3>
+					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">Das NCA Entrepreneurship <br> Through Acquisition Programm begleitet die nächste Generation aussergewöhnlicher Talente auf jeder Etappe ihres unternehmerischen Weges.</p>
 					<div class="learn_more_btns learn_about_btn mt-5 mb-4 pb-2">
-						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">lerne mehr über uns span <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a href="about-us-de.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">ERFAHRE MEHR <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 							  <defs>
 							    <clipPath id="clip-path">
 							      <rect width="38" height="38" fill="none"/>
@@ -135,10 +135,10 @@
 		<div class="row no-gutters">
 			<div class="col-lg-4">
 				<div class="about_contact_info pl-100 bg-white pr-100 pt-60 pb-80">
-					<h2 class="font__family-efb text-uppercase mb-3">LASS UNS REDEN !</h2>
+					<h2 class="font__family-efb text-uppercase mb-3">Meine Kontaktdetails</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:Jan.nikolaisen@novastone-ca.com">Jan.nikolaisen@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:jan.nikolaisen@novastone-ca.com">jan.nikolaisen@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -174,7 +174,7 @@
 						<div class="jan_detail mt-4">
 							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">Diese Website stellt kein Angebot an die Öffentlichkeit oder eine Aufforderung zum Kauf oder zur Investition in ein Finanzinstrument dar. Die auf dieser Website bereitgestellten Informationen dienen nur zu Informationszwecken und stellen kein Angebot, keine Aufforderung oder Empfehlung dar, eine Finanzdienstleistung zu abonnieren. Soweit diese Website Ansichten zu Anlagestrategien und Anlageideen zum Ausdruck bringt, sind solche Informationen nur allgemeiner Natur und dürfen nicht als Werbung für die Zeichnung einer Finanzdienstleistung oder für eine Anlage in ein bestimmtes Finanzinstrument ausgelegt werden.</p>
 
-							<a href="index.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Webseite <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
+							<a href="index-de.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Webseite <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="10" height="10" fill="none"/>
@@ -190,8 +190,8 @@
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:name.surname@novastone.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">name.surname@novastone.com</a>
-						<a href="#" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:jan.nikolaisen@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">jan.nikolaisen@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
@@ -202,8 +202,8 @@
 						</div>
 						<div class="col-lg-4 col-sm-12 col-12 col-xs-12">
 							<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12">
-								<li><a href="img/Terms-and-Conditions-Legal Notice.pdf" download="">Geschäftsbedingungen</a></li>
-								<li><a href="img/NCA - Privacy-Policy.pdf" download="">Datenschutz-Bestimmungen</a></li>
+								<li><a href="img/Terms-and-Conditions-Legal Notice.pdf" download="">Terms and Conditions</a></li>
+								<li><a href="img/NCA-Privacy-Policy.pdf" download="">Privacy Policy</a></li>
 							</ul>
 						</div>
 					</div>

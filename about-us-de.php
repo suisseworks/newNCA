@@ -26,7 +26,7 @@
 									<div class="responsive_xs_pad pl-60 pt-120 pb-90 position-relative z-index-1">
 										<div class="headline about_headline">
 										<h3 class="mb-3 underline title wow fadeInUp">
-										Ein Konsortium privater Single-Family-Offices gründete das Schweizer Unternehmen Novastone Capital Advisors (NCA), um ein Programm für Unternehmertum durch Firmenkauf <br> zu offerieren. 
+										Ein Konsortium privater Single-Family-Offices gründete das Schweizer Unternehmen Novastone Capital Advisors (NCA), um ein Programm für Unternehmertum durch Firmenkauf zu offerieren. 
 										</h3>
 										<h4 class="mb-5 subtitle wow fadeInUp subtitle_text">
 										Unser Entrepreneurship Through Acquisition (ETA) Programm vernetzt zielgerichtet Investoren mit talentierten Unternehmern, die eine privat geführte Firma finden, übernehmen, führen und weiterentwickeln möchten.
@@ -51,7 +51,7 @@
                                     	<div class="three_circles d-flex justify-content-center align-items-center talents_circle">
                                     		<span class="d-block font__size-16 pt-5 pl-30 circle_text font__family-efb">Talents</span>
                                     	</div> -->
-                                    	<img src="img/nca-circles.png" class="nca_circles_img">
+                                    	<img src="img/nca-circles-de.png" class="nca_circles_img">
                                     </div>	
 								</div>	
 							</div>
@@ -81,7 +81,7 @@
 							      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">Talentbeschaffung</h2>
 								        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 								        	
-                                        a)	Unser Entrepreneurship Through Acquisition (ETA) Programm wählt sorgfältig Talente mit MBA/EMBA und mindestens 10 Jahren Berufserfahrung aus. Während des gesamten Such- und Kaufprozesses steht das Novastone Capital Advisors (NCA) Team unterstützend zur Verfügung. Alle Bewerber mit Interesse am Werdegang zum NCA-Unternehmer durchlaufen ein striktes Prüfungs- und Auswahlverfahren, bevor sie in unser Programm aufgenommen werden (lesen Sie mehr über unser Verfahren auf der <a href="talents.php">Talents-Seite</a> ). Zur Akquisition hochkarätiger unternehmerischer Talente für unser ETA-Programm nehmen wir nicht nur Direktbewerbungen über unsere Website entgegen, sondern kollaborieren ausserdem mit den renommiertesten Business Schools.
+                                        Unser Entrepreneurship Through Acquisition (ETA) Programm wählt sorgfältig Talente mit MBA/EMBA und mindestens 10 Jahren Berufserfahrung aus. Während des gesamten Such- und Kaufprozesses steht das Novastone Capital Advisors (NCA) Team unterstützend zur Verfügung. Alle Bewerber mit Interesse am Werdegang zum NCA-Unternehmer durchlaufen ein striktes Prüfungs- und Auswahlverfahren, bevor sie in unser Programm aufgenommen werden (lesen Sie mehr über unser Verfahren auf der <a class="underline" href="talents.php">Talents-Seite</a> ). Zur Akquisition hochkarätiger unternehmerischer Talente für unser ETA-Programm nehmen wir nicht nur Direktbewerbungen über unsere Website entgegen, sondern kollaborieren ausserdem mit den renommiertesten Business Schools.
 								        </p>
 								        <div class="next_arrow w-100">
 								            <span class="next_accordion position-absolute" data-toggle="collapse" data-target="#collapseTwo">
@@ -135,9 +135,9 @@
 							      	<div class="card_body_content">
 							      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">suche</h2>
 								        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
-								        	<span class="font__weight-bold">a)	Die Teilnehmer*innen des NCA ETA-Programms mobilisieren zunächst ausreichend Kapital für eine 24-monatige Recherchephase. Das Ziel dieser Phase ist eine Kaufoption mit einem bestehenden Geschäftsinhaber zu eruieren.  </span><br>
+								        	<span class="font__weight-bold">Die Teilnehmer*innen des NCA ETA-Programms mobilisieren zunächst ausreichend Kapital für eine 24-monatige Recherchephase. Das Ziel dieser Phase ist eine Kaufoption mit einem bestehenden Geschäftsinhaber zu eruieren.  </span><br>
                                             <span class="d-block mt-20">
-								        	b)	Unsere NCA-Unternehmer haben den Auftrag, nach etablierten und profitablen Unternehmen mit einem geschätzten Unternehmenswert zwischen 10 und 35 Millionen Euro zu suchen. Meist befinden sich diese in fragmentierten Wirtschaftszweigen. Jeder NCA-Unternehmer trifft mit seinen Investoren eine Vorauswahl von Branchen für die weitere Recherche. Grundsätzlich wurde unser Programm aber mit einem Bottom-up-Ansatz konzipiert. Auf unsere Seite speziell für Geschäftsinhaber (untenstehender Link) finden Sie weitere Informationen über die Art von Unternehmen, nach denen wir suchen.
+								        	Unsere NCA-Unternehmer haben den Auftrag, nach etablierten und profitablen Unternehmen mit einem geschätzten Unternehmenswert zwischen 10 und 35 Millionen Euro zu suchen. Meist befinden sich diese in fragmentierten Wirtschaftszweigen. Jeder NCA-Unternehmer trifft mit seinen Investoren eine Vorauswahl von Branchen für die weitere Recherche. Grundsätzlich wurde unser Programm aber mit einem Bottom-up-Ansatz konzipiert. Auf unsere Seite speziell für Geschäftsinhaber (untenstehender Link) finden Sie weitere Informationen über die Art von Unternehmen, nach denen wir suchen.
 								        	</span>
 								        </p>
 								        <div class="next_arrow w-100 mt-30">
@@ -148,8 +148,8 @@
 								            </span>
 								        </div>    
 								        <div class="bg-primary question-box card_question_box mt-3">
-											<a href="business-owners.php#where-invest" class="d-block px-4 py-4 text-white" id="target-companies">
-											<p class="font__size-20 text-uppercase font__family-efb question-box-text">c) WELCHE ART VON KMU SUCHEN WIR?</p>
+											<a href="business-owners-de.php#where-invest" class="d-block px-4 py-4 text-white" id="target-companies">
+											<p class="font__size-20 text-uppercase font__family-efb question-box-text">WELCHE ART VON KMU SUCHEN WIR?</p>
 											<div class="text-right arrow_link">
 												<!-- <img src="img/arrow.png" alt="arrow" /> -->
 												<svg id="Forward_arrow" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 60 60">
@@ -172,10 +172,10 @@
 								      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">KAUF</h2>
 									        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 									        	<span class="font__weight-bold">
-												a)	Wir wissen aus eigener Erfahrung, wie man eine erfolgreiche Firma konzipiert, gründet und betreibt. Jeder Schritt dieses Prozesses wird durch Novastone Capital Advisors (NCA) proaktiv supervidiert. NCA agiert bei allen Käufen als Co-Investor und unterstützt zugleich als Pate im Rahmen des Entrepreneurship Through Acquisition (ETA) Programms den Unternehmer, der im Anschluss an den Kauf eine Führungsrolle innerhalb der Firma übernimmt.
+												Wir wissen aus eigener Erfahrung, wie man eine erfolgreiche Firma konzipiert, gründet und betreibt. Jeder Schritt dieses Prozesses wird durch Novastone Capital Advisors (NCA) proaktiv supervidiert. NCA agiert bei allen Käufen als Co-Investor und unterstützt zugleich als Pate im Rahmen des Entrepreneurship Through Acquisition (ETA) Programms den Unternehmer, der im Anschluss an den Kauf eine Führungsrolle innerhalb der Firma übernimmt.
 									            </span><br>		        	 
 									        	<span class="d-block mt-20">
-												b)	NCA unterstützt die Unternehmer unseres ETA-Programms bei den Due-Diligence-Prüfungen und Übernahmeverhandlungen, sobald ein Zielunternehmen ausgewählt worden ist. NCA-Unternehmer stellen anschließend ihr Geschäftskonzept den Investoren vor, um eine Folgefinanzierung für den Kauf zu akquirieren. Sobald der Kauf vollzogen ist, wird eine Gesellschaftervereinbarung mit allen Co-Investoren aufgesetzt, und der NCA-Unternehmer übernimmt die Leitung der ausgewählten Firma. Darüber hinaus sichert der eingesetzte Vorstand das Wachstum der Firma durch die Förderung der vorhandenen Personalressourcen, des Wissens und Kapitals.
+												NCA unterstützt die Unternehmer unseres ETA-Programms bei den Due-Diligence-Prüfungen und Übernahmeverhandlungen, sobald ein Zielunternehmen ausgewählt worden ist. NCA-Unternehmer stellen anschließend ihr Geschäftskonzept den Investoren vor, um eine Folgefinanzierung für den Kauf zu akquirieren. Sobald der Kauf vollzogen ist, wird eine Gesellschaftervereinbarung mit allen Co-Investoren aufgesetzt, und der NCA-Unternehmer übernimmt die Leitung der ausgewählten Firma. Darüber hinaus sichert der eingesetzte Vorstand das Wachstum der Firma durch die Förderung der vorhandenen Personalressourcen, des Wissens und Kapitals.
 									        	</span>	
 									        </p>	
 									        <div class="next_arrow w-100">
@@ -199,10 +199,10 @@
 								      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">Wertschöpfung</h2>
 									        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 									        	<span class="font__weight-bold">
-												a)	Im Anschluss an den Firmenkauf übernehmen NCA-Unternehmer als Nachfolger die Leitung des erworbenen KMU mit den Managementzielen: operative Spitzenleistung, Finanzoptimierung, Digitalisierung und Umsatzanstieg; meist für eine Dauer von mehreren Jahren.
+												Im Anschluss an den Firmenkauf übernehmen NCA-Unternehmer als Nachfolger die Leitung des erworbenen KMU mit den Managementzielen: operative Spitzenleistung, Finanzoptimierung, Digitalisierung und Umsatzanstieg; meist für eine Dauer von mehreren Jahren.
 									            </span><br> 
 									        	<span class="d-block mt-20">
-												b)	Unser Entrepreneurship Through Acquisition (ETA) Programm befähigt die NCA-Unternehmer dazu, während des Kaufprozess der Mehrheitseigentümer des kleinen oder mittleren/mittelständischen Unternehmens (KMU) zu werden. Es entsteht eine nachhaltige Verbundenheit mit dem Firmenvermächtnis. Durch eine aktive Beteiligung am Management des KMU und durch Beratung in Finanzangelegenheiten erhalten unsere Unternehmer eine fortlaufende Unterstützung von Novastone Capital Advisors (NCA). Daneben steuern die Co-Investoren als Vorstandsmitglieder ihre Transaktions- und Branchenerfahrung bei.
+												Unser Entrepreneurship Through Acquisition (ETA) Programm befähigt die NCA-Unternehmer dazu, während des Kaufprozess der Mehrheitseigentümer des kleinen oder mittleren/mittelständischen Unternehmens (KMU) zu werden. Es entsteht eine nachhaltige Verbundenheit mit dem Firmenvermächtnis. Durch eine aktive Beteiligung am Management des KMU und durch Beratung in Finanzangelegenheiten erhalten unsere Unternehmer eine fortlaufende Unterstützung von Novastone Capital Advisors (NCA). Daneben steuern die Co-Investoren als Vorstandsmitglieder ihre Transaktions- und Branchenerfahrung bei.
                                                 </span>
 									        </p>	
 									        <div class="next_arrow w-100">
@@ -226,10 +226,10 @@
 								      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">Finanzielle Anreize</h2>
 									        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 									        	<span class="font__weight-bold">
-												a)	Unser Entrepreneurship Through Acquisition (ETA) Programm bietet für alle Interessengruppen gleichermassen attraktive finanzielle Anreize.
+												Unser Entrepreneurship Through Acquisition (ETA) Programm bietet für alle Interessengruppen gleichermassen attraktive finanzielle Anreize.
 										        </span><br>
 									        	<span class="d-block mt-20">
-												b)	Das hochspezialisierte ETA-Programm von Novastone Capital Advisors (NCA) bietet Co-Investoren die Chance, ein diversifiziertes Portfolio bestehend aus profitablen und bestens etablierten europäischen Unternehmen aufzubauen, die von hochkarätigen Branchenexperten in Kollaboration mit NCA ausgewählt und geführt werden. NCA-Unternehmer erreichen durch die bedeutende Beteiligung an einem bestehenden Firmenvermächtnis die nächste Karrierestufe. Die Rolle als Mehrheitseigentümer motiviert unsere NCA-Talente dazu, nachhaltige Wachstumsperspektiven zu schaffen. Somit können etablierte Unternehmen darauf vertrauen, dass wir auf lange Sicht engagiert bleiben.
+												Das hochspezialisierte ETA-Programm von Novastone Capital Advisors (NCA) bietet Co-Investoren die Chance, ein diversifiziertes Portfolio bestehend aus profitablen und bestens etablierten europäischen Unternehmen aufzubauen, die von hochkarätigen Branchenexperten in Kollaboration mit NCA ausgewählt und geführt werden. NCA-Unternehmer erreichen durch die bedeutende Beteiligung an einem bestehenden Firmenvermächtnis die nächste Karrierestufe. Die Rolle als Mehrheitseigentümer motiviert unsere NCA-Talente dazu, nachhaltige Wachstumsperspektiven zu schaffen. Somit können etablierte Unternehmen darauf vertrauen, dass wir auf lange Sicht engagiert bleiben.
 										        </span>	
 									        </p>
 									        <div class="next_arrow w-100">
@@ -263,7 +263,7 @@
 								NCA-Unternehmer 
 							</h3>
 							<h4 class="mb-5 subtitle wow fadeInUp">
-							Nach einem strikten Auswahlverfahren besteht unsere aktuelle Kohorte von NCA-Unternehmern ausschliesslich aus aussergewöhnlichen Talenten, die ausgesprochen motiviert sind, den einzigartigen Weg unseres EtA-Programmes zu beschreiten.
+							Nach einem strikten Auswahlverfahren besteht unsere aktuelle Kohorte von NCA-Unternehmern ausschliesslich aus aussergewöhnlichen Talenten, die ausgesprochen motiviert sind, den einzigartigen Weg unseres ETA-Programmes zu beschreiten.
 							</h4>
 							</div>
 						</div>
@@ -291,7 +291,7 @@
 	                </div>	
 				</div>
 				<div class="row no-gutters new_row mt-70 mb-130">
-					<div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+				<!--	<div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                         <div class="img_section w-100">
                         	<img class="w-100" src="img/Mike.jpg">
                         </div>	
@@ -347,7 +347,8 @@
 							
 						</div>	
                         </div>	
-					</div>
+					</div> 
+-->
 					<div class="col-lg-4 member_card mt-10 mt-lg-0 pl-5 pr-5">
                         <div class="img_section w-100">
                         	<img class="w-100" src="img/Jan.jpg">
@@ -371,12 +372,12 @@
                         <div class="img_section stay_tuned w-100 position-relative">
                         	<img class="w-100" src="img/stay_tuned.png">
                         	<h2 class="text-uppercase position-absolute font__family-efb font__size-30 d-flex align-items-center justify-content-center opacity-60">
-                        		Stay tuned
+                        		Bleiben Sie Dran
                         	</h2>
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<a href="talents.php">
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Coming soon</h5>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb"> Bald gibt es hier</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">3 NCA Unternehmer<br>20 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
 				        			 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
 									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
@@ -390,7 +391,7 @@
 					<div class="col-lg-4 member_card mt-10 mt-lg-0 pl-5 pr-5">
                         	<div class="bg-primary question-box question-box-height">
 								<a href="talents.php" class="d-block py-5 px-4 text-white h-100">
-								<h2 class="text-white mb-1 font__family-efb text-uppercase">Interessiert, sich uns anzuschliessen? </h2>
+								<h2 class="text-white mb-1 font__family-efb text-uppercase">Interessiert, sich uns <span class="fixSize">anzuschliessen? <span> </h2>
 								<div class="text-right arrow_link">
 									<svg id="SMALL_ARROW" data-name="SMALL ARROW" xmlns="http://www.w3.org/2000/svg" width="34.975" height="34.976" viewBox="0 0 34.975 34.976">
 									  <path id="Path_10" data-name="Path 10" d="M17.488,0l-3.18,3.18L26.345,15.217H0v4.542H26.345L14.308,31.8l3.18,3.18L34.975,17.488Z" fill="#fff"/>
@@ -574,7 +575,7 @@
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb"><br> Gil RosenKrants </h5>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb"><br> Gil Rosenkrantz </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 			        				Marketing Associate<br>Marketing, Communications & PR 
 			        			</p>
@@ -676,4 +677,4 @@
 			</div>		
 		</div>	
 	</section>
-<?php include 'inc/footer.php' ?>
+<?php include 'inc/footer-de.php' ?>

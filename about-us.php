@@ -2,7 +2,6 @@
 	$_SESSION["lan"] = "Deutsch";
 	$_SESSION["page"] = "about-us-de.php";
 ?>
-?>
 
 <?php include 'inc/header.php'; ?>
     <section class="pt-lg-70 pt-70 about_section" id="about">
@@ -80,7 +79,7 @@
 							      	<div class="card_body_content">
 							      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">Talent Sourcing</h2>
 								        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
-								        	a) Our program carefully selects talents (with an MBA/EMBA and ~10 years work experience) and our team supports them through every phase of the search and acquisition process. All candidates who submit an application to become an NCA entrepreneur undergo a rigorous screening and selection process before being accepted into our program (read more about our selection process on our dedicated <a href="talents.php" class="underline">Talents page</a>).<br> In addition to accepting direct applications through our website, we also partner with the best business schools to source top-tier entrepreneurial talent for our ETA program. 
+								        	Our program carefully selects talents (with an MBA/EMBA and ~10 years work experience) and our team supports them through every phase of the search and acquisition process. All candidates who submit an application to become an NCA entrepreneur undergo a rigorous screening and selection process before being accepted into our program (read more about our selection process on our dedicated <a href="talents.php" class="underline">Talents page</a>).<br> In addition to accepting direct applications through our website, we also partner with the best business schools to source top-tier entrepreneurial talent for our ETA program. 
 								        </p>
 								        <div class="next_arrow w-100">
 								            <span class="next_accordion position-absolute" data-toggle="collapse" data-target="#collapseTwo">
@@ -134,9 +133,9 @@
 							      	<div class="card_body_content">
 							      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">search</h2>
 								        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
-								        	<span class="font__weight-bold"> a)	Talented individuals that are admitted into the NCA program initially raise a small pool of capital to finance a 24-month research project with the sole objective of identifying an acquisition opportunity with an existing business owner.</span><br>
+								        	<span class="font__weight-bold"> Talented individuals that are admitted into the NCA program initially raise a small pool of capital to finance a 24-month research project with the sole objective of identifying an acquisition opportunity with an existing business owner.</span><br>
                                             <span class="d-block mt-20">
-								        	b) Our NCA Entrepreneurs are mandated to search for well-established, profitable companies, usually in fragmented industries with an estimated enterprise value between EUR 10 to EUR 35 million. While each NCA Entrepreneur will conduct research in the industries they have pre-defined with their investors, our program was built with a bottom up approach. Please visit our dedicated Business Owners page (link below) for additional information about the type of companies we are looking for.
+								        	Our NCA Entrepreneurs are mandated to search for well-established, profitable companies, usually in fragmented industries with an estimated enterprise value between EUR 10 to EUR 35 million. While each NCA Entrepreneur will conduct research in the industries they have pre-defined with their investors, our program was built with a bottom up approach. Please visit our dedicated Business Owners page (link below) for additional information about the type of companies we are looking for.
 								        	</span>
 								        </p>
 								        <div class="next_arrow w-100 mt-30">
@@ -171,10 +170,10 @@
 								      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">ACQUISITION</h2>
 									        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 									        	<span class="font__weight-bold">
-										        	a) We know from our own experience what it takes to design, set up, and run a successful business. NCA actively oversees every step of the process and co-invests in each acquisition while supporting the sponsored NCA Entrepreneur, who takes on a managerial role within the company post-acquisition.
+										        	We know from our own experience what it takes to design, set up, and run a successful business. NCA actively oversees every step of the process and co-invests in each acquisition while supporting the sponsored NCA Entrepreneur, who takes on a managerial role within the company post-acquisition.
 									            </span><br>		        	 
 									        	<span class="d-block mt-20">
-									        		b) NCA supports entrepreneurs in our ETA program with due diligence and negotiations for acquisition once a target company has been identified. NCA Entrepreneurs then present the deal to investors and solicit a second round of follow-on funding to support the acquisition. Upon acquisition, a shareholder's agreement is put in place between all involved co-investors and the NCA Entrepreneur takes on management of the target company. A Board of Directors is set in place to further help create growth within target companies by maximizing existing talent, capital, and capabilities.
+									        		NCA supports entrepreneurs in our ETA program with due diligence and negotiations for acquisition once a target company has been identified. NCA Entrepreneurs then present the deal to investors and solicit a second round of follow-on funding to support the acquisition. Upon acquisition, a shareholder's agreement is put in place between all involved co-investors and the NCA Entrepreneur takes on management of the target company. A Board of Directors is set in place to further help create growth within target companies by maximizing existing talent, capital, and capabilities.
 									        	</span>	
 									        </p>	
 									        <div class="next_arrow w-100">
@@ -198,10 +197,10 @@
 								      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">Value Creation</h2>
 									        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 									        	<span class="font__weight-bold">
-										        	a) Post-acquisition, NCA Entrepreneurs typically operate acquired businesses over several years, managing the company for operational excellence, financial optimization, digitalization, and revenue growth.
+										        	Post-acquisition, NCA Entrepreneurs typically operate acquired businesses over several years, managing the company for operational excellence, financial optimization, digitalization, and revenue growth.
 									            </span><br> 
 									        	<span class="d-block mt-20">
-										        	b) Because our ETA program allows NCA Entrepreneurs to become the largest shareholder of the company during acquisition, we ensure our long-term commitment to the business legacy. NCA continues to support our Entrepreneurs through active involvement in the company’s management and advising on financial matters, while co-investors continue to offer transaction and industry experience as board members alongside NCA.
+										        	Because our ETA program allows NCA Entrepreneurs to become the largest shareholder of the company during acquisition, we ensure our long-term commitment to the business legacy. NCA continues to support our Entrepreneurs through active involvement in the company’s management and advising on financial matters, while co-investors continue to offer transaction and industry experience as board members alongside NCA.
                                                 </span>
 									        </p>	
 									        <div class="next_arrow w-100">
@@ -222,13 +221,13 @@
 							    <div id="collapseFive" class="collapse width" data-parent="#accordionHorizontalExample">
 							        <div class="card-body">
 								      	<div class="card_body_content">
-								      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">FINAL REWARDS</h2>
+								      		<h2 class="card_body_title mb-3 text-uppercase font__family-efb font__size-58">FINANCIAL REWARDS</h2>
 									        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 									        	<span class="font__weight-bold">
-										        	a) Our Entrepreneurship Through Acquisition program generates mutually beneficial financial rewards for all stakeholders.
+										        	Our Entrepreneurship Through Acquisition program generates mutually beneficial financial rewards for all stakeholders.
 										        </span><br>
 									        	<span class="d-block mt-20">
-										        	b) NCA’s highly specialized ETA program offers co-investors the possibility to build a diversified portfolio of profitable and well-established European companies, identified and managed by top-notch industry professionals in partnership with NCA. NCA Entrepreneurs benefit professionally by establishing a meaningful economic stake in an existing business legacy, and existing businesses can rest assured that we’re in it for the long haul, with NCA talent incentivized to optimize long-term growth as they become the largest shareholder.
+										        	NCA’s highly specialized ETA program offers co-investors the possibility to build a diversified portfolio of profitable and well-established European companies, identified and managed by top-notch industry professionals in partnership with NCA. NCA Entrepreneurs benefit professionally by establishing a meaningful economic stake in an existing business legacy, and existing businesses can rest assured that we’re in it for the long haul, with NCA talent incentivized to optimize long-term growth as they become the largest shareholder.
 										        </span>	
 									        </p>
 									        <div class="next_arrow w-100">
@@ -290,7 +289,7 @@
 	                </div>	
 				</div>
 				<div class="row no-gutters new_row mt-70 mb-130">
-					<div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+					<!-- <div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                         <div class="img_section w-100">
                         	<img class="w-100" src="img/Mike.jpg">
                         </div>	
@@ -347,6 +346,7 @@
 						</div>	
                         </div>	
 					</div>
+						-->
 					<div class="col-lg-4 member_card mt-10 mt-lg-0 pl-5 pr-5">
                         <div class="img_section w-100">
                         	<img class="w-100" src="img/Jan.jpg">
@@ -420,7 +420,7 @@
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Elena Trukhina</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CO-CEO<br>NCA entrepreneur's management, Deal flow & Europe Operations</p>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CO-CEO<br>NCA Entrepreneur Management, Deal Flow & Europe Operations</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/elena-trukhina-b058453/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
@@ -434,7 +434,7 @@
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Christian Malek</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CO-CEO<br> Co-investors relations, Fund management & US Operations</p>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CO-CEO<br>Co-Investor Relations, Fund Management & US Operations</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/christian-malek-2088368b/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>	
@@ -449,7 +449,7 @@
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Dagmar Birker</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">Head of Business Development Unit & <br>Co-Investor Management </p>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">Executive Director<br>Head of Business Development Unit & <br> Co-Investor Management</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/dagmarbirker/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
@@ -481,7 +481,7 @@
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Graciela Ramirez</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-			        			    Head of Legal & Compliance
+			        			    Head of Legal & Compliance <br>Legal & Compliance
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/graciela-ramirez-cuevas-4561a311/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -497,7 +497,7 @@
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Elisa Lorenzi </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-			        				VP Talent management 
+			        				VP Talent Management <br> NCA Entrepreneur Selection & Onboarding
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/elisa-lorenzi/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -591,7 +591,7 @@
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Jessica Ajzensztejn  </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-			        				Deal Associate Support<br> Deal Flow Support in DACH 
+			        				Deal Associate Support<br> Search & Deal Flow Support DACH
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/jessica-ajzensztejn-157678184/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>

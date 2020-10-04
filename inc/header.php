@@ -26,8 +26,8 @@
 						<div class="col-lg-2 align-self-lg-stretch text-lg-right header_third_part">
 						<div class="brk-header__item h-100 d-flex align-items-center justify-content-center">
 							<a href="<?php echo $_SESSION['page'] ?>" class="bg-transparent font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button"><?php echo $_SESSION['lan']?></a>
-							<a href="#" class="bg-transparent font_family-arial btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn header_btn_mb d-lg-none" data-brk-library="component__button">Deutsch</a>
-							<a href="#" class="bg-transparent font_family-arial btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn header_btn_mb d-lg-none" data-brk-library="component__button">Francais</a>
+							
+							
 
 							<div class="footer_btns">
 							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a></div>
@@ -157,7 +157,7 @@
 									</div>       
                                 </form>
                                 <div class="privacy_policy_link text-center mt-20">
-                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white underline"> & </span><a href="img/NCA - Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
+                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white underline"> & </span><a href="img/NCA-Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
                                 </div>	
 							</div>
 						</div>	
@@ -222,7 +222,7 @@
 									</div>   
                                 </form>
                                 <div class="privacy_policy_link text-center mt-20">
-                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white underline"> & </span><a href="img/NCA - Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
+                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white underline"> & </span><a href="img/NCA-Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
                                 </div>	
 							</div>
 						</div>	
@@ -292,7 +292,7 @@
 									</div>   
                                 </form>
                                 <div class="privacy_policy_link text-center mt-20">
-                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white underline"> & </span><a href="img/NCA - Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
+                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white underline"> & </span><a href="img/NCA-Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
                                 </div>	
 							</div>
 						</div>	
