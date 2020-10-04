@@ -30,7 +30,7 @@
 							<a href="#" class="bg-transparent font_family-arial btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn header_btn_mb d-lg-none" data-brk-library="component__button">Francais</a>
 
 							<div class="footer_btns">
-							<a href="#" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a></div>
+							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a></div>
 						</div>
 						</div>
 					</div>

@@ -28,7 +28,8 @@
                         	</div>
                         </div>
                      </div>
-                     <div class="play_button left_btn brk-hosted-video" data-brk-library="component__media_embeds,fancybox">
+					 
+					 <div class="play_button left_btn brk-hosted-video" data-brk-library="component__media_embeds,fancybox">
                         <!-- <a class="d-flex align-items-center fancybox" href="https://youtu.be/AFtUpMTs4vI" data-brk-library="fancybox"><i class="fas fa-play font__size-25"></i><span class="ml-2 font__size-12">PLAY</span></a> -->
                         <div class="brk-hosted-video__body">
 	                        <a class="d-flex align-items-center fancybox brk-hosted-video__btn" href="https://youtu.be/g1x9R3S6ewk" data-brk-library="component__button"><img src="img/video_thumbnail.png"></i><span class="ml-2 font__size-12">PLAY</span></a>
@@ -92,7 +93,7 @@
                         	<div class="row">
                         		<div class="col-6">
                         			<h6 class="mt-1">
-			                           	<span class="font__family-montserrat font__weight-semibold font__size-14 letter-spacing--60 uppercase text-white">What we look for in talents?</span>
+			                           	<span class="font__family-montserrat font__weight-semibold font__size-14 letter-spacing--60 uppercase text-white">What we look for in talents</span>
 			                          </h6>
                         		</div>
                         		<div class="col-6">
@@ -194,7 +195,7 @@
 									<div class="brk-testimonials-layered-horizontal__item text-center rounded-0 shadow-none">
 										<div class="font__weight-bold process_title_count">1</div>
 										<div class="font__weight-bold font__size-40 process_title">Application</div>
-										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">In order to join our ETA program and become an NCA Entrepreneur, please complete our online  <a href="https://recruiterflow.com/db_0fc1b0c1621a0503c0811aa2c11a9774/jobs/16" target="_blank" class="underline">Application Form</a>.Be ready to submit your CV and two professional references, along with a Cover Letter that details why you would like to participate in our program and which industry/sector your search will be focused on.</div>
+										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">In order to join our ETA program and become an NCA Entrepreneur, please complete our online  <a href="https://recruiterflow.com/db_0fc1b0c1621a0503c0811aa2c11a9774/jobs/16" target="_blank" class="underline">Application Form</a>. Be ready to submit your CV and two professional references, along with a Cover Letter that details why you would like to participate in our program and which industry/sector your search will be focused on.</div>
 										<div class="slider_footer d-flex justify-content-center w-100  py-2">
 											<div class="separator_f_slider position-absolute"></div>
 											<br>
@@ -206,7 +207,7 @@
 									<div class="brk-testimonials-layered-horizontal__item text-center rounded-0 shadow-none">
 										<div class="font__weight-bold process_title_count">2</div>
 										<div class="font__weight-bold font__size-40 process_title">Interviews & Assessment Center</div>
-										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">a.	There are 1-3 rounds of 1-hour interviews with NCA human resources and NCA internal team members. Candidates will also be asked to complete a timed online financial skill test. After the final interview, candidates will be given a week to complete a business case in order to review the candidates’ strategic and financial proficiency. In the final stage, successful candidates will be given 3-4 weeks to prepare a presentation of their investment case, to be presented to NCA and NCA external advisory representatives at our assessment center. Further details and instructions will be provided upon invitation.</div>
+										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">There are 1-3 rounds of 1-hour interviews with NCA human resources and NCA internal team members. Candidates will also be asked to complete a timed online financial skill test. After the final interview, candidates will be given a week to complete a business case in order to review the candidates’ strategic and financial proficiency. In the final stage, successful candidates will be given 3-4 weeks to prepare a presentation of their investment case, to be presented to NCA and NCA external advisory representatives at our assessment center. Further details and instructions will be provided upon invitation.</div>
 										<div class="slider_footer d-flex justify-content-center w-100  py-2">
 											<div class="separator_f_slider position-absolute"></div>
 											<br>
@@ -230,7 +231,7 @@
 									<div class="brk-testimonials-layered-horizontal__item text-center rounded-0 shadow-none">
 										<div class="font__weight-bold process_title_count">4</div>
 										<div class="font__weight-bold font__size-40 process_title">Fundraising</div>
-										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">a.	After developing a thorough investment case, NCA will commence a roadshow targeting relevant investors within our investor base, allowing us to pitch your investment case together to raise the necessary search capital. During this phase, we highly encourage our candidates to leverage their own networks and bring a potential investor to support their case alongside NCA and NCA’s core investor base.</div>
+										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">After developing a thorough investment case, NCA will commence a roadshow targeting relevant investors within our investor base, allowing us to pitch your investment case together to raise the necessary search capital. During this phase, we highly encourage our candidates to leverage their own networks and bring a potential investor to support their case alongside NCA and NCA’s core investor base.</div>
 										<div class="slider_footer d-flex justify-content-center w-100  py-2">
 											<div class="separator_f_slider position-absolute"></div>
 											<br>
@@ -451,7 +452,7 @@
 									<div id="collapse103" class="collapse" role="tabpanel" aria-labelledby="heading103">
 										<div class="card-block text-left font__family-open-sans bg-cover">
 										
-													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Yes, you will have a small budget for travel expenses such as attending fairs, conferences, etc. to network within your industry of choice</p>
+													<p class="mt-1 font__family-open-sans font__size-16 line__height-27">Yes, you will have a small budget for travel expenses such as attending fairs, conferences, etc. to network within your industry of choice.</p>
 													
 										</div>
 									</div>

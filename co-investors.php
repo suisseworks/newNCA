@@ -71,7 +71,7 @@
                                 	</div>    
                                 </form>
                                 <div class="privacy_policy_link text-center mt-20">
-                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white underline"> & </span><a href="img/NCA - Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
+                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white underline"> & </span><a href="img/NCA-Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
                                 </div>	
 							</div>	
 						</div>	
@@ -84,7 +84,7 @@
 								</div>
 								<div class="investors_content_text bg-white pl-lg-80 pr-lg-115 pb-lg-60 pt-lg-100 p-5 p-xs-20">
 									<p class="font__size-16 font__family-open-sans line__height-30">
-										Investors in this asset class have historically benefitted from a diversified portfolio of profitable and well-established companies and an IRR performance of over 30%.<br> If you want to know more about our role as co-investors, please complete the contact form on this page<br> and our Investor Relations Director will be in touch shortly. 
+										Investors in this asset class have historically benefitted from a diversified portfolio of profitable and well-established companies and an IRR performance of over 30%. If you want to know more about our role as co-investors, please complete the contact form on this page and our Investor Relations Director will be in touch shortly. 
 									</p>
 								</div>	
 							</div>	
