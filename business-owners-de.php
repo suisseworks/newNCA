@@ -29,7 +29,7 @@
 						<div class="row">
 							<div class="col-12">
 								<div class="bg-primary question-box question_box_responsive wow fadeInUp pb-50 mx-lg-0 mx-5">
-								<a href="" class="d-block p-5 text-white">
+								<a href="" class="d-block p-5 business_owner_form text-white">
 								<h2 class="text-white mb-1">Suchen Sie die perfekte Verbindung?  </h2>
 								<p class="font__family-open-sans font__size-16 question-box-text">Gemeinsam mit NCA finden Sie die besten Talente zur Sicherung Ihres Firmenvermächtnisses. Nutzen Sie unser Kontaktformular und unser Team meldet sich zeitnah zurück.</p>
 								<div class="text-right arrow_link">
@@ -53,7 +53,7 @@
 				<div class="row no-gutters">
 					<div class="col-12 col-lg-5">
 								<div class="bg-primary question-box question-box-height question_box_responsive ml-lg-auto ml-5 mt-200 wow fadeInLeft">
-								<a href="" class="d-block p-5 text-white h-100">
+								<a href="" class="d-block p-5 business_owner_form_2  text-white h-100">
 								<h2 class="text-white mb-1">Sollen wir eine Option für Sie evaluieren? </h2>
 								<p class="font__family-open-sans font__size-16 question-box-text">Bitte nutzen Sie unser Kontaktformular und wir werden uns zeitnah bei Ihnen zurückmelden.</p>
 								<div class="text-right arrow_link">
@@ -202,7 +202,7 @@
 										<div class="tabs_wrap">
 											<ul>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
-													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>Bildung online oder offline</span>
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>Bildung (online oder offline)</span>
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
@@ -238,6 +238,10 @@
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Spezialisierte Baunternehmen
+												</li>
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4">
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+													Dies ist eine nicht abschließende Liste; andere Branchen werden in Erwägung gezogen
 												</li>
 											</ul>
 										</div>
