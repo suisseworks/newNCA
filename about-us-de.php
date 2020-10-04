@@ -362,7 +362,7 @@
 									</svg>
 			        			</span> 22</p>
 			        			<div class="d-flex align-items-center justify-content-center">
-								<a href="searcher-jan.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Mehr erfahren</a>
+								<a href="http://jan.novastone-ca.com" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Mehr erfahren</a>
 							</div>	
 							
 						</div>	
