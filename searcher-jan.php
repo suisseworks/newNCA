@@ -19,7 +19,7 @@
 						<p class="font__size-18 line__height-24">Nach meiner Kindheit in Norwegen habe ich in Deutschland, der Schweiz, Spanien, den Niederlanden, England und Schottland gelebt. Ein vielseitig interessierter Karriereweg führte mich über Jura, Strategieberatung und Venture/Private-Equity-Investitionen schliesslich zu meiner grössten Leidenschaft, dem Unternehmertum. Ich war Mitgründer von zwei Unternehmen in den Bereichen erneuerbare Energien und Biotechnologie. Meinen unternehmerischen Weg möchte nun durch einen Firmenkauf fortsetzen.</p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:jan.nikolaisen@novaston-ca.com" type="button" class="btn text-white font__family-efb">kontaktiere mich<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:jan.nikolaisen@novaston-ca.com" type="button" class="btn text-white font__family-efb">Kontakt<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -40,7 +40,7 @@
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Schlüsselfertigkeiten</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Kernkompetenzen</h2>
 					<ul class="ml-5 pl-4">
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Hohe Integrität</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Unternehmergeist</li>
@@ -98,7 +98,7 @@
 						</svg>
 					</span>
 					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Unternehmer </h3>
-					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">Das NCA Entrepreneurship <br> Through Acquisition Programm begleitet die nächste Generation aussergewöhnlicher Talente auf jeder Etappe ihres unternehmerischen Weges.</p>
+					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">Das NCA Entrepreneurship Through Acquisition Programm begleitet die nächste Generation aussergewöhnlicher Talente auf jeder Etappe ihres unternehmerischen Weges.</p>
 					<div class="learn_more_btns learn_about_btn mt-5 mb-4 pb-2">
 						<a href="about-us-de.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">ERFAHRE MEHR <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 							  <defs>
@@ -153,7 +153,7 @@
 					<div class="headline">
 							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Sagen Sie den Menschen nie, wie sie etwas tun sollen. Sagen Sie ihnen, was sie tun sollen, und Sie werden von ihrem Einfallsreichtum überrascht sein </h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">George Patton</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Military commander</p>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Militärkommandant</p>
 					</div>
 				</div>
 			  </div>
@@ -169,7 +169,7 @@
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
 							<h1 class="font__size-30 font__family-efb line__height-70 text-white">JAN Nikolaisen</h1>
-							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneurship</h3>
+							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Unternehmer</h3>
 						</div>
 						<div class="jan_detail mt-4">
 							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">Diese Website stellt kein Angebot an die Öffentlichkeit oder eine Aufforderung zum Kauf oder zur Investition in ein Finanzinstrument dar. Die auf dieser Website bereitgestellten Informationen dienen nur zu Informationszwecken und stellen kein Angebot, keine Aufforderung oder Empfehlung dar, eine Finanzdienstleistung zu abonnieren. Soweit diese Website Ansichten zu Anlagestrategien und Anlageideen zum Ausdruck bringt, sind solche Informationen nur allgemeiner Natur und dürfen nicht als Werbung für die Zeichnung einer Finanzdienstleistung oder für eine Anlage in ein bestimmtes Finanzinstrument ausgelegt werden.</p>
