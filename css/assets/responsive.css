@@ -53,6 +53,10 @@
 		font-size: 28px;
 		line-height: 36px;
 	}
+	.stroke_text.dutch_stroke_heading{
+		font-size: 90px;
+		line-height: 100px;
+	}
 }
 @media only screen and (max-width: 1598px) and (min-width: 1230px){
     .col-lg-3.nca_circle_image_col{
@@ -204,6 +208,10 @@
 	}
 	.member_status.font__size-16{
 		font-size: 0.8rem;
+	}
+	.stroke_text.dutch_stroke_heading{
+		font-size: 70px !important;
+		line-height: 80px !important;
 	}
 }
 
@@ -621,6 +629,10 @@
         font-size: 30px !important;
         line-height: 40px !important;
     }
+    .stroke_text.dutch_stroke_heading{
+		font-size: 45px !important;
+		line-height: 55px !important;
+	}
 
 }
 @media only screen and (max-width: 480px){
@@ -1222,7 +1234,7 @@ header .brk-nav__menu>li a{
     right: 20px;
 }
 .form_side_bar .brk-theme-options__control {
-    padding: 20px 20px !important;
+    padding: 40px 20px !important;
 }
 .form_side_bar .label_staric {
     right: -10px;
@@ -1396,12 +1408,12 @@ header .brk-nav__menu>li a{
 /*iphone css*/
 
 @media only screen 
-  and (min-device-width: 375px) 
+  and (min-device-width: 320px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
-     .checkbox:not(:first-child){
+ /* .checkbox:not(:first-child){
 		margin-left: -14px;
-	}
+	}*/
 	.page_text a h2.page_name{
     transition: none;
     -webkit-transition: none;
@@ -1412,5 +1424,15 @@ header .brk-nav__menu>li a{
 	    transition: none;
 	    -webkit-transition: none;
 	    font-size: 24px !important;
+	}
+}
+
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 667px)
+and (orientation : portrait) {
+
+    .checkbox:not(:first-child){
+		margin-left: -14px;
 	}
 }
