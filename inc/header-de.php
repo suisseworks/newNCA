@@ -105,9 +105,9 @@
 									<div class="d-inline brk-form-round mr-30 selection_div s_side">
 										<select name="Title">
 											<option value="Title" selected disabled>Titel</option>
-											<option value="Mr.">Frau</option>
-											<option value="Ms.">Herr</option>
-											<option value="Dr.">Dr.</option>
+											<option value="Frau">Frau</option>
+											<option value="Herr">Herr</option>
+											<option value="Dr">Dr.</option>
 										</select>
 									</div>
 										<div class="form-group  position-relative">
