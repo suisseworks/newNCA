@@ -14,7 +14,7 @@
 						<h2 class="font__family-efb text-uppercase line__height-90">Jan <br> Nikolaisen</h2>
 						<h4 class="font__size-38 mt-4">NCA Unternehmer</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2020</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2021</span>
+							<span class="font-weight-bold font__size-22">2020</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2022</span>
 						</div>
 						<p class="font__size-18 line__height-24">Nach meiner Kindheit in Norwegen habe ich in Deutschland, der Schweiz, Spanien, den Niederlanden, England und Schottland gelebt. Ein vielseitig interessierter Karriereweg führte mich über Jura, Strategieberatung und Venture/Private-Equity-Investitionen schliesslich zu meiner grössten Leidenschaft, dem Unternehmertum. Ich war Mitgründer von zwei Unternehmen in den Bereichen erneuerbare Energien und Biotechnologie. Meinen unternehmerischen Weg möchte nun durch einen Firmenkauf fortsetzen.</p>
 					</div>
