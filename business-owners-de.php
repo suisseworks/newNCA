@@ -9,7 +9,7 @@
 			<div class="container-inner-1390 pt-lg-100 pt-sm-30">
 				<div class="row no-gutters">
 					<div class="col-12 col-lg-7">
-						<h2 class="stroke_text px-5 text-uppercase text-center text-lg-left text-sm-left text-xs-left mb-10 mb-lg-0 wow fadeInLeft">Geschäfts- inhaber</h2>
+						<h2 class="stroke_text dutch_stroke_heading px-5 text-uppercase text-center text-lg-left text-sm-left text-xs-left mb-10 mb-lg-0 wow fadeInLeft">Geschäfts- inhaber</h2>
 						<div class="bg-white responsive_xs_pad px-5 pt-120 pb-100 position-relative z-index-1">
 							<div class="headline">
 							<h3 class="mb-5 underline title wow fadeInUp">
