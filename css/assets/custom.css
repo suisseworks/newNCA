@@ -248,7 +248,10 @@ footer .container {
     line-height: 50px;
     font-family: "EuclidFlex-Bold";
 }
-
+.question_dutch_box.question-box h2{
+    font-size: 29px;
+    word-break: break-all;
+}
 .question-box-text {
     max-width: 260px;
 }
@@ -766,10 +769,25 @@ header .brk-nav__menu>li>a:hover {
 
 /**********Resources-css********/
 
-.resource_section .headline {
+/*.resource_section .headline {
     margin-top: -180px;
+}*/
+@media (min-width: 1230px){
+.headline-absolute .headline {
+    position: absolute;
+    right: 50px;
+    padding-left: 25px;
+    top: -140px;
 }
-
+.resources_form.resources_page {
+    margin-top: 285px;
+}
+}
+@media (max-width: 1599px) and (min-width: 992px) {
+.headline-absolute .headline {
+    right: 0;
+}
+}
 .w-60 {
     width: 60% !important;
 }
@@ -1676,9 +1694,9 @@ body h2 {
 
 /*  Matthias */
 
-.fixSize {
-    font-size: 37px !important;
-}
+/*.fixSize {
+    font-size: 36px !important;
+}*/
 
 .page_text a h2.page_name_fix {
     transition: 0.5s ease;

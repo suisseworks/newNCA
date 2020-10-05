@@ -3323,14 +3323,14 @@ function isSafari() {
 
 
       /* --------------- Deleting placeholder focus --------------- */
-      var placeholderInput = $('input,textarea');
-      placeholderInput.on('focus', function () {
-        $(this).data('placeholder', $(this).attr('placeholder'));
-        $(this).attr('placeholder', '');
-      });
-      placeholderInput.on('blur', function () {
-        $(this).attr('placeholder', $(this).data('placeholder'));
-      });
+      // var placeholderInput = $('input,textarea');
+      // placeholderInput.on('focus', function () {
+      //   $(this).data('placeholder', $(this).attr('placeholder'));
+      //   $(this).attr('placeholder', '');
+      // });
+      // placeholderInput.on('blur', function () {
+      //   $(this).attr('placeholder', $(this).data('placeholder'));
+      // });
       /* ------------- End Deleting placeholder focus ------------- */
 
     }
