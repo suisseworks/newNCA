@@ -101,14 +101,15 @@
 							</div>
 							<div class="resources_form resources_form_side">  
                                 <form id="business_owner_contact_form" class="investors_contact_form needs-validation" novalidate>
-								<div class="d-inline brk-form-round mr-30 selection_div s_side">
-									<select name="Title">
-										<option value="Title" selected disabled>Title</option>
-										<option value="Mr.">Mr.</option>
-										<option value="Ms.">Ms.</option>
-										<option value="Dr.">Dr.</option>
-									</select>
-								</div>
+									<input value="Business Owner" type="hidden" name="Type">
+									<div class="d-inline brk-form-round mr-30 selection_div s_side">
+										<select name="Title">
+											<option value="Title" selected disabled>Title</option>
+											<option value="Mr.">Mr.</option>
+											<option value="Ms.">Ms.</option>
+											<option value="Dr.">Dr.</option>
+										</select>
+									</div>
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
                                 		<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
@@ -133,7 +134,7 @@
                                 	
                                 	<div class="form-group ml-2">	
                                 	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
-							            <input id="bussiness01" type="checkbox">
+							            <input id="bussiness01" type="checkbox" name="test_newsletter">
 							            <label for="bussiness01" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
 							             </label>
 							             Subscribe to our newsletter
@@ -171,7 +172,8 @@
 							</div>
 							<div class="co_investors_form">  
                                 <form id="header_co_investors_contact_form" class="investors_contact_form needs-validation" novalidate>
-                                	<div class="form-group  position-relative">
+									<input value="Co-Investor" type="hidden" name="Type" >
+									<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
                                 		<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
                                 		<div class="invalid-feedback">
@@ -193,15 +195,15 @@
 									      </div>
                                 	</div>
                                 	<div class="form-group  position-relative">
-                                		<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Description" placeholder="Message" rows="3"></textarea>
+                                		<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Comment" placeholder="Message" rows="3"></textarea>
                                 	</div>
                                 	<div class="form-group ml-2">	
                                 	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
-							            <input id="co-investor03" type="checkbox">
-							            <label for="co-investor03" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
-							             </label>
-							             Subscribe to our newsletter
-							          </div>
+										<input id="co-investor03" type="checkbox" name="test_newsletter">
+										<label for="co-investor03" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
+										</label>
+										Subscribe to our newsletter
+									</div>
 
 							          <div class="checkbox checkbox-info checkbox-circle d-flex line__height-16 text-white font__size-14">
 							            <input id="co-investor04" type="checkbox">
@@ -236,14 +238,15 @@
 							</div>
 							<div class="resources_form resources_form_side">  
                                 <form id="intermediatry_contact_form" class="investors_contact_form needs-validation" novalidate>
-                                	<div class="d-inline brk-form-round mr-30 selection_div s_side ">
-									<select name="Title">
-										<option value="Title" selected disabled>Title</option>
-										<option value="Mr.">Mr.</option>
-										<option value="Ms.">Ms.</option>
-										<option value="Dr.">Dr.</option>
-									</select>
-								</div>
+									<input value="Intermediary" type="hidden" name="Type" >
+									<div class="d-inline brk-form-round mr-30 selection_div s_side ">
+										<select name="Title">
+											<option value="Title" selected disabled>Title</option>
+											<option value="Mr.">Mr.</option>
+											<option value="Ms.">Ms.</option>
+											<option value="Dr.">Dr.</option>
+										</select>
+									</div>
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
                                 		<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
@@ -265,10 +268,9 @@
 									        Please provide your email address.
 									      </div>
                                 	</div>
-                                	
                                 	<div class="form-group ml-2">	
                                 	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
-							            <input id="Intermediary01" type="checkbox">
+							            <input id="Intermediary01" type="checkbox" name="test_newsletter">
 							            <label for="Intermediary01" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
 							             </label>
 							             Subscribe to our newsletter
