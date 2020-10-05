@@ -1411,9 +1411,9 @@ header .brk-nav__menu>li a{
   and (min-device-width: 320px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
-  .checkbox:not(:first-child){
+ /* .checkbox:not(:first-child){
 		margin-left: -14px;
-	}
+	}*/
 	.page_text a h2.page_name{
     transition: none;
     -webkit-transition: none;
@@ -1424,5 +1424,15 @@ header .brk-nav__menu>li a{
 	    transition: none;
 	    -webkit-transition: none;
 	    font-size: 24px !important;
+	}
+}
+
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 667px)
+and (orientation : portrait) {
+
+    .checkbox:not(:first-child){
+		margin-left: -14px;
 	}
 }
