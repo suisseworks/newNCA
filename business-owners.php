@@ -25,7 +25,7 @@
 					<div class="col-12 col-lg-5">
 						<div class="position-relative owner_img wow fadeInDown px-lg-0 px-5">
 							<img src="img/owner.jpg" data-src="img/owner.jpg" alt="owner" class="w-100 lazyload mt-lg-70 mt-sm-0">
-							<!-- <div class="owner-text">©LinkedIn Sales Navigator - Unsplash</div> -->
+							
 						</div>
 						<div class="row">
 							<div class="col-12">
