@@ -248,7 +248,10 @@ footer .container {
     line-height: 50px;
     font-family: "EuclidFlex-Bold";
 }
-
+.question_dutch_box.question-box h2{
+    font-size: 29px;
+    word-break: break-all;
+}
 .question-box-text {
     max-width: 260px;
 }
@@ -506,7 +509,7 @@ header .brk-nav__menu>li>a:hover {
 }
 
 .form_side_bar .brk-theme-options__panel {
-    height: 291px;
+    min-height: 160px;
     width: 70px;
     top: 0px !important;
     left: -70px;
@@ -1691,9 +1694,9 @@ body h2 {
 
 /*  Matthias */
 
-.fixSize {
+/*.fixSize {
     font-size: 36px !important;
-}
+}*/
 
 .page_text a h2.page_name_fix {
     transition: 0.5s ease;
