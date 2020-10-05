@@ -1,8 +1,5 @@
 	<script src="js/assets/jquery.min.js"></script> 
 	<script src="js/scripts.js"></script>
-	
-
-	<!-- adding jquery.min.js file create conflict with out code and libraries. because its already included in scripts.min.js By adding it twice generates errors in console -->
 
 	<script src="js/custom.js"></script> 
 	<script src="js/zoho.js"></script> 
