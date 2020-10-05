@@ -509,7 +509,7 @@ header .brk-nav__menu>li>a:hover {
 }
 
 .form_side_bar .brk-theme-options__panel {
-    min-height: 160px;
+    height: 291px;
     width: 70px;
     top: 0px !important;
     left: -70px;
