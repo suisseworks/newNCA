@@ -59,7 +59,7 @@
 					</div>
 					<div class="col-12 col-lg-6">
 						
-						<div class="resources_form bg-primary p-5 w-60">
+						<div class="resources_form resources_page bg-primary p-5 w-60">
 								<div class="contact_text">
                                     <h2 class="text-white font__family-efb font__size-30 mb-1">Join our mailing list</h2>
                                 </div>  
