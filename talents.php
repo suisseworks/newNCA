@@ -259,7 +259,7 @@
 						<div class="swiper-base-arrow-md arrow_btn_right button-next rounded-0 h-25 shadow-none"><i class="fa fa-arrow-right"></i></div>
 					</div>
 					<div class="brk-testimonials-layered-horizontal__container bottom_slider_text d-flex justify-content-end mt-5 px-5">
-						<p>Have we sparked your interest?<br><a href="#">Read our FAQs below to learn more.</a></p>
+						<p>Have we sparked your interest?<br><a href="#faqs">Read our FAQs below to learn more.</a></p>
 					</div>
 					</div>
 				</div>
@@ -267,7 +267,7 @@
 			</div>
 		</section>
 
-		<section class="pb-0 faq_section bg-white">
+		<section class="pb-0 faq_section bg-white" id="faqs">
 			<div class="container-outer1643">
 				<div class="faq_accordion position-relative">
 					<span class="faq_circle_bg"></span>
