@@ -57,13 +57,13 @@
 							<div class="links_buttons pt-40">
 								<ul class="pl-0">
 									<li class="d-inline-block">
-										<button class="btn btn-pos function_btn btn-md border-radius-30 rendered brk-library-rendered mr-1" id="info1">Unternehmer</button>
+										<button class="btn btn-pos function_btn btn-md border-radius-30 rendered brk-library-rendered mr-1" id="info1">Talente</button>
 									</li>
 									<li class="d-inline-block">
 										<button class="btn btn-pos function_btn btn-md border-radius-30 rendered brk-library-rendered ml-1" id="info2">Geschäftsinhaber</button>
 									</li><br>
 									<li class="d-inline-block">
-										<button class="btn btn-pos function_btn btn-md border-radius-30 rendered brk-library-rendered mr-1" id="info3">Investor</button>
+										<button class="btn btn-pos function_btn btn-md border-radius-30 rendered brk-library-rendered mr-1" id="info3">Co-Investoren</button>
 									</li>
 									<li class="d-inline-block">
 										<button class="btn btn-pos function_btn btn-md border-radius-30 rendered brk-library-rendered ml-1 mr-1" id="info4">Geschäftsvermittler</button>
@@ -80,7 +80,7 @@
 							<a href="talents.php" class="h-100">
 								<div class="get_in_touch_content">
 									<p class="font__family-open-sans font__size-20 text-white pt-2 border-bottom pb-3 talent_text pr-30">
-                                    Bitte besuchen Sie unsere Unternehmerseite für eine Bewerbung über den dazugehörigen Link. 
+                                    Bitte besuchen Sie unsere Talents'-Seite für eine Bewerbung über den dazugehörigen Link. 
 									</p>
 								</div>
 								<div class="text-right arrow_link position-static pt-100">
@@ -136,7 +136,7 @@
 											</div>
 										</div>
 										<div id="business_owner_contact_form-submit" class="submit_btn w-100 text-center">	
-											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
+											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Senden</span><span class="border-btn submit_border"></span></button>
 										</div>    
 										<div id="business_owner_contact_form-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
 											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
@@ -211,7 +211,7 @@
 							<div class="functon_div" id="info4content">
 								<div class="get_in_touch_content">
 									<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
-                                    Bitte füllen Sie das untenstehende Kontaktformular aus. Wir werden uns zeitnah bei Ihnen melden 
+                                    Bitte füllen Sie das untenstehende Kontaktformular aus. Unser Investor Relations Director wird sich zeitnah bei Ihnen melden.
 									</p>
 								</div>
 								<div class="resources_form resources_form_side">  
@@ -272,7 +272,7 @@
 							<a href="talents.php" class="h-100">
 								<div class="get_in_touch_content">
 									<p class="font__family-open-sans font__size-20 text-white pt-2 border-bottom pb-3 talent_text pr-30">
-                                    Bitte besuchen Sie unsere Unternehmerseite für eine Bewerbung über den dazugehörigen Link.
+                                    Bitte besuchen Sie unsere Talents‘-Seite für eine Bewerbung über den dazugehörigen Link.
 									</p>
 								</div>
 								<div class="text-right arrow_link position-static pt-100">
