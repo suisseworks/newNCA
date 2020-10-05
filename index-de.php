@@ -26,7 +26,7 @@
 				<div class="landing_col_3 landing_page_menus">
 					<div class="page_text">
 						<a href="business-owners-de.php" class="position-relative">
-							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name_fix"><span class="font__size-13 font__family-efblack position-absolute for_text">Für </span>GESCHÄFTSINHABER <br>  & -VERMITTLER</h2>
+							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name page_name_fix"><span class="font__size-13 font__family-efblack position-absolute for_text">Für </span>GESCHÄFTSINHABER <br>  & -VERMITTLER</h2>
 							<p class="font__size-12 font__family-open-sans line__height-17 pt-2 pr-70">								
                             Leiten Sie eine Firma, die eine Zukunftsvision entwickeln muss? Ist die Nachfolgersuche eine hohe Belastung für Ihre Kunden? NCA kooperiert mit Geschäftsinhabern und -vermittlern, um Nachfolgeprobleme zu beheben und Firmenvermächtnisse zu sichern. 
 							</p>
