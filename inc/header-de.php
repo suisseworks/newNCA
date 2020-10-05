@@ -122,6 +122,9 @@
 											<span class="text-white label_staric position-absolute">*</span>
 											<input type="email" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="Email" required>
 										</div>
+										<div class="form-group  position-relative">
+										<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Description" placeholder="Nachricht" rows="3"></textarea>
+									</div>	
 										<div class="form-group">
 											<div class="radio d-inline-flex">
 												<input type="radio" id="optradio1" name="optradio1">
@@ -233,6 +236,9 @@
 											<span class="text-white label_staric position-absolute">*</span>
 											<input type="mail" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="Email" required>
 										</div>
+										<div class="form-group  position-relative">
+										<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Description" placeholder="Nachricht" rows="3"></textarea>
+									</div>	
 										<div class="form-group">
 											<div class="radio d-inline-flex">
 												<input type="radio" id="optradio3" name="optradio3">
