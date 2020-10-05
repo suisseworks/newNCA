@@ -7,7 +7,7 @@
 			<div class="container">
 				<div class="row no-gutters mb-40 d-flex align-items-center">
 					<div class="col-12 col-lg-12 d-flex justify-content-end flex_responsive w-100">
-						<h2 class="stroke_text ml-305 text-uppercase mb-40 wow fadeInLeft">Resource Library </h2>
+						<h2 class="stroke_text ml-305 text-uppercase mb-lg-40 mb-0 wow fadeInLeft">Resource Library </h2>
 					</div>
 				</div>
 				<div class="headline-absolute">
