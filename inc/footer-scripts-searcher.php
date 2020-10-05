@@ -1,7 +1,7 @@
 </div> <!-- /.main-page -->
-
-	<script src="js/scripts.min.js"></script>
-	<script src="js/custom.js"></script> 
+	<script src="js/assets/jquery.min.js"></script> 
+	<script src="js/scripts.js"></script>
+	<script src="js/custom.js"></script>
 
 	<!-- <script>
 		jQuery(document).ready(function($)  {

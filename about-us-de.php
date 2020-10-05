@@ -389,7 +389,7 @@
                         </div>	
 					</div>	
 					<div class="col-lg-4 member_card mt-10 mt-lg-0 pl-5 pr-5">
-                        	<div class="bg-primary question-box question-box-height">
+                        	<div class="bg-primary question-box question-box-height question_dutch_box">
 								<a href="talents.php" class="d-block py-5 px-4 text-white h-100">
 								<h2 class="text-white mb-1 font__family-efb text-uppercase">Interessiert, sich uns <span class="fixSize">anzuschliessen? <span> </h2>
 								<div class="text-right arrow_link">

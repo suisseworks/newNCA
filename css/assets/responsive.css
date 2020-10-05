@@ -49,6 +49,10 @@
 	.play_button.left_btn.center_btn{
 		margin-top: -530px;
 	}
+	.question_dutch_box.question-box h2{
+		font-size: 28px;
+		line-height: 36px;
+	}
 }
 @media only screen and (max-width: 1598px) and (min-width: 1230px){
     .col-lg-3.nca_circle_image_col{
@@ -67,6 +71,12 @@
       font-size: 120px !important;
       top: 110px;
 	}
+}
+
+@media only screen and (max-width: 1280px) and (min-width: 1230px){
+    .headline-absolute .headline{
+    	top: 0px;
+    }
 }
 
 @media only screen and (max-width: 1229px) and (min-width: 992px){
@@ -178,6 +188,28 @@
 	}
 	.play_button.right_btn{
 		right: 410px;
+	}
+	.resource_section .stroke_text{
+		margin-left: 0px !important;
+	}
+	.justify-content-end.flex_responsive{
+       justify-content: flex-start !important;
+	}
+	.resource_section .headline-absolute .headline{
+		margin-left: 0px !important;
+	}
+	.question_dutch_box.question-box h2{
+		font-size: 21px;
+		line-height: 26px;
+	}
+	.member_status.font__size-16{
+		font-size: 0.8rem;
+	}
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px){
+	.page_text .for_text{
+		left: -28px;
 	}
 }
 
@@ -395,6 +427,11 @@
 	.brk-hosted-video__body{
 		left: 0px;
 	}
+	.question_dutch_box.question-box h2{
+		font-size: 34px;
+        line-height: 46px;
+        word-break: normal;
+	}
 
 }
 
@@ -605,6 +642,10 @@
 		font-size: 22px;
 		line-height: 32px !important;
 	}
+	.question_dutch_box.question-box h2{
+		font-size: 21px;
+        line-height: 30px;
+	}
 }
 
 @media (max-width: 1399px){
@@ -663,12 +704,12 @@ header .brk-nav__menu>li a{
     padding-top: 390px;
 }
 .page_text a h2.page_name{
-    font-size: 30px !important;
-    line-height: 40px !important;
+    font-size: 25px !important;
+    line-height: 35px !important;
 }
 .page_text a:hover h2.page_name{
-	 font-size: 33px !important;
-    line-height: 40px !important;
+	 font-size: 28px !important;
+    line-height: 35px !important;
 }
 }
 @media (max-width: 1229px){
@@ -962,7 +1003,7 @@ header .brk-nav__menu>li a{
     margin-top: 30px !important;
 }
 .resource_section .headline {
-    margin: 40px 0 !important;
+    margin: 20px 0 !important;
 }
 .resource_section {
     padding-top: 50px !important;
@@ -1056,7 +1097,6 @@ header .brk-nav__menu>li a{
 .contact_me_btn a {
     font-size: 25px;
 }
-
 }
 @media (max-width: 768px){
     /********Talent page****/
@@ -1197,6 +1237,9 @@ header .brk-nav__menu>li a{
 }
 .form_side_bar  .arrow_link {
     margin-right: 15px;
+}
+.form_side_bar .brk-theme-options__panel{
+	height: 160px;
 }
 /********Side_bar_contact*****/
 /********Talent page****/
@@ -1342,9 +1385,9 @@ header .brk-nav__menu>li a{
 .swiper-pagination-base-reviews .swiper-pagination-bullet:after {
     width: 45px;
 }
-.form_side_bar .brk-theme-options__panel{
+/*.form_side_bar .brk-theme-options__panel{
     height: 230px !important;
-}
+}*/
 .form_side_bar .investors_contact_form input.form-control {
     height: 55px;
 }

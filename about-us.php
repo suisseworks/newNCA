@@ -82,7 +82,7 @@
 								        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 								        	 
 										<span class="font__weight-bold">Our program carefully selects talents (with an MBA/EMBA and ~10 years work experience) and our team supports them through every phase of the search and acquisition process. </span><br>										  
-										<span class="d-block mt-20">	 All candidates who submit an application to become an NCA entrepreneur undergo a rigorous screening and selection process before being accepted into our program (read more about our selection process on our dedicated <a href="talents.php" class="underline">Talents page</a>).<br> In addition to accepting direct applications through our website, we also partner with the best business schools to source top-tier entrepreneurial talent for our ETA program. </span>
+										<span class="d-block mt-20">	 All candidates who submit an application to become an NCA entrepreneur undergo a rigorous screening and selection process before being accepted into our program (read more about our selection process on our dedicated <a href="talents.php" class="underline">Talents page</a>).<br><br> In addition to accepting direct applications through our website, we also partner with the best business schools to source top-tier entrepreneurial talent for our ETA program. </span>
 								        </p>
 								        <div class="next_arrow w-100">
 								            <span class="next_accordion position-absolute" data-toggle="collapse" data-target="#collapseTwo">
@@ -576,7 +576,7 @@
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Gil RosenKrants </h5>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Gil RosenKrantz </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 			        				Marketing Associate<br>Marketing, Communications & PR 
 			        			</p>
