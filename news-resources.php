@@ -6,19 +6,20 @@
 <section class="pt-80 pb-100 resource_section">
 			<div class="container">
 				<div class="row no-gutters mb-40 d-flex align-items-center">
-					<div class="col-12 col-lg-12 d-flex justify-content-end w-100">
+					<div class="col-12 col-lg-12 d-flex justify-content-end flex_responsive w-100">
 						<h2 class="stroke_text ml-305 text-uppercase mb-40 wow fadeInLeft">Resource Library </h2>
 					</div>
 				</div>
 				<div class="headline-absolute">
 					<div class="row">
-					<div class="col-12 col-lg-12">
-						<div class="headline">
-							<h4 class="mb-3 underline title wow fadeInUp">
-								We gathered interesting reads from around the world to help you learn more about Entrepreneurship Through Acquisition (ETA) and Search Funds.</h4>
+						<div class="col-12 col-lg-12">
+							<div class="headline">
+								<h4 class="mb-3 underline title wow fadeInUp">
+									We gathered interesting reads from around the world to help you learn more about Entrepreneurship Through Acquisition (ETA) and Search Funds.
+								</h4>
+							</div>
 						</div>
-					</div>
-				</div>
+				    </div>
 				</div>
 				<div class="row no-gutters mt-40">
 					<div class="col-12 col-lg-6">

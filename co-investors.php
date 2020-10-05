@@ -9,6 +9,13 @@
 					<div class="col-12 co_strike_heading">
 	                    <h2 class="stroke_text text-uppercase text-center text-lg-left text-md-left text-sm-left text-xs-left mb-10 mb-lg-0 wow fadeInLeft z-index-0">CO-INVESTORS</h2>
 	                </div>
+	                <div class="investors_content">
+		                <div class="headline about_headline d-lg-none">
+							<h3 class="mb-3 underline title tile_2 position-relative wow fadeInUp pl-80">
+								Our consortium of <br>Single Family Offices<br> supports the next generation of exceptional entrepreneurial talents.
+							</h3>
+						</div>
+					</div>	
 				</div>	
 				<div class="co_invester_contact">
 					<div class="row no-gutters">
@@ -77,7 +84,7 @@
 						</div>	
 						<div class="col-lg-7">
 							<div class="investors_content pt-lg-100 pt-50">
-								<div class="headline about_headline">
+								<div class="headline about_headline d-xs-none">
 									<h3 class="mb-3 underline title tile_2 position-relative wow fadeInUp pl-80">
 										Our consortium of <br>Single Family Offices<br> supports the next generation of exceptional entrepreneurial talents.
 									</h3>
