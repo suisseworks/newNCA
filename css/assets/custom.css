@@ -766,10 +766,25 @@ header .brk-nav__menu>li>a:hover {
 
 /**********Resources-css********/
 
-.resource_section .headline {
+/*.resource_section .headline {
     margin-top: -180px;
+}*/
+@media (min-width: 1230px){
+.headline-absolute .headline {
+    position: absolute;
+    right: 50px;
+    padding-left: 25px;
+    top: -140px;
 }
-
+.resources_form {
+    margin-top: 285px;
+}
+}
+@media (max-width: 1599px) and (min-width: 992px) {
+.headline-absolute .headline {
+    right: 0;
+}
+}
 .w-60 {
     width: 60% !important;
 }

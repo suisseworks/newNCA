@@ -32,7 +32,7 @@
 					 <div class="play_button left_btn brk-hosted-video" data-brk-library="component__media_embeds,fancybox">
                         <!-- <a class="d-flex align-items-center fancybox" href="https://youtu.be/AFtUpMTs4vI" data-brk-library="fancybox"><i class="fas fa-play font__size-25"></i><span class="ml-2 font__size-12">PLAY</span></a> -->
                         <div class="brk-hosted-video__body">
-	                        <a class="d-flex align-items-center fancybox brk-hosted-video__btn" href="https://youtu.be/g1x9R3S6ewk" data-brk-library="component__button"><img src="img/video_thumbnail.png"></i><span class="ml-2 font__size-12">PLAY</span></a>
+	                        <a class="d-flex align-items-center fancybox brk-hosted-video__btn" href="https://youtu.be/g1x9R3S6ewk" data-brk-library="component__button"><img src="img/video_thumbnail.png"><span class="ml-2 font__size-12">PLAY</span></a>
 	                    </div>    
                     </div>
                         	<!-- <video id="player" playsinline controls data-poster="/path/to/poster.jpg">

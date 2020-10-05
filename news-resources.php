@@ -10,7 +10,17 @@
 						<h2 class="stroke_text ml-305 text-uppercase mb-40 wow fadeInLeft">Resource Library </h2>
 					</div>
 				</div>
-				<div class="row no-gutters mt-80">
+				<div class="headline-absolute">
+					<div class="row">
+					<div class="col-12 col-lg-12">
+						<div class="headline">
+							<h4 class="mb-3 underline title wow fadeInUp">
+								We gathered interesting reads from around the world to help you learn more about Entrepreneurship Through Acquisition (ETA) and Search Funds.</h4>
+						</div>
+					</div>
+				</div>
+				</div>
+				<div class="row no-gutters mt-40">
 					<div class="col-12 col-lg-6">
 
 						<div class="resource_wrap_links py-3 bg-light">
@@ -47,11 +57,8 @@
 						</div>
 					</div>
 					<div class="col-12 col-lg-6">
-						<div class="headline position-relative ml-180">
-							<h4 class="mb-3 underline title wow fadeInUp">
-								We gathered interesting reads from around the world to help you learn more about Entrepreneurship Through Acquisition (ETA) and Search Funds.</h4>
-							</div>
-						<div class="resources_form bg-primary p-5 mt-160 w-60">
+						
+						<div class="resources_form bg-primary p-5 w-60">
 								<div class="contact_text">
                                     <h2 class="text-white font__family-efb font__size-30 mb-1">Join our mailing list</h2>
                                 </div>  
