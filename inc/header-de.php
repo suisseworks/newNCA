@@ -102,14 +102,15 @@
 								</div>
 								<div class="resources_form resources_form_side">  
 									<form id="business_owner_contact_form" class="investors_contact_form">
-									<div class="d-inline brk-form-round mr-30 selection_div s_side">
-										<select name="Title">
-											<option value="Title" selected disabled>Titel</option>
-											<option value="Frau">Frau</option>
-											<option value="Herr">Herr</option>
-											<option value="Dr">Dr.</option>
-										</select>
-									</div>
+										<input value="Business Owner" type="hidden" name="Type" >
+										<div class="d-inline brk-form-round mr-30 selection_div s_side">
+											<select name="Title">
+												<option value="Title" selected disabled>Titel</option>
+												<option value="Frau">Frau</option>
+												<option value="Herr">Herr</option>
+												<option value="Dr">Dr.</option>
+											</select>
+										</div>
 										<div class="form-group  position-relative">
 											<span class="text-white label_staric position-absolute">*</span>
 											<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
@@ -123,7 +124,7 @@
 											<input type="email" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="Email" required>
 										</div>
 										<div class="form-group  position-relative">
-										<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Description" placeholder="Nachricht" rows="3"></textarea>
+										<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Comment" placeholder="Nachricht" rows="3"></textarea>
 									</div>	
 										<div class="form-group">
 											<div class="radio d-inline-flex">
@@ -163,6 +164,7 @@
 							</div>
 							<div class="co_investors_form">  
 								<form id="header_co_investors_contact_form" class="investors_contact_form">
+									<input value="CO-Investors" type="hidden" name="Type">
 									<div class="form-group  position-relative">
 										<span class="text-white label_staric position-absolute">*</span>
 										<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
@@ -176,11 +178,11 @@
 										<input type="mail" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="Email" required>
 									</div>
 									<div class="form-group  position-relative">
-										<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Description" placeholder="Nachricht" rows="3"></textarea>
+										<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Comment" placeholder="Nachricht" rows="3"></textarea>
 									</div>	
 									<div class="form-group">
 										<div class="radio d-inline-flex">
-											<input type="radio" name="optradio01" id="optradio01">
+											<input type="radio" name="optradio01" id="optradio01" name="test_newsletter">
 											<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio01">Newsletter abonnieren </label>
 										</div>
 										<div class="radio d-inline-flex">
@@ -216,6 +218,7 @@
 								</div>
 								<div class="resources_form resources_form_side">  
 									<form id="intermediatry_contact_form" class="investors_contact_form">
+										<input value="Intermediary" type="hidden" name="Type" >
 										<div class="d-inline brk-form-round mr-30 selection_div s_side ">
 										<select name="Title">
 											<option value="Title" selected disabled>Title</option>
@@ -237,11 +240,11 @@
 											<input type="mail" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="Email" required>
 										</div>
 										<div class="form-group  position-relative">
-										<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Description" placeholder="Nachricht" rows="3"></textarea>
+										<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Comment" placeholder="Nachricht" rows="3"></textarea>
 									</div>	
 										<div class="form-group">
 											<div class="radio d-inline-flex">
-												<input type="radio" id="optradio3" name="optradio3">
+												<input type="radio" id="optradio3" name="optradio3" name="test_newsletter">
 												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio3">Newsletter abonnieren </label>
 											</div>
 											<div class="radio d-inline-flex">

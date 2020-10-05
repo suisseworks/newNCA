@@ -24,7 +24,9 @@ function registerZoho(formId) {
 
     var myform = document.getElementById(formId);
     var dataForm = new FormData(myform);
-    dataForm.append('Contact_Type', "Company contact");
+
+    var test_newsletter = dataForm.get('test_newsletter') == 'on' ? 'Yes' : 'No' ;
+    dataForm.set('test_newsletter', test_newsletter)
 
     $.ajax({
         url: "https://nca-api.whagons.com/api/registerContactZoho",
