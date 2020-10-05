@@ -69,6 +69,12 @@
 	}
 }
 
+@media only screen and (max-width: 1280px) and (min-width: 1230px){
+    .headline-absolute .headline{
+    	top: 0px;
+    }
+}
+
 @media only screen and (max-width: 1229px) and (min-width: 992px){
 	.card-body{
 		width: 690px !important;
@@ -178,6 +184,15 @@
 	}
 	.play_button.right_btn{
 		right: 410px;
+	}
+	.resource_section .stroke_text{
+		margin-left: 0px !important;
+	}
+	.justify-content-end.flex_responsive{
+       justify-content: flex-start !important;
+	}
+	.resource_section .headline-absolute .headline{
+		margin-left: 0px !important;
 	}
 }
 
