@@ -779,7 +779,7 @@ header .brk-nav__menu>li>a:hover {
     padding-left: 25px;
     top: -140px;
 }
-.resources_form {
+.resources_form.resources_page {
     margin-top: 285px;
 }
 }
