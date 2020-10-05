@@ -1357,9 +1357,9 @@ header .brk-nav__menu>li a{
 .swiper-pagination-base-reviews .swiper-pagination-bullet:after {
     width: 45px;
 }
-.form_side_bar .brk-theme-options__panel{
+/*.form_side_bar .brk-theme-options__panel{
     height: 230px !important;
-}
+}*/
 .form_side_bar .investors_contact_form input.form-control {
     height: 55px;
 }
