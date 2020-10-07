@@ -18,7 +18,7 @@
 									<li><a href="about-us-de.php"><div>Über Uns</div></a></li>
 									<li><a href="talents.php"><div><span class="d-lg-none menu_for">For</span> Talents</div></a></li>
 									<li><a href="business-owners-de.php"><div><span class="d-lg-none menu_for">Für</span> Geschäftsinhaber <br class="d-lg-none">& -Vermittler</div></a></li>
-									<li><a href="co-investors.php"><div><span class="d-lg-none menu_for">For</span> Co-investors</div></a></li>
+									<li><a href="co-investors.php"><div><span class="d-lg-none menu_for">For</span> Co-Investors</div></a></li>
 									<li><a href="news-resources.php"><div>News & Resources</div></a></li>
 								</ul>
 							</nav>
@@ -80,7 +80,7 @@
 							<a href="talents.php" class="h-100">
 								<div class="get_in_touch_content">
 									<p class="font__family-open-sans font__size-20 text-white pt-2 border-bottom pb-3 talent_text pr-30">
-                                    Bitte besuchen Sie unsere Talents'-Seite für eine Bewerbung über den dazugehörigen Link. 
+                                    Bitte besuchen Sie unsere Talents-Seite für eine Bewerbung über den dazugehörigen Link. 
 									</p>
 								</div>
 								<div class="text-right arrow_link position-static pt-100">
@@ -159,7 +159,7 @@
 						<div class="functon_div" id="info3content">
 							<div class="get_in_touch_content">
 								<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
-									Please complete the form below and our Investor Relations Director will be in touch shortly.
+								Bitte füllen Sie das untenstehende Kontaktformular aus. Unser Investor Relations Director wird sich zeitnah bei Ihnen melden.
 								</p>
 							</div>
 							<div class="co_investors_form">  
@@ -213,7 +213,7 @@
 							<div class="functon_div" id="info4content">
 								<div class="get_in_touch_content">
 									<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
-                                    Bitte füllen Sie das untenstehende Kontaktformular aus. Unser Investor Relations Director wird sich zeitnah bei Ihnen melden.
+                                    Bitte füllen Sie das untenstehende Kontaktformular aus. Wir werden uns zeitnah bei Ihnen melden.
 									</p>
 								</div>
 								<div class="resources_form resources_form_side">  
