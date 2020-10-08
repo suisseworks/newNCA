@@ -275,7 +275,7 @@
 							<a href="talents.php" class="h-100">
 								<div class="get_in_touch_content">
 									<p class="font__family-open-sans font__size-20 text-white pt-2 border-bottom pb-3 talent_text pr-30">
-                                    Bitte besuchen Sie unsere Talents‘-Seite für eine Bewerbung über den dazugehörigen Link.
+                                    Bitte besuchen Sie unsere Talents-Seite für eine Bewerbung über den dazugehörigen Link.
 									</p>
 								</div>
 								<div class="text-right arrow_link position-static pt-100">
