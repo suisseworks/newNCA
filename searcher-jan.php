@@ -77,11 +77,11 @@
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/play-sec-4.png" alt="alt" class="image_video">
-                        <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/NPLKoOQ9eU0" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
-                        </div>
-                     </div>
+                    <img src="img/play-sec-4.png" alt="alt" class="image_video">
+                    <div class="play_button left_btn center_btn play_btn_white position-absolute">
+	                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/NPLKoOQ9eU0" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                    </div>
+                </div>
 			</div>
 			<div class="col-lg-1"></div>
 		</div>
@@ -215,4 +215,4 @@
 		</div>
 	</div>
 </section>
-	<?php include 'inc/footer-scripts-searcher.php'; ?>
+<?php include 'inc/footer-scripts-searcher.php'; ?>
