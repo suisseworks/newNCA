@@ -59,6 +59,11 @@
                                 		<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" placeholder="Message" rows="3"></textarea>
                                 	</div>
                                 	<div class="form-group ml-2">	
+									<div class="">
+										<p class="font__family-open-sans  text-white  pb-3  font__size-12">
+										* = required
+										</p>
+									</div>
                                 	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
 							            <input id="co-investor01" type="checkbox">
 							            <label for="co-investor01" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">

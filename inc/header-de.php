@@ -127,6 +127,11 @@
 										<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Comment" placeholder="Nachricht" rows="3"></textarea>
 									</div>	
 										<div class="form-group">
+										<div class="">
+											<p class="font__family-open-sans  text-white  pb-3  font__size-12">
+											* = Pflichtfeld  
+											</p>
+										</div>
 											<div class="radio d-inline-flex">
 												<input type="radio" id="optradio1" name="optradio1">
 												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio1">Newsletter abonnieren </label>
@@ -181,6 +186,11 @@
 										<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Comment" placeholder="Nachricht" rows="3"></textarea>
 									</div>	
 									<div class="form-group">
+									<div class="">
+											<p class="font__family-open-sans  text-white  pb-3  font__size-12">
+											* = Pflichtfeld  
+											</p>
+										</div>
 										<div class="radio d-inline-flex">
 											<input type="radio" name="optradio01" id="optradio01" name="test_newsletter">
 											<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio01">Newsletter abonnieren </label>
@@ -243,6 +253,11 @@
 										<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Comment" placeholder="Nachricht" rows="3"></textarea>
 									</div>	
 										<div class="form-group">
+										<div class="">
+											<p class="font__family-open-sans  text-white  pb-3  font__size-12">
+											* = Pflichtfeld  
+											</p>
+										</div>
 											<div class="radio d-inline-flex">
 												<input type="radio" id="optradio3" name="optradio3" name="test_newsletter">
 												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio3">Newsletter abonnieren </label>
