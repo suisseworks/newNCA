@@ -570,7 +570,7 @@
 						    </div>	
                         </div>	
 					</div>
-					<div class="col-lg-4 col-lg-4 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+					<!-- <div class="col-lg-4 col-lg-4 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/dummy_img.png">
                         </div>	
@@ -585,7 +585,7 @@
 							    </div>							
 						    </div>	
                         </div>	
-					</div>
+					</div> -->
 					<div class="col-lg-4 col-lg-4 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/dummy_img.png">
