@@ -60,7 +60,7 @@
                                 	</div>
                                 	<div class="form-group ml-2">	
                                 	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
-							            <input id="co-investor01" type="checkbox">
+							            <input id="co-investor01" type="checkbox" name="Newsletter">
 							            <label for="co-investor01" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
 							             </label>
 							             Subscribe to our newsletter

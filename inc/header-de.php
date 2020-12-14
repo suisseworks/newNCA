@@ -182,7 +182,7 @@
 									</div>	
 									<div class="form-group">
 										<div class="radio d-inline-flex">
-											<input type="radio" name="optradio01" id="optradio01" name="test_newsletter">
+											<input type="radio" name="optradio01" id="optradio01" name="Newsletter">
 											<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio01">Newsletter abonnieren </label>
 										</div>
 										<div class="radio d-inline-flex">
@@ -244,7 +244,7 @@
 									</div>	
 										<div class="form-group">
 											<div class="radio d-inline-flex">
-												<input type="radio" id="optradio3" name="optradio3" name="test_newsletter">
+												<input type="radio" id="optradio3" name="optradio3" name="Newsletter">
 												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio3">Newsletter abonnieren </label>
 											</div>
 											<div class="radio d-inline-flex">
