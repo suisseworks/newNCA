@@ -47,7 +47,7 @@
 					<div class="brk-theme-options__close panel-close function_btn" id="info0"></div>
 				</div>
 				<div class="row">
-					<div style="display: none;" id="form-alert-success" class="alert alert-success" role="alert">
+					<div style="display: none;" id="form-alert-success form-alert-success" class="alert alert-success" role="alert">
                     	Information was sent successfully!
 					</div>
 					<div class="col-lg-12" id="infocontent">

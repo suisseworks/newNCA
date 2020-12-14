@@ -24,10 +24,13 @@
 								<div class="contact_text">
                                     <h2 class="text-uppercase text-white font__family-efb font__size-60 mb-2">contact</h2>
                                     <p class="text-white font__size-20 font__family-open-sans">Please complete the form below and our Investor Relations Director will be in touch shortly.</p>
-                                </div>  
+								</div>  
+								<div style="display: none;" id="form-alert-success" class="alert alert-success form-alert-success" role="alert">
+									Information was sent successfully!
+								</div>
                                 <form id="co_investors_contact_form" class="pt-5 investors_contact_form needs-validation" novalidate>
                                 	<div class="d-inline brk-form-round mr-30 selection_div s_side">
-									<select name="select you profile">
+									<select name="Title">
 										<option value="Title" selected disabled>Title</option>
 										<option value="Mr.">Mr.</option>
 										<option value="Ms.">Ms.</option>
@@ -36,27 +39,27 @@
 								</div>
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
-                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="first-name" id="first-name" placeholder="Name" required>
+                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
                                 		<div class="invalid-feedback">
 									        Please provide your name.
 									      </div>
                                 	</div>
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
-                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="last-name" id="last-name" placeholder="Surname" required>
+                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="Last_Name" id="last-name" placeholder="Surname" required>
                                 		<div class="invalid-feedback">
 									        Please provide your surname.
 									      </div>
                                 	</div>
                                 	<div class="form-group  position-relative">
                                 		<span class="text-white label_staric position-absolute">*</span>
-                                		<input type="email" class="form-control bg-white px-4 border-radius-25" name="e_mail" id="e_mail" placeholder="E-mail" required>
+                                		<input type="email" class="form-control bg-white px-4 border-radius-25" name="Email" id="Email" placeholder="E-mail" required>
                                 		<div class="invalid-feedback">
 									        Please provide your email address.
 									      </div>
                                 	</div>
                                 	<div class="form-group  position-relative">
-                                		<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" placeholder="Message" rows="3"></textarea>
+                                		<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" placeholder="Message" rows="3" name="Comment"></textarea>
                                 	</div>
                                 	<div class="form-group ml-2">	
 									<div class="">
@@ -67,9 +70,9 @@
                                 	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
 							            <input id="co-investor01" type="checkbox" name="Newsletter">
 							            <label for="co-investor01" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
-							             </label>
-							             Subscribe to our newsletter
-							          </div>
+											Subscribe to our newsletter
+										</label>
+							        </div>
 
 							          <div class="checkbox checkbox-info checkbox-circle d-flex line__height-16 text-white font__size-14">
 							            <input id="co-investor02" type="checkbox">
@@ -78,9 +81,15 @@
 							              By signing up to the form, you agree to our terms and privacy policy.
 							          </div>
                                 	</div>
-                                	<div class="submit_btn w-100 text-center">	
+									<div id="co_investors_contact_form-submit" class="submit_btn w-100 text-center">	
                                 	    <button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
-                                	</div>    
+									</div>
+									<div id="co_investors_contact_form-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
+										<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
+											<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>	
+											<span>Sending...</span><span class="border-btn submit_border"></span>
+										</button>
+									</div>     
                                 </form>
                                 <div class="privacy_policy_link text-center mt-20">
                                 	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white underline"> & </span><a href="img/NCA-Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>

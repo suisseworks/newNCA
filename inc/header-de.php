@@ -89,7 +89,7 @@
 						    </a>
 						</div>	
 					</div>
-					<div style="display: none;" id="form-alert-success" class="alert alert-success" role="alert">
+					<div style="display: none;" id="form-alert-success" class="alert alert-success form-alert-success" role="alert">
                     Informationen wurden erfolgreich gesendet!
 					</div>
 					<!-- start  business_owner_contact_form-->
