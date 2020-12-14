@@ -125,7 +125,7 @@
 										</div>
 										<div class="form-group ml-2">
 											<div class="radio d-inline-flex">
-												<input type="radio" id="optradio1" name="optradio1">
+												<input type="radio" id="optradio1" name="Newsletter">
 												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio1">Subscribe to our newsletter</label>
 											</div>
 											<div class="radio d-inline-flex">
@@ -180,7 +180,7 @@
 										</div>	
 										<div class="form-group">
 											<div class="radio d-inline-flex">
-												<input type="radio" name="optradio01" id="optradio01">
+												<input type="radio" name="Newsletter" id="optradio01">
 												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio01">Subscribe to our newsletter</label>
 											</div>
 											<div class="radio d-inline-flex">
@@ -240,7 +240,7 @@
 										</div>
 										<div class="form-group">
 											<div class="radio d-inline-flex">
-												<input type="radio" id="optradio3" name="optradio3">
+												<input type="radio" id="optradio3" name="Newsletter">
 												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio3">Subscribe to our newsletter</label>
 											</div>
 											<div class="radio d-inline-flex">

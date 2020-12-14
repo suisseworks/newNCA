@@ -134,7 +134,7 @@
                                 	
                                 	<div class="form-group ml-2">	
                                 	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
-							            <input id="bussiness01" type="checkbox" name="test_newsletter">
+							            <input id="bussiness01" type="checkbox" name="Newsletter">
 							            <label for="bussiness01" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
 							             </label>
 							             Subscribe to our newsletter
@@ -199,7 +199,7 @@
                                 	</div>
                                 	<div class="form-group ml-2">	
                                 	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
-										<input id="co-investor03" type="checkbox" name="test_newsletter">
+										<input id="co-investor03" type="checkbox" name="Newsletter">
 										<label for="co-investor03" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
 										</label>
 										Subscribe to our newsletter
@@ -270,7 +270,7 @@
                                 	</div>
                                 	<div class="form-group ml-2">	
                                 	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
-							            <input id="Intermediary01" type="checkbox" name="test_newsletter">
+							            <input id="Intermediary01" type="checkbox" name="Newsletter">
 							            <label for="Intermediary01" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
 							             </label>
 							             Subscribe to our newsletter
