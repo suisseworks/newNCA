@@ -6,6 +6,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1">
 	<meta name="format-detection" content="telephone=no">
+	<meta name="image" property="og:image" content="https://novastone-ca.com/img/LOGO-WHITE.png">
 	<link rel="shortcut icon" href="favicon.ico">
 	<link rel="apple-touch-icon-precomposed" href="favicon.ico">
 	<meta name="theme-color" content="#e57200">

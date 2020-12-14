@@ -363,7 +363,7 @@
 									</svg>
 			        			</span> 22</p>
 			        			<div class="d-flex align-items-center justify-content-center">
-								<a href="http://jan.novastone-ca.com" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								<a href="http://novastone-ca.com/searcher-jan-en.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 							</div>	
 							
 						</div>	
@@ -570,13 +570,13 @@
 						    </div>	
                         </div>	
 					</div>
-					<div class="col-lg-4 col-lg-4 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+					<!-- <div class="col-lg-4 col-lg-4 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/dummy_img.png">
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Gil RosenKrantz </h5>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Gil Rosenkrantz </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 			        				Marketing Associate<br>Marketing, Communications & PR 
 			        			</p>
@@ -585,7 +585,7 @@
 							    </div>							
 						    </div>	
                         </div>	
-					</div>
+					</div> -->
 					<div class="col-lg-4 col-lg-4 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/dummy_img.png">
@@ -671,7 +671,7 @@
 					</div>	
 					<div class="col-lg-12 mt-2 pl-5 pr-5">
 						<div class="advisory_img w-100">
-							<img class="w-100" src="img/advisory_img.png">
+							<img class="w-100" src="img/advisory_img.png" style="display: none">
 						</div>	
 					</div>	
 				</div>	
