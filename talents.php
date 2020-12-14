@@ -561,7 +561,7 @@
 					</div>
 					<div class="col-12 col-lg-6 px-2">
 						<div class="bg-primary wow fadeInRight w-100 apply_sec_div">
-								<a href="https://recruiterflow.com/db_0fc1b0c1621a0503c0811aa2c11a9774/jobs/16" target="_blank" class="d-block p-5 text-white">
+							<a href="https://recruiterflow.com/db_0fc1b0c1621a0503c0811aa2c11a9774/jobs/16" target="_blank" class="d-block p-5 text-white">
 								<h2 class="text-white mb-2 font__family-efb font__size-60">READY FOR <br>THE NEXT STEP?</h2>
 								<p class="font__family-open-sans font__size-20 question-box-text mb-5"><span class="border-bottom pb-2">Apply Now</span></p>
 								<p class="font__size-16 mb-2 font__family-open-sans font__weight-500">Please have the following documents ready for upload:</p>
@@ -576,8 +576,8 @@
 									</svg>
 
 								</div>
-								</a>
-								</div>
+							</a>
+						</div>
 					</div>
 				</div>
 				</div>

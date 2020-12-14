@@ -15,7 +15,7 @@
 							<li class="mb-20"><a href="about-us-de.php" class="font__family-efb font__size-15">Über Uns</a></li>
                             <li class="mb-20"><a href="talents.php" class="font__family-efb font__size-15">Talents</a></li>                            
 							<li class="mb-20"><a href="business-owners-de.php" class="font__family-efb font__size-15">Geschäftsinhaber & -Vermittler</a></li>
-							<li class="mb-20"><a href="co-investors.php" class="font__family-efb font__size-15">Co-investors</a></li>
+							<li class="mb-20"><a href="co-investors.php" class="font__family-efb font__size-15">Co-Investors</a></li>
 							<li class="mb-20"><a href="news-resources.php" class="font__family-efb font__size-15">News & Resources</a></li>
 						</ul>
 					</div>

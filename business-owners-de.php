@@ -96,7 +96,7 @@
 					</div>
 					<div class="brk-tabs brk-tabs-simple theme-tab wow fadeInUp pl-lg-0 pl-sm-30 px-xs-50" data-hash="true" data-brk-library="component__tabs">
 						<ul class="brk-tabs-nav font__family-efb font__weight-bold mb-3 justify-content-between align-items-end">
-							<li class="brk-tab shadow-none"><span class="font__size-28 text-uppercase">Grundlegende Unternehmenskriterien </span></li>
+							<li class="brk-tab shadow-none"><span class="font__size-28 text-uppercase">Grundlegende Kriterien </span></li>
 							<li class="brk-tab shadow-none"><span class="font__size-28 text-uppercase">Merkmale der Branche </span></li>
 							<li class="brk-tab shadow-none"><span class="font__size-28 text-uppercase">Bespielhafte Branchen </span></li>
 						</ul>
