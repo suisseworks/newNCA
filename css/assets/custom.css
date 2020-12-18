@@ -1720,7 +1720,7 @@ a.badge_link{
     background-color: transparent;
 }
 .key_skill.key_skill_new h2{
-    left: -175px;
+    left: -200px;
     top: 370px;
 }
 .searcher_logo{
@@ -1731,9 +1731,12 @@ a.badge_link{
 }
 .transform_div{
     transform: rotate(270deg);
-    left: -148px;
-    top: 108px;
-    min-width: 256px;
+    left: -163px;
+    top: 122px;
+    min-width: 287px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .video_text.about_contact_info{
     flex-wrap: wrap;
@@ -1744,6 +1747,16 @@ a.line__height-40{
 .info_text ul li a{
     padding-bottom: 5px;
     border-bottom: 3px solid #ffffff;
+}
+.sabastien_col{
+    background-color: #BAA385 !important;
+}
+.sbs_btn.play_button.left_btn.play_btn_white a{
+    width: 220px;
+    height: 220px;
+}
+.sabs_linkdin .fa-linkedin-in{
+    transform: rotate(90deg);
 }
 
 /*end TR*/
