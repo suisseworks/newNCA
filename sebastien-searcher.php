@@ -26,7 +26,7 @@
 			</div>
 			<div class="col-lg-9">
 				<div class="searcher_image d-flex position-relative">
-					<img class="w-100" src="img/Sebastien.jpg">
+					<img class="w-100" src="img/sabastien.png">
 				</div>	
 			</div>	
 		</div>	
