@@ -9,11 +9,11 @@
 				</div>	
 				<div class="detail_main_col d-flex align-items-end h-100">
 				    <div class="detail_searcher sbs_deatail mt-5">
-						<h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160"><span class="bg-white">SÉBASTIEN <br> PERROUD</span></h2>
-						<div class="member_content py-4 px-lg-4">
+						<h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160"><span class="bg-white pr-12-100"><span class="pr-12-100">SÉBASTIEN</span> <br> PERROUD</span></h2>
+						<div class="member_content py-4">
                         	<div>
 	                        	
-			        			<p class="font__size-28 font__halvetica-bold line__height-50">NCA Unternehmer<br>20 <span class=" member_count_arrow px-lg-3 pt-12 d-inline-flex">
+			        			<p class="font__size-30 font__halvetica-bold line__height-50">NCA Unternehmer<br>20 <span class=" member_count_arrow px-lg-3 pt-12 d-inline-flex">
 			        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
 									  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
 									</svg>
@@ -36,7 +36,7 @@
 <section class="bg-white">
 	<div class="container pb-lg-200 pb-50">
 		<div class="row">
-			<div class="col-12 col-lg-12 px-lg-2">
+			<div class="col-12 col-lg-12">
 				<div class="sabastien_col wow fadeInRight w-100 apply_sec_div">
 					<a href="#" class="d-block p-5 text-white sercher_clr_div">
 						<img class="searcher_logo" src="img/LOGO-WHITE.png">
@@ -44,9 +44,9 @@
 						<p class="font__size-17 text-white mt-4 font__weight-500">
 							Das NCA Entrepreneurship Through Acquisition<br> Programm begleitet die nächste Generation<br>aussergewöhnlicher Talente auf jeder Etappe ihres<br> unternehmerischen Weges. 
 						</p>
-						<div class="text-right arrow_link font__halvetica-bold">
+						<div class="text-right arrow_link sas_arrow font__halvetica-bold">
 							ERFAHRE MEHR
-							<svg id="Forward_arrow" class="ml-5" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+							<svg id="Forward_arrow" class="ml-lg-5 ml-2" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
 							  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
 							</svg>
 
@@ -69,7 +69,7 @@
 						</div>
 					</div>	
 				</div>
-				<div class="col-lg-6 pl-lg-20">
+				<div class="col-lg-5 pl-lg-20">
 					<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 						<p class="font-weight-bold font__size-16">
 							Den grössten Teil meiner Karriere habe ich in verschiedenen Schweizer High-Tech-KMU gearbeitet, die in der Maschinen-, Elektro- und Metall-Industrie (MEM) agieren.
@@ -79,7 +79,7 @@
 						</p>
 					</div>	
 				</div>
-				<div class="col-lg-1">
+				<div class="col-lg-2">
 				</div>	 
 			</div>
 		</div>	
@@ -93,7 +93,7 @@
 						</div>
 					</div>	
 				</div>
-				<div class="col-lg-6 pl-lg-20">
+				<div class="col-lg-5 pl-lg-20">
 					<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 						<p class="font-weight-bold font__size-16">
 							Die MEM-Industrien in der Schweiz und in Deutschland stehen im Mittelpunkt meiner Suche. Insbesondere möchte ich auf KMU zugehen, die Maschinen, Automatisierungskomponenten oder Subsysteme entwickeln und herstellen.
@@ -103,7 +103,7 @@
 						</p>
 					</div>	
 				</div>
-				<div class="col-lg-1">
+				<div class="col-lg-2">
 				</div>	 
 			</div>	
 		</div>
@@ -117,7 +117,7 @@
 						</div>
 					</div>	
 				</div>
-				<div class="col-lg-6 pl-lg-20">
+				<div class="col-lg-5 pl-lg-20">
 					<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 						<p class="font-weight-bold font__size-16">
 							Ich verfüge über fundierte Erfahrung in der Unternehmensleitung diverser exportorientierter Schweizer KMU, mit besonderem Fokus auf internationalen Wachstum und Produktinnovation.
@@ -127,7 +127,7 @@
 						</p>
 					</div>	
 				</div>
-				<div class="col-lg-1">
+				<div class="col-lg-2">
 				</div>	 
 			</div>	
 		</div>	
@@ -135,7 +135,7 @@
 </section>
 
 <section class="video_section bg-white">
-	<div class="container">
+	<div class="container-outer-1600">
 		<div class="row">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="video_text about_contact_info pl-30 pr-30 pb-30 w-100 d-flex h-100 align-items-center">
