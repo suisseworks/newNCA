@@ -793,6 +793,14 @@ header .brk-nav__menu>li>a:hover {
 }
 
 
+.container-outer-1600 {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding-left: 15px !important;
+    padding-right: 15px !important; 
+}
+
+
 /**********Resources-css********/
 
 /*.resource_section .headline {
@@ -804,6 +812,9 @@ header .brk-nav__menu>li>a:hover {
     right: 50px;
     padding-left: 25px;
     top: -140px;
+}
+.pr-12-100{
+    padding-right: 100px !important;
 }
 .resources_form.resources_page {
     margin-top: 285px;
@@ -1746,9 +1757,12 @@ a.badge_link{
     background-color: transparent;
 }
 .key_skill.key_skill_new h2{
-    left: -300px;
+    left: -360px;
     top: 620px;
     font-size: 38px;
+}
+.arrow_link.sas_arrow{
+    font-size: 30px;
 }
 .searcher_logo{
     width: 100px;
@@ -1885,6 +1899,14 @@ a.line__height-40{
     .key_skill.key_skill_new h2{
         font-size: 16px;
     }
+    .container-outer-1600{
+        max-width: 970px;
+    }
+}
+@media only screen and (max-width: 767px) and (min-width: 576px){
+    .container-outer-1600{
+        max-width: 540px;
+    }
 }
 
 @media only screen and (max-width: 991px){
@@ -1909,18 +1931,35 @@ a.line__height-40{
     .detail_searcher.sbs_deatail .member_content{
         min-height: auto;
     }
+    .arrow_link.sas_arrow svg{
+        width: 30px;
+    }
+    .arrow_link.sas_arrow{
+        font-size: 18px;
+    }
 }
-@media only screen and (max-width: 1650px) and (min-width: 1599px){
+@media only screen and (max-width: 1660px) and (min-width: 1599px){
     .detail_searcher.sbs_deatail{
         margin-left: 30px;
     }
     .key_skill.key_skill_new h2{
         left: -270px;
     }
+    .transform_div{
+        left: -160px;
+    }
+}
+@media only screen and (max-width: 1598px) and (min-width: 1230px){
+    .container-outer-1600{
+        max-width: 1200px;
+    }
 }
 @media only screen and (max-width: 767px){
     .info_text.sabastien_col ul li a{
         font-size: 16px !important;
+    }
+    .image_content_div img{
+        min-height: auto;
     }
 }
 @media only screen and (max-width: 575px){
