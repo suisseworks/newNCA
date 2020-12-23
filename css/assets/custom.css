@@ -1987,6 +1987,9 @@ a.line__height-40{
         left: -290px;
     }
 }
+.sbs_download_btn a:hover{
+       color: var(--brand-primary) !important;
+}
 
 /*end TR*/
 
