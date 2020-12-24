@@ -4,15 +4,15 @@
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/Jan.png">
+				<img src="img/Erick.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
 				<div class="searcher_content pt-100 ml-4">
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="https://novastone-ca.com/searcher-jan-en.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
+							<a href="https://www.linkedin.com/in/erickazen/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							 
 						</div>
 					</div>		
 					<div class="detail_searcher mt-2">
@@ -24,7 +24,7 @@
 						<p class="font__size-18 line__height-24">Geboren und aufgewachsen in Brasilien, führten mich Studium, Leben und die Karriere nach Grossbritannien, Deutschland, die USA und die Schweiz. Als Ingenieur mit einem MBA verfolgte ich eine erfolgreiche Karriere bei Technologieunternehmen, in der Automobilindustrie und jüngst als Vizepräsident in der Lebensmittelindustrie. Dieser Werdegang ermöglichte es mir, ein internationales Profil aufzubauen und Führungspositionen in unterschiedlichen Industriezweigen auszuüben. Ich stamme aus einer Unternehmerfamilie und folge nun meinem Bestreben selbst Unternehmer zu sein und alle Kenntnisse in diese Arbeit einzubringen.</p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:erick.azen@novaston-ca.com" type="button" class="btn text-white font__family-efb">Kontakt<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:erick.azen@novastone-ca.com" type="button" class="btn text-white font__family-efb">Kontakt<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -80,9 +80,9 @@ Personalentwicklung fördern.  </p>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                    <img src="img/play-sec-4.png" alt="alt" class="image_video">
+                    <img src="img/play-sec-5.png" alt="alt" class="image_video">
                     <div class="play_button left_btn center_btn play_btn_white position-absolute">
-	                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/NPLKoOQ9eU0" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+	                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/eX1qhZ6easM" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                     </div>
                 </div>
 			</div>
@@ -122,7 +122,7 @@ Personalentwicklung fördern.  </p>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="img/Jan-Nikolaisen-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD LEBENSLAUF (ENGLISCH)<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Erick-Azen-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD LEBENSLAUF (ENGLISCH)<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -136,7 +136,7 @@ Personalentwicklung fördern.  </p>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/001.png" class="resume_img">
+				<img src="img/002.png" class="resume_img">
 			</div>
 		</div>
 
@@ -201,7 +201,7 @@ Erfahrung ersetzen. </h4>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
 						<a href="mailTo:erick.azen@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">erick.azen@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="https://www.linkedin.com/in/erickazen/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
