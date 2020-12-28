@@ -1980,6 +1980,9 @@ a.line__height-40{
     .info_text.sabastien_col h2{
         font-size: 24px !important;
     }
+    .pt-xs-0{
+        padding-top: 0px !important;
+    }
 }
 
 @media only screen and (max-width: 1499px){

@@ -2,7 +2,7 @@
 
 <section class="searcher_img_sec bg-white">
 	<div class="container">
-		<div class="row  pt-70 pb-lg-100 pb-50">
+		<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50">
 			<div class="col-lg-3 main_text">
 			    <div class="key_skill key_skill_new position-relative pl-lg-90 pr-50 pb-80 pt-50 ml-40">
 				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"><a href="#" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 sabs_linkdin p-2 mr-2"><i class="fab fa-linkedin-in"></i></a> FIND ME ON LINKEDIN</h2>
@@ -25,7 +25,7 @@
 				</div>    
 			</div>
 			<div class="col-lg-9">
-				<div class="searcher_image d-flex position-relative">
+				<div class="searcher_image position-relative">
 					<img class="w-100" src="img/sabastien.png">
 				</div>	
 			</div>	
