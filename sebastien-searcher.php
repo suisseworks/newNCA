@@ -1,11 +1,11 @@
 <?php include 'inc/header-scripts.php'; ?>	
 
-<section class="searcher_img_sec bg-white">
+<section class="sabs_page searcher_img_sec bg-grey-light">
 	<div class="container">
 		<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50">
 			<div class="col-lg-3 main_text">
 			    <div class="key_skill key_skill_new position-relative pl-lg-90 pr-50 pb-80 pt-50 ml-40">
-				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"><a href="#" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 sabs_linkdin p-2 mr-2"><i class="fab fa-linkedin-in"></i></a> FIND ME ON LINKEDIN</h2>
+				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"><a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 sabs_linkdin p-2 mr-2"><i class="fab fa-linkedin-in"></i></a> FIND ME ON LINKEDIN</h2>
 				</div>	
 				<div class="detail_main_col d-flex align-items-end h-100">
 				    <div class="detail_searcher sbs_deatail mt-5">
@@ -13,12 +13,12 @@
 						<div class="member_content py-4">
                         	<div>
 	                        	
-			        			<p class="font__size-30 font__halvetica-bold line__height-50">NCA Unternehmer<br>20 <span class=" member_count_arrow px-lg-3 pt-12 d-inline-flex">
+			        			<p class="font__size-30 font__halvetica-bold line__height-50">NCA Unternehmer<br>21 <span class=" member_count_arrow px-lg-3 pt-12 d-inline-flex">
 			        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
 									  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
 									</svg>
 
-			        			</span> 22</p>	
+			        			</span> 23</p>	
 						    </div>	
 	                    </div>
 				    </div>	
@@ -33,15 +33,15 @@
 	</div>	
 </section>
 
-<section class="bg-white">
+<section class="sabs_page bg-grey-light">
 	<div class="container pb-lg-200 pb-50">
 		<div class="row">
 			<div class="col-12 col-lg-12">
 				<div class="sabastien_col wow fadeInRight w-100 apply_sec_div">
-					<a href="#" class="d-block p-5 text-white sercher_clr_div">
+					<a href="https://www.novastone-ca.com/about-us-de.php" class="d-block p-5 text-white sercher_clr_div">
 						<img class="searcher_logo" src="img/LOGO-WHITE.png">
-						<p class="font__size-25 mb-2 mt-4 font__halvetica-bold font__weight-500">NCA Unternehmer</p>
-						<p class="font__size-17 text-white mt-4 font__weight-500">
+						<p class="font__size-30 mb-2 mt-30 font__halvetica-bold font__weight-500">NCA Unternehmer</p>
+						<p class="font__size-16 text-white mt-4 font__weight-500">
 							Das NCA Entrepreneurship Through Acquisition<br> Programm begleitet die nächste Generation<br>aussergewöhnlicher Talente auf jeder Etappe ihres<br> unternehmerischen Weges. 
 						</p>
 						<div class="text-right arrow_link sas_arrow font__halvetica-bold">
@@ -57,14 +57,14 @@
 		</div>
 	</div>		
 </section>
-<section class="bg-white"> 
+<section class="sabs_page bg-grey-light"> 
 	<div class="container pb-lg-200 pb-50">
 		<div class="div_section">
 			<div class="row">
 				<div class="col-lg-5 pr-lg-20">
 					<div class="image_content_div position-relative">
 						<img class="w-100" src="img/uber_mch.png">
-						<div class="transform_div position-absolute bg-dark">
+						<div class="transform_div position-absolute">
 							<p class="py-3 px-3 font__halvetica-bold font__size-36">ÜBER MICH</p>
 						</div>
 					</div>	
@@ -74,7 +74,7 @@
 						<p class="font-weight-bold font__size-16">
 							Den grössten Teil meiner Karriere habe ich in verschiedenen Schweizer High-Tech-KMU gearbeitet, die in der Maschinen-, Elektro- und Metall-Industrie (MEM) agieren.
 						</p>
-						<p class="mt-30 font__size-16">
+						<p class="mt-30 font__size-16 font__halvetica-regular">
 							In den letzten 15 Jahren habe ich die Chance ergriffen, mich vom F&E-Ingenieur zum Topmanager zu entwickeln. Jetzt möchte ich meiner Karriere eine neue Richtung geben und eine Herausforderung meistern, bei der ich nicht nur als Manager, sondern auch als Unternehmer erfolgreich sein kann. Dieses Vorhaben werde ich durch den Erwerb und die Weiterentwicklung eines industriellen KMU verwirklichen.
 						</p>
 					</div>	
@@ -88,7 +88,7 @@
 				<div class="col-lg-5 pr-lg-20">
 					<div class="image_content_div position-relative">
 						<img class="w-100" src="img/meine_suche.png">
-						<div class="transform_div position-absolute bg-dark">
+						<div class="transform_div position-absolute">
 							<p class="py-3 px-3 font__halvetica-bold font__size-36">MEINE SUCHE</p>
 						</div>
 					</div>	
@@ -98,7 +98,7 @@
 						<p class="font-weight-bold font__size-16">
 							Die MEM-Industrien in der Schweiz und in Deutschland stehen im Mittelpunkt meiner Suche. Insbesondere möchte ich auf KMU zugehen, die Maschinen, Automatisierungskomponenten oder Subsysteme entwickeln und herstellen.
 						</p>
-						<p class="mt-30 font__size-16">
+						<p class="mt-30 font__size-16 font__halvetica-regular">
 							In diesem  industriellen Umfeld ﬁnden sich KMU, die von Technologie und Innovation angetrieben werden samt Produkten mit hoher Wertschöpfung für weltweite Märkte. Hier kann ich meine Fähigkeiten, meinen Werdegang und mein Netzwerk am besten einsetzen.
 						</p>
 					</div>	
@@ -112,7 +112,7 @@
 				<div class="col-lg-5 pr-lg-20">
 					<div class="image_content_div position-relative">
 						<img class="w-100" src="img/meine_beitrag.png">
-						<div class="transform_div position-absolute bg-dark">
+						<div class="transform_div position-absolute">
 							<p class="py-3 px-3 font__halvetica-bold font__size-36">MEIN BEITRAG</p>
 						</div>
 					</div>	
@@ -122,7 +122,7 @@
 						<p class="font-weight-bold font__size-16">
 							Ich verfüge über fundierte Erfahrung in der Unternehmensleitung diverser exportorientierter Schweizer KMU, mit besonderem Fokus auf internationalen Wachstum und Produktinnovation.
 						</p>
-						<p class="mt-30 font__size-16">
+						<p class="mt-30 font__size-16 font__halvetica-regular">
 							Ich habe im Laufe der Jahre sowohl im operativen Tagesgeschäft ausgeprägte Kenntnisse erworben, als auch bei der Umsetzung strategischer Projekte. Ich führte Unternehmen durch zahlreiche Wachstums- oder Krisenphasen und betrachte diese stets als Chance, die Arbeitsprozesse und Produkte zu analysieren, adaptieren und zu verbessern. Ich kann meine Führungskompetenz weltweit einsetzen, um multifunktionale Teams mit Mitarbeitern rund um den Globus zu führen. Hinzu kommt meine Anpassungsfähigkeit für die kontinuierliche Einbindung von neuen, externen Bedingungen.
 						</p>
 					</div>	
@@ -134,7 +134,7 @@
 	</div>	
 </section>
 
-<section class="video_section bg-white">
+<section class="video_section bg-grey-light">
 	<div class="container-outer-1600">
 		<div class="row">
 			<div class="col-lg-4 pr-lg-20">
@@ -155,7 +155,7 @@
 							</svg>
 						</div> 
 						<p class="font__halvetica-bold font-weight-bold text-primary">
-							Henry Ford<br> Grobunternehmer und <br>Geschaftsmann
+							Henry Ford<br> Grossunternehmer und <br>Geschaftsmann
 						</p> 
 					</div>	
 				</div>	
@@ -165,7 +165,7 @@
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
 	                    <img src="img/sabastein_thumb.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/NPLKoOQ9eU0" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/oWzkhRGWenU" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
@@ -173,20 +173,15 @@
 		</div>	
 		<div class="row pt-50 pb-100">
 			<div class="col-lg-4 pr-lg-20">
-				<div class="learn_more_btns sbs_download_btn resume_btn bg-dark pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="img/Jan-Nikolaisen-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> LEBENSLAUF
-						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
-						  <defs>
-						    <clipPath id="clip-path">
-						      <rect id="Rectangle_37" data-name="Rectangle 37" width="28" height="28" transform="translate(542 3682)" fill="none"/>
-						    </clipPath>
-						  </defs>
-						  <g id="Group_46" data-name="Group 46" transform="translate(-542 -3682)">
-						    <g id="Group_45" data-name="Group 45" clip-path="url(#clip-path)">
-						      <path id="Path_20" data-name="Path 20" d="M570,3696l-2.545-2.546-9.637,9.637V3682h-3.636v21.091l-9.637-9.637L542,3696l14,14Z" fill="#e5720a"/>
-						    </g>
+				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
+					<a download href="img/sebastien.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> LEBENSLAUF
+						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
+						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
+						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
+						    <path id="Path_27" data-name="Path 27" d="M570,3696l-2.545-2.546-9.637,9.637V3682h-3.636v21.091l-9.637-9.637L542,3696l14,14Z" fill="#e5720a"/>
 						  </g>
 						</svg>
+
 
 					</a>
 				</div>
@@ -207,20 +202,20 @@
 	</div>	
 </section>
 
-<section class="new-searcher searcher_footer_sec bg-secondary-2">
+<section class="searcher_footer_sec bg-footer">
 	<div class="searcher_footer">
 		<div class="container pb-100 pt-70">
 			<div class="row">
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">SÉBASTIEN PERROUD</h1>
-							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Unternehmer</h3>
+							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Sébastien Perroud</h1>
+							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Unternehmer</span></h3>
 						</div>
-						<div class="jan_detail mt-4">
+						<div class="jan_detail mt-60">
 							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">Diese Website stellt kein Angebot an die Öffentlichkeit oder eine Aufforderung zum Kauf oder zur Investition in ein Finanzinstrument dar. Die auf dieser Website bereitgestellten Informationen dienen nur zu Informationszwecken und stellen kein Angebot, keine Aufforderung oder Empfehlung dar, eine Finanzdienstleistung zu abonnieren. Soweit diese Website Ansichten zu Anlagestrategien und Anlageideen zum Ausdruck bringt, sind solche Informationen nur allgemeiner Natur und dürfen nicht als Werbung für die Zeichnung einer Finanzdienstleistung oder für eine Anlage in ein bestimmtes Finanzinstrument ausgelegt werden.</p>
 
-							<a href="index-de.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-25 font-weight-bold btn-no-shadow btn_lang p-3">NCA Website <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
+							<a href="index-de.php" target="__blank" class="font__family-avenir back_primary text-capitalize d-inline-flex text-left align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3 mt-10">NCA website <span class="ml-115"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="18" viewBox="0 0 10 10">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="10" height="10" fill="none"/>
@@ -236,18 +231,18 @@
 				</div>
 				<div class="col-12 col-lg-5 text-lg-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:sebastien.perroud@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">sebastien.perroud@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:sebastien.perroud@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-2"><span>sebastien.perroud@novastone-ca.com</span></a>
+						<a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
-			<div class="row align-items-center mt-5">
+			<div class="row align-items-center mt-30">
 							
 				<div class="col-lg-8 col-sm-12 col-12 col-xs-12">
 					<p class="font__size-12 font__family-open-sans text-white">&copy; Novastone Capital Advisors 2020 - Haldenstraße 5, 6340 Baar, Schweiz</p>
 				</div>
 				<div class="col-lg-4 col-sm-12 col-12 col-xs-12">
-					<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12">
+					<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12 font__family-sspb">
 						<li><a href="img/Terms-and-Conditions-Legal Notice.pdf" download="">Terms and Conditions</a></li>
 						<li><a href="img/NCA-Privacy-Policy.pdf" download="">Privacy Policy</a></li>
 					</ul>

@@ -1773,11 +1773,13 @@ a.badge_link{
 .transform_div{
     transform: rotate(270deg);
     left: -206px;
-    top: 152px;
+    top: 150px;
     min-width: 360px;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 2px 0px;
+    background-color: #2C2C2C;
 }
 .video_text.about_contact_info{
     flex-wrap: wrap;
@@ -1833,6 +1835,9 @@ a.line__height-40{
 }
 .mt-75{
     margin-top: 75px;
+}
+.learn_more_btns.sbs_download_btn.resume_btn{
+    background-color: #2C2C2C;
 }
 
 @media only screen and (max-width: 1699px) and (min-width: 1599px){
@@ -1990,8 +1995,28 @@ a.line__height-40{
         left: -290px;
     }
 }
+
 .sbs_download_btn a:hover{
        color: var(--brand-primary) !important;
+}
+.bg-grey-light{
+    background-color: #FFFBF6 !important;
+}
+.main-page .sabs_page .container{
+    background: linear-gradient(90deg, rgb(186 163 133 / 0.2) 1px, transparent 1px) 1px 0;
+}
+.back_primary{
+    background-color: var(--brand-primary) !important;
+    border-radius: 0px !important;
+}
+.back_primary:hover{
+    color: #ffffff !important;
+}
+.ml-115{
+    margin-left: 115px !important;
+}
+.bg-footer{
+    background-color: #2C2C2C;
 }
 
 /*end TR*/
