@@ -2002,9 +2002,9 @@ a.line__height-40{
 .bg-grey-light{
     background-color: #FFFBF6 !important;
 }
-.main-page .sabs_page .container{
+/*.main-page .sabs_page .container{
     background: linear-gradient(90deg, rgb(186 163 133 / 0.2) 1px, transparent 1px) 1px 0;
-}
+}*/
 .back_primary{
     background-color: var(--brand-primary) !important;
     border-radius: 0px !important;
