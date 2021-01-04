@@ -1,134 +1,140 @@
 <?php include 'inc/header-scripts.php'; ?>	
 
 <section class="sabs_page searcher_img_sec bg-grey-light">
-	<div class="container">
-		<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50">
-			<div class="col-lg-3 main_text">
-			    <div class="key_skill key_skill_new position-relative pl-lg-90 pr-50 pb-80 pt-50 ml-40">
-				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"><a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 sabs_linkdin p-2 mr-2"><i class="fab fa-linkedin-in"></i></a> FIND ME ON LINKEDIN</h2>
-				</div>	
-				<div class="detail_main_col d-flex align-items-end h-100">
-				    <div class="detail_searcher sbs_deatail mt-5">
-						<h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160"><span class="bg-white pr-12-100"><span class="pr-12-100">SÉBASTIEN</span> <br> PERROUD</span></h2>
-						<div class="member_content py-4">
-                        	<div>
-	                        	
-			        			<p class="font__size-30 font__halvetica-bold line__height-50">NCA Unternehmer<br>21 <span class=" member_count_arrow px-lg-3 pt-12 d-inline-flex">
-			        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
-									  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
-									</svg>
+	<div class="outer_container container-outer-1600">
+	    <div class="container-inner-1545">
+			<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50">
+				<div class="col-lg-3 main_text">
+				    <div class="key_skill key_skill_new position-relative pl-lg-90 pr-50 pb-80 pt-50 ml-40">
+					    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"><a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 sabs_linkdin p-2 mr-2"><i class="fab fa-linkedin-in"></i></a> FIND ME ON LINKEDIN</h2>
+					</div>	
+					<div class="detail_main_col d-flex align-items-end h-100">
+					    <div class="detail_searcher sbs_deatail mt-5">
+							<h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160"><span class="bg-white pr-12-100"><span class="pr-12-100">SÉBASTIEN</span> <br> PERROUD</span></h2>
+							<div class="member_content py-4">
+	                        	<div>
+		                        	
+				        			<p class="font__size-30 font__halvetica-bold line__height-50">NCA Unternehmer<br>21 <span class=" member_count_arrow px-lg-3 pt-12 d-inline-flex">
+				        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
+										  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
+										</svg>
 
-			        			</span> 23</p>	
-						    </div>	
-	                    </div>
-				    </div>	
-				</div>    
-			</div>
-			<div class="col-lg-9">
-				<div class="searcher_image position-relative">
-					<img class="w-100" src="img/sabastien.png">
+				        			</span> 23</p>	
+							    </div>	
+		                    </div>
+					    </div>	
+					</div>    
+				</div>
+				<div class="col-lg-9">
+					<div class="searcher_image position-relative">
+						<img class="w-100" src="img/sabastien.png">
+					</div>	
 				</div>	
-			</div>	
-		</div>	
+			</div>
+		</div>		
 	</div>	
 </section>
 
 <section class="sabs_page bg-grey-light">
-	<div class="container pb-lg-200 pb-50">
-		<div class="row">
-			<div class="col-12 col-lg-12">
-				<div class="sabastien_col wow fadeInRight w-100 apply_sec_div">
-					<a href="https://www.novastone-ca.com/about-us-de.php" class="d-block p-5 text-white sercher_clr_div">
-						<img class="searcher_logo" src="img/LOGO-WHITE.png">
-						<p class="font__size-30 mb-2 mt-30 font__halvetica-bold font__weight-500">NCA Unternehmer</p>
-						<p class="font__size-16 text-white mt-4 font__weight-500">
-							Das NCA Entrepreneurship Through Acquisition<br> Programm begleitet die nächste Generation<br>aussergewöhnlicher Talente auf jeder Etappe ihres<br> unternehmerischen Weges. 
-						</p>
-						<div class="text-right arrow_link sas_arrow font__halvetica-bold">
-							ERFAHRE MEHR
-							<svg id="Forward_arrow" class="ml-lg-5 ml-2" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
-							  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
-							</svg>
+	<div class="outer_container container-outer-1600">
+		<div class="container-inner-1545 pb-lg-200 pb-50">
+			<div class="row">
+				<div class="col-12 col-lg-12">
+					<div class="sabastien_col wow fadeInRight w-100 apply_sec_div">
+						<a href="https://www.novastone-ca.com/about-us-de.php" class="d-block p-5 text-white sercher_clr_div">
+							<img class="searcher_logo" src="img/LOGO-WHITE.png">
+							<p class="font__size-30 mb-2 mt-30 font__halvetica-bold font__weight-500">NCA Unternehmer</p>
+							<p class="font__size-16 text-white mt-4 font__weight-500">
+								Das NCA Entrepreneurship Through Acquisition<br> Programm begleitet die nächste Generation<br>aussergewöhnlicher Talente auf jeder Etappe ihres<br> unternehmerischen Weges. 
+							</p>
+							<div class="text-right arrow_link sas_arrow font__halvetica-bold">
+								ERFAHRE MEHR
+								<svg id="Forward_arrow" class="ml-lg-5 ml-2" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+								  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
+								</svg>
 
-						</div>
-					</a>
+							</div>
+						</a>
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>		
+	</div>			
 </section>
 <section class="sabs_page bg-grey-light"> 
-	<div class="container pb-lg-200 pb-50">
-		<div class="div_section">
-			<div class="row">
-				<div class="col-lg-5 pr-lg-20">
-					<div class="image_content_div position-relative">
-						<img class="w-100" src="img/uber_mch.png">
-						<div class="transform_div position-absolute">
-							<p class="py-3 px-3 font__halvetica-bold font__size-36">ÜBER MICH</p>
-						</div>
-					</div>	
+	<div class="outer_container container-outer-1600 pb-lg-200 pb-50">
+		<div class="container-inner-1560">
+			<div class="div_section">
+				<div class="row">
+					<div class="col-lg-5 pr-lg-20">
+						<div class="image_content_div position-relative">
+							<img class="w-100" src="img/uber_mch.png">
+							<div class="transform_div position-absolute">
+								<p class="py-3 px-3 font__halvetica-bold font__size-36">ÜBER MICH</p>
+							</div>
+						</div>	
+					</div>
+					<div class="col-lg-5 pl-lg-20">
+						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
+							<p class="font-weight-bold font__size-16">
+								Den grössten Teil meiner Karriere habe ich in verschiedenen Schweizer High-Tech-KMU gearbeitet, die in der Maschinen-, Elektro- und Metall-Industrie (MEM) agieren.
+							</p>
+							<p class="mt-30 font__size-16 font__halvetica-regular">
+								In den letzten 15 Jahren habe ich die Chance ergriffen, mich vom F&E-Ingenieur zum Topmanager zu entwickeln. Jetzt möchte ich meiner Karriere eine neue Richtung geben und eine Herausforderung meistern, bei der ich nicht nur als Manager, sondern auch als Unternehmer erfolgreich sein kann. Dieses Vorhaben werde ich durch den Erwerb und die Weiterentwicklung eines industriellen KMU verwirklichen.
+							</p>
+						</div>	
+					</div>
+					<div class="col-lg-2">
+					</div>	 
 				</div>
-				<div class="col-lg-5 pl-lg-20">
-					<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
-						<p class="font-weight-bold font__size-16">
-							Den grössten Teil meiner Karriere habe ich in verschiedenen Schweizer High-Tech-KMU gearbeitet, die in der Maschinen-, Elektro- und Metall-Industrie (MEM) agieren.
-						</p>
-						<p class="mt-30 font__size-16 font__halvetica-regular">
-							In den letzten 15 Jahren habe ich die Chance ergriffen, mich vom F&E-Ingenieur zum Topmanager zu entwickeln. Jetzt möchte ich meiner Karriere eine neue Richtung geben und eine Herausforderung meistern, bei der ich nicht nur als Manager, sondern auch als Unternehmer erfolgreich sein kann. Dieses Vorhaben werde ich durch den Erwerb und die Weiterentwicklung eines industriellen KMU verwirklichen.
-						</p>
-					</div>	
-				</div>
-				<div class="col-lg-2">
-				</div>	 
-			</div>
-		</div>	
-		<div class="div_section mt-75">	
-			<div class="row">
-				<div class="col-lg-5 pr-lg-20">
-					<div class="image_content_div position-relative">
-						<img class="w-100" src="img/meine_suche.png">
-						<div class="transform_div position-absolute">
-							<p class="py-3 px-3 font__halvetica-bold font__size-36">MEINE SUCHE</p>
-						</div>
-					</div>	
-				</div>
-				<div class="col-lg-5 pl-lg-20">
-					<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
-						<p class="font-weight-bold font__size-16">
-							Die MEM-Industrien in der Schweiz und in Deutschland stehen im Mittelpunkt meiner Suche. Insbesondere möchte ich auf KMU zugehen, die Maschinen, Automatisierungskomponenten oder Subsysteme entwickeln und herstellen.
-						</p>
-						<p class="mt-30 font__size-16 font__halvetica-regular">
-							In diesem  industriellen Umfeld ﬁnden sich KMU, die von Technologie und Innovation angetrieben werden samt Produkten mit hoher Wertschöpfung für weltweite Märkte. Hier kann ich meine Fähigkeiten, meinen Werdegang und mein Netzwerk am besten einsetzen.
-						</p>
-					</div>	
-				</div>
-				<div class="col-lg-2">
-				</div>	 
 			</div>	
-		</div>
-		<div class="div_section mt-75">	
-			<div class="row">
-				<div class="col-lg-5 pr-lg-20">
-					<div class="image_content_div position-relative">
-						<img class="w-100" src="img/meine_beitrag.png">
-						<div class="transform_div position-absolute">
-							<p class="py-3 px-3 font__halvetica-bold font__size-36">MEIN BEITRAG</p>
-						</div>
-					</div>	
-				</div>
-				<div class="col-lg-5 pl-lg-20">
-					<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
-						<p class="font-weight-bold font__size-16">
-							Ich verfüge über fundierte Erfahrung in der Unternehmensleitung diverser exportorientierter Schweizer KMU, mit besonderem Fokus auf internationalen Wachstum und Produktinnovation.
-						</p>
-						<p class="mt-30 font__size-16 font__halvetica-regular">
-							Ich habe im Laufe der Jahre sowohl im operativen Tagesgeschäft ausgeprägte Kenntnisse erworben, als auch bei der Umsetzung strategischer Projekte. Ich führte Unternehmen durch zahlreiche Wachstums- oder Krisenphasen und betrachte diese stets als Chance, die Arbeitsprozesse und Produkte zu analysieren, adaptieren und zu verbessern. Ich kann meine Führungskompetenz weltweit einsetzen, um multifunktionale Teams mit Mitarbeitern rund um den Globus zu führen. Hinzu kommt meine Anpassungsfähigkeit für die kontinuierliche Einbindung von neuen, externen Bedingungen.
-						</p>
-					</div>	
-				</div>
-				<div class="col-lg-2">
-				</div>	 
+			<div class="div_section mt-75">	
+				<div class="row">
+					<div class="col-lg-5 pr-lg-20">
+						<div class="image_content_div position-relative">
+							<img class="w-100" src="img/meine_suche.png">
+							<div class="transform_div position-absolute">
+								<p class="py-3 px-3 font__halvetica-bold font__size-36">MEINE SUCHE</p>
+							</div>
+						</div>	
+					</div>
+					<div class="col-lg-5 pl-lg-20">
+						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
+							<p class="font-weight-bold font__size-16">
+								Die MEM-Industrien in der Schweiz und in Deutschland stehen im Mittelpunkt meiner Suche. Insbesondere möchte ich auf KMU zugehen, die Maschinen, Automatisierungskomponenten oder Subsysteme entwickeln und herstellen.
+							</p>
+							<p class="mt-30 font__size-16 font__halvetica-regular">
+								In diesem  industriellen Umfeld ﬁnden sich KMU, die von Technologie und Innovation angetrieben werden samt Produkten mit hoher Wertschöpfung für weltweite Märkte. Hier kann ich meine Fähigkeiten, meinen Werdegang und mein Netzwerk am besten einsetzen.
+							</p>
+						</div>	
+					</div>
+					<div class="col-lg-2">
+					</div>	 
+				</div>	
+			</div>
+			<div class="div_section mt-75">	
+				<div class="row">
+					<div class="col-lg-5 pr-lg-20">
+						<div class="image_content_div position-relative">
+							<img class="w-100" src="img/meine_beitrag.png">
+							<div class="transform_div position-absolute">
+								<p class="py-3 px-3 font__halvetica-bold font__size-36">MEIN BEITRAG</p>
+							</div>
+						</div>	
+					</div>
+					<div class="col-lg-5 pl-lg-20">
+						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
+							<p class="font-weight-bold font__size-16">
+								Ich verfüge über fundierte Erfahrung in der Unternehmensleitung diverser exportorientierter Schweizer KMU, mit besonderem Fokus auf internationalen Wachstum und Produktinnovation.
+							</p>
+							<p class="mt-30 font__size-16 font__halvetica-regular">
+								Ich habe im Laufe der Jahre sowohl im operativen Tagesgeschäft ausgeprägte Kenntnisse erworben, als auch bei der Umsetzung strategischer Projekte. Ich führte Unternehmen durch zahlreiche Wachstums- oder Krisenphasen und betrachte diese stets als Chance, die Arbeitsprozesse und Produkte zu analysieren, adaptieren und zu verbessern. Ich kann meine Führungskompetenz weltweit einsetzen, um multifunktionale Teams mit Mitarbeitern rund um den Globus zu führen. Hinzu kommt meine Anpassungsfähigkeit für die kontinuierliche Einbindung von neuen, externen Bedingungen.
+							</p>
+						</div>	
+					</div>
+					<div class="col-lg-2">
+					</div>	 
+				</div>	
 			</div>	
 		</div>	
 	</div>	
