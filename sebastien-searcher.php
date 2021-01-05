@@ -2,63 +2,63 @@
 
 <section class="sabs_page searcher_img_sec bg-grey-light">
 	<div class="outer_container container-outer-1600">
-	    <div class="container-inner-1545">
-			<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50">
-				<div class="col-lg-3 main_text">
-				    <div class="key_skill key_skill_new position-relative pl-lg-90 pr-50 pb-80 pt-50 ml-40">
-					    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"><a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 sabs_linkdin p-2 mr-2"><i class="fab fa-linkedin-in"></i></a> FIND ME ON LINKEDIN</h2>
-					</div>	
-					<div class="detail_main_col d-flex align-items-end h-100">
-					    <div class="detail_searcher sbs_deatail mt-5">
-							<h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160"><span class="bg-white pr-12-100"><span class="pr-12-100">SÉBASTIEN</span> <br> PERROUD</span></h2>
-							<div class="member_content py-4">
-	                        	<div>
-		                        	
-				        			<p class="font__size-30 font__halvetica-bold line__height-50">NCA Unternehmer<br>21 <span class=" member_count_arrow px-lg-3 pt-12 d-inline-flex">
-				        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
-										  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
-										</svg>
-
-				        			</span> 23</p>	
-							    </div>	
-		                    </div>
-					    </div>	
-					</div>    
-				</div>
-				<div class="col-lg-9">
-					<div class="searcher_image position-relative">
-						<img class="w-100" src="img/sabastien.png">
-					</div>	
+	   
+		<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50 pl-lg-70">
+			<div class="col-lg-4 main_text">
+			    <div class="key_skill key_skill_new position-relative pl-lg-90 pr-50 pb-80 pt-50 ml-40">
+				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"><a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 sabs_linkdin mr-2"><i class="fab fa-linkedin-in"></i></a> FIND ME ON LINKEDIN</h2>
 				</div>	
+				<div class="detail_main_col d-flex align-items-end h-100">
+				    <div class="detail_searcher sbs_deatail mt-5 position-relative">
+						<h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160"><span class="heading_bg">SÉBASTIEN</span> <br> <sapn class="heading_bg_2">PERROUD</sapn></h2>
+						<div class="member_content py-4">
+                        	<div>
+	                        	
+			        			<p class="font__size-30 font__halvetica-bold line__height-50"><span class="pb-15 d-inline-block">NCA Unternehmer</span><br><span class="font__size-41">2021</span> <span class=" member_count_arrow px-lg-3 pt-12 d-inline-flex">
+			        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
+									  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
+									</svg>
+
+			        			</span><span class="font__size-41">2023</span></p>	
+						    </div>	
+	                    </div>
+				    </div>	
+				</div>    
 			</div>
-		</div>		
+			<div class="col-lg-8">
+				<div class="searcher_image position-relative">
+					<img class="w-100" src="img/sabastien.png">
+				</div>	
+			</div>	
+		</div>
+				
 	</div>	
 </section>
 
 <section class="sabs_page bg-grey-light">
-	<div class="outer_container container-outer-1600">
-		<div class="container-inner-1545 pb-lg-200 pb-50">
-			<div class="row">
-				<div class="col-12 col-lg-12">
-					<div class="sabastien_col wow fadeInRight w-100 apply_sec_div">
-						<a href="https://www.novastone-ca.com/about-us-de.php" class="d-block p-5 text-white sercher_clr_div">
-							<img class="searcher_logo" src="img/LOGO-WHITE.png">
-							<p class="font__size-30 mb-2 mt-30 font__halvetica-bold font__weight-500">NCA Unternehmer</p>
-							<p class="font__size-16 text-white mt-4 font__weight-500">
-								Das NCA Entrepreneurship Through Acquisition<br> Programm begleitet die nächste Generation<br>aussergewöhnlicher Talente auf jeder Etappe ihres<br> unternehmerischen Weges. 
-							</p>
-							<div class="text-right arrow_link sas_arrow font__halvetica-bold">
-								ERFAHRE MEHR
-								<svg id="Forward_arrow" class="ml-lg-5 ml-2" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
-								  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
-								</svg>
+	<div class="outer_container container-outer-1600 pb-lg-200 pb-50">
+		
+		<div class="row pl-lg-70">
+			<div class="col-12 col-lg-12">
+				<div class="sabastien_col wow fadeInRight w-100 apply_sec_div">
+					<a href="https://www.novastone-ca.com/about-us-de.php" class="d-block p-5 text-white sercher_clr_div">
+						<img class="searcher_logo" src="img/LOGO-WHITE.png">
+						<p class="font__size-30 mb-2 mt-30 font__halvetica-bold font__weight-500">NCA Unternehmer</p>
+						<p class="font__size-16 text-white mt-4 font__weight-500">
+							Das NCA Entrepreneurship Through Acquisition<br> Programm begleitet die nächste Generation<br>aussergewöhnlicher Talente auf jeder Etappe ihres<br> unternehmerischen Weges. 
+						</p>
+						<div class="text-right arrow_link sas_arrow font__halvetica-bold">
+							ERFAHRE MEHR
+							<svg id="Forward_arrow" class="ml-lg-5 ml-2" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+							  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
+							</svg>
 
-							</div>
-						</a>
-					</div>
+						</div>
+					</a>
 				</div>
 			</div>
 		</div>
+		
 	</div>			
 </section>
 <section class="sabs_page bg-grey-light"> 
@@ -152,7 +152,7 @@
 							</svg>
 
 						</div>    
-						<h2 class="heding_text font__halvetica-bold text-uppercase w-100 mb-3 mt-3">
+						<h2 class="font__size-39 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt-3">
 							HINDERNISSE<br> SIND JENE ENTSETZLICHEN<br> DINGE, DIE WIR SEHEN,<br> WENN WIR UNSERE AUGEN VON<br> UNSEREM ZIEL ABWENDEN.
 						</h2>
 						<div class="heading-_icon mt-3 d-flex justify-content-end w-100">
@@ -160,7 +160,7 @@
 							  <path id="Path_26" data-name="Path 26" d="M558.287,3363.96l-30.059-25.84v20.918l17.93,15.382-17.93,15.293v20.917l30.059-25.751Zm38.935,0-30.058-25.84v20.918l17.929,15.382-17.929,15.293v20.917l30.058-25.751Z" transform="translate(-527.228 -3335.942)" fill="none" stroke="#ea5b0c" stroke-width="2"/>
 							</svg>
 						</div> 
-						<p class="font__halvetica-bold font-weight-bold text-primary">
+						<p class="font__halvetica-bold font-weight-bold text-golden pl-30">
 							Henry Ford<br> Grossunternehmer und <br>Geschaftsmann
 						</p> 
 					</div>	
@@ -171,7 +171,7 @@
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
 	                    <img src="img/sabastein_thumb.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/oWzkhRGWenU" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/oWzkhRGWenU" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
@@ -199,7 +199,7 @@
                     </h2>
                     <ul class="pl-0 mt-30">
                     	<li class="w-100 mb-30">
-                    		<a class="font__halvetica-bold pr-50 text-white font__size-25" href="mailTo:sebastien.perroud@novastone-ca.com">sebastien.perroud@novastone-ca.com</a>
+                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:sebastien.perroud@novastone-ca.com">sebastien.perroud@novastone-ca.com</a>
                     	</li>
                     </ul>
 				</div>	
@@ -248,7 +248,7 @@
 					<p class="font__size-12 font__family-open-sans text-white">&copy; Novastone Capital Advisors 2020 - Haldenstraße 5, 6340 Baar, Schweiz</p>
 				</div>
 				<div class="col-lg-4 col-sm-12 col-12 col-xs-12">
-					<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12 font__family-sspb">
+					<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12 font__family-open-san font-weight-bold">
 						<li><a href="img/Terms-and-Conditions-Legal Notice.pdf" download="">Terms and Conditions</a></li>
 						<li><a href="img/NCA-Privacy-Policy.pdf" download="">Privacy Policy</a></li>
 					</ul>
