@@ -3,7 +3,7 @@
 <section class="sabs_page searcher_img_sec bg-grey-light">
 	<div class="outer_container container-outer-1600">
 	   
-		<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50 pl-lg-70">
+		<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50 pl-lg-100">
 			<div class="col-lg-4 main_text">
 			    <div class="key_skill key_skill_new position-relative pl-lg-90 pr-50 pb-80 pt-50 ml-40">
 				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"><a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 sabs_linkdin mr-2"><i class="fab fa-linkedin-in"></i></a> FIND ME ON LINKEDIN</h2>
@@ -38,7 +38,7 @@
 <section class="sabs_page bg-grey-light">
 	<div class="outer_container container-outer-1600 pb-lg-200 pb-50">
 		
-		<div class="row pl-lg-70">
+		<div class="row pl-lg-100">
 			<div class="col-12 col-lg-12">
 				<div class="sabastien_col wow fadeInRight w-100 apply_sec_div">
 					<a href="https://www.novastone-ca.com/about-us-de.php" class="d-block p-5 text-white sercher_clr_div">
@@ -49,7 +49,7 @@
 						</p>
 						<div class="text-right arrow_link sas_arrow font__halvetica-bold">
 							ERFAHRE MEHR
-							<svg id="Forward_arrow" class="ml-lg-5 ml-2" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+							<svg id="Forward_arrow" class="ml-lg-5 ml-2" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 60 60">
 							  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
 							</svg>
 
@@ -63,7 +63,7 @@
 </section>
 <section class="sabs_page bg-grey-light"> 
 	<div class="outer_container container-outer-1600 pb-lg-200 pb-50">
-		<div class="container-inner-1560">
+		
 			<div class="div_section">
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
@@ -136,12 +136,12 @@
 					</div>	 
 				</div>	
 			</div>	
-		</div>	
+			
 	</div>	
 </section>
 
 <section class="video_section bg-grey-light">
-	<div class="container-outer-1600">
+	<div class="outer_container container-outer-1600">
 		<div class="row">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="video_text about_contact_info pl-30 pr-30 pb-30 w-100 d-flex h-100 align-items-center">
@@ -155,7 +155,7 @@
 						<h2 class="font__size-39 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt-3">
 							HINDERNISSE<br> SIND JENE ENTSETZLICHEN<br> DINGE, DIE WIR SEHEN,<br> WENN WIR UNSERE AUGEN VON<br> UNSEREM ZIEL ABWENDEN.
 						</h2>
-						<div class="heading-_icon mt-3 d-flex justify-content-end w-100">
+						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="70.994" height="76.862" viewBox="0 0 70.994 76.862">
 							  <path id="Path_26" data-name="Path 26" d="M558.287,3363.96l-30.059-25.84v20.918l17.93,15.382-17.93,15.293v20.917l30.059-25.751Zm38.935,0-30.058-25.84v20.918l17.929,15.382-17.929,15.293v20.917l30.058-25.751Z" transform="translate(-527.228 -3335.942)" fill="none" stroke="#ea5b0c" stroke-width="2"/>
 							</svg>
@@ -177,7 +177,7 @@
 				</div>	
 			</div>	
 		</div>	
-		<div class="row pt-50 pb-100">
+		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
 					<a download href="img/sebastien.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> LEBENSLAUF
@@ -221,7 +221,7 @@
 						<div class="jan_detail mt-60">
 							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">Diese Website stellt kein Angebot an die Öffentlichkeit oder eine Aufforderung zum Kauf oder zur Investition in ein Finanzinstrument dar. Die auf dieser Website bereitgestellten Informationen dienen nur zu Informationszwecken und stellen kein Angebot, keine Aufforderung oder Empfehlung dar, eine Finanzdienstleistung zu abonnieren. Soweit diese Website Ansichten zu Anlagestrategien und Anlageideen zum Ausdruck bringt, sind solche Informationen nur allgemeiner Natur und dürfen nicht als Werbung für die Zeichnung einer Finanzdienstleistung oder für eine Anlage in ein bestimmtes Finanzinstrument ausgelegt werden.</p>
 
-							<a href="index-de.php" target="__blank" class="font__family-avenir back_primary text-capitalize d-inline-flex text-left align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3 mt-10">NCA website <span class="ml-115"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="18" viewBox="0 0 10 10">
+							<a href="index-de.php" target="__blank" class="font__family-avenir back_primary text-capitalize d-inline-flex text-left align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3 mt-10">NCA website <span class="ml-108"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="18" viewBox="0 0 10 10">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="10" height="10" fill="none"/>
@@ -236,9 +236,9 @@
 					</div>
 				</div>
 				<div class="col-12 col-lg-5 text-lg-right">
-					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:sebastien.perroud@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-2"><span>sebastien.perroud@novastone-ca.com</span></a>
-						<a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+					<div class="searcher_mail d-flex align-items-center justify-content-end mt-3 pt-1">
+						<a href="mailTo:sebastien.perroud@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>sebastien.perroud@novastone-ca.com</span></a>
+						<a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
@@ -248,7 +248,7 @@
 					<p class="font__size-12 font__family-open-sans text-white">&copy; Novastone Capital Advisors 2020 - Haldenstraße 5, 6340 Baar, Schweiz</p>
 				</div>
 				<div class="col-lg-4 col-sm-12 col-12 col-xs-12">
-					<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12 font__family-open-san font-weight-bold">
+					<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12 font__family-open-sans font-weight-bold">
 						<li><a href="img/Terms-and-Conditions-Legal Notice.pdf" download="">Terms and Conditions</a></li>
 						<li><a href="img/NCA-Privacy-Policy.pdf" download="">Privacy Policy</a></li>
 					</ul>
