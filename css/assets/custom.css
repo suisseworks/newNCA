@@ -1875,7 +1875,7 @@ a.line__height-40{
         top: 350px;
     }
     .image_content_div img{
-        max-height: 0px;
+        max-height: initial;
         min-height: 307px;
     }
     .detail_main_col .heading_bg::before{
@@ -2115,7 +2115,11 @@ a.line__height-40{
 .ml-108{
     margin-left: 108.33px !important;
 }
-
+@media only screen and (max-width: 1229px){
+    .heading-_icon.heading_bottom_icon{
+        margin-top: 0px !important;
+    }
+}
 /*end TR*/
 
 
