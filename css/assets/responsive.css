@@ -1002,7 +1002,10 @@ header .brk-nav__menu>li a{
     margin-top: 75px !important;
 }
 .play_button.left_btn.play_btn_white{
-    top: 125px;
+    top: 50px;
+    bottom: 0;
+    display: flex;
+    align-items: center;
 }
 .resume_sec > div {
     padding-top: 75px !important;
@@ -1309,9 +1312,6 @@ header .brk-nav__menu>li a{
 }
 }
 @media (max-width: 475px){
-    .play_button.left_btn.play_btn_white {
-    top: 70px;
-}
 .resources_form {
     padding: 40px 20px !important;
 }
