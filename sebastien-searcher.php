@@ -14,12 +14,12 @@
 						<div class="member_content py-4">
                         	<div>
 	                        	
-			        			<p class="font__size-30 font__halvetica-bold line__height-50"><span class="pb-15 d-inline-block">NCA Unternehmer</span><br><span class="font__size-41">2021</span> <span class=" member_count_arrow px-lg-3 pt-12 d-inline-flex">
+			        			<p class="font__size-30 font__halvetica-bold line__height-50"><span class="pb-15 d-inline-block">NCA Unternehmer</span><br><span class="font__size-41">2021</span> <span class=" member_count_arrow px-lg-3 pt-lg-12 pt-10 d-inline-flex">
 			        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
 									  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
 									</svg>
 
-			        			</span><span class="font__size-41">2023</span></p>	
+			        			</span><span class="font__size-41 ml-lg-0 ml-10">2023</span></p>	
 						    </div>	
 	                    </div>
 				    </div>	
