@@ -12,19 +12,19 @@
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
 							<a href="https://www.linkedin.com/in/erickazen/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="https://novastone-ca.com/searcher-erick-en.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
+							<a href="http://erick.novastone-ca.com" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">German</a>
 						</div>
 					</div>		
 					<div class="detail_searcher mt-2">
 						<h2 class="font__family-efb text-uppercase line__height-90">Erick <br> Azen</h2>
-						<h4 class="font__size-38 mt-4">NCA Unternehmer</h4>
+						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2021</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2023</span>
+							<span class="font-weight-bold font__size-22">2020</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2022</span>
 						</div>
-						<p class="font__size-18 line__height-24">Geboren und aufgewachsen in Brasilien, führten mich Studium, Leben und die Karriere nach Grossbritannien, Deutschland, die USA und die Schweiz. Als Ingenieur mit einem MBA verfolgte ich eine erfolgreiche Karriere bei Technologieunternehmen, in der Automobilindustrie und jüngst als Vizepräsident in der Lebensmittelindustrie. Dieser Werdegang ermöglichte es mir, ein internationales Profil aufzubauen und Führungspositionen in unterschiedlichen Industriezweigen auszuüben. Ich stamme aus einer Unternehmerfamilie und folge nun meinem Bestreben selbst Unternehmer zu sein und alle Kenntnisse in diese Arbeit einzubringen.</p>
+						<p class="font__size-18 line__height-24">After growing up in Brazil, I had the opportunity to study, work and live in the UK, Germany, US and Switzerland. As an engineer with an MBA, I followed a career in the areas of technology, automotive and lately as a Vice-President in the food industry. This allowed me to have an international profile while taking executive roles within diverse industries. Coming from a family of entrepreneurs, I am following now my aspiration to be entrepreneur and put in practice all my learnings. </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:erick.azen@novastone-ca.com" type="button" class="btn text-white font__family-efb">Kontakt<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:erick.azen@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -45,27 +45,25 @@
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Kernkompetenzen</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Starke Arbeitsethik</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Teamleitung</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategisches Denken</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Unternehmergeist</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Ergebnisorientierung
-</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strong Work Ethics</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Team Leadership </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic thinking </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Ownership Mindset </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Results orientation  </li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MEINE SUCHE</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Ich konzentriere mich darauf ein Unternehmen mit einem bewährten Vermächtnis von Produkten oder Dienstleistungen zu finden, dem ich ein weiteres Wachstum ermöglichen kann. </p>
-					<p class="font__size-16 line__height-24 mt-2">Die Bereiche, in denen ich berufliche Erfahrung habe, sind für mich von besonderem Interesse. Da ich fast 10 Jahre in Deutschland und drei Jahre in der Schweiz lebte und eine deutsche Familie habe, suche ich hauptsächlich in der DACH-Region.</p>
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">I am focused in finding a company with a legacy of strong products or services which I can help to grow.  </p>
+					<p class="font__size-16 line__height-24 mt-2">Areas which fit my background are of special interest to me. Having lived close to 10 years in Germany, 3 years in Switzerland and having a German family, I am searching mainly in the DACH region.</p>
 
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">Mein Beitrag</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Abgesehen von meiner internationalen Erfahrung, formte ich meine Karriere in Organisationskulturen, die Wachstum, Eigenverantwortung und 
-Personalentwicklung fördern.  </p>
-					<p class="font__size-16 line__height-24 mt-1">Ich habe Kenntnisse in den Bereichen Technologie, Geschäftsstrategie, Produktentwicklung, Verkauf, Beschaffung sowie Produktion und leitete ganze Geschäftseinheiten samt finanzieller Verantwortung. Daher verfüge ich über starke Führungsqualitäten und viel Erfahrung im Teammanagement.
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My Contribution</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">Together with my international profile, I made my career inside cultures which cultivate growth, ownership and talent development.  </p>
+					<p class="font__size-16 line__height-24 mt-1">I bring experience in the areas of technology, business strategy, product development, sales, procurement and manufacturing. Having managed business units with financial responsibility, I come with a proven background in team leadership.
  </p>    
 			</div>
 		</div>
@@ -105,10 +103,10 @@ Personalentwicklung fördern.  </p>
 						  <path id="Path_6602" data-name="Path 6602" d="M725.4-850.671c6.158,4.2,23.007,17.9,29.133,45.4l.086.389h2.547l-.132-.607c-7.571-34.61-32.04-48.449-32.286-48.585l-1.842-1.013v50.233h2.5Z" transform="translate(-722.906 856.146)" fill="#fff"/>
 						</svg>
 					</span>
-					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Unternehmer </h3>
-					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">Das NCA Entrepreneurship Through Acquisition Programm begleitet die nächste Generation aussergewöhnlicher Talente auf jeder Etappe ihres unternehmerischen Weges.</p>
+					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Entrepreneur </h3>
+					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">The NCA Entrepreneurship Through Acquisition Program accompanies the next generation of exceptional talents on every stage of their entrepreneurial path.</p>
 					<div class="learn_more_btns learn_about_btn mt-5 mb-4 pb-2">
-						<a href="about-us-de.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">ERFAHRE MEHR <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a href="about-us-de.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">LEARN MORE <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 							  <defs>
 							    <clipPath id="clip-path">
 							      <rect width="38" height="38" fill="none"/>
@@ -143,7 +141,7 @@ Personalentwicklung fördern.  </p>
 		<div class="row no-gutters">
 			<div class="col-lg-4">
 				<div class="about_contact_info pl-100 bg-white pr-100 pt-60 pb-80">
-					<h2 class="font__family-efb text-uppercase mb-3">Meine Kontaktdetails</h2>
+					<h2 class="font__family-efb text-uppercase mb-3">My Contact Details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
 					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:erick.azen@novastone-ca.com">erick.azen@novastone-ca.com</a>
@@ -159,11 +157,9 @@ Personalentwicklung fördern.  </p>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Sei mutig. Gehe Risiken ein. Nichts kann
-
-Erfahrung ersetzen. </h4>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Be brave. Take risks. Nothing can substitute experience.</h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Paulo Coelho</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Schriftsteller</p>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Author</p>
 					</div>
 				</div>
 			  </div>
@@ -182,7 +178,7 @@ Erfahrung ersetzen. </h4>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Unternehmer</h3>
 						</div>
 						<div class="jan_detail mt-4">
-							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">Diese Website stellt kein Angebot an die Öffentlichkeit oder eine Aufforderung zum Kauf oder zur Investition in ein Finanzinstrument dar. Die auf dieser Website bereitgestellten Informationen dienen nur zu Informationszwecken und stellen kein Angebot, keine Aufforderung oder Empfehlung dar, eine Finanzdienstleistung zu abonnieren. Soweit diese Website Ansichten zu Anlagestrategien und Anlageideen zum Ausdruck bringt, sind solche Informationen nur allgemeiner Natur und dürfen nicht als Werbung für die Zeichnung einer Finanzdienstleistung oder für eine Anlage in ein bestimmtes Finanzinstrument ausgelegt werden.</p>
+							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>
 
 							<a href="index-de.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Webseite <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
 								  <defs>
