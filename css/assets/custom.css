@@ -2099,7 +2099,7 @@ a.line__height-40{
     z-index: -1;
 }
 .heading-_icon.heading_bottom_icon{
-    margin-top: -50px !important;
+    margin-top: -52px !important;
 }
 .learn_more_btns.sbs_download_btn a svg{
     margin-top: -17px;
@@ -2114,6 +2114,22 @@ a.line__height-40{
 }
 .ml-108{
     margin-left: 108.33px !important;
+}
+.video_text.about_contact_info h2{
+    color: #0A101D;
+}
+.image_text_div p{
+    color: #1D1D1B;
+}
+.mt__12{
+    margin-top: -12px;
+}
+.sabs_main{
+    background-color: #FFFBF6;
+    background-image: url(../../img/parallax-logo.svg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
 }
 @media only screen and (max-width: 1229px){
     .heading-_icon.heading_bottom_icon{
