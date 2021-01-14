@@ -1876,7 +1876,7 @@ a.line__height-40{
     }
     .image_content_div img{
         max-height: initial;
-        min-height: 307px;
+        min-height: 375px;
     }
     .detail_main_col .heading_bg::before{
         height: 80px !important;
@@ -1892,6 +1892,11 @@ a.line__height-40{
     }
     .info_text.sabastien_col ul li a{
         font-size: 24px;
+    }
+    .transform_div{
+        left: -158px;
+        top: 157px;
+        min-width: 375px;
     }
 }
 @media only screen and (max-width: 1380px){
@@ -1950,6 +1955,9 @@ a.line__height-40{
     }
     .video_text.about_contact_info h2{
         font-size: 24px !important;
+    }
+    .transform_div{
+        min-width: 368px;
     }
 }
 @media only screen and (max-width: 767px) and (min-width: 576px){
@@ -2117,23 +2125,31 @@ a.line__height-40{
 }
 .video_text.about_contact_info h2{
     color: #0A101D;
+    letter-spacing: 0;
 }
 .image_text_div p{
     color: #1D1D1B;
+    line-height: 19.2px;
 }
 .mt__12{
     margin-top: -12px;
 }
 .sabs_main{
     background-color: #FFFBF6;
-    background-image: url(../../img/parallax-logo.svg);
+    background-image: url(../../img/logo_2.png);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: 124%;
     background-attachment: fixed;
+}
+.font__size-37{
+    font-size: 37px !important;
 }
 @media only screen and (max-width: 1229px){
     .heading-_icon.heading_bottom_icon{
         margin-top: 0px !important;
+    }
+    .mt__12{
+        margin-top: 10px;
     }
 }
 /*end TR*/

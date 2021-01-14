@@ -144,7 +144,7 @@
 	<div class="outer_container container-outer-1600">
 		<div class="row video_col">
 			<div class="col-lg-4 pr-lg-20">
-				<div class="video_text about_contact_info pl-30 pr-30 pb-30 w-100 d-flex h-100 align-items-center">
+				<div class="video_text about_contact_info pl-45 pr-30 pb-30 w-100 d-flex h-100 align-items-center">
 					<div>
 						<div class="heading-_icon heading_top_icon w-100">
 						   <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -152,15 +152,15 @@
 							</svg>
 
 						</div>    
-						<h2 class="font__size-39 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
+						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
 							HINDERNISSE<br> SIND JENE ENTSETZLICHEN<br> DINGE, DIE WIR SEHEN,<br> WENN WIR<br> UNSERE AUGEN VON<br> UNSEREM ZIEL ABWENDEN.
 						</h2>
-						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100">
+						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
 							  <path id="Path_26" data-name="Path 26" d="M558.287,3363.96l-30.059-25.84v20.918l17.93,15.382-17.93,15.293v20.917l30.059-25.751Zm38.935,0-30.058-25.84v20.918l17.929,15.382-17.929,15.293v20.917l30.058-25.751Z" transform="translate(-527.228 -3335.942)" fill="none" stroke="#ea5b0c" stroke-width="2"/>
 							</svg>
 						</div> 
-						<p class="font__halvetica-bold font-weight-bold text-golden pl-30">
+						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
 							Henry Ford<br> Grossunternehmer und <br>Geschäftsmann
 						</p> 
 					</div>	
