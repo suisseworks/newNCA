@@ -178,7 +178,7 @@ Erfahrung ersetzen. </h4>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">ERICK Azen</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">ERICK AZEN</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Unternehmer</h3>
 						</div>
 						<div class="jan_detail mt-4">

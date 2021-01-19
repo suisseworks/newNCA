@@ -19,7 +19,7 @@
 						<h2 class="font__family-efb text-uppercase line__height-90">Erick <br> Azen</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2020</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2022</span>
+							<span class="font-weight-bold font__size-22">2021</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2023</span>
 						</div>
 						<p class="font__size-18 line__height-24">After growing up in Brazil, I had the opportunity to study, work and live in the UK, Germany, US and Switzerland. As an engineer with an MBA, I followed a career in the areas of technology, automotive and lately as a Vice-President in the food industry. This allowed me to have an international profile while taking executive roles within diverse industries. Coming from a family of entrepreneurs, I am following now my aspiration to be entrepreneur and put in practice all my learnings. </p>
 					</div>
@@ -44,8 +44,8 @@
 		<div class="row no-gutters">
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
-				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Key Skills</h2>
+				<div class="key_skill position-relative pl-90 pr-5032 pb-80 pt-50 ml-40">
+					<h2  class="text-uppercase font__family-efb line__height-70 text-brand-primary">Key skills<span style="color: transparent">123456<span></h2>
 					<ul class="ml-5 pl-4">
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strong Work Ethics</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Team Leadership </li>
@@ -174,13 +174,13 @@
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">ERICK Azen</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">ERICK AZEN</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Unternehmer</h3>
 						</div>
 						<div class="jan_detail mt-4">
 							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>
 
-							<a href="index-de.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Webseite <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
+							<a href="index.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Webseite <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="10" height="10" fill="none"/>
