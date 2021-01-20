@@ -120,6 +120,12 @@
 							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="font__size-20 font__family-efb">Visit our LinkedIn for the latest NCA news<span class="arrow_link_a"></span></a>
 							</div>
+							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="https://www.imd.org/news/updates/Enterprise-through-acquisition-offers-a-fast-path-to-business-leadership" target="_blank" class="font__size-20 font__family-efb">IMD: Entrepreneurship through Acquisition offers a fast path to business leadership<span class="arrow_link_a"></span></a>
+							</div>
+							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="https://www.finews.ch/news/finanzplatz/43938-search-funds-novastone-capital-christian-malek-elena-trukhina" target="_blank" class="font__size-20 font__family-efb">finews.ch: Search Funds: Wenn Family Offices den CEO kaufen<span class="arrow_link_a"></span></a>
+							</div>
 						</div>
 					</div>
 					<div class="col-12 col-lg-4">
