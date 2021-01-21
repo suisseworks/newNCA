@@ -148,3 +148,25 @@ function clickbtn_2(){
     });
   }, false);
 })();
+
+
+jQuery(document).ready(function($){
+  $(".modal_btn").click(function(){
+    $("#myModal2").modal({
+        backdrop: false
+    });
+  });
+});
+
+jQuery(document).ready(function($){
+  $(".modal_btn").click(function(){
+    $(".modal.right.form_side_bar.show").css({"padding-right" : "0px"});
+    $(".modal.right .modal-dialog").css({"right" : "340px"});
+  });
+});
+
+jQuery(document).ready(function($){
+  $(".close.function_btn").click(function(){
+    $(".modal.right .modal-dialog").css({"right" : "-320px"});
+  });
+});  
