@@ -15,13 +15,13 @@
 					</div>		
 					<div class="detail_searcher mt-2">
 						<h2 class="font__family-efb text-uppercase line__height-90">entrepreneurship <br> through acquisition</h2>
-						<h4 class="font__size-38 mt-1">Free question and answer session</h4>
-						<p class="font__size-18 line__height-24 mt-30">Are you looking to take the next big step in your career? Join our free question and answer session to find out more about our entrepreneurship through acquistion program. Sig up below and we will provide you with dates and log-in details.
+						<h4 class="font__size-38 mt-1">Free Question & Answer Session</h4>
+						<p class="font__size-18 line__height-24 mt-30">Are you looking to take the next big step in your career? Join our free question and answer session to find out more about our Entrepreneurship Through Acquistion Program. Sig up below and we will provide you with dates and log-in details.
                         <span class="mt-20 d-block"> Follow our Linkedin page for regular updates, information and tips on how to apply.</span>
 						</p>
 					</div>
 					<div class="contact_me_btn mt-5">
-						<a href="#" type="button" class="btn text-white font__family-efb bg-primary p-5 modal_btn" data-toggle="modal" data-target="#myModal2">Registe here
+						<a href="#" type="button" class="btn text-white font__family-efb bg-primary p-5 modal_btn w-100 text-left border-radius-0" data-toggle="modal" data-target="#myModal2">Registe here
 							<span class="ml-3">
 								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								    <defs>
