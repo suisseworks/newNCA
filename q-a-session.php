@@ -51,7 +51,7 @@
 					<div class="brk-theme-options__header get_title">
 						<h2 class="text-white font__family-efb font__size-60 text-uppercase">Get<br> In touch</h2>
 					</div>
-					<!-- <script src='https://crm.zoho.com/crm/WebFormServeServlet?rid=bcf7596e0334913c2996469d1120e4994619ebb6dcda4d5add2987d670f92cb1gid9b0e913965d8ad37d80439171058312f696514d883aeaa795ecf8019925b9c38&script=$sYG'></script> -->
+					<script src='https://crm.zoho.com/crm/WebFormServeServlet?rid=bcf7596e0334913c2996469d1120e4994619ebb6dcda4d5add2987d670f92cb1gid9b0e913965d8ad37d80439171058312f696514d883aeaa795ecf8019925b9c38&script=$sYG'></script>
 					<!-- <div class="row">
 					<div style="display: none;" id="form-alert-success form-alert-success" class="alert alert-success" role="alert">
                     	Information was sent successfully!
@@ -341,6 +341,5 @@
 			</div><!-- modal-content -->
 		</div><!-- modal-dialog -->
 	</div><!-- modal -->
-
 </section>
 <?php include 'inc/footer-scripts-searcher.php'; ?>
