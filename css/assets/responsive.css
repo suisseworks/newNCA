@@ -977,7 +977,7 @@ header .brk-nav__menu>li a{
     font-size: 18px;
 }
 .detail_searcher h2 {
-    font-size: 50px !important;
+    font-size: 50px;
     line-height: 50px;
 }
 .my_searcher .col-lg-4, .jan_video .col-lg-10, .searcher_sectain .col-lg-6 {
@@ -1381,6 +1381,9 @@ header .brk-nav__menu>li a{
 }
 .contact_me_btn {
     padding-left:10px !important;
+}
+.contact_me_btn.a_q_contact{
+	padding-left:0px !important;
 }
 .contact_me_btn a {
     font-size: 20px;
