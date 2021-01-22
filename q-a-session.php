@@ -7,7 +7,7 @@
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
-				<div class="searcher_content pt-100 ml-4">
+				<div class="searcher_content ml-lg-4 mx-lg-0 mx-3">
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
 							<a href="https://www.linkedin.com/company/30146432/admin/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
@@ -15,13 +15,13 @@
 					</div>		
 					<div class="detail_searcher mt-2">
 						<h2 class="font__family-efb text-uppercase line__height-90">entrepreneurship <br> through acquisition</h2>
-						<h4 class="font__size-38 mt-1">Free Question & Answer Session</h4>
+						<h4 class="font__size-38 mt-4 subtitle">Free Question & Answer Session</h4>
 						<p class="font__size-18 line__height-24 mt-30">Are you looking to take the next big step in your career? Join our free question and answer session to find out more about our Entrepreneurship Through Acquistion Program. Sig up below and we will provide you with dates and log-in details.
                         <span class="mt-20 d-block"> Follow our Linkedin page for regular updates, information and tips on how to apply.</span>
 						</p>
 					</div>
-					<div class="contact_me_btn mt-5">
-						<a href="#" type="button" class="btn text-white font__family-efb bg-primary p-5 modal_btn w-100 text-left border-radius-0" data-toggle="modal" data-target="#myModal2">Registe here
+					<div class="contact_me_btn a_q_contact mt-5">
+						<a href="#" type="button" class="btn text-white font__family-efb bg-primary p-5 modal_btn w-100 text-left border-radius-0" data-toggle="modal" data-target="#myModal2">Register here
 							<span class="ml-3">
 								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								    <defs>
@@ -51,7 +51,8 @@
 					<div class="brk-theme-options__header get_title">
 						<h2 class="text-white font__family-efb font__size-60 text-uppercase">Get<br> In touch</h2>
 					</div>
-					<div class="row">
+					<!-- <script src='https://crm.zoho.com/crm/WebFormServeServlet?rid=bcf7596e0334913c2996469d1120e4994619ebb6dcda4d5add2987d670f92cb1gid9b0e913965d8ad37d80439171058312f696514d883aeaa795ecf8019925b9c38&script=$sYG'></script> -->
+					<!-- <div class="row">
 					<div style="display: none;" id="form-alert-success form-alert-success" class="alert alert-success" role="alert">
                     	Information was sent successfully!
 					</div>
@@ -334,7 +335,7 @@
 						    </a>
 						</div>	
 					</div>
-				</div>
+				</div> -->
 				</div>
 
 			</div><!-- modal-content -->
