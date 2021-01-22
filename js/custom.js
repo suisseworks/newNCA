@@ -171,3 +171,11 @@ jQuery(document).ready(function($){
     $(".modal.right .modal-dialog").css({"right" : "-320px"});
   });
 }); 
+
+// jQuery(document).ready(function($){
+//   $('#myModal2').on('shown.bs.modal', function () { 
+//   $(document).on("click",function(){
+//     $(".close.function_btn").trigger("click");
+//     })
+//   });
+// });
