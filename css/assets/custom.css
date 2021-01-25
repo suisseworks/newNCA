@@ -2414,3 +2414,8 @@ a.modal_btn{
     font-size: 43px !important;
     line-height: 48px !important;
 }
+
+.brk-theme-options.form_side_bar.btn-outside{
+    position: initial;
+    transform: initial;
+}
