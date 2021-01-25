@@ -2324,72 +2324,11 @@ a.modal_btn{
         padding-left: 20px !important;
     }
 }
-
-
-/*******************************
-* MODAL AS LEFT/RIGHT SIDEBAR
-* Add "left" or "right" in modal parent div, after class="modal".
-* Get free snippets on bootpen.com
-*******************************/
-    .modal.left .modal-dialog,
-    .modal.right .modal-dialog {
-        position: absolute;
-        margin: auto;
-        max-width: 500px;
-        height: 100%;
-        -webkit-transform: translate3d(0%, 0, 0);
-            -ms-transform: translate3d(0%, 0, 0);
-             -o-transform: translate3d(0%, 0, 0);
-                transform: translate3d(0%, 0, 0);
-    }
-
-    .modal.left .modal-content,
-    .modal.right .modal-content {
-        height: min-content;
-        overflow-y: auto;
-        max-width: 660px;
-        top: 15%;
-    }
-    
-    .modal.left .modal-body,
-    .modal.right .modal-body {
-        padding: 15px 15px 80px;
-    }   
-/*Right*/
-.modal.right .modal-dialog {
-    right: -320px;
-    -webkit-transition: opacity .3s linear, right .3s ease-in-out;
-       -moz-transition: opacity .3s linear, right .3s ease-in-out;
-         -o-transition: opacity .3s linear, right .3s ease-in-out;
-            transition: opacity .3s linear, right .3s ease-in-out;
-}
-
-.modal.right.fade.in .modal-dialog {
-    right: 0;
-}
-
-/* ----- MODAL STYLE ----- */
-.modal-content {
-    border-radius: 0;
-    border: none;
-}
-
-.form_side_bar.right .modal-header {
-    border-bottom: 0px;
-    right: 10px;
-    z-index: 99999;
-}
-.close.function_btn{
-    opacity: 1;
+.zcwf_lblLeft.crmWebToEntityForm{
+    background-color: var(--brand-primary) !important;
 }
 .contact_me_btn a:hover,.contact_me_btn a:focus{
     background-color: var(--brand-primary) !important; 
-}
-.contact_me_btn {
-    overflow: hidden;
-}
-.zcwf_lblLeft.crmWebToEntityForm{
-    background-color: var(--brand-primary) !important;
 }
 
 /*end TR*/
@@ -2418,4 +2357,5 @@ a.modal_btn{
 .brk-theme-options.form_side_bar.btn-outside{
     position: initial;
     transform: initial;
+    max-width: 100%;
 }

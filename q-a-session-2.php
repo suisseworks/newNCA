@@ -40,11 +40,12 @@
 					</div>
 						<div class="brk-theme-options form_side_bar bg-primary" data-brk-library="brk-customizer">
 						
-						<div class="zoho_form">
+						<div class="zoho_form p-5">
 						<div class="row">
 							<div class="col-lg-12">
-								<div class="brk-theme-options__header get_title">
+								<div class="brk-theme-options__header get_title p-2">
 									<h2 class="text-white font__family-efb font__size-60 text-uppercase">Get<br> In touch</h2>
+									<div class="brk-theme-options__close panel-close function_btn" id="info0"></div>
 								</div>
 								<script src='https://crm.zoho.com/crm/WebFormServeServlet?rid=bcf7596e0334913c2996469d1120e4994619ebb6dcda4d5add2987d670f92cb1gid9b0e913965d8ad37d80439171058312f696514d883aeaa795ecf8019925b9c38&script=$sYG'></script>
 							</div>
