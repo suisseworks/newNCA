@@ -1,5 +1,5 @@
 <?php include 'inc/header-scripts.php'; ?>	
-<section class="searcher_sectain searcher_bg">
+<section class="searcher_sectain searcher_bg pb-lg-0 pb-50">
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
@@ -40,7 +40,7 @@
 					</div>
 						<div class="brk-theme-options form_side_bar bg-primary" data-brk-library="brk-customizer">
 						
-						<div class="zoho_form p-5">
+						<div class="zoho_form p-5 p-xs-x">
 						<div class="row">
 							<div class="col-lg-12">
 								<div class="brk-theme-options__header get_title p-2">

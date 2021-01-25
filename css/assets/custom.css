@@ -2167,7 +2167,7 @@ a.modal_btn{
         font-size: 30px !important;
         line-height: 36px !important
     }
-    .detail_searcher .subtitle{
+    .searcher_content .detail_searcher .subtitle{
         font-size: 26px;
         line-height: 30px;
     }
@@ -2184,6 +2184,9 @@ a.modal_btn{
     .zcwf_row:nth-child(6n) .zcwf_col_lab{
          width: 40% !important;
         padding-left: 20px !important;
+    }
+    .p-xs-x{
+        padding: 20px !important;
     }
 }
 
@@ -2357,5 +2360,5 @@ a.modal_btn{
 .brk-theme-options.form_side_bar.btn-outside{
     position: initial;
     transform: initial;
-    max-width: 100%;
+    max-width: 97%;
 }
