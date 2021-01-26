@@ -22,7 +22,7 @@
 					</div>
 					<div class="brk-theme-options form_side_bar btn-outside bg-primary" data-brk-library="brk-customizer">
 						<div class="contact_me_btn a_q_contact mt-5">
-					<a href="#" type="button" class="btn text-white font__family-efb bg-primary p-5 modal_btn w-100 text-left border-radius-0 brk-theme-options__panels panel-open">Register here
+					<a href="#" type="button" class="btn text-white font__family-efb bg-primary pl-50 pt-30 pb-30 modal_btn w-100 text-left border-radius-0 brk-theme-options__panels panel-open">Register here
 							<span class="ml-3">
 								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								    <defs>
