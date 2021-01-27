@@ -123,10 +123,7 @@
 												<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 												Enterprise Value in the range of EUR 10-35 million
 											</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
-													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Target valuation of 4x-6x EBITDA
-												</li>
+												 
 											</ul>
 										</div> 
 									</div>
