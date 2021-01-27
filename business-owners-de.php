@@ -119,10 +119,7 @@
 												<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 												Unternehmenswert in Höhe von 10-35 Millionen Euro
 											</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
-													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Unternehmensbewertung in Höhe von 4x-6x EBITDA
-												</li>
+												 
 											</ul>
 										</div> 
 									</div>
