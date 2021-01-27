@@ -1,4 +1,5 @@
 <?php include 'inc/header-scripts.php'; ?>	
+<!-- <link rel="stylesheet" type="text/css" href="css/assets/zoho-form.css?ver=<php echo rand(): ?>"> -->
 <section class="searcher_sectain searcher_bg pb-lg-0 pb-50">
 	<div class="row no-gutters">
 		<div class="col-lg-6">
@@ -47,7 +48,8 @@
 									<h2 class="text-white font__family-efb font__size-60 text-uppercase">Get<br> In touch</h2>
 									<div class="brk-theme-options__close panel-close function_btn" id="info0"></div>
 								</div>
-								<script src='https://crm.zoho.com/crm/WebFormServeServlet?rid=bcf7596e0334913c2996469d1120e4994619ebb6dcda4d5add2987d670f92cb1gid9b0e913965d8ad37d80439171058312f696514d883aeaa795ecf8019925b9c38&script=$sYG'></script>
+								<iframe width='610px' height='350px' src='https://crm.zohopublic.com/crm/WebFormServeServlet?rid=bcf7596e0334913c2996469d1120e4994619ebb6dcda4d5add2987d670f92cb1gid9b0e913965d8ad37d80439171058312f696514d883aeaa795ecf8019925b9c38'></iframe>
+								<!-- <script src='https://crm.zoho.com/crm/WebFormServeServlet?rid=bcf7596e0334913c2996469d1120e4994619ebb6dcda4d5add2987d670f92cb1gid9b0e913965d8ad37d80439171058312f696514d883aeaa795ecf8019925b9c38&script=$sYG'></script> -->
 							</div>
 						</div>
 					</div>
