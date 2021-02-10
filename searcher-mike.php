@@ -47,13 +47,13 @@ Insgesamt bin ich eine global denkende Führungskraft, die 6 Sprachen spricht un
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-5032 pb-80 pt-50 ml-40">
-					<h2  class="text-uppercase font__family-efb line__height-70 text-brand-primary">Core Competences<span style="color: transparent"><span></h2>
+					<h2  class="text-uppercase font__family-efb line__height-70 text-brand-primary">KERNKOMPETENZEN<span style="color: transparent"><span></h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Integrity & Authenticity</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategy & Operational Excellence</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Leadership & Agility</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Problem-solving & Data-driven</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Stakeholder Mgt & Negotiation</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Integrität & Authentizität</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategie & Operative Stärke</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Führungsqualität & Resilienz </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Problemlösung & Analyse </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Stakeholder Mgt & Verhandlungsgeschick </li>
 					</ul>
 				</div>
 			</div>
@@ -108,7 +108,7 @@ Insgesamt bin ich eine global denkende Führungskraft, die 6 Sprachen spricht un
 					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Unternehmer </h3>
 					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">Das NCA Entrepreneurship Through Acquisition Programm begleitet die nächste Generation aussergewöhnlicher Talente auf jeder Etappe ihres unternehmerischen Weges.</p>
 					<div class="learn_more_btns learn_about_btn mt-5 mb-4 pb-2">
-						<a href="about-us-de.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">LEARN MORE <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a href="about-us-de.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">ERFAHRE MEHR<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 							  <defs>
 							    <clipPath id="clip-path">
 							      <rect width="38" height="38" fill="none"/>
@@ -143,7 +143,7 @@ Insgesamt bin ich eine global denkende Führungskraft, die 6 Sprachen spricht un
 		<div class="row no-gutters">
 			<div class="col-lg-4">
 				<div class="about_contact_info pl-100 bg-white pr-100 pt-60 pb-80">
-					<h2 class="font__family-efb text-uppercase mb-3">My Contact Details</h2>
+					<h2 class="font__family-efb text-uppercase mb-3">MEINE KONTAKTDETAILS</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
 					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:mike.hindi@novastone-ca.com">mike.hindi@novastone-ca.com</a>
