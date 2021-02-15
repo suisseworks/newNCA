@@ -195,7 +195,7 @@
 									<div class="brk-testimonials-layered-horizontal__item text-center rounded-0 shadow-none">
 										<div class="font__weight-bold process_title_count">1</div>
 										<div class="font__weight-bold font__size-40 process_title">Application</div>
-										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">In order to join our ETA program and become an NCA Entrepreneur, please complete our online  <a href="https://recruiterflow.com/db_0fc1b0c1621a0503c0811aa2c11a9774/jobs/16" target="_blank" class="underline">Application Form</a>. Be ready to submit your CV and two professional references, along with a Cover Letter that details why you would like to participate in our program and which industry/sector your search will be focused on.</div>
+										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">In order to join our ETA program and become an NCA Entrepreneur, please complete our online  <a href="https://novastone-ca.careers/" target="_blank" class="underline">Application Form</a>. Be ready to submit your CV and two professional references, along with a Cover Letter that details why you would like to participate in our program and which industry/sector your search will be focused on.</div>
 										<div class="slider_footer d-flex justify-content-center w-100  py-2">
 											<div class="separator_f_slider position-absolute"></div>
 											<br>
