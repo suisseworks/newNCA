@@ -29,7 +29,7 @@
 						<p class="font__size-18 line__height-24">I grew up in Norway and have since lived in Germany, Switzerland, Spain, the Netherlands, England, and Scotland. My career has been very broad and taken me through law, strategy consultancy, venture/private equity investments and finally entrepreneurship, which I have found to be my passion. I have co-founded 2 companies (renewable energy & biotech) and I want to continue my entrepreneurial journey through acquisition.  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:jan.nikolaisen@novaston-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:jan.nikolaisen@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
