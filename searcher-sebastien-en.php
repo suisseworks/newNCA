@@ -14,7 +14,7 @@
 						<div class="member_content py-4">
                         	<div>
 	                        	
-			        			<p class="font__size-30 font__halvetica-bold line__height-50"><span class="pb-15 d-inline-block">NCA Unternehmer</span><br><span class="font__size-41">2021</span> <span class=" member_count_arrow px-lg-3 pt-lg-12 pt-10 d-inline-flex">
+			        			<p class="font__size-30 font__halvetica-bold line__height-50"><span class="pb-15 d-inline-block">NCA Enterprenuer</span><br><span class="font__size-41">2021</span> <span class=" member_count_arrow px-lg-3 pt-lg-12 pt-10 d-inline-flex">
 			        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
 									  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
 									</svg>
@@ -43,12 +43,12 @@
 				<div class="sabastien_col wow fadeInRight w-100 apply_sec_div">
 					<a href="https://www.novastone-ca.com/about-us-de.php" class="d-block p-5 text-white sercher_clr_div">
 						<img class="searcher_logo" src="img/LOGO-WHITE.png">
-						<p class="font__size-30 mb-2 mt-30 font__halvetica-bold font__weight-500">NCA Unternehmer</p>
+						<p class="font__size-30 mb-2 mt-30 font__halvetica-bold font__weight-500">NCA Entrepreneur</p>
 						<p class="font__size-16 text-white mt-4 font__weight-500">
-							Das NCA Entrepreneurship Through Acquisition<br> Programm begleitet die nächste Generation<br>aussergewöhnlicher Talente auf jeder Etappe ihres<br> unternehmerischen Weges. 
+                            The NCA Entrepreneurship Through Acquisition <br> Program accompanies the next generation <br> of exceptional talents on every stage of their<br> entrepreneurial path.							 
 						</p>
 						<div class="text-right arrow_link sas_arrow font__halvetica-bold">
-							ERFAHRE MEHR
+							LEARN MORE
 							<svg id="Forward_arrow" class="ml-lg-5 ml-2" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 60 60">
 							  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
 							</svg>
@@ -77,10 +77,10 @@
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-								Den grössten Teil meiner Karriere habe ich in verschiedenen Schweizer High-Tech-KMU gearbeitet, die in der Maschinen-, Elektro- und Metall-Industrie (MEM) agieren.
+                            I spent most of the time of my career working in different high-tech Swiss SMEs, active in the MEM (mechanical, electrical and metal) industry.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-								In den letzten 15 Jahren habe ich die Chance ergriffen, mich vom F&E-Ingenieur zum Topmanager zu entwickeln. Jetzt möchte ich meiner Karriere eine neue Richtung geben und eine Herausforderung meistern, bei der ich nicht nur als Manager, sondern auch als Unternehmer erfolgreich sein kann. Dieses Vorhaben werde ich durch den Erwerb und die Weiterentwicklung eines industriellen KMU verwirklichen.
+                            Over the last 15 years, I have had the opportunity to develop from R&D Engineer to Top Manager. Today, I want to give my career a new direction, a challenge where I can not only succeed as a Manager, but also as an Entrepreneur. I will achieve this by acquiring an industrial SME and by leading it to its next stage.
 							</p>
 						</div>	
 					</div>
@@ -101,10 +101,10 @@
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-								Die MEM-Industrien in der Schweiz und in Deutschland stehen im Mittelpunkt meiner Suche. Insbesondere möchte ich auf KMU zugehen, die Maschinen, Automatisierungskomponenten oder Subsysteme entwickeln und herstellen.
+                            The focus of my search is the MEM industry in Switzerland and Germany. I will more specifically target SMEs developing and manufacturing machines, automation components or subsystems. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-								In diesem  industriellen Umfeld ﬁnden sich KMU, die von Technologie und Innovation angetrieben werden samt Produkten mit hoher Wertschöpfung für weltweite Märkte. Hier kann ich meine Fähigkeiten, meinen Werdegang und mein Netzwerk am besten einsetzen.
+                            It is especially in this industrial environment, where SMEs are driven by technology and innovation and are addressing global markets with high value-added products, that I can best benefit from my skills, background and network.
 							</p>
 						</div>	
 					</div>
@@ -125,10 +125,10 @@
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-								Ich verfüge über fundierte Erfahrung in der Unternehmensleitung diverser exportorientierter Schweizer KMU, mit besonderem Fokus auf internationalen Wachstum und Produktinnovation.
+                            I have a proven senior top management experience in various export-oriented Swiss SMEs, focusing on international business development and product innovation. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-								Ich habe im Laufe der Jahre sowohl im operativen Tagesgeschäft ausgeprägte Kenntnisse erworben, als auch bei der Umsetzung strategischer Projekte. Ich führte Unternehmen durch zahlreiche Wachstums- oder Krisenphasen und betrachte diese stets als Chance, die Arbeitsprozesse und Produkte zu analysieren, adaptieren und zu verbessern. Ich kann meine Führungskompetenz weltweit einsetzen, um multifunktionale Teams mit Mitarbeitern rund um den Globus zu führen. Hinzu kommt meine Anpassungsfähigkeit für die kontinuierliche Einbindung von neuen, externen Bedingungen.
+                            Over the years, I have acquired strong operational experience in day-to-day business management, as well as in implementation of strategic projects. I have led companies through various phases of growth and crisis and always considers these as opportunities to analyse, adapt and improve the organizations and products. This allows me a demonstrate a strong leadership, leading multi-functional teams with employees around the world, together with the capability to make the needed adjustments to incorporate the new external conditions.
 							</p>
 						</div>	
 					</div>
@@ -153,7 +153,7 @@
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-							HINDERNISSE<br> SIND JENE ENTSETZLICHEN<br> DINGE, DIE WIR SEHEN,<br> WENN WIR<br> UNSERE AUGEN VON<br> UNSEREM ZIEL ABWENDEN.
+                        OBSTACLES<br> ARE THOSE FRIGHTFULL<br> THINGS YOU SEE <BR> WHEN YOU <br> TAKE YOUR EYES <br> OFF YOUR GOALS.							 
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -161,7 +161,7 @@
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-							Henry Ford<br> Grossunternehmer und <br>Geschäftsmann
+							Henry Ford<br> industrialist and <br> business magnate
 						</p> 
 					</div>	
 				</div>	
@@ -180,7 +180,7 @@
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="img/sebastien.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> LEBENSLAUF
+					<a download href="docs/Sebastien-Perroud-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
@@ -195,7 +195,7 @@
 			<div class="col-lg-8 pl-lg-20">
 				<div class="info_text sabastien_col mt-lg-0 mt-50 p-xs-0 pl-50 pr-50 pt-100 pb-100">
                     <h2 class="font__halvetica-bold font__size-30 text-uppercase text-white">
-                    	MEINE KONTAKTDETAILS
+                    	MY CONTACT DETAILS
                     </h2>
                     <ul class="pl-0 mt-30">
                     	<li class="w-100 mb-30">
@@ -216,10 +216,10 @@
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
 							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Sébastien Perroud</h1>
-							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Unternehmer</span></h3>
+							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Entrepreneur</span></h3>
 						</div>
 						<div class="jan_detail mt-60">
-							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">Diese Website stellt kein Angebot an die Öffentlichkeit oder eine Aufforderung zum Kauf oder zur Investition in ein Finanzinstrument dar. Die auf dieser Website bereitgestellten Informationen dienen nur zu Informationszwecken und stellen kein Angebot, keine Aufforderung oder Empfehlung dar, eine Finanzdienstleistung zu abonnieren. Soweit diese Website Ansichten zu Anlagestrategien und Anlageideen zum Ausdruck bringt, sind solche Informationen nur allgemeiner Natur und dürfen nicht als Werbung für die Zeichnung einer Finanzdienstleistung oder für eine Anlage in ein bestimmtes Finanzinstrument ausgelegt werden.</p>
+							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4"> This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>
 
 							<a href="index-de.php" target="__blank" class="font__family-avenir back_primary text-capitalize d-inline-flex text-left align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3 mt-10">NCA website <span class="ml-108"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="18" viewBox="0 0 10 10">
 								  <defs>
