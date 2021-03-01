@@ -6,7 +6,7 @@
 		<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50 pl-lg-100">
 			<div class="col-lg-4 main_text">
 			    <div class="key_skill key_skill_new position-relative pl-lg-90 pr-50 pb-80 pt-50 ml-40">
-				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"><a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 sabs_linkdin mr-2"><i class="fab fa-linkedin-in"></i></a> FIND ME ON LINKEDIN</h2>
+				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"><a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 sabs_linkdin mr-2"><i class="fab fa-linkedin-in"></i></a> FINDE MICH AUF LINKEDIN</h2>
 				</div>	
 				<div class="detail_main_col d-flex align-items-end h-100">
 				    <div class="detail_searcher sbs_deatail mt-5 position-relative">
@@ -101,10 +101,10 @@
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-								Die MEM-Industrien in der Schweiz und in Deutschland stehen im Mittelpunkt meiner Suche. Insbesondere möchte ich auf KMU zugehen, die Maschinen, Automatisierungskomponenten oder Subsysteme entwickeln und herstellen.
+								Die MEM-Industrien in der Schweiz und in Deutschland stehen im Mittelpunkt meiner Suche. Insbesondere möchte ich auf KMUs zugehen, die Maschinen, Automatisierungskomponenten oder Subsysteme entwickeln und herstellen.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-								In diesem  industriellen Umfeld ﬁnden sich KMU, die von Technologie und Innovation angetrieben werden samt Produkten mit hoher Wertschöpfung für weltweite Märkte. Hier kann ich meine Fähigkeiten, meinen Werdegang und mein Netzwerk am besten einsetzen.
+								In diesem  industriellen Umfeld beﬁnden sich KMUs, die von Technologie und Innovation angetrieben werden samt deren Produkten mit hoher Wertschöpfung für weltweite Märkte. Hier kann ich meine Fähigkeiten, meinen Werdegang und mein Netzwerk am besten einsetzen.
 							</p>
 						</div>	
 					</div>
