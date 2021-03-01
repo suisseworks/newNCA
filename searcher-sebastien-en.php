@@ -14,7 +14,7 @@
 						<div class="member_content py-4">
                         	<div>
 	                        	
-			        			<p class="font__size-30 font__halvetica-bold line__height-50"><span class="pb-15 d-inline-block">NCA Enterprenuer</span><br><span class="font__size-41">2021</span> <span class=" member_count_arrow px-lg-3 pt-lg-12 pt-10 d-inline-flex">
+			        			<p class="font__size-30 font__halvetica-bold line__height-50"><span class="pb-15 d-inline-block">NCA Entrepreneur</span><br><span class="font__size-41">2021</span> <span class=" member_count_arrow px-lg-3 pt-lg-12 pt-10 d-inline-flex">
 			        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
 									  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
 									</svg>
@@ -70,7 +70,7 @@
 						<div class="image_content_div position-relative">
 							<img class="w-100" src="img/uber_mch.png">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-36">ÜBER MICH</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-36">ABOUT ME</p>
 							</div>
 						</div>	
 					</div>
@@ -94,7 +94,7 @@
 						<div class="image_content_div position-relative">
 							<img class="w-100" src="img/meine_suche.png">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-36">MEINE SUCHE</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-36">MY SEARCH</p>
 							</div>
 						</div>	
 					</div>
@@ -104,7 +104,7 @@
                             The focus of my search is the MEM industry in Switzerland and Germany. I will more specifically target SMEs developing and manufacturing machines, automation components or subsystems. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            It is especially in this industrial environment, where SMEs are driven by technology and innovation and are addressing global markets with high value-added products, that I can best benefit from my skills, background and network.
+                            It is especially in this industry environment, where SMEs are driven by technology and innovation and address global markets with high value-add products, that I can best benefit from my skills, background and network.
 							</p>
 						</div>	
 					</div>
@@ -118,7 +118,7 @@
 						<div class="image_content_div position-relative">
 							<img class="w-100" src="img/meine_beitrag.png">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-36">MEIN BEITRAG</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-36">MY CONTRIBUTION</p>
 							</div>
 						</div>	
 					</div>
@@ -128,7 +128,7 @@
                             I have a proven senior top management experience in various export-oriented Swiss SMEs, focusing on international business development and product innovation. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            Over the years, I have acquired strong operational experience in day-to-day business management, as well as in implementation of strategic projects. I have led companies through various phases of growth and crisis and always considers these as opportunities to analyse, adapt and improve the organizations and products. This allows me a demonstrate a strong leadership, leading multi-functional teams with employees around the world, together with the capability to make the needed adjustments to incorporate the new external conditions.
+                            Over the years, I have acquired strong operational experience in day-to-day business management, as well as in implementation of strategic projects. I have led companies through various phases of growth and crisis and always consider these opportunities to analyse, adapt and improve organization and products. This allows me to demonstrate strong leadership, leading multi-functional teams with employees around the world, together with the capability to make needed adjustments to incorporate new external conditions.
 							</p>
 						</div>	
 					</div>
