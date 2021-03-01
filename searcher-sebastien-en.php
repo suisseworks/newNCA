@@ -153,7 +153,7 @@
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-                        OBSTACLES<br> ARE THOSE FRIGHTFULL<br> THINGS YOU SEE <BR> WHEN YOU <br> TAKE YOUR EYES <br> OFF YOUR GOALS.							 
+                        OBSTACLES<br> ARE THOSE FRIGHTFULL<br> THINGS YOU SEE <BR> WHEN YOU <br> TAKE YOUR EYES <br> OFF YOUR GOALS.<br><br>							 
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
