@@ -6,7 +6,7 @@
 		<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50 pl-lg-100">
 			<div class="col-lg-4 main_text">
 			    <div class="key_skill key_skill_new position-relative pl-lg-90 pr-50 pb-80 pt-50 ml-40">
-				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"><a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 sabs_linkdin mr-2"><i class="fab fa-linkedin-in"></i></a> FIND ME ON LINKEDIN</h2>
+				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"> </h2>
 				</div>	
 				<div class="detail_main_col d-flex align-items-end h-100">
 				    <div class="detail_searcher sbs_deatail mt-5 position-relative">
@@ -20,6 +20,8 @@
 									</svg>
 
 			        			</span><span class="font__size-41 ml-lg-0 ml-10">2023</span></p>	
+								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
+								
 						    </div>	
 	                    </div>
 				    </div>	

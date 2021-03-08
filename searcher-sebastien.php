@@ -6,13 +6,14 @@
 		<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50 pl-lg-100">
 			<div class="col-lg-4 main_text">
 			    <div class="key_skill key_skill_new position-relative pl-lg-90 pr-50 pb-80 pt-50 ml-40">
-				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"><a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 sabs_linkdin mr-2"><i class="fab fa-linkedin-in"></i></a> FINDE MICH AUF LINKEDIN</h2>
+				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"> </h2>
 				</div>	
 				<div class="detail_main_col d-flex align-items-end h-100">
 				    <div class="detail_searcher sbs_deatail mt-5 position-relative">
 						<h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160"><span class="heading_bg">SÉBASTIEN</span> <br> <sapn class="heading_bg_2">PERROUD</sapn></h2>
 						<div class="member_content py-4">
                         	<div>
+							
 	                        	
 			        			<p class="font__size-30 font__halvetica-bold line__height-50"><span class="pb-15 d-inline-block">NCA Unternehmer</span><br><span class="font__size-41">2021</span> <span class=" member_count_arrow px-lg-3 pt-lg-12 pt-10 d-inline-flex">
 			        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
@@ -20,6 +21,10 @@
 									</svg>
 
 			        			</span><span class="font__size-41 ml-lg-0 ml-10">2023</span></p>	
+								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
+								
+								 
+								</p>
 						    </div>	
 	                    </div>
 				    </div>	
@@ -77,10 +82,10 @@
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-								Den grössten Teil meiner Karriere habe ich in verschiedenen Schweizer High-Tech-KMU gearbeitet, die in der Maschinen-, Elektro- und Metall-Industrie (MEM) agieren.
+								Den grössten Teil meiner Karriere habe ich in verschiedenen Schweizer High-Tech-KMUs gearbeitet, die in der Maschinen-, Elektro- und Metall-Industrie (MEM) agieren.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-								In den letzten 15 Jahren habe ich die Chance ergriffen, mich vom F&E-Ingenieur zum Topmanager zu entwickeln. Jetzt möchte ich meiner Karriere eine neue Richtung geben und eine Herausforderung meistern, bei der ich nicht nur als Manager, sondern auch als Unternehmer erfolgreich sein kann. Dieses Vorhaben werde ich durch den Erwerb und die Weiterentwicklung eines industriellen KMU verwirklichen.
+								In den letzten 15 Jahren habe ich die Chance ergriffen, mich vom F&E-Ingenieur zum Topmanager zu entwickeln. Jetzt möchte ich meiner Karriere eine neue Richtung geben und eine Herausforderung meistern, bei der ich nicht nur als Manager, sondern auch als Unternehmer erfolgreich sein kann. Dieses Vorhaben werde ich durch den Erwerb und die Weiterentwicklung eines industriellen KMUs verwirklichen.
 							</p>
 						</div>	
 					</div>
@@ -125,7 +130,7 @@
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-								Ich verfüge über fundierte Erfahrung in der Unternehmensleitung diverser exportorientierter Schweizer KMU, mit besonderem Fokus auf internationalen Wachstum und Produktinnovation.
+								Ich verfüge über fundierte Erfahrung in der Unternehmensleitung diverser exportorientierter Schweizer KMUs, mit besonderem Fokus auf internationalem Wachstum und Produktinnovation.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
 								Ich habe im Laufe der Jahre sowohl im operativen Tagesgeschäft ausgeprägte Kenntnisse erworben, als auch bei der Umsetzung strategischer Projekte. Ich führte Unternehmen durch zahlreiche Wachstums- oder Krisenphasen und betrachte diese stets als Chance, die Arbeitsprozesse und Produkte zu analysieren, adaptieren und zu verbessern. Ich kann meine Führungskompetenz weltweit einsetzen, um multifunktionale Teams mit Mitarbeitern rund um den Globus zu führen. Hinzu kommt meine Anpassungsfähigkeit für die kontinuierliche Einbindung von neuen, externen Bedingungen.
@@ -153,7 +158,7 @@
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-							HINDERNISSE<br> SIND JENE ENTSETZLICHEN<br> DINGE, DIE WIR SEHEN,<br> WENN WIR<br> UNSERE AUGEN VON<br> UNSEREM ZIEL ABWENDEN.
+							HINDERNISSE<br> SIND JENE DINGE,<br>  DIE WIR SEHEN,<br> WENN WIR<br> UNSERE AUGEN VON<br> UNSEREM ZIEL ABWENDEN.
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
