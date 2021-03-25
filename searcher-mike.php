@@ -21,8 +21,8 @@
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2021</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2023</span>
 						</div>
-						<p class="font__size-18 line__height-24">Mein Name ist Mike Hindi. Ich bin verheiratet, habe eine 2-jährige Tochter, und wir leben derzeit in Binningen, Schweiz. Ich bin eine erfahrene Führungskraft in Business Transformation, Post-Merger, Restructuring und Integration. Ich habe Erfahrung in verschiedenen Branchen, insbesondere im Gesundheitswesen, Supply Chain, Startups und Finanzdienstleistungen. Ich habe einen Executive MBA der Universität Oxford mit Auszeichnung, einen Master in Technologiemanagement der ETH Zürich und einen Bachelor in Maschinenbau der Ecole Polytechnique Federale de Lausanne (EPFL). Dazu gehörten auch die Austauschsemester an der Stanford University (USA) und der Bocconi University (IT).   
-Insgesamt bin ich eine global denkende Führungskraft, die 6 Sprachen spricht und in 9 Ländern und 4 Kontinenten gelebt hat.
+						<p class="font__size-18 line__height-24">Mein Name ist Mike Hindi. Ich bin verheiratet, habe eine 2-jährige Tochter, und wir leben derzeit in Binningen, Schweiz. Ich bin eine erfahrene Führungskraft für Unternehmenstransformation, Post-Merger, Restrukturierung und Integration. Ich habe Erfahrung in verschiedenen Branchen, insbesondere im Gesundheitswesen, Supply Chain, Startups und Finanzdienstleistungen. Ich habe einen Executive MBA der Universität Oxford mit Auszeichnung, einen Master in Technologiemanagement der ETH Zürich und einen Bachelor in Maschinenbau der Ecole Polytechnique Federale de Lausanne (EPFL). Dazu gehörten auch die Austauschsemester an der Stanford University (USA) und der Bocconi University (IT).   
+Insgesamt bin ich eine global denkende Führungskraft, die 6 Sprachen spricht und in 9 Ländern auf 4 Kontinenten gelebt hat.
  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
@@ -50,10 +50,10 @@ Insgesamt bin ich eine global denkende Führungskraft, die 6 Sprachen spricht un
 					<h2  class="text-uppercase font__family-efb line__height-70 text-brand-primary">KERNKOMPETENZEN<span style="color: transparent"><span></h2>
 					<ul class="ml-5 pl-4">
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Integrität & Authentizität</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategie & Operative Stärke</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategie & operative Stärke</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Führungsqualität & Resilienz </li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Problemlösung & Analyse </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Stakeholder Mgt & Verhandlungsgeschick </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Stakeholder Mgmt & Verhandlungsgeschick </li>
 					</ul>
 				</div>
 			</div>
@@ -61,11 +61,11 @@ Insgesamt bin ich eine global denkende Führungskraft, die 6 Sprachen spricht un
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MEINE SUCHE</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">Ich suche ein etabliertes Unternehmen mit Entwicklungspotential. </p>
-					<p class="font__size-16 line__height-24 mt-2">Obwohl ich in Bezug auf Standorte und Branchen sehr flexibel bin, werde ich meine Suche hauptsächlich auf die Regionen Schweiz, Deutschland und Österreich und auf ein Unternehmen im Dienstleistungssektor konzentrieren.</p>
+					<p class="font__size-16 line__height-24 mt-2">Obwohl ich in Bezug auf Standort und Branche sehr flexibel bin, werde ich meine Suche hauptsächlich auf die Regionen Schweiz, Deutschland und Österreich sowie ein Unternehmen im Dienstleistungssektor konzentrieren.</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">Mein Beitrag</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Generell interessiere ich mich für Unternehmen des Private Markets. Sie sind voll von Widersprüchen und voll von Chancen und Optimierungspotential - das bedeutet für mich, viele auszuschöpfende Möglichkeiten. </p>
-					<p class="font__size-16 line__height-24 mt-1">Es passt perfekt zu meiner Denkweise „Skin in the Game“ und meiner Expertise in Strategie, Betrieb und Business Transformation. Als “globally-minded” Führungskraft glaube ich fest an "l'union fait la force" (Stärke in der Einheit). Daher werde ich mich der Förderung und Entwicklung einer Kultur widmen, die auf Zusammenarbeit, Integrität, Eigenverantwortung und umfassendem Einfühlungsvermögen basiert. Dank dieser Expertise und Denkweise, kann ich Unternehmen weiterentwickeln, vergrössern und zu ihrem grösstmöglichen Potential bringen.
+					<p class="font__size-16 line__height-24 font__family-efb">Generell interessiere ich mich für Unternehmen des Private Markets. Sie sind voll von Widersprüchen aber auch voller von Chancen und Optimierungspotential - das bedeutet für mich, viele auszuschöpfende Möglichkeiten. </p>
+					<p class="font__size-16 line__height-24 mt-1">Dies passt perfekt zu meiner „Skin in the Game“ Denkweise und meiner Expertise in Strategie, Betrieb und Business Transformation. Als “globally-minded” Führungskraft glaube ich fest an "l'union fait la force" (Stärke in der Einheit). Daher werde ich mich der Förderung und Entwicklung einer Unternehmenskultur widmen, die auf Zusammenarbeit, Integrität, Eigenverantwortung und umfassendem Einfühlungsvermögen basiert. Dank dieser Expertise und Denkweise, kann ich Unternehmen weiterentwickeln, vergrössern und zu ihrem grösstmöglichen Potential bringen.
  </p>    
 			</div>
 		</div>
@@ -159,7 +159,7 @@ Insgesamt bin ich eine global denkende Führungskraft, die 6 Sprachen spricht un
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Führung - besonders in schwierigen Zeiten - bedeutet, den Mut zu haben, sich an die Front zu stellen, eine Richtung zu wählen und zu sagen: Folge mir!</h4>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Führung - besonders in schwierigen Zeiten - bedeutet, den Mut zu haben sich an die Front zu stellen, eine Richtung zu wählen und zu sagen: Folge mir!</h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Kim Kristensen</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Trainer</p>
 					</div>

@@ -12,7 +12,7 @@
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
 							<a href="https://www.linkedin.com/in/mike-hindi" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="http://mike.novastone-ca.com" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">German</a>
+							<a href="http://mike.novastone-ca.com" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Deutsch</a>
 						</div>
 					</div>		
 					<div class="detail_searcher mt-2">
@@ -21,7 +21,7 @@
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2021</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2023</span>
 						</div>
-						<p class="font__size-18 line__height-24">My name is Mike Hindi. I am married, with a 2-year-old daughter and we are currently based in Binningen, Switzerland. On the professional side, I am an experienced leader in Business Transformation, Post-merger, Restructuring and Integration. I have been essentially focusing on Healthcare, Supply Chain, Startups and Financial Services. I hold an Executive MBA from Oxford University with Distinction, a Master in Management of Technology from ETH Zurich and a Bachelor in Mechanical Engineering from Ecole Polytechnique Federale de Lausanne (EPFL). I have also completed exchange semesters at Stanford University and Bocconi University. Overall, I am a globally minded leader, speaking 6 languages and having lived in 9 countries and 4 continents. </p>
+						<p class="font__size-18 line__height-24">My name is Mike Hindi. I am married, with a 2-year-old daughter and we are currently based in Binningen, Switzerland. On the professional side, I am an experienced leader in Business Transformation, Post-Merger, Restructuring and Integration. I have been essentially focusing on Healthcare, Supply Chain, Startups and Financial Services. I hold an Executive MBA from Oxford University with Distinction, a Master in Management of Technology from ETH Zurich and a Bachelor in Mechanical Engineering from Ecole Polytechnique Federale de Lausanne (EPFL). I have also completed exchange semesters at Stanford University and Bocconi University. Overall, I am a globally minded leader, speaking 6 languages and having lived in 9 countries on 4 continents. </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:mike.hindi@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
@@ -45,13 +45,13 @@
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-5032 pb-80 pt-50 ml-40">
-					<h2  class="text-uppercase font__family-efb line__height-70 text-brand-primary">Core Competences<span style="color: transparent"><span></h2>
+					<h2  class="text-uppercase font__family-efb line__height-70 text-brand-primary">Core Competencies<span style="color: transparent"><span></h2>
 					<ul class="ml-5 pl-4">
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Integrity & Authenticity</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategy & Operational Excellence</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Leadership & Agility</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Problem-solving & Data-driven</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Stakeholder Mgt & Negotiation</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Problem-Solving & Data-Driven</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Stakeholder Mgmt & Negotiation</li>
 					</ul>
 				</div>
 			</div>
@@ -59,11 +59,11 @@
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">I am looking forward to acquiring a business with a strong legacy which I can grow further and bring to the next level. </p>
-					<p class="font__size-16 line__height-24 mt-2">My goal is to exploit its full potential to maximize value creation for the society and for the different stakeholders. Although I am quite flexible in terms of locations and industries, I will mainly focus my search in the DACH region and on companies in the service sectors.</p>
+					<p class="font__size-16 line__height-24 mt-2">My goal is to exploit its full potential to maximize value creation for the society and for its stakeholders. Although I am quite flexible in terms of locations and industries, I will mainly focus my search in the DACH region and on companies in the service sector.</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My Contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I find private markets very interesting. In my opinion, they are full of asymmetric information and inefficiencies - which means a lot of opportunities. This fits perfectly with my mindset of “skin in the game” and my willingness to leverage my Strategy, Operations & Business Transformation expertise.   </p>
-					<p class="font__size-16 line__height-24 mt-1">As an optimizer and a data-driven decision-maker, I will be very proactive to impact both the top line and bottom line, with a special focus on revenue growth & market expansion, cost & process optimization and digital transformation. As a people-person and a globally minded leader, I am a strong believer of “l’union fait la force” (strength in unity). Hence, I will be dedicated on promoting and developing a culture based on collaboration, integrity, ownership and speak-up mentality.
+					<p class="font__size-16 line__height-24 font__family-efb">I find private markets very interesting. In my opinion, they are full of asymmetric information and inefficiencies - which means lots of opportunities. This fits perfectly with my “skin in the game” mindset and my willingness to leverage my Strategy, Operations & Business Transformation expertise.   </p>
+					<p class="font__size-16 line__height-24 mt-1">As an optimizer and a data-driven decision-maker, I will be very proactive to impact both top line and bottom line, with a special focus on revenue growth & market expansion, cost & process optimization and digital transformation. As a people-person and a globally minded leader, I am a strong believer of “l’union fait la force” (strength in unity). Hence, I will be dedicated to promoting and developing a culture based on collaboration, integrity, ownership and speak-up mentality.
  </p>    
 			</div>
 		</div>
@@ -120,7 +120,7 @@
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Mike-Hindi-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD LEBENSLAUF (ENGLISCH)<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Mike-Hindi-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD RESUME (ENGLISCH)<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -175,7 +175,7 @@
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
 							<h1 class="font__size-30 font__family-efb line__height-70 text-white">MIKE HINDI</h1>
-							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Unternehmer</h3>
+							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
 							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>
