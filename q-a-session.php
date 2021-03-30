@@ -17,13 +17,10 @@
 					<div class="detail_searcher mt-2">
 						<h2 class="font__family-efb text-uppercase line__height-90">entrepreneurship <br> through acquisition</h2>
 						<h4 class="font__size-38 mt-4 subtitle">Free Question & Answer Session</h4>
-						<p class="font__size-18 line__height-24 mt-30">Are you looking to take the next big step in your career? Join our free question and answer session to find out more about our Entrepreneurship Through Acquisition Program. Sign up below and we will provide you with log-in details for Zoom.
+						<p class="font__size-18 line__height-24 mt-30">Are you looking to take the next big step in your career? Join our free question and answer session to find out more about our Entrepreneurship Through Acquisition Program. <br><br> Choose a date and sign up below. We will provide you with log-in details for Zoom via e-mail. 
 							<br><br>
-							Wednesday, 17.02.2021, 18:00-18:45 (CET)
-							<br>
-							Monday, 22.02.2021, 18:00-18:45 (CET)
-							<br>
-                        <span class="mt-20 d-block"> Follow our Linkedin page for regular updates, information and tips on how to apply.</span>
+					 
+                      
 						</p>
 					</div>
 					<div class="brk-theme-options form_side_bar btn-outside bg-primary" data-brk-library="brk-customizer">
@@ -46,17 +43,24 @@
 					</div>
 						<div class="brk-theme-options form_side_bar bg-primary" data-brk-library="brk-customizer">
 						
-						<div class="zoho_form p-5 p-xs-x">
+						<div class="zoho_form p-5_old p-xs-x" ">
 						<div class="row">
-							<div class="col-lg-12">
+							<div class="col-lg-12" style="padding:0 !important">
 								<div class="brk-theme-options__header get_title p-2">
-									<h2 class="text-white font__family-efb font__size-60 text-uppercase">Get<br> In touch</h2>
+									<!--<h2 class="text-white font__family-efb font__size-60 text-uppercase">Register Now</h2>-->
 									<div class="brk-theme-options__close panel-close function_btn" id="info0"></div>
 								</div>
-								<iframe width='610px' height='350px' src='https://crm.zohopublic.com/crm/WebFormServeServlet?rid=bcf7596e0334913c2996469d1120e4994619ebb6dcda4d5add2987d670f92cb1gid9b0e913965d8ad37d80439171058312f696514d883aeaa795ecf8019925b9c38'></iframe>
+								<!--Zoho Campaigns Web-Optin Form's Header Code Starts Here--> 
+								 
+
+
+
+
+						<iframe width='610px' height='800px' src='https://zc.vg/cW2OL'></iframe> 
 								<!-- <script src='https://crm.zoho.com/crm/WebFormServeServlet?rid=bcf7596e0334913c2996469d1120e4994619ebb6dcda4d5add2987d670f92cb1gid9b0e913965d8ad37d80439171058312f696514d883aeaa795ecf8019925b9c38&script=$sYG'></script> -->
 							</div>
 						</div>
+						 
 					</div>
 					</div>
 					
