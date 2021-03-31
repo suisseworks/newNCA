@@ -21,7 +21,7 @@
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2021</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2023</span>
 						</div>
-						<p class="font__size-18 line__height-24">My name is Mike Hindi. I am married, with a 2-year-old daughter and we are currently based in Binningen, Switzerland. On the professional side, I am an experienced leader in Business Transformation, Post-Merger, Restructuring and Integration. I have been essentially focusing on Healthcare, Supply Chain, Startups and Financial Services. I hold an Executive MBA from Oxford University with Distinction, a Master in Management of Technology from ETH Zurich and a Bachelor in Mechanical Engineering from Ecole Polytechnique Federale de Lausanne (EPFL). I have also completed exchange semesters at Stanford University and Bocconi University. Overall, I am a globally minded leader, speaking 6 languages and having lived in 9 countries on 4 continents. </p>
+						<p class="font__size-18 line__height-24">My name is Mike Hindi. I am married, with a 2-year-old daughter and we are currently based in Binningen, Switzerland. I am an experienced leader in Business Transformation, Post-Merger, Restructuring and Integration. I have been essentially focusing on Healthcare, Supply Chain, Startups and Financial Services. I hold an Executive MBA from Oxford University with Distinction, a Master in Management of Technology from ETH Zurich and a Bachelor in Mechanical Engineering from Ecole Polytechnique Federale de Lausanne (EPFL). I have also completed exchange semesters at Stanford University and Bocconi University. Overall, I am a globally minded leader, speaking 6 languages and having lived in 9 countries on 4 continents. </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:mike.hindi@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
@@ -120,7 +120,7 @@
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Mike-Hindi-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD RESUME (ENGLISCH)<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Mike-Hindi-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD RESUME<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -159,7 +159,7 @@
 					<div class="headline">
 							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Leadership – especially during difficult periods – means having the courage to put yourself on the front lines, choose a direction and say: follow me!</h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Kim Kristensen</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Coach</p>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Master of Ceremonies of the Danish Queen's Royal Household</p>
 					</div>
 				</div>
 			  </div>
