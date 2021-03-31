@@ -161,7 +161,7 @@ Insgesamt bin ich eine global denkende Führungskraft, die 6 Sprachen spricht un
 					<div class="headline">
 							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Führung - besonders in schwierigen Zeiten - bedeutet, den Mut zu haben sich an die Front zu stellen, eine Richtung zu wählen und zu sagen: Folge mir!</h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Kim Kristensen</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Trainer</p>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Zeremonienmeister des dänischen Königshauses</p>
 					</div>
 				</div>
 			  </div>
