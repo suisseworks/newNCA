@@ -2334,21 +2334,7 @@ a.modal_btn{
 .contact_me_btn a:hover,.contact_me_btn a:focus{
     background-color: var(--brand-primary) !important; 
 }
-.brk-theme-options.form_side_bar.q_form_sidebar{
-    right: -10px;
-    top: 3%;
-}
-@media only screen and (max-width: 767px){
-    .brk-theme-options.form_side_bar.q_form_sidebar{
-        right: 0px;
-        top: 0.3%;
-    }
-}
-@media only screen and (max-width: 575px){
-    .brk-theme-options.form_side_bar.q_form_sidebar{
-        margin-right: 0px;
-    }
-}
+
 /*end TR*/
 
 
