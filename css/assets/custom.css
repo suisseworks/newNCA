@@ -2336,7 +2336,7 @@ a.modal_btn{
 }
 .brk-theme-options.form_side_bar.q_form_sidebar{
     right: -10px;
-    top: 3%;
+    top: 7%;
 }
 @media only screen and (max-width: 767px){
     .brk-theme-options.form_side_bar.q_form_sidebar{
