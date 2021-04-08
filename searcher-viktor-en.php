@@ -58,7 +58,7 @@
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">My objective is to acquire a successful and proven company with superior know-how, based in Hungary and the broader CEE region.   </p>
+					<p class="font__size-16 line__height-24 font__family-efb">My objective is to acquire a successful and proven company with superior know-how based in Hungary and the broader CEE region.   </p>
 					<p class="font__size-16 line__height-24 mt-2">The ideal business would have an excellent product or service offering with clear export potential and relentless customer focus. It would be in sectors where CEE has strong traditions, like precision engineering, manufacturing, IT, water treatment, etc. The company would have demonstrated strong financial performance and an EBITDA of at least EUR 1 million.</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My Contribution</h2>
@@ -157,7 +157,7 @@
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Luck is what happens when preparation meets opportunity</h4>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Luck is what happens when preparation meets opportunity.</h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Lucius Annaeus Seneca</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Roman philosopher</p>
 					</div>
@@ -204,7 +204,7 @@
 			<div class="row align-items-center mt-5">
 							
 						<div class="col-lg-8 col-sm-12 col-12 col-xs-12">
-							<p class="font__size-12 font__family-open-sans text-white">&copy; Novastone Capital Advisors 2020 - Haldenstraße 5, 6340 Baar, Schweiz</p>
+							<p class="font__size-12 font__family-open-sans text-white">&copy; Novastone Capital Advisors <?php echo date("Y"); ?> - Haldenstraße 5, 6340 Baar, Schweiz</p>
 						</div>
 						<div class="col-lg-4 col-sm-12 col-12 col-xs-12">
 							<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12">
