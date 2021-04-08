@@ -43,7 +43,7 @@
 					<div class="row align-items-center">
 							
 						<div class="col-lg-8 col-sm-7 col-12 col-xs-12">
-							<p class="footer_text_clr font__size-12 pt-15 pb-15 text-sm-left text-center">&#xA9; Novastone Capital Advisors 2020 All rights reserved - <a href="#" class="opacity-100 underline brk-white-font-color">Haldenstrasse 5, 6340 Baar, Switzerland</a></p>
+							<p class="footer_text_clr font__size-12 pt-15 pb-15 text-sm-left text-center">&#xA9; Novastone Capital Advisors <?php echo date("Y"); ?> All rights reserved - <a href="#" class="opacity-100 underline brk-white-font-color">Haldenstrasse 5, 6340 Baar, Switzerland</a></p>
 						</div>
 						<div class="col-lg-4 col-sm-5 col-12 col-xs-12">
 							<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12">
