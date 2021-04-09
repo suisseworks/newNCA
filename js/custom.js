@@ -1,9 +1,9 @@
 jQuery(document).ready(function($) {
 
 
-  var pageURL = $(location).attr("href");
+  var pageURL = $(location). attr("href");
 
-  if(pageURL.search("co-investors.php") > -1 || pageURL.search("404page.php") > -1) {
+  if(pageURL.search("co-investors.php") > -1) {
     $(".form_side_bar").hide();
   }
 
