@@ -43,7 +43,7 @@
 		<div class="row pl-lg-100">
 			<div class="col-12 col-lg-12">
 				<div class="sabastien_col wow fadeInRight w-100 apply_sec_div">
-					<a href="https://www.novastone-ca.com/about-us-de.php" class="d-block p-5 text-white sercher_clr_div">
+					<a href="https://www.novastone-ca.com/about-us.php" class="d-block p-5 text-white sercher_clr_div">
 						<img class="searcher_logo" src="img/LOGO-WHITE.png">
 						<p class="font__size-30 mb-2 mt-30 font__halvetica-bold font__weight-500">NCA Entrepreneur</p>
 						<p class="font__size-16 text-white mt-4 font__weight-500">
