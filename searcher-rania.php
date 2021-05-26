@@ -4,32 +4,27 @@
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/Markus001.jpg">
+				<img src="img/Rania-Missoumi.jpg">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
 				<div class="searcher_content pt-100 ml-4">
-					
-
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/markus-graeber-20b120/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="http://markus.novastone-ca.com" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">German</a>
+							<a href="https://www.linkedin.com/in/raniamissoumi/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							
 						</div>
-					</div>	
-
-
-
+					</div>		
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Markus <br> Graeber</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Rania <br> Missoumi</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2021</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2023</span>
 						</div>
-						<p class="font__size-18 line__height-24">After growing up in Germany, I have lived in The Netherlands, Belgium, Puerto Rico, the United States, France, Taiwan, Denmark, Colombia and Brazil before coming back with my family to Germany. As an entrepreneur by heart, I started the first of my 4 entrepreneurial endeavours while I was a bachelor student in Puerto Rico. Then my career led me through software development, digital transformation & strategy consulting, angel/ venture/ private equity investments back to my greatest passion, hands-on entrepreneurship. I now want to continue my entrepreneurial career through a company acquisition. </p>
+						<p class="font__size-18 line__height-24">Hello and welcome! My name is Rania Missoumi and I currently reside in New York. I was born in California, came to New York to attend graduate school and spent a few years traversing the US as a healthcare consultant before working in Mergers & Acquisitions and Strategy & Operations roles in NY, London and Dubai. I am excited to embark on the entrepreneurship through acquisition journey and leverage my diverse skills and experiences to identify and lead an exceptional company and create value for all stakeholders – founders, customers, employees, investors and our communities. </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:markus.graeber@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:rania.missoumi@novastone-ca.com " type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -49,26 +44,27 @@
 		<div class="row no-gutters">
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
-				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Core competencies</h2>
+				<div class="key_skill position-relative pl-90 pr-5032 pb-80 pt-50 ml-40">
+					<h2  class="text-uppercase font__family-efb line__height-70 text-brand-primary">Core Competencies<span style="color: transparent"><span></h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>High integrity</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entrepreneurship</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic thinking</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Leadership and mentoring</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Result orientation</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Empathetic</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strong Communicator</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Analytical</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Data Driven</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Natural Networker</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I am looking to acquire a company with a high potential of helping businesses and society master and benefit from the disruptive challenges of the ongoing digital revolution.</p>
-					<p class="font__size-16 line__height-24 mt-2">I am particularly interested in companies with products and services that help businesses, governments and organizations adapt to and create new offerings for today’s and tomorrow’s digitally enabled markets and customers. Geographically, I am focusing primarily on markets in the DACH region (Germany, Austria & Switzerland).</p>
+					<p class="font__size-16 line__height-24 font__family-efb">My search is focused on profitable businesses that are benefitting from the positive growth trends impacting the US healthcare system, specifically those supporting the transition to value-based care, improving efficiencies and reducing costs, and improving accessibility to care.   </p>
+					<p class="font__size-16 line__height-24 mt-2">I am looking across geographies within the United States with a focus on service businesses with a B2B (business to business) model.</p>
 
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I bring with me an unusually diverse and interdisciplinary career: law, strategy development and implementation, investment management and entrepreneurship.</p>
-					<p class="font__size-16 line__height-24 mt-1">I have extensive experience in developing technology companies, introducing new products and promoting international expansion. This diversity allows me a high level of intercultural sensitivity and makes me a motivating leader for heterogeneous teams. </p>    
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My Contribution</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">I look forward to leveraging my experiences working in a variety of roles across regions and companies to lead a company through its next stage of growth. While I am a believer in strategic planning grounded in data analysis and research, I know that the hard part is effectively mobilizing teams to ensure the realization of company objectives. </p>
+					<p class="font__size-16 line__height-24 mt-1">As a leader I will ensure transparency and effective communication so that each employee is aware of the importance of his / her role in achieving company objectives. I also look forward to employing and building upon my network across the healthcare and business ecosystems to create new opportunities for the company such as entering new markets, developing new offerings and accessing new clients.  
+ </p>    
 			</div>
 		</div>
 	</div>
@@ -82,11 +78,11 @@
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/play-sec-7.png" alt="alt" class="image_video">
-                        <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/JEdMBufVs8s" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
-                        </div>
-                     </div>
+                    <img src="img/play-sec-8.png" alt="alt" class="image_video">
+                    <div class="play_button left_btn center_btn play_btn_white position-absolute">
+	                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/KMNIYYXgT1o" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                    </div>
+                </div>
 			</div>
 			<div class="col-lg-1"></div>
 		</div>
@@ -123,32 +119,20 @@
 							</span></a>
 					</div>
 				</div>
-				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Markus-Graeber-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
-								  <defs>
-								    <clipPath id="clip-path">
-								      <rect width="38" height="38" fill="none"/>
-								    </clipPath>
-								  </defs>
-								  <g id="Forward_arrow" data-name="Forward arrow" transform="translate(38) rotate(90)" clip-path="">
-								    <path id="Path_10" data-name="Path 10" d="M19,0,15.545,3.455,28.623,16.532H0v4.935H28.623L15.545,34.545,19,38,38,19Z" fill="#fff"/>
-								  </g>
-								</svg>
-								</span></a>
-					</div>
+				 
 			</div>
 			<div class="col-lg-8">
-				<img src="img/Mountain.jpg" class="resume_img">
+				<img src="img/Trees.jpg" class="resume_img">
 			</div>
 		</div>
 
 		<div class="row no-gutters">
 			<div class="col-lg-4">
 				<div class="about_contact_info pl-100 bg-white pr-100 pt-60 pb-80">
-					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
+					<h2 class="font__family-efb text-uppercase mb-3">My Contact Details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:markus.graeber@novastone-ca.com">markus.graeber@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:rania.missoumi@novastone-ca.com">rania.missoumi@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -161,9 +145,9 @@
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Success is not final, failure is not fatal: it is the courage to continue that counts.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Winston Churchill</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase">UK Prime Minister, historian, painter, writer and recipient of the Nobel Prize in Literature</p>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">It always seems impossible until it's done</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Nelson Mandela</h5>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase">South African anti-apartheid revolutionary, political leader and philanthropist</p>
 					</div>
 				</div>
 			  </div>
@@ -178,7 +162,7 @@
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Markus Graeber</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">RANIA MISSOUMI</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -200,8 +184,8 @@
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:markus.graeber@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">markus.graeber@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/markus-graeber-20b120/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:rania.missoumi@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">rania.missoumi@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/raniamissoumi/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
@@ -220,4 +204,4 @@
 		</div>
 	</div>
 </section>
-	<?php include 'inc/footer-scripts-searcher.php'; ?>
+<?php include 'inc/footer-scripts-searcher.php'; ?>
