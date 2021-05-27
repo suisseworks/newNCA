@@ -21,7 +21,7 @@
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2021</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2023</span>
 						</div>
-						<p class="font__size-18 line__height-24">Hello and welcome! My name is Rania Missoumi and I currently reside in New York. I was born in California, came to New York to attend graduate school and spent a few years traversing the US as a healthcare consultant before working in Mergers & Acquisitions and Strategy & Operations roles in NY, London and Dubai. I am excited to embark on the entrepreneurship through acquisition journey and leverage my diverse skills and experiences to identify and lead an exceptional company and create value for all stakeholders – founders, customers, employees, investors and our communities. </p>
+						<p class="font__size-18 line__height-24">Hello and welcome! My name is Rania Missoumi and I currently reside in New York. I was born in California, came to New York to attend graduate school and spent a few years traversing the US as a healthcare consultant before working in Mergers & Acquisitions and Strategy & Operations roles in NY, London and Dubai. I am excited to embark on the Entrepreneurship Through Acquisition journey and leverage my diverse skills and experiences to identify and lead an exceptional company and create value for all stakeholders – founders, customers, employees, investors and our communities. </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:rania.missoumi@novastone-ca.com " type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
@@ -145,7 +145,7 @@
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">It always seems impossible until it's done</h4>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">It always seems impossible until it's done.</h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Nelson Mandela</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase">South African anti-apartheid revolutionary, political leader and philanthropist</p>
 					</div>
