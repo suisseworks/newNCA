@@ -26,7 +26,7 @@
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2021</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2023</span>
 						</div>
-						<p class="font__size-18 line__height-24">Ich bin in Deutschland aufgewachsen und hatte auch das Glück, in den Niederlanden, Belgien, Puerto Rico, den USA, Frankreich, Taiwan, Dänemark, Kolumbien und Brasilien leben zu können, bevor ich mit meiner Familie wieder nach Deutschland zurückgekehrt bin. Als passionierter Unternehmer gründete ich das erste meiner 4 Unternehmen, ein kleines Geschäft mit Meeresfrüchten, bereits während meines Bachelorstudiums in Puerto Rico. Meine Karriere führte mich dann durch die Softwareentwicklung, digitale Transformation & Strategieberatung und Angel/ Venture/ Private Equity-Investitionen zurück zu meiner grössten Leidenschaft, dem praktischen Unternehmertum. Nun möchte ich meine unternehmerische Karriere durch eine Firmenübernahme fortsetzen. </p>
+						<p class="font__size-18 line__height-24">Ich bin in Deutschland aufgewachsen und hatte das Glück, in den Niederlanden, Belgien, Puerto Rico, den USA, Frankreich, Taiwan, Dänemark, Kolumbien und Brasilien leben zu können, bevor ich mit meiner Familie wieder nach Deutschland zurückgekehrt bin. Als passionierter Unternehmer gründete ich das erste meiner 4 Unternehmen, ein kleines Geschäft mit Meeresfrüchten, bereits während meines Bachelorstudiums in Puerto Rico. Meine Karriere führte mich dann durch die Softwareentwicklung, digitale Transformation & Strategieberatung über Angel/ Venture/ Private Equity-Investitionen zurück zu meiner grössten Leidenschaft, dem praktischen Unternehmertum. Nun möchte ich meine unternehmerische Karriere durch eine Firmenübernahme fortsetzen. </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:markus.graeber@novastone-ca.com" type="button" class="btn text-white font__family-efb">Kontakt<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
@@ -67,8 +67,8 @@
 					<p class="font__size-16 line__height-24 mt-2"> Ich interessiere mich besonders für Unternehmen mit Produkten und Dienstleistungen, die Firmen, Behörden und Organisationen dabei helfen, sich an die digitalen Märkte und Kunden von heute und morgen anzupassen und neue Angebote zu schaffen. Geographisch konzentriere ich mich vor allem auf die Märkte der DACH-Region (Deutschland, Österreich & Schweiz).</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">MEIN BEITRAG</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Ich habe vielfältige und interdisziplinäre Erfahrungen mit digitaler Transformation & Strategie, Software, Business & Organisationsentwicklung, Nearshoring & Internationalisierung interkultureller Führung & Teamentwicklung sowie Investitionen und Unternehmertum.</p>
-					<p class="font__size-16 line__height-24 mt-1">Hinzu kommen umfangreichen Erfahrungen im Aufbau von Technologieunternehmen, Aufbau und Führung internationaler Teams, Einführung neuer Produkte und Dienstleistungen sowie Realisierung internationaler Expansionen. Durch diesen aussergewöhnlichen Erfahrungsschatz habe ich ein hohes Mass an interkultureller Sensibilität entwickelt und kann Teams motivieren und effizient leiten. </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">Ich habe vielfältige und interdisziplinäre Erfahrungen mit digitaler Transformation & Strategie, Software, Business & Organisationsentwicklung, Nearshoring & Internationalisierung, interkultureller Führung & Teamentwicklung sowie Investitionen und Unternehmertum.</p>
+					<p class="font__size-16 line__height-24 mt-1">Hinzu kommen umfangreichen Erfahrungen im Aufbau von Technologieunternehmen, Aufbau und Führung internationaler Teams, Einführung neuer Produkte und Dienstleistungen, sowie Realisierung internationaler Expansionen. Durch diesen aussergewöhnlichen Erfahrungsschatz habe ich ein hohes Mass an interkultureller Sensibilität entwickelt und kann Teams sehr gut motivieren und effizient leiten. </p>    
 			</div>
 		</div>
 	</div>
@@ -124,7 +124,7 @@
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Markus-Graeber-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD LEBENSLAUF (ENGLISCH)<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Markus-Graeber-resume-de.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD LEBENSLAUF<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
