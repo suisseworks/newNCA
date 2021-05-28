@@ -26,7 +26,7 @@
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2021</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2023</span>
 						</div>
-						<p class="font__size-18 line__height-24">After growing up in Germany, I have lived in The Netherlands, Belgium, Puerto Rico, the United States, France, Taiwan, Denmark, Colombia and Brazil before coming back with my family to Germany. As an entrepreneur by heart, I started the first of my 4 entrepreneurial endeavours while I was a bachelor student in Puerto Rico. Then my career led me through software development, digital transformation & strategy consulting, angel/ venture/ private equity investments back to my greatest passion, hands-on entrepreneurship. I now want to continue my entrepreneurial career through a company acquisition. </p>
+						<p class="font__size-18 line__height-24">After growing up in Germany, I have lived in The Netherlands, Belgium, Puerto Rico, the United States, France, Taiwan, Denmark, Colombia and Brazil before coming back with my family to Germany. As an entrepreneur by heart, I started the first of my 4 entrepreneurial endeavours, a small seafood business,  while I was a bachelor student in Puerto Rico. Then my career led me through software development, digital transformation & strategy consulting, angel/ venture/ private equity investments back to my greatest passion, hands-on entrepreneurship. I now want to continue my entrepreneurial career through a company acquisition. </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:markus.graeber@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
@@ -67,8 +67,8 @@
 					<p class="font__size-16 line__height-24 mt-2">I am particularly interested in companies with products and services that help businesses, governments and organizations adapt to and create new offerings for today’s and tomorrow’s digitally enabled markets and customers. Geographically, I am focusing primarily on markets in the DACH region (Germany, Austria & Switzerland).</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I bring with me an unusually diverse and interdisciplinary career: law, strategy development and implementation, investment management and entrepreneurship.</p>
-					<p class="font__size-16 line__height-24 mt-1">I have extensive experience in developing technology companies, introducing new products and promoting international expansion. This diversity allows me a high level of intercultural sensitivity and makes me a motivating leader for heterogeneous teams. </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">I bring with me an unusually diverse and interdisciplinary experience in digital transformation & strategy; software, business & organizational development; nearshoring & internationalization; cross-cultural leadership & team development as well as investments and entrepreneurship</p>
+					<p class="font__size-16 line__height-24 mt-1"> I have extensive experience in developing technology companies, building & leading international teams, introducing new products & services and driving international expansions. This unique background has benefited me with developing a high level of intercultural sensitivity and becoming a very effective leader of highly motivated teams. </p>    
 			</div>
 		</div>
 	</div>
