@@ -132,6 +132,20 @@
 						
 					</div>
 				</div>
+				<div class="row no-gutters">
+					<div class="col-12 col-lg-6">
+						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Insights </h2>
+						<div class="resource_wrap_links">
+							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="http://insights.novastone-ca.com/" target="_blank" class="font__size-20 font__family-efb">Visit our blog NCA Insights<span class="arrow_link_a"></span></a>
+							</div>
+						 
+						</div>
+					</div>
+					<div class="col-12 col-lg-4">
+						
+					</div>
+				</div>
 			</div>
 		</section>
 
