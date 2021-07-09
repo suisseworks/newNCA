@@ -72,16 +72,16 @@
 						<div class="image_content_div position-relative">
 							<img class="w-100" src="img/city.jpg">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-36">ABOUT ME</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-28">ABOUT ME</p>
 							</div>
 						</div>	
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
-							<p class="font-weight-bold font__size-16">Fryderyk is a problem solving, execution and results driven senior executive with comprehensive management, leadership and finance experience.
+							<p class="font-weight-bold font__size-16">I am a problem solving, execution and results driven senior executive with comprehensive management, leadership and finance experience.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-							He combines an operational, strategic and financial skills set with extensive knowledge and experience ‒ ideal for leading a company through acceleration and high growth to a mature phase of its life cycle. He is highly skilled in guiding companies through strategically, operationally and financially challenging stages and leveraging their operational strengths and capabilities for exceptional value creation and growth. 
+							I combine an operational, strategic and financial skills set with extensive knowledge and experience ‒ ideal for leading a company through acceleration and high growth to a mature phase of its life cycle. I am highly skilled in guiding companies through strategically, operationally and financially challenging stages and leveraging their operational strengths and capabilities for exceptional value creation and growth. 
 
 							</p>
 						</div>	
@@ -96,7 +96,7 @@
 						<div class="image_content_div position-relative">
 							<img class="w-100" src="img/machine.jpg">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-36">MY SEARCH</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-28">MY SEARCH</p>
 							</div>
 						</div>	
 					</div>
@@ -127,10 +127,10 @@
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-							While fully respecting the heritage of the people who contributed towards business creation and its heritage, Fryderyk aims to deliver a high-performance business by implementing a cultural shift with a focus on the processes delivering top-class results, rather than just on the results alone. 
+							While fully respecting the heritage of the people who contributed towards business creation and its heritage, I aim to deliver a high-performance business by implementing a cultural shift.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-							He aims to ensure tangible long-term results, with fundamental process improvements creating sustainable competitive advantages. 
+							This will focus on the processes of delivering top-class results, rather than just on the results alone. I aim to ensure tangible long-term results, with fundamental process improvements creating sustainable competitive advantages. 
 							</p>
 						</div>	
 					</div>
