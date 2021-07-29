@@ -1381,9 +1381,6 @@ small.toggle_text {
     color: #ffffff;
 }
 
-.member_content {
-    min-height: 260px;
-}
 
 .member_card .question-box.question-box-height {
     height: 583px;
@@ -2006,7 +2003,7 @@ a.modal_btn{
     }
     .detail_searcher h2{
         font-size: 60px;
-        line-height: 70px;
+        line-height: 80px;
     }
 }
 
@@ -2072,7 +2069,6 @@ a.modal_btn{
     }
     .detail_searcher h2{
         font-size: 40px;
-        line-height: 50px;
     }
 }
 
@@ -2084,7 +2080,7 @@ a.modal_btn{
 
 @media only screen and (max-width: 991px) {
     .detail_searcher.sbs_deatail h2 {
-        font-size: 50px !important;
+        font-size: 40px !important;
     }
     .detail_searcher.sbs_deatail h2 br {
         display: none;
