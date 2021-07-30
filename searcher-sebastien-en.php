@@ -3,14 +3,13 @@
 <section class="sabs_page searcher_img_sec">
 	<div class="outer_container container-outer-1600">
 	   
-		<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50 pl-lg-100">
+		<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50 pl-lg-100 align-items-end">
 			<div class="col-lg-4 main_text">
 			    <div class="key_skill key_skill_new position-relative pl-lg-90 pr-50 pb-80 pt-50 ml-40">
 				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"> </h2>
 				</div>	
 				<div class="detail_main_col d-flex align-items-end h-100">
 				    <div class="detail_searcher sbs_deatail mt-5 position-relative">
-						<h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160"><span class="heading_bg">SÉBASTIEN</span> <br> <sapn class="heading_bg_2">PERROUD</sapn></h2>
 						<div class="member_content py-4">
                         	<div>
 	                        	
@@ -24,6 +23,7 @@
 								
 						    </div>	
 	                    </div>
+	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160 position-relative"><span class="heading_bg">SÉBASTIEN</span> <br> <sapn class="heading_bg_2">PERROUD</sapn></h2>
 				    </div>	
 				</div>    
 			</div>
