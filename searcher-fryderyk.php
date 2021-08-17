@@ -20,7 +20,7 @@
 
 			        			</span><span class="font__size-41 ml-lg-0 ml-10">2023</span></p>	
 								<p style="margin-top: 8px; "> <a href="https://www.linkedin.com/in/fryderyk-g-rdultowski-74bb163/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
-								
+								<a style="margin-top: -2px" href="http://novastone-ca.com/searcher-fryderyk-en.php" class="bg-transparent   ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
 						    </div>	
 	                    </div>
 	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160 position-relative"><span class="heading_bg">FRYDERYK</span> <br> <sapn class="heading_bg_2">Rdułtowski</sapn></h2>
