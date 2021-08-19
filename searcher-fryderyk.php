@@ -96,7 +96,7 @@
 						<div class="image_content_div position-relative">
 							<img class="w-100" src="img/machine.jpg">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-28">MOJE POSZUKIWANIA</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-25">MOJE POSZUKIWANIA</p>
 							</div>
 						</div>	
 					</div>
