@@ -470,6 +470,7 @@
 						</div>	
                         </div>	
 					</div>
+					
 					<!-- <div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                         <div class="img_section w-100">
                         	<img class="w-100" src="img/Erick.jpg">
