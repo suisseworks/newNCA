@@ -2,6 +2,11 @@
 	$_SESSION["lan"] = "English";
 ?>
 <?php include 'inc/header.php'; ?>
+<body>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-PMVD7NQ
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 		<section class="telent_section bg-white">
 			<div class="container">
 				<div class="pt-lg-70 pt-100 pb-120 ">
@@ -583,4 +588,5 @@
 				</div>
 			</div>
 		</section>
+</body>
 	<?php include 'inc/footer.php'; ?>

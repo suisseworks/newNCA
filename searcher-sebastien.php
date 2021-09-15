@@ -1,4 +1,9 @@
 <?php include 'inc/header-scripts.php'; ?>	
+<body>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-PMVD7NQ
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <div class="sabs_main">
 <section class="sabs_page searcher_img_sec">
 	<div class="outer_container container-outer-1600">
@@ -264,4 +269,5 @@
 	</div>
 </section>	
 </div>
+</body>
 <?php include 'inc/footer-scripts-searcher.php'; ?>
