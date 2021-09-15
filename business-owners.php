@@ -3,6 +3,11 @@
 	$_SESSION["page"] = "business-owners-de.php";
 ?>
 <?php include 'inc/header.php'; ?>
+<body>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-PMVD7NQ
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 		<section class="pt-lg-70 pt-100 pt_tab_60 about_section" id="about">
 			<div class="container">
 			<div class="container-inner-1390 pt-lg-100 pt-sm-30">
@@ -257,4 +262,5 @@
 				</div>
 				</div>
 		</section>
+</body>
 	<?php include 'inc/footer.php'; ?>

@@ -4,6 +4,11 @@
 ?>
 
 <?php include 'inc/header.php'; ?>
+<body>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-PMVD7NQ
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
     <section class="pt-lg-70 pt-70 about_section" id="about">
 		<div class="strike_heading_2 bg-white">
 			<div class="container">
@@ -768,4 +773,5 @@
 			</div>		
 		</div>	
 	</section>
+</body>
 <?php include 'inc/footer.php' ?>

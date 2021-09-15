@@ -1,4 +1,9 @@
 <?php include 'inc/header-scripts.php'; ?>		
+<body>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-PMVD7NQ
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 <section class="searcher_sectain searcher_bg">
 	<div class="row no-gutters">
@@ -220,4 +225,5 @@ Erfahrung ersetzen. </h4>
 		</div>
 	</div>
 </section>
+						</body>
 <?php include 'inc/footer-scripts-searcher.php'; ?>
