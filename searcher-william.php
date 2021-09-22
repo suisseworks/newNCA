@@ -24,7 +24,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</svg>
 
 			        			</span><span class="font__size-41 ml-lg-0 ml-10">2023</span></p>	
-								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
+								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/william-hunnam-11877b28/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
 								
 						    </div>	
 	                    </div>
@@ -87,7 +87,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             I spent the first 15-years of my career in engineering and operations management for a major blue-chip company. This time was initially focused on hands on marine and mechanical engineering before growing to manage global operations of four assets with large teams and operating budgets. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            This was followed by a move into investment management, including roles as CEO and then Co-Founding and growing my owner digital company in the industry. Nevertheless, I have always considered myself as an engineering first and foremost. 
+                            This was followed by a move into investment management, including roles as CEO and then Co-Founding and growing my owner digital company in the industry. Nevertheless, I have always considered myself as an engineer first and foremost. 
 <br>
 For this search, it will be exciting to bring together my engineering and senior management experience, applying this to a single SME business with great growth potential. 
 							</p>
@@ -112,11 +112,11 @@ For this search, it will be exciting to bring together my engineering and senior
 							<p class="font-weight-bold font__size-16">
                             This search will utilise all my past experience, I’m looking for a strong UK-based business in either; 
 
- <ul style="list-style:disc">
-                            <li>Engineering services – support, service or consulting - working with business customers in high growth sectors such as alternative fuel vehicles, renewable energy, energy storage including batteries and ventilation heating & cooling systems. </li>
-
-<li>Light manufacturing - high value-add and low capital-intensive manufacturing with business customer across multiple high growth segments.</li>
-</ul>
+ 							<ul style="list-style:disc"><br> 
+								<li class="li__margin-10">Engineering services – <span class="font__halvetica-regular">support, service or consulting - working with business customers in high growth sectors such as alternative fuel vehicles, renewable energy, energy storage including batteries and ventilation heating & cooling systems. </span> </li>
+								<br>
+								<li class="li__margin-10">Light manufacturing - <span class="font__halvetica-regular">high value-add and low capital-intensive manufacturing with business customer across multiple high growth segments. </span></li>
+								</ul>
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
                             A suitable business will be characterised by being well established with 10+ years of trading; be financially stable, producing positive cash flows; but might be facing growth challenges despite servicing high growth sectors. 
@@ -179,7 +179,7 @@ For this search, it will be exciting to bring together my engineering and senior
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-						Jim Collins <br> Researcher, author, speaker and consultant focused on the subject of business management and company sustainability and growth. 
+						Jim Collins <br> Researcher, author, speaker and consultant on business management.
 						</p> 
 					</div>	
 				</div>	
@@ -187,9 +187,9 @@ For this search, it will be exciting to bring together my engineering and senior
 			<div class="col-lg-8 pl-lg-20">
 				<div class="video_div d-flex h-100 pt-lg-0 pt-50">
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-	                    <img src="img/sabastein_thumb.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
+	                    <img src="img/Will-Thumbnail-Video.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/oWzkhRGWenU" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/25D-Vd-m6D4" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
@@ -256,7 +256,7 @@ For this search, it will be exciting to bring together my engineering and senior
 				<div class="col-12 col-lg-5 text-lg-right">
 					<div class="searcher_mail d-flex align-items-center justify-content-end mt-3 pt-1">
 						<a href="mailTo:will.hunnam@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>will.hunnam@novastone-ca.com</span></a>
-						<a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="https://www.linkedin.com/in/william-hunnam-11877b28/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
