@@ -572,16 +572,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div class="col-lg-4 col-lg-4 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section w-100">
-                        	<img class="w-100" src="img/graciela.jpg">
+                        	<img class="w-100" src="img/karine.jpg">
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Graciela Ramirez</h5>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Karine Courvoisier</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 			        			    Head of Legal & Compliance <br>Legal & Compliance
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/graciela-ramirez-cuevas-4561a311/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/in/karine-courvoisier-17467720/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
