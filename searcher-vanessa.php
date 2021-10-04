@@ -24,17 +24,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</svg>
 
 			        			</span><span class="font__size-41 ml-lg-0 ml-10">2023</span></p>	
-								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
+								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/vanessamonestel/ " target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
 								
 						    </div>	
 	                    </div>
-	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160 position-relative"><span class="heading_bg">SÉBASTIEN</span> <br> <sapn class="heading_bg_2">PERROUD</sapn></h2>
+	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160 position-relative"><span class="heading_bg">VANESSA</span> <br> <sapn class="heading_bg_2">MONESTEL</sapn></h2>
 				    </div>	
 				</div>    
 			</div>
 			<div class="col-lg-8">
 				<div class="searcher_image position-relative">
-					<img class="w-100" src="img/sabastien.png">
+					<img class="w-100" src="img/vanessa.png">
 				</div>	
 			</div>	
 		</div>
@@ -75,7 +75,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/uber_mch.png">
+							<img class="w-100" src="img/about-me-vanessa.jpg">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-36">ABOUT ME</p>
 							</div>
@@ -84,10 +84,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            I spent most of the time of my career working in different high-tech Swiss SMEs, active in the MEM (mechanical, electrical and metal) industry.
+                            I was born in a family of entrepreneurs, and I spent the first half of my career in a consultancy firm serving international clients in Retail and Consumer Goods industries with a specialization in growth management and operational efficiencies. After the IMD EMBA, I joined a SME operating a manufacture and a watch brand, dealing mainly with business fundamentals to build a efficient structure. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            Over the last 15 years, I have had the opportunity to develop from R&D Engineer to Top Manager. Today, I want to give my career a new direction, a challenge where I can not only succeed as a Manager, but also as an Entrepreneur. I will achieve this by acquiring an industrial SME and by leading it to its next stage.
+                            I recently ended up leading a family-owned luxury brand as CEO with the objective to turn the company around, break even and prepare the exit strategy. 
 							</p>
 						</div>	
 					</div>
@@ -99,7 +99,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/meine_suche.png">
+							<img class="w-100" src="img/my-search-vanessa.jpg">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-36">MY SEARCH</p>
 							</div>
@@ -108,10 +108,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            The focus of my search is the MEM industry in Switzerland and Germany. I will more specifically target SMEs developing and manufacturing machines, automation components or subsystems. 
+                            The focus of my search is all the players with a strong “savoir-faire” operating within the value chain of the consumer products industry : from suppliers to manufacturing, brands and retail in the french-speaking part of Switzerland and France. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            It is especially in this industry environment, where SMEs are driven by technology and innovation and address global markets with high value-add products, that I can best benefit from my skills, background and network.
+                            Consumer products encompasses apparel and personal accessories, home appliances and improvements as well as recreational products, including the luxury segment of all of these items.  
+This industry is driven by product innovation and benefits from a competitive advantage to be made in Europe particularly on international markets. 
+
+ 
 							</p>
 						</div>	
 					</div>
@@ -123,7 +126,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/meine_beitrag.png">
+							<img class="w-100" src="img/my-contribution-vanessa.jpg">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-28">MY CONTRIBUTION</p>
 							</div>
@@ -132,10 +135,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            I have a proven senior top management experience in various export-oriented Swiss SMEs, focusing on international business development and product innovation. 
+                            I started my career as a consultant before attending an Executive MBA program and successfully transitioned to entrepreneurship ever since with a proven track record.  
+
+Over the years, I became a business leader specialized in growth acceleration, turnaround management and operational efficiency notably in process design, organization transformation and change management.  
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            Over the years, I have acquired strong operational experience in day-to-day business management, as well as in implementation of strategic projects. I have led companies through various phases of growth and crisis and always consider these opportunities to analyse, adapt and improve organization and products. This allows me to demonstrate strong leadership, leading multi-functional teams with employees around the world, together with the capability to make needed adjustments to incorporate new external conditions.
+                            My contribution is to build the relevant skills to achieve growth and profitability by converting business opportunity into revenue streams and bottom-line management while leveraging my business acumen in a wide range of industries in international environments.  
 							</p>
 						</div>	
 					</div>
@@ -160,7 +165,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-                        OBSTACLES<br> ARE THOSE<br> THINGS YOU SEE <BR> WHEN YOU <br> TAKE YOUR EYES <br> OFF YOUR GOALS.<br><br>							 
+                        To lead is to serve, nothing more and nothing less.<br><br>							 
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -168,7 +173,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-							Henry Ford<br> industrialist and <br> business magnate
+                        André Malraux <br> French novelist and minister of cultural affairs.
 						</p> 
 					</div>	
 				</div>	
@@ -176,9 +181,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-8 pl-lg-20">
 				<div class="video_div d-flex h-100 pt-lg-0 pt-50">
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-	                    <img src="img/sabastein_thumb.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
+	                    <img src="img/vanessa-thumbnail.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/oWzkhRGWenU" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="https://www.youtube.com/watch?v=uoE9U9x5AJk " data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
@@ -187,7 +192,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/Sebastien-Perroud-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
+					<a download href="docs/Vanessa-Monastel-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
@@ -206,7 +211,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </h2>
                     <ul class="pl-0 mt-30">
                     	<li class="w-100 mb-30">
-                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:sebastien.perroud@novastone-ca.com">sebastien.perroud@novastone-ca.com</a>
+                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:vanessa.monastel@novastone-ca.com">vanessa.monastel@novastone-ca.com</a>
                     	</li>
                     </ul>
 				</div>	
@@ -222,7 +227,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Sébastien Perroud</h1>
+							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Vanessa Monastel</h1>
 							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Entrepreneur</span></h3>
 						</div>
 						<div class="jan_detail mt-60">
@@ -244,8 +249,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-lg-right">
 					<div class="searcher_mail d-flex align-items-center justify-content-end mt-3 pt-1">
-						<a href="mailTo:sebastien.perroud@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>sebastien.perroud@novastone-ca.com</span></a>
-						<a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:vanessa.monastel@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>vanessa.monastel@novastone-ca.com</span></a>
+						<a href="https://www.linkedin.com/in/vanessamonestel/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>

@@ -24,17 +24,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</svg>
 
 			        			</span><span class="font__size-41 ml-lg-0 ml-10">2023</span></p>	
-								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
+								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/vanessamonestel/ " target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
 								
 						    </div>	
 	                    </div>
-	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160 position-relative"><span class="heading_bg">SÉBASTIEN</span> <br> <sapn class="heading_bg_2">PERROUD</sapn></h2>
+	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160 position-relative"><span class="heading_bg">VANESSA</span> <br> <sapn class="heading_bg_2">MONESTEL</sapn></h2>
 				    </div>	
 				</div>    
 			</div>
 			<div class="col-lg-8">
 				<div class="searcher_image position-relative">
-					<img class="w-100" src="img/sabastien.png">
+					<img class="w-100" src="img/vanessa.png">
 				</div>	
 			</div>	
 		</div>
@@ -52,10 +52,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img class="searcher_logo" src="img/LOGO-WHITE.png">
 						<p class="font__size-30 mb-2 mt-30 font__halvetica-bold font__weight-500">NCA Entrepreneur</p>
 						<p class="font__size-16 text-white mt-4 font__weight-500">
-                            The NCA Entrepreneurship Through Acquisition <br> Program accompanies the next generation <br> of exceptional talents on every stage of their<br> entrepreneurial path.							 
+                         					 
+                            Le programme NCA Entrepreneurship Through Acquisition <br> accompagne la prochaine génération <br> de talents exceptionnels à chaque étape de leur<br> parcours entrepreneurial.
 						</p>
 						<div class="text-right arrow_link sas_arrow font__halvetica-bold">
-							LEARN MORE
+                        APPRENDRE ENCORE PLUS
 							<svg id="Forward_arrow" class="ml-lg-5 ml-2" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 60 60">
 							  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
 							</svg>
@@ -75,19 +76,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/uber_mch.png">
+							<img class="w-100" src="img/about-me-vanessa.jpg">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-36">ABOUT ME</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-30">À PROPOS DE MOI</p>
 							</div>
 						</div>	
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            I spent most of the time of my career working in different high-tech Swiss SMEs, active in the MEM (mechanical, electrical and metal) industry.
+                            Je suis issue d’une famille d’entreprise et j’ai passé la première moitié de ma carrière dans un cabinet de conseil au service de grands clients internationaux dans les secteurs de la distribution et de la grande consommation, avec une spécialisation dans la gestion de croissane et de l’efficacité opérationnelle. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            Over the last 15 years, I have had the opportunity to develop from R&D Engineer to Top Manager. Today, I want to give my career a new direction, a challenge where I can not only succeed as a Manager, but also as an Entrepreneur. I will achieve this by acquiring an industrial SME and by leading it to its next stage.
+                            Après l’EMBA de l’IMD, je rejoins une PME qui opère une manufacture et une marque horlogère, pour créer une structure efficiente en gérant des fondamentaux d’entreprise. 
+
+Plus récemment, j’ai pris la direction d’unemarque de luxe familiale avec pour objectif de la redresser, la rendre profitable et préparer l’exit.  
 							</p>
 						</div>	
 					</div>
@@ -99,19 +102,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/meine_suche.png">
+							<img class="w-100" src="img/my-search-vanessa.jpg">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-36">MY SEARCH</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-34">MA RECHERCHE</p>
 							</div>
 						</div>	
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            The focus of my search is the MEM industry in Switzerland and Germany. I will more specifically target SMEs developing and manufacturing machines, automation components or subsystems. 
+                            
+
+Ma recherche se concentre sur les acteurs au bénéfice d’un fort savoir-faire, actifs dans la chaîne de valeur de l’industrie des produits de consommation : de la sous-traitance, à la manufacture, les marques et la distribution en Suisse romande et en France. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            It is especially in this industry environment, where SMEs are driven by technology and innovation and address global markets with high value-add products, that I can best benefit from my skills, background and network.
+                            Les produits de consommation comprennent l’équipement de la personne, de la maison ainsi que articles de loisirs, incluant le segment luxe dans toutes ces catégories.  
+
+Cette industrie est tirée par l’innovation produits et bénéficie d’un avantage compétitif à être fabriqués en Europe, plus particulièrement sur les marchés internationaux.  
+ 
 							</p>
 						</div>	
 					</div>
@@ -123,19 +131,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/meine_beitrag.png">
+							<img class="w-100" src="img/my-contribution-vanessa.jpg">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-28">MY CONTRIBUTION</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-28">MA CONTRIBUTION</p>
 							</div>
 						</div>	
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            I have a proven senior top management experience in various export-oriented Swiss SMEs, focusing on international business development and product innovation. 
+                            J’ai démarré ma carrière comme consultante avant de participer à un programme d’executive MBA et de réussir une transition avérée vers l’entrepreunariat. 
+
+Au cours des années, je suis devenue une dirigeante spécialisée dans les phases d’accélération de croissance, de redressement, et d’efficacité opérationnelle particulièrement en définition de process, transformation organisationnelle et gestion du changement. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            Over the years, I have acquired strong operational experience in day-to-day business management, as well as in implementation of strategic projects. I have led companies through various phases of growth and crisis and always consider these opportunities to analyse, adapt and improve organization and products. This allows me to demonstrate strong leadership, leading multi-functional teams with employees around the world, together with the capability to make needed adjustments to incorporate new external conditions.
+                            Ma contribution consiste à construire les compétences nécessaires pour atteindre les objectifs de croissance et de profitabilité en convertissant des opportunités en source de revenus et  en gérant les résultats, tout en utilisant la connaissance d’industries variées dans des contextes internationaux.  
 							</p>
 						</div>	
 					</div>
@@ -160,7 +170,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-                        OBSTACLES<br> ARE THOSE<br> THINGS YOU SEE <BR> WHEN YOU <br> TAKE YOUR EYES <br> OFF YOUR GOALS.<br><br>							 
+                        Commander c’est servir, rien de plus, rien de moins. <br><br>							 
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -168,7 +178,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-							Henry Ford<br> industrialist and <br> business magnate
+                        André Malraux <br> Romancier et ministre des affaires culturelles français.
 						</p> 
 					</div>	
 				</div>	
@@ -176,9 +186,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-8 pl-lg-20">
 				<div class="video_div d-flex h-100 pt-lg-0 pt-50">
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-	                    <img src="img/sabastein_thumb.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
+	                    <img src="img/vanessa-thumbnail.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/oWzkhRGWenU" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="https://www.youtube.com/watch?v=uoE9U9x5AJk " data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
@@ -187,7 +197,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/Sebastien-Perroud-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
+					<a download href="docs/Vanessa-Monastel-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">Télécharger<br> LE CV
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
@@ -202,11 +212,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-8 pl-lg-20">
 				<div class="info_text sabastien_col mt-lg-0 mt-50 p-xs-0 pl-50 pr-50 pt-100 pb-100">
                     <h2 class="font__halvetica-bold font__size-30 text-uppercase text-white">
-                    	MY CONTACT DETAILS
+                    MES COORDONNÉES
                     </h2>
                     <ul class="pl-0 mt-30">
                     	<li class="w-100 mb-30">
-                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:sebastien.perroud@novastone-ca.com">sebastien.perroud@novastone-ca.com</a>
+                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:vanessa.monastel@novastone-ca.com">vanessa.monastel@novastone-ca.com</a>
                     	</li>
                     </ul>
 				</div>	
@@ -222,11 +232,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Sébastien Perroud</h1>
+							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Vanessa Monastel</h1>
 							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Entrepreneur</span></h3>
 						</div>
 						<div class="jan_detail mt-60">
-							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4"> This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>
+							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4"> Ce site Web ne cons`tue nullement une offre d’achat ou de vente d’un instrument financier. Lesinforma`ons fournies sur ce site sont à `tre informa`f uniquement et ne cons`tuent pas une offre, unesollicita`on ou une recommanda`on de souscrire à un service financier. Dans la mesure où ce siteexprime des opinions sur des stratégies d'inves`ssement et des idées d'inves`ssement, ces informa`onssont de nature générale uniquement et ne doivent pas être interprétées comme une publicité poursouscrire à un service financier ou pour inves`r dans un instrument financier spécifique. </p>
 
 							<a href="index-de.php" target="__blank" class="font__family-avenir back_primary text-capitalize d-inline-flex text-left align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3 mt-10">NCA website <span class="ml-108"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="18" viewBox="0 0 10 10">
 								  <defs>
@@ -244,8 +254,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-lg-right">
 					<div class="searcher_mail d-flex align-items-center justify-content-end mt-3 pt-1">
-						<a href="mailTo:sebastien.perroud@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>sebastien.perroud@novastone-ca.com</span></a>
-						<a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:vanessa.monastel@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>vanessa.monastel@novastone-ca.com</span></a>
+						<a href="https://www.linkedin.com/in/vanessamonestel/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
