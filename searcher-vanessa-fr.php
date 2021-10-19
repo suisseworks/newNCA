@@ -85,12 +85,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            Je suis issue d’une famille d’entreprise et j’ai passé la première moitié de ma carrière dans un cabinet de conseil au service de grands clients internationaux dans les secteurs de la distribution et de la grande consommation, avec une spécialisation dans la gestion de croissane et de l’efficacité opérationnelle. 
+							Je suis issue d’une famille d’entrepreneurs et j’ai passé la première moitié de ma carrière dans un cabinet de conseil au service de grands clients internationaux dans les secteurs de la distribution et de la grande consommation, avec une spécialisation dans la gestion de croissance et de l’efficacité opérationnelle. 
+
+
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            Après l’EMBA de l’IMD, je rejoins une PME qui opère une manufacture et une marque horlogère, pour créer une structure efficiente en gérant des fondamentaux d’entreprise. 
-
-Plus récemment, j’ai pris la direction d’unemarque de luxe familiale avec pour objectif de la redresser, la rendre profitable et préparer l’exit.  
+							Après l’EMBA de l’IMD, je rejoins une PME qui opère une manufacture et une marque horlogère, pour créer une structure efficiente en gérant les fondamentaux d’entreprise. 
+							Plus récemment, j’ai pris la direction d’une marque de luxe familiale avec pour objectif de la redresser, la rendre profitable et préparer l’exit.  
 							</p>
 						</div>	
 					</div>
@@ -113,12 +114,12 @@ Plus récemment, j’ai pris la direction d’unemarque de luxe familiale avec p
 							<p class="font-weight-bold font__size-16">
                             
 
-Ma recherche se concentre sur les acteurs au bénéfice d’un fort savoir-faire, actifs dans la chaîne de valeur de l’industrie des produits de consommation : de la sous-traitance, à la manufacture, les marques et la distribution en Suisse romande et en France. 
+							Ma recherche se concentre sur les acteurs au bénéfice d’un fort savoir-faire, actifs dans la chaîne de valeur de l’industrie des produits de consommation : de la sous-traitance à la manufacture en passant par les marques et la distribution en Suisse romande et en France. 
+Les produits de consommation comprennent l’équipement de la personne, de la maison ainsi que les articles de loisirs, incluant le segment luxe dans toutes ces catégories.  
+
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            Les produits de consommation comprennent l’équipement de la personne, de la maison ainsi que articles de loisirs, incluant le segment luxe dans toutes ces catégories.  
-
-Cette industrie est tirée par l’innovation produits et bénéficie d’un avantage compétitif à être fabriqués en Europe, plus particulièrement sur les marchés internationaux.  
+                            Cette industrie est tirée par l’innovation produits et bénéficie d’un avantage compétitif à être fabriqués en Europe, plus particulièrement sur les marchés internationaux.  
  
 							</p>
 						</div>	
@@ -140,12 +141,12 @@ Cette industrie est tirée par l’innovation produits et bénéficie d’un ava
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            J’ai démarré ma carrière comme consultante avant de participer à un programme d’executive MBA et de réussir une transition avérée vers l’entrepreunariat. 
-
+                            J’ai démarré ma carrière en tant que consultante avant de participer au programme d’Executive MBA de l'IMD et de réussir une transition avérée vers l’entrepreunariat. 
 Au cours des années, je suis devenue une dirigeante spécialisée dans les phases d’accélération de croissance, de redressement, et d’efficacité opérationnelle particulièrement en définition de process, transformation organisationnelle et gestion du changement. 
+
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            Ma contribution consiste à construire les compétences nécessaires pour atteindre les objectifs de croissance et de profitabilité en convertissant des opportunités en source de revenus et  en gérant les résultats, tout en utilisant la connaissance d’industries variées dans des contextes internationaux.  
+							Ma contribution consiste à construire les compétences nécessaires pour atteindre les objectifs de croissance et de profitabilité en convertissant des opportunités en source de revenus et  en gérant au plus près les résultats, tout en utilisant ma connaissance variée dans de multiples industries dans des contextes internationaux.  
 							</p>
 						</div>	
 					</div>
