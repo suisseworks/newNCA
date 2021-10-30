@@ -123,7 +123,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Nca <br> News</h2>
 						<div class="resource_wrap_links">
 							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-								<a href="docs/NCA-CELEBRATES-FIRST-ACQUISITION.pdf" target="_blank" class="font__size-20 font__family-efb">NCA celebrates first acquisition<span class="arrow_link_a"></span></a>
+								<a href="docs/NCA-CELEBRATES-FIRST-ACQUISITION.pdf" target="_blank" title="NCA celebrates first acquisition" class="font__size-20 font__family-efb">NCA celebrates first acquisition<span class="arrow_link_a"></span></a>
 							</div>
 							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="font__size-20 font__family-efb">Visit our LinkedIn for the latest NCA news<span class="arrow_link_a"></span></a>
