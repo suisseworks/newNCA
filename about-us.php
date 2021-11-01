@@ -475,6 +475,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>	
                         </div>	
 					</div>
+					<div class="  col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                        <div class="img_section w-100">
+                        	<img class="w-100" src="img/vanessa.jpg">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Vanessa Monestel </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
+									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
+									</svg>
+			        			</span> 23</p>
+			        			<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-vanessa.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>		
+						</div>	
+                        </div>	
+					</div>
+					<div class="  col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                        <div class="img_section w-100">
+                        	<img class="w-100" src="img/william.jpg">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> William Hunnam </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
+									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
+									</svg>
+			        			</span> 23</p>
+			        			<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-william.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>		
+						</div>	
+                        </div>	
+					</div>
 					
 					<!-- <div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                         <div class="img_section w-100">
@@ -724,7 +760,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Aviva Egulski</h5>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Aviva Egulsky Ozeri</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 								Digital, Data & Operations Center Director 
 

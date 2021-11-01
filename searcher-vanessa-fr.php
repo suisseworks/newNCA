@@ -25,7 +25,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			        			</span><span class="font__size-41 ml-lg-0 ml-10">2023</span></p>	
 								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/vanessamonestel/ " target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
-								
+								<a style="margin-top: -2px" href="http://novastone-ca.com/searcher-vanessa.php" class="bg-transparent   ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
 						    </div>	
 	                    </div>
 	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160 position-relative"><span class="heading_bg">VANESSA</span> <br> <sapn class="heading_bg_2">MONESTEL</sapn></h2>
@@ -111,16 +111,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
-							<p class="font-weight-bold font__size-16">
-                            
+							<p class="font-weight-bold font__size-16">                            
 
-							Ma recherche se concentre sur les acteurs au bénéfice d’un fort savoir-faire, actifs dans la chaîne de valeur de l’industrie des produits de consommation : de la sous-traitance à la manufacture en passant par les marques et la distribution en Suisse romande et en France. 
-Les produits de consommation comprennent l’équipement de la personne, de la maison ainsi que les articles de loisirs, incluant le segment luxe dans toutes ces catégories.  
-
+							Ma recherche se concentre sur les acteurs au bénéfice d’un fort savoir-faire, actifs dans la chaîne de valeur de l’industrie des produits de consommation : de la sous-traitance, à la manufacture et aux marques en Suisse romande et en France. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            Cette industrie est tirée par l’innovation produits et bénéficie d’un avantage compétitif à être fabriqués en Europe, plus particulièrement sur les marchés internationaux.  
- 
+                            Ma recherche se concentre sur les acteurs au bénéfice d’un fort savoir-faire, actifs dans la chaîne de valeur de l’industrie des produits de consommation : de la sous-traitance, à la manufacture et aux marques en Suisse romande et en France. 
+							<br><br>
+							Cette industrie est tirée par l’innovation produits et bénéficie d’un avantage compétitif à être fabriqués en Europe, plus particulièrement sur les marchés internationaux.  
 							</p>
 						</div>	
 					</div>
@@ -198,7 +196,7 @@ Au cours des années, je suis devenue une dirigeante spécialisée dans les phas
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/Vanessa-Monastel-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">Télécharger<br> LE CV
+					<a download href="docs/Vanessa-Monestel-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">Télécharger<br> LE CV
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
@@ -217,7 +215,7 @@ Au cours des années, je suis devenue une dirigeante spécialisée dans les phas
                     </h2>
                     <ul class="pl-0 mt-30">
                     	<li class="w-100 mb-30">
-                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:vanessa.monastel@novastone-ca.com">vanessa.monastel@novastone-ca.com</a>
+                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:vanessa.monestel@novastone-ca.com">vanessa.monestel@novastone-ca.com</a>
                     	</li>
                     </ul>
 				</div>	
@@ -233,7 +231,7 @@ Au cours des années, je suis devenue une dirigeante spécialisée dans les phas
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Vanessa Monastel</h1>
+							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Vanessa Monestel</h1>
 							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Entrepreneur</span></h3>
 						</div>
 						<div class="jan_detail mt-60">
@@ -255,7 +253,7 @@ Au cours des années, je suis devenue une dirigeante spécialisée dans les phas
 				</div>
 				<div class="col-12 col-lg-5 text-lg-right">
 					<div class="searcher_mail d-flex align-items-center justify-content-end mt-3 pt-1">
-						<a href="mailTo:vanessa.monastel@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>vanessa.monastel@novastone-ca.com</span></a>
+						<a href="mailTo:vanessa.monestel@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>vanessa.monestel@novastone-ca.com</span></a>
 						<a href="https://www.linkedin.com/in/vanessamonestel/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
