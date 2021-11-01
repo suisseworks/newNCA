@@ -724,7 +724,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Aviva Egulski</h5>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Aviva Egulsky Ozeri</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 								Digital, Data & Operations Center Director 
 
