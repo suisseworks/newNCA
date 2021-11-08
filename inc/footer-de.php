@@ -11,11 +11,11 @@
 
 					<div class="col-12 col-sm-12 col-lg-3 col-xs-12 d-xs-none order-lg-2">
 						<ul class="d-flex flex-column brk-white-font-color font__size-14 font__weight-normal line__height-16 text-sm-left  footer_custom_colum mt-4">
-							<li class="mb-20"><a href="index-de.php" class="font__family-efb font__size-15">Home</a></li>
-							<li class="mb-20"><a href="about-us-de.php" class="font__family-efb font__size-15">Über Uns</a></li>
-                            <li class="mb-20"><a href="talents.php" class="font__family-efb font__size-15">Talents</a></li>                            
-							<li class="mb-20"><a href="business-owners-de.php" class="font__family-efb font__size-15">Geschäftsinhaber & -Vermittler</a></li>
-							<li class="mb-20"><a href="co-investors.php" class="font__family-efb font__size-15">Co-Investors</a></li>
+							<li class="mb-20"><a href="index-de.php" class="font__family-efb font__size-15">Home</a></li>							 
+                            <li class="mb-20"><a href="talents.php" class="font__family-efb font__size-15">Talents</a></li> 
+							<li class="mb-20"><a href="entrepreneurs.php" class="font__family-efb font__size-15">Unternehmer</a></li>   
+							<li class="mb-20"><a href="co-investors.php" class="font__family-efb font__size-15">Co-Investors</a></li>                        
+							<li class="mb-20"><a href="business-owners-de.php" class="font__family-efb font__size-15">Geschäftsinhaber</a></li>							
 							<li class="mb-20"><a href="news-resources.php" class="font__family-efb font__size-15">News & Resources</a></li>
 						</ul>
 					</div>
