@@ -260,6 +260,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="container-inner-1170 pl-lg-50 pl-0">
 	 	
 				<div class="row no-gutters new_row mt-4">
+				<div class="col-12 strike_heading_2 mt-lg-200 mt-70">
+	                    <h2 class="stroke_text text-uppercase text-center text-lg-left text-sm-left text-xs-left mb-10 mb-lg-0 wow fadeInLeft">Our team</h2>
+	                </div>
 					<div class="col-lg-12 pl-5 pr-5">
 						<div class="position-relative z-index-1">
 							<div class="headline">
@@ -301,22 +304,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						     </div>	
                         </div>	
 					</div>
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section w-100">
-                        	<img class="w-100" src="img/karine.jpg">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Karine Courvoisier</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Legal Counsel <br><br> <br>&nbsp; 
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/karine-courvoisier-17467720/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div> 
+					 
 				
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section w-100">
@@ -330,7 +318,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<br><br> &nbsp;
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/karine-courvoisier-17467720/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/in/maija-o-7979384b/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
@@ -363,7 +351,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<br><br><br>&nbsp;
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/nicolasgonzalezluna/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/company/30146432" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
@@ -374,7 +362,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">David<br> Cautin</h5>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet <br> David Cautin</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
 								VP Value Creation
 								<br><br> <br>&nbsp;
@@ -510,7 +498,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								Data Analyst
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/jessica-ajzensztejn-157678184/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/in/moran-shomer/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
@@ -526,7 +514,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								Financial Controller <br><br><br> <br>&nbsp;
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/jessica-ajzensztejn-157678184/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/company/30146432" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
@@ -571,7 +559,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								Special Partner
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/angel-alvarez-cadavieco-22723620/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/in/davidhendren/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>
