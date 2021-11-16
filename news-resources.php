@@ -118,7 +118,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
 					</div>
 				</div>
-				<div class="row no-gutters">
+				<!--
+				<div class=" row no-gutters">
 					<div class="col-12 col-lg-6">
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Nca <br> News</h2>
 						<div class="resource_wrap_links">
@@ -140,7 +141,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						
 					</div>
 				</div>
-				<div class="row no-gutters">
+				<div class=" row no-gutters">
 					<div class="col-12 col-lg-6">
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Insights </h2>
 						<div class="resource_wrap_links">
@@ -154,6 +155,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						
 					</div>
 				</div>
+				-->
 			</div>
 		</section>
 

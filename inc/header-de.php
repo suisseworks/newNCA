@@ -16,10 +16,13 @@
 								<ul class="brk-nav__menu">
 									<li class="home-menu d-xs-none"><a href="index-de.php"><div>Home</div></a></li>
 									<li><a href="about-us-de.php"><div>Über Uns</div></a></li>
+									
 									<li><a href="talents.php"><div><span class="d-lg-none menu_for">For</span> Talents</div></a></li>
-									<li><a href="business-owners-de.php"><div><span class="d-lg-none menu_for">Für</span> Geschäftsinhaber <br class="d-lg-none">& -Vermittler</div></a></li>
+									<li><a href="unternehmer.php"><div><span class="d-lg-none menu_for">For</span> Unternehmer</div></a></li>
 									<li><a href="co-investors.php"><div><span class="d-lg-none menu_for">For</span> Co-Investors</div></a></li>
-									<li><a href="news-resources.php"><div>News & Resources</div></a></li>
+									<li><a href="business-owners-de.php"><div><span class="d-lg-none menu_for">Für</span> Geschäftsinhaber </div></a></li>									
+									<li><a href="news-resources.php"><div>Resources</div></a></li>
+									<li><a href="insights.php"><div>Insights</div></a></li>
 								</ul>
 							</nav>
 						</div>

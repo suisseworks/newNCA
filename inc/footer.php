@@ -12,11 +12,11 @@
 					<div class="col-12 col-sm-12 col-lg-3 col-xs-12 d-xs-none order-lg-2">
 						<ul class="d-flex flex-column brk-white-font-color font__size-14 font__weight-normal line__height-16 text-sm-left  footer_custom_colum mt-4">
 							<li class="mb-20"><a href="index.php" class="font__family-efb font__size-15">Home</a></li>
-							<li class="mb-20"><a href="about-us.php" class="font__family-efb font__size-15">About us</a></li>
-							<li class="mb-20"><a href="talents.php" class="font__family-efb font__size-15">Talents</a></li>
-							<li class="mb-20"><a href="business-owners.php" class="font__family-efb font__size-15">Business owners & intermediaries</a></li>
+				 			<li class="mb-20"><a href="talents.php" class="font__family-efb font__size-15">Talents</a></li>	
+							<li class="mb-20"><a href="entrepreneurs.php" class="font__family-efb font__size-15">Entrepreneurs</a></li>						
 							<li class="mb-20"><a href="co-investors.php" class="font__family-efb font__size-15">Co-investors</a></li>
-							<li class="mb-20"><a href="news-resources.php" class="font__family-efb font__size-15">News & Resources</a></li>
+							<li class="mb-20"><a href="business-owners.php" class="font__family-efb font__size-15">Business owners</a></li>
+							
 						</ul>
 					</div>
 
