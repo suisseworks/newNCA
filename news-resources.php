@@ -118,12 +118,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
 					</div>
 				</div>
-				<!--
+				
 				<div class=" row no-gutters">
 					<div class="col-12 col-lg-6">
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Nca <br> News</h2>
 						<div class="resource_wrap_links">
-							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="docs/NCA-CELEBRATES-SECOND-ACQUISITION.pdf" target="_blank" title="NCA celebrates second acquisition" class="font__size-20 font__family-efb">NCA celebrates second acquisition<span class="arrow_link_a"></span></a>
+							</div>	
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/NCA-CELEBRATES-FIRST-ACQUISITION.pdf" target="_blank" title="NCA celebrates first acquisition" class="font__size-20 font__family-efb">NCA celebrates first acquisition<span class="arrow_link_a"></span></a>
 							</div>
 							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
@@ -155,7 +158,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						
 					</div>
 				</div>
-				-->
+			
 			</div>
 		</section>
 
