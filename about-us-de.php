@@ -517,7 +517,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb"><br> Elena Trukhina</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CO-CEO<br>NCA entrepreneur's management, Deal flow & Europe Operations</p>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">Partner<br></p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/elena-trukhina-b058453/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
@@ -531,7 +531,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb"><br> Christian Malek</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CO-CEO<br> Co-investors relations, Fund management & US Operations</p>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">Group CEO/ Partner<br></p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/christian-malek-2088368b/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>	
@@ -542,17 +542,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					 
 					<div class="col-lg-4 col-lg-4 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/Nico_Luna.png">
+                        	<img class="w-100" src="img/dummy_img.png">
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb"><br> Nicolas Gonzalez Luna </h5>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb"><br> David Cautin</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-			        				Chief Investment Officer<br> Due Diligence & Deal Negotiations
+			        				Partner<br> 
  
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/nicolasgonzalezluna/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/in/david-cautin-5851461/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
