@@ -1629,13 +1629,18 @@ input[type='radio']:checked:after {
     background-color: #BEA581;
 }
 
+
+/*
 html,
 *,
 body a,
 body div,
 body h2 {
-    cursor: url('../../img/cursor.png'), auto !important;
+     cursor: url('../../img/cursor.png'), auto !important;
 }
+
+
+*/
 
 .form-control:focus {
     box-shadow: none;
