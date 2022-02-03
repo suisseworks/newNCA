@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/rohith2.png">
+				<img src="img/robert.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,22 +18,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.ºdin.com/in/rohithsaravanan/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>							 
+							<a href="https://www.linkedin.com/in/robert-wagner-healthcare-investor/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							 
 						</div>
 					</div>	
 
 
 
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Rohith  <br> Saravanan </h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Robert <br> Wagner</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2021</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2022</span>
+							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">Rohith Saravanan is a dynamic physician executive adept at assessing needs, developing solutions, and implementing positive changes to achieve sustainability and growth in challenging market conditions. He is exceptional at building teams and strengthening strategic business relationships. He has a history of streamlining clinical operations, increasing revenue, and reducing costs to maximize value. People describe him as an inspirational leader with a humanitarian spirit. He has a proven track record of success and thrives in a progressive growth environment. With his broad educational background and varied management and clinical experience, he is the definition of a well-rounded healthcare leader that boards, investors, and other executives can depend on.  </p>
+						<p class="font__size-18 line__height-24">I grew up in and around Chicago, Illinois and still reside in the area with my wife and three children (11, 8, and 6 years old). My 17+ year career investing in and advising healthcare companies started after I graduated in 2004 with a JD/MBA, but quickly realized that corporate law seemed more interesting in movies and books than in reality. So instead, I joined a small healthcare-focused investment banking firm, which began my career focus on the healthcare space. Since then, I have grown and led high performing healthcare investment groups at two leading financial firms, investing >$8B in >80 middle market healthcare platforms.   </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:rohith.saravanan@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:robert.wagner@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -56,23 +57,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
 					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Creative Innovation</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>High Endurance</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Utmost Integrity</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Enthusiastic Confidence</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Steadfast Virtue</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic Thinker </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Results Oriented</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Leadership Track Record</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strong Work Ethic</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Industry Expertise</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">HIS SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">As a physician executive there isn’t anyone else that is better positioned to navigate the fine balance between clinical care delivery and the business of medicine.</p>
-					<p class="font__size-16 line__height-24 mt-2">His main motivation is to help elevate healthcare delivery in the United States, enhancing patient experience, improving outcomes, reducing costs, and improving the work life balance for clinicians and staff. He is in search of a small to medium size enterprise that is privately owned, that he can help nurture and grow to achieve its full potential. He would love to get to know you, your business, your mission, and help continue the legacy you have built. Please reach out to him directly to learn more. He looks forward to hearing from you. </p>
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">My search is focused on acquiring a profitable healthcare business with a particular interest in healthcare services and multisite providers that could benefit from systems and process improvements / investments to help drive organic and M&A growth.</p>
+					<p class="font__size-16 line__height-24 mt-2">Geographically, my search is within the U.S.A.</p>
 
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">His contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Throughout his career, Rohith has strived for excellence in education and experiential learning. He has never been too shy to take on a stretch assignment and excel at it. </p>
-					<p class="font__size-16 line__height-24 mt-1">He routinely under promises and over delivers. His unique style combines inspirational leadership along with humility, a commanding presence, and a calming demeanor. He cares deeply about people, develops leaders in all those he touches and has a strong heart for community service.   </p>    
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">My career has allowed me the opportunity to invest in and work alongside a wide variety of healthcare management teams, learning best practices as well as missteps and red flags. </p>
+					<p class="font__size-16 line__height-24 mt-1">I am excited to use these insights along with my leadership skills and experience to grow / improve a best-in-class healthcare platform benefitting patients, providers, and all stakeholders.    </p>    
 			</div>
 		</div>
 	</div>
@@ -86,9 +87,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/play-sec-rohith.png" alt="alt" class="image_video">
+                        <img src="img/play-sec-robert.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/b2xHtUEA9HE" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/Pko-kxhZ8pA" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -128,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Rohith-CV.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Robert-Wagner-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -142,7 +143,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/scotty.jpg" class="resume_img">
+				<img src="img/background-robert.png" class="resume_img">
 			</div>
 		</div>
 
@@ -152,7 +153,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:rohith.saravanan@novastone-ca.com">rohith.saravanan@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:robert.wagner@novastone-ca.com">robert.wagner@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -165,9 +166,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">The world is changed by your example, not by your opinion.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Paulo Coelho</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Brazilian lyricist and novelist</p>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Far and away the best prize that life offers is the chance to work hard at work worth doing.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Theodore Roosevelt</h5>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
 			  </div>
@@ -182,7 +183,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Rohith Saravanan</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Robert Wagner</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Unternehmer</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -204,8 +205,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:rohith.saravanan@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">rohith.saravanan@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/rohithsaravanan/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:robert.wagner@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">robert.wagner@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/robert-wagner-healthcare-investor/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
