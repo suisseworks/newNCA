@@ -132,7 +132,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-							Between my time in the military and corporate world, I gained extensive experience building high-performing teams and learned how to maximize individual talent through a culture of inclusiveness to achieve operational excellence
+							Between my time in the military and corporate world, I gained extensive experience building high-performing teams and learned how to maximize individual talent through a culture of inclusiveness to achieve operational excellence.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
 							I firmly believe that people are the foundation for any success, and if provided the right training, guidance, and motivation, they will accomplish the mission.
@@ -178,7 +178,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
 	                    <img src="img/play-sec-nate.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/oWzkhRGWenU" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/hxWnkIHB9QU" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
