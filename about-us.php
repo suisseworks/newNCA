@@ -304,8 +304,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Sebastien Perroud<br>First NCA Acquisition</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>2021 			      </p>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Sébastien Perroud<br>First NCA Acquisition</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>2021 			      </p>
 			        			<div class="d-flex align-items-center justify-content-center">
 									<a href="https://www.novastone-ca.com/docs/NCA-CELEBRATES-FIRST-ACQUISITION.pdf" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>		
@@ -318,7 +318,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Jan Nikolaisenz<br>Second NCA Acquisition</h5>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Jan Nikolaisen<br>Second NCA Acquisition</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>2021</p>
 			        			<div class="d-flex align-items-center justify-content-center">
 								<a href="https://www.novastone-ca.com/docs/NCA-CELEBRATES-SECOND-ACQUISITION.pdf" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
