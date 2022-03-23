@@ -17,20 +17,22 @@
 									<li class="home-menu d-xs-none"><a href="index.php"><div>Home</div></a></li>
 									<li><a href="about-us.php"><div>About Us</div></a></li>
 									<li><a href="talents.php"><div><span class="d-lg-none menu_for">For</span> Talents</div></a></li>
-									<li><a href="business-owners.php"><div><span class="d-lg-none menu_for">For</span> Business owners <br class="d-lg-none">& intermediaries</div></a></li>
+									<li><a href="entrepreneurs.php"><div><span class="d-lg-none menu_for">For</span> Entrepreneurs </div></a></li>
 									<li><a href="co-investors.php"><div><span class="d-lg-none menu_for">For</span> Co-investors</div></a></li>
-									<li><a href="news-resources.php"><div>News & Resources</div></a></li>
+									<li><a href="business-owners.php"><div><span class="d-lg-none menu_for">For</span> Business owners</div></a></li>
+									<li><a href="news-resources.php"><div>Resources</div></a></li>
+									<li><a href="insights.php"><div>Insights</div></a></li>
 								</ul>
 							</nav>
-						</div>
+						</div>						
 						<div class="col-lg-2 align-self-lg-stretch text-lg-right header_third_part">
 						<div class="brk-header__item h-100 d-flex align-items-center justify-content-center">
-							<a href="#" class="bg-transparent font_family-arial btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
-							<a href="#" class="bg-transparent font_family-arial btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn header_btn_mb d-lg-none" data-brk-library="component__button">Deutsch</a>
-							<a href="#" class="bg-transparent font_family-arial btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn header_btn_mb d-lg-none" data-brk-library="component__button">Francais</a>
+							<a href="<?php echo $_SESSION['page'] ?>" class="bg-transparent font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button"><?php echo $_SESSION['lan']?></a>
+							
+							
 
 							<div class="footer_btns">
-							<a href="#" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a></div>
+							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a></div>
 						</div>
 						</div>
 					</div>
@@ -47,6 +49,9 @@
 					<div class="brk-theme-options__close panel-close function_btn" id="info0"></div>
 				</div>
 				<div class="row">
+					<div style="display: none;" id="form-alert-success form-alert-success" class="alert alert-success" role="alert">
+                    	Information was sent successfully!
+					</div>
 					<div class="col-lg-12" id="infocontent">
 						<div class="functon_div current" id="info0content">
 							<div class="get_in_touch_content">
@@ -89,20 +94,16 @@
 						    </a>
 						</div>	
 					</div>
-					<div style="display: none;" id="form-alert-success" class="alert alert-success" role="alert">
-                    	Information was sent successfully!
-					</div>
-					<!-- start  form-business-owner-->
-					<form  id="form-business-owner" name="form-business-owner" method="post">
-						<div class="col-lg-12" id="infocontent">
-							<div class="functon_div" id="info2content">
-								<div class="get_in_touch_content">
-									<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
-										Please complete the form below and we will be in touch.
-									</p>
-								</div>
-								<div class="resources_form resources_form_side">  
-									<form id="business_owner_contact_form" class="investors_contact_form">
+					<div class="col-lg-12" id="infocontent">
+						<div class="functon_div" id="info2content">
+							<div class="get_in_touch_content">
+								<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
+									Please complete the form below and we will be in touch.
+								</p>
+							</div>
+							<div class="resources_form resources_form_side">  
+                                <form id="business_owner_contact_form" class="investors_contact_form needs-validation" novalidate>
+									<input value="Business Owner" type="hidden" name="Type">
 									<div class="d-inline brk-form-round mr-30 selection_div s_side">
 										<select name="Title">
 											<option value="Title" selected disabled>Title</option>
@@ -111,162 +112,211 @@
 											<option value="Dr.">Dr.</option>
 										</select>
 									</div>
-										<div class="form-group  position-relative">
-											<span class="text-white label_staric position-absolute">*</span>
-											<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
-										</div>
-										<div class="form-group  position-relative">
-											<span class="text-white label_staric position-absolute">*</span>
-											<input type="text" class="form-control bg-white px-4 border-radius-25" name="Last_Name" id="last-name" placeholder="Surname" required>
-										</div>
-										<div class="form-group  position-relative">
-											<span class="text-white label_staric position-absolute">*</span>
-											<input type="email" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="E-mail" required>
-										</div>
-										<div class="form-group">
-											<div class="radio d-inline-flex">
-												<input type="radio" id="optradio1" name="optradio1">
-												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio1">Subscribe to our newsletter</label>
-											</div>
-											<div class="radio d-inline-flex">
-												<input type="radio" id="optradio2" name="optradio2" required>
-												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio2">By signing up to the form, you agree to our terms and privacy policy.</label>
-											</div>
-										</div>
-										<div id="form-business-owner-submit" class="submit_btn w-100 text-center">	
-											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
-										</div>    
-										<div id="form-business-owner-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
-											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
-												<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>	
-												<span>Sending...</span><span class="border-btn submit_border"></span>
-											</button>
-										</div>    
-									</form>
-									<div class="privacy_policy_link text-center mt-20">
-										<a href="img/TermsAndConditions.pdf" download target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
-									</div>	
-								</div>
-							</div>	
-						</div>
-					</form>
-					 <!-- end  form-business-owner-->
+                                	<div class="form-group  position-relative">
+                                		<span class="text-white label_staric position-absolute">*</span>
+                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
+                                		<div class="invalid-feedback">
+									        Please provide your name.
+									      </div>
+                                	</div>
+                                	<div class="form-group  position-relative">
+                                		<span class="text-white label_staric position-absolute">*</span>
+                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="Last_Name" id="last-name" placeholder="Surname" required>
+                                		<div class="invalid-feedback">
+									        Please provide your surname.
+									      </div>
+                                	</div>
+                                	<div class="form-group  position-relative">
+                                		<span class="text-white label_staric position-absolute">*</span>
+                                		<input type="email" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="E-mail" required>
+                                		<div class="invalid-feedback">
+									        Please provide your email address.
+									      </div>
+                                	</div>
+                                	
+                                	<div class="form-group ml-2">	
+									<div class="">
+										<p class="font__family-open-sans  text-white  pb-3  font__size-12">
+										* = required
+										</p>
+									</div>
 
-					<!-- start  form-co-investor-->
-					<form  id="form-co-investor" name="form-co-investor" method="post">
-						<div class="col-lg-12" id="infocontent">
-							<div class="functon_div" id="info3content">
-								<div class="get_in_touch_content">
-									<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
-										Please complete the form below and our Investor Relations Director will be in touch shortly.
-									</p>
-								</div>
-								<div class="co_investors_form">  
-									<form id="header_co_investors_contact_form" class="investors_contact_form">
-										<div class="form-group  position-relative">
-											<span class="text-white label_staric position-absolute">*</span>
-											<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
-										</div>
-										<div class="form-group  position-relative">
-											<span class="text-white label_staric position-absolute">*</span>
-											<input type="text" class="form-control bg-white px-4 border-radius-25" name="Last_Name" id="last-name" placeholder="Surname" required>
-										</div>
-										<div class="form-group  position-relative">
-											<span class="text-white label_staric position-absolute">*</span>
-											<input type="mail" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="E-mail" required>
-										</div>
-										<div class="form-group  position-relative">
-											<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Description" placeholder="Message" rows="3"></textarea>
-										</div>	
-										<div class="form-group">
-											<div class="radio d-inline-flex">
-												<input type="radio" name="optradio01" id="optradio01">
-												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio01">Subscribe to our newsletter</label>
-											</div>
-											<div class="radio d-inline-flex">
-												<input type="radio" id="optradio02" name="optradio02" required>
-												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio02">By signing up to the form, you agree to our terms and privacy policy.</label>
-											</div>
-										</div>
-										<div id="form-co-investor-submit" class="submit_btn w-100 text-center">	
-											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
-										</div>
-										<div id="form-co-investor-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
-											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
-												<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>	
-												<span>Sending...</span><span class="border-btn submit_border"></span>
-											</button>
-										</div>    
-									</form>
-									<div class="privacy_policy_link text-center mt-20">
-										<a download href="img/TermsAndConditions.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
-									</div>	
-								</div>
-							</div>	
+                                	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
+							            <input id="bussiness01" type="checkbox" name="Newsletter">
+							            <label for="bussiness01" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
+							             </label>
+							             Subscribe to our newsletter
+							          </div>
+
+							          <div class="checkbox checkbox-info checkbox-circle d-flex line__height-16 text-white font__size-14">
+							            <input id="bussiness02" type="checkbox">
+							            <label for="bussiness02" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
+							             </label>
+							              By signing up to the form, you agree to our terms and privacy policy.
+							          </div>
+                                	</div>
+                                	<div id="business_owner_contact_form-submit" class="submit_btn w-100 text-center">	
+                                	    <button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
+									</div>
+									<div id="business_owner_contact_form-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
+										<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
+											<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>	
+											<span>Sending...</span><span class="border-btn submit_border"></span>
+										</button>
+									</div>       
+                                </form>
+                                <div class="privacy_policy_link text-center mt-20">
+                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white underline"> & </span><a href="img/NCA-Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
+                                </div>	
+							</div>
 						</div>	
-					</form>
-					<!-- end  form-co-investor-->
+					</div>
+					<div class="col-lg-12" id="infocontent">
+						<div class="functon_div" id="info3content">
+							<div class="get_in_touch_content">
+								<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
+									Please complete the form below and our Investor Relations Director will be in touch shortly.
+								</p>
+							</div>
+							<div class="co_investors_form">  
+                                <form id="header_co_investors_contact_form" class="investors_contact_form needs-validation" novalidate>
+									<input value="Co-Investor" type="hidden" name="Type" >
+									<div class="form-group  position-relative">
+                                		<span class="text-white label_staric position-absolute">*</span>
+                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
+                                		<div class="invalid-feedback">
+									        Please provide your name.
+									      </div>
+                                	</div>
+                                	<div class="form-group  position-relative">
+                                		<span class="text-white label_staric position-absolute">*</span>
+                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="Last_Name" id="last-name" placeholder="Surname" required>
+                                		<div class="invalid-feedback">
+									        Please provide your surname.
+									      </div>
+                                	</div>
+                                	<div class="form-group  position-relative">
+                                		<span class="text-white label_staric position-absolute">*</span>
+                                		<input type="email" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="E-mail" required>
+                                		<div class="invalid-feedback">
+									        Please provide your email address.
+									      </div>
+                                	</div>
+                                	<div class="form-group  position-relative">
+                                		<textarea class="form-control p-4 bg-white border-radius-25" id="co_investors_text" name="Comment" placeholder="Message" rows="3"></textarea>
+                                	</div>
+                                	<div class="form-group ml-2">	
+									<div class="">
+										<p class="font__family-open-sans  text-white  pb-3  font__size-12">
+										* = required
+										</p>
+									</div>
+                                	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
+										<input id="co-investor03" type="checkbox" name="Newsletter">
+										<label for="co-investor03" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
+										</label>
+										Subscribe to our newsletter
+									</div>
 
-					<!-- start  form-intermediary-->
-					<form  id="form-intermediary" name="form-intermediary" method="post">
-						<div class="col-lg-12" id="infocontent">
-							<div class="functon_div" id="info4content">
-								<div class="get_in_touch_content">
-									<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
-										Please complete the form below and we will be in touch.
-									</p>
-								</div>
-								<div class="resources_form resources_form_side">  
-									<form id="intermediatry_contact_form" class="investors_contact_form">
-										<div class="d-inline brk-form-round mr-30 selection_div s_side ">
-										<select name="select you profile">
+							          <div class="checkbox checkbox-info checkbox-circle d-flex line__height-16 text-white font__size-14">
+							            <input id="co-investor04" type="checkbox">
+							            <label for="co-investor04" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
+							             </label>
+							              By signing up to the form, you agree to our terms and privacy policy.
+							          </div>
+                                	</div>	
+                                	
+                                	<div id="header_co_investors_contact_form-submit" class="submit_btn w-100 text-center">	
+                                	    <button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
+									</div>  
+									<div id="header_co_investors_contact_form-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
+										<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
+											<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>	
+											<span>Sending...</span><span class="border-btn submit_border"></span>
+										</button>
+									</div>   
+                                </form>
+                                <div class="privacy_policy_link text-center mt-20">
+                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white underline"> & </span><a href="img/NCA-Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
+                                </div>	
+							</div>
+						</div>	
+					</div>	
+					<div class="col-lg-12" id="infocontent">
+						<div class="functon_div" id="info4content">
+							<div class="get_in_touch_content">
+								<p class="font__family-open-sans font__size-20 text-white pt-2 pb-3 talent_text pr-30">
+									Please complete the form below and we will be in touch.
+								</p>
+							</div>
+							<div class="resources_form resources_form_side">  
+                                <form id="intermediatry_contact_form" class="investors_contact_form needs-validation" novalidate>
+									<input value="Intermediary" type="hidden" name="Type" >
+									<div class="d-inline brk-form-round mr-30 selection_div s_side ">
+										<select name="Title">
 											<option value="Title" selected disabled>Title</option>
 											<option value="Mr.">Mr.</option>
 											<option value="Ms.">Ms.</option>
 											<option value="Dr.">Dr.</option>
 										</select>
 									</div>
-										<div class="form-group  position-relative">
-											<span class="text-white label_staric position-absolute">*</span>
-											<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
-										</div>
-										<div class="form-group  position-relative">
-											<span class="text-white label_staric position-absolute">*</span>
-											<input type="text" class="form-control bg-white px-4 border-radius-25" name="Last_Name" id="last-name" placeholder="Surname" required>
-										</div>
-										<div class="form-group  position-relative">
-											<span class="text-white label_staric position-absolute">*</span>
-											<input type="mail" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="E-mail" required>
-										</div>
-										<div class="form-group">
-											<div class="radio d-inline-flex">
-												<input type="radio" id="optradio3" name="optradio3">
-												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio3">Subscribe to our newsletter</label>
-											</div>
-											<div class="radio d-inline-flex">
-												<input type="radio" id="optradio4" name="optradio4" required>
-												<label class="font__size-14 font__family-open-sans text-white d-inline-block line__height-14 ml-2" for="optradio4">By signing up to the form, you agree to our terms and privacy policy.</label>
-											</div>
-										</div>
-										<div id="form-intermediary-submit" class="submit_btn w-100 text-center">	
-											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
-										</div>    
-										<div id="form-intermediary-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
-											<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
-												<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>	
-												<span>Sending...</span><span class="border-btn submit_border"></span>
-											</button>
-										</div>
-									</form>
-									<div class="privacy_policy_link text-center mt-20">
-										<a download href="img/TermsAndConditions.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms & privacy policy</a>
-									</div>	
-								</div>
-							</div>	
-						</div>
-					</form>
-					<!-- end  form-intermediary-->
+                                	<div class="form-group  position-relative">
+                                		<span class="text-white label_staric position-absolute">*</span>
+                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="First_Name" id="first-name" placeholder="Name" required>
+                                		<div class="invalid-feedback">
+									        Please provide your name.
+									      </div>
+                                	</div>
+                                	<div class="form-group  position-relative">
+                                		<span class="text-white label_staric position-absolute">*</span>
+                                		<input type="text" class="form-control bg-white px-4 border-radius-25" name="Last_Name" id="last-name" placeholder="Surname" required>
+                                		<div class="invalid-feedback">
+									        Please provide your surname.
+									      </div>
+                                	</div>
+                                	<div class="form-group  position-relative">
+                                		<span class="text-white label_staric position-absolute">*</span>
+                                		<input type="email" class="form-control bg-white px-4 border-radius-25" name="Email" id="e_mail" placeholder="E-mail" required>
+                                		<div class="invalid-feedback">
+									        Please provide your email address.
+									      </div>
+                                	</div>
+                                	<div class="form-group ml-2">	
+									<div class="">
+										<p class="font__family-open-sans  text-white  pb-3  font__size-12">
+										* = required
+										</p>
+									</div>
+                                	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
+							            <input id="Intermediary01" type="checkbox" name="Newsletter">
+							            <label for="Intermediary01" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
+							             </label>
+							             Subscribe to our newsletter
+							          </div>
 
+							          <div class="checkbox checkbox-info checkbox-circle d-flex line__height-16 text-white font__size-14">
+							            <input id="Intermediary02" type="checkbox">
+							            <label for="Intermediary02" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
+							             </label>
+							              By signing up to the form, you agree to our terms and privacy policy.
+							          </div>
+                                	</div>
+                                	<div id="intermediatry_contact_form-submit" class="submit_btn w-100 text-center">	
+                                	    <button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none"><span>Send</span><span class="border-btn submit_border"></span></button>
+									</div>    
+									<div id="intermediatry_contact_form-loading" class="submit_btn w-100 text-center" style="display: none;" disabled>	
+										<button type="submit" class="text-white btn btn-prime btn-md btn-outline-hover border-radius-5 bg-transparent font__size-14 px-5 shadow-none">
+											<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>	
+											<span>Sending...</span><span class="border-btn submit_border"></span>
+										</button>
+									</div>   
+                                </form>
+                                <div class="privacy_policy_link text-center mt-20">
+                                	<a href="img/Terms-and-Conditions-Legal Notice.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">Terms</a><span class="font__size-12 font__family-open-sans text-white underline"> & </span><a href="img/NCA-Privacy-Policy.pdf" target="_blank" class="font__size-12 font__family-open-sans text-white underline">privacy policy</a>
+                                </div>	
+							</div>
+						</div>	
+					</div>
 					<div class="col-lg-12" id="infocontent">
 						<div class="functon_div" id="info5content">
 							<a href="talents.php" class="h-100">
