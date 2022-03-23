@@ -31,6 +31,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						<div class="resource_wrap_links py-3 bg-light">
 							<div class="anchore_div anchore_div py-3 px-3 position-relative">
+								<a href="docs/chronique_monestel.pdf" target="_blank" class="font__size-20 font__family-efb">Vanessa Monestel | Succession: un nouveau modèle qui fonctionne<span class="arrow_link_a"></span></a>
+							</div>	
+							<div class="anchore_div anchore_div py-3 px-3 position-relative">
 								<a href="https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds/primer" target="_blank" class="font__size-20 font__family-efb">Stanford GSB: Search Fund Primer (2020)<span class="arrow_link_a"></span></a>
 							</div>
 							<div class="anchore_div anchore_div py-3 px-3 position-relative">
