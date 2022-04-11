@@ -87,7 +87,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 								        	 
 										<span class="font__weight-bold">Our program carefully selects talents (with an MBA/EMBA and ~10 years work experience) and our team supports them through every phase of the search and acquisition process. </span><br>										  
-										<span class="d-block mt-20">	 All candidates who submit an application to become an NCA entrepreneur undergo a rigorous screening and selection process before being accepted into our program (read more about our selection process on our dedicated <a href="talents.php" class="underline">Talents page</a>).<br><br> In addition to accepting direct applications through our website, we also partner with the best business schools to source top-tier entrepreneurial talent for our ETA program. </span>
+										<span class="d-block mt-20">	 All candidates who submit an application to become an NCA Entrepreneur undergo a rigorous screening and selection process before being accepted into our program (read more about our selection process on our dedicated <a href="talents.php" class="underline">Talents page</a>).<br><br> In addition to accepting direct applications through our website, we also partner with the best business schools to source top-tier entrepreneurial talent for our ETA program. </span>
 								        </p>
 								        <div class="next_arrow w-100">
 								            <span class="next_accordion position-absolute" data-toggle="collapse" data-target="#collapseTwo">
@@ -269,7 +269,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								NCA Entrepreneurs 
 							</h3>
 							<h4 class="mb-5 subtitle wow fadeInUp">
-								Our current cohort of NCA entrepreneurs underwent a rigorous selection process; only exceptional talents, who are ready to embark on an exceptional journey, are chosen for our program.
+								Our current cohort of NCA Entrepreneurs underwent a rigorous selection process; only exceptional talents, who are ready to embark on an exceptional journey, are chosen for our program.
 							</h4>
 							</div>
 						</div>
@@ -366,7 +366,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Mike Hindi</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>20 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>20 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
 			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
 									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
 									</svg>
@@ -386,7 +386,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Mike Hindi </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
 			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
 									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
 									</svg>
@@ -404,7 +404,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Viktor Dimitrov </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
 			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
 									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
 									</svg>
@@ -422,7 +422,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Markus Graeber </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
 			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
 									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
 									</svg>
@@ -440,7 +440,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Rania Missoumi </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
 			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
 									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
 									</svg>
@@ -458,7 +458,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Fryderyk Rdułtowski </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
 			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
 									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
 									</svg>
@@ -476,7 +476,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Vanessa Monestel </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
 			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
 									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
 									</svg>
@@ -494,7 +494,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> William Hunnam </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
 			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
 									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
 									</svg>
@@ -512,13 +512,67 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Nick Akers </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>21 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
 			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
 									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
 									</svg>
 			        			</span> 23</p>
 			        			<div class="d-flex align-items-center justify-content-center">
 									<a href="https://www.novastone-ca.com/searcher-nick.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>		
+						</div>	
+                        </div>	
+					</div>
+					<div class="  col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                        <div class="img_section w-100">
+                        	<img class="w-100" src="img/ryan.jpg">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Ryan Wright </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>22 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
+									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
+									</svg>
+			        			</span> 24</p>
+			        			<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-ryan.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>		
+						</div>	
+                        </div>	
+					</div>
+					<div class="  col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                        <div class="img_section w-100">
+                        	<img class="w-100" src="img/nate.jpg">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Nathan Taylor </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>22 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
+									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
+									</svg>
+			        			</span> 24</p>
+			        			<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-nathan.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>		
+						</div>	
+                        </div>	
+					</div>
+					<div class="  col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                        <div class="img_section w-100">
+                        	<img class="w-100" src="img/robert.jpg">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Robert Wagner </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>22 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
+									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
+									</svg>
+			        			</span> 24</p>
+			        			<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-robert.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>		
 						</div>	
                         </div>	
@@ -531,7 +585,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Erick Azen</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA entrepreneur<br>20 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>20 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
 			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
 									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
 									</svg>
