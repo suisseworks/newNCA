@@ -31,7 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">De nacionalidad británica y austríaca, he vivido y trabajado en 10 países antes de radicarme en España, por su gente y por la excelente calidad de vida que ofrece. Más de 20 años de experiencia en logística y en transformaciones empresariales me han dotado con una pasión por armar y liderar grandes equipos. Me energiza trabajar junto a ellos, hombro a hombro, sabiendo que siempre hay más que podemos hacer para satisfacer a nuestros clients y hacer crecer el negocio.  </p>
+						<p class="font__size-18 line__height-24">De nacionalidad británica y austríaca, he vivido y trabajado en 10 países antes de radicarme en España, por su gente y por la excelente calidad de vida que ofrece. Más de 20 años de experiencia en logística y en transformaciones empresariales me han dotado con una pasión por armar y liderar grandes equipos. Me energiza trabajar junto a ellos, hombro a hombro, sabiendo que siempre hay más que podemos hacer para satisfacer a nuestros clientes y hacer crecer el negocio.  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:george.berczely@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contacto<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
@@ -87,9 +87,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/play-sec-4.png" alt="alt" class="image_video">
+                        <img src="img/play-sec-george.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/5-crdUPwUF0" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/KRhTT0Igmt8" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -166,8 +166,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Tanto si crees que puedes como si no, tienes razón</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Henry Ford</h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">La cultura se come como desayuno a la estrategia.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Peter Drucker</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>

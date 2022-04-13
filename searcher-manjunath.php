@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/val.png">
+				<img src="img/manjunath.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,23 +18,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/george-berczely/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="http://novastone-ca.com/searcher-waldemar-en.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
+							<a href="https://www.linkedin.com/in/mbhat/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							 
 						</div>
 					</div>	
 
 
 
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Waldemar  <br> Pilch </h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Manjunath   <br> Bhat</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">Nazywam się Waldemar Pilch i mieszkam w Krakowie.  Przez ponad 25 lat miałem okazję mieszkać, studiować i pracować za granicą, wracając do Krakowa w 2016 roku. Po studiach zdobywałem doświadczenie w prestiżowych bankach inwestycyjnych w Nowym Jorku i Singapurze, po czym wróciłem do Polski, aby objąć stanowisko w zarządzie wiodącej firmy oświetleniowej. Pragnę kontynuować swoją pasję do przedsiębiorczości poprzez utworzenie nowego, autorskiego funduszu.  Poszukuje spółki, którą zakupię i będę dalej rozwijać, koncentrując się na tworzeniu wartości dla założycieli, inwestorów, pracowników i klientów.</p>
+						<p class="font__size-18 line__height-24"><span style="font-weight:bold">I studied as an engineer and have spent over 20 years in technology and industrial companies.</span> My career has spanned from designing electrical systems, building hardware products, launching software applications, doing acquisitions to advising tech & industrial business owners. I love the challenge of building and growing businesses and am looking forward to continuing my entrepreneurial journey through acquisition.     </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:val.pilch@novastone-ca.com" type="button" class="btn text-white font__family-efb">Kontakt<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:manjunath.bhat@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -55,25 +55,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Silne strony</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Dynamiczny</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Analityczny</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategiczny</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entuzjastyczny</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Odpowiedzialny</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Customer focused</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>People centric</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Team player</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Life-long learner</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Servant leader</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">Moje wyszukiwanie</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Moje poszukiwania skupiają się na firmach produkcyjno-usługowych o trwałej pozycji rynkowej, wieloletniej bazie klientów i rzetelnych operacjach wewnętrznych z naciskiem na rozwój i skalowanie firmy.  </p>
-					<p class="font__size-16 line__height-24 mt-2">Podstawą moich poszukiwań jest pasja do odkrywania nowych dróg rozwoju poprzez doskonalenie i innowacje.  Rozwijam kreatywności w biznesie, koncentrując się na strategiach wejścia na rynek i dopasowaniu produktu do rynku i klienta.   </p>
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">Today's companies are facing an immense digital challenge in post COVID world, and many small businesses are figuring out their response.</p>
+					<p class="font__size-16 line__height-24 mt-2">My search focuses on vertically driven technology and engineering services company, particularly addressing industrial automation or digital transformation needs. My goal is to take your legacy and company forward in this new era. </p>
 
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">Mój wkład</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Mam duże doświadczenie w zakresie współpracy z dużymi firmami, jak i firmami rodzinnymi. Będąc w firmie rodzinnej, rozumiem znaczenie szacunku dla tych, dzięki którym firma odniosła sukces.  </p>
-					<p class="font__size-16 line__height-24 mt-1">Lubię zadawać pytania, słuchać i rozumieć, zanim dokonam wielkich obietnic lub wprowadzę rozległe zmiany. Jednocześnie, nie boję się pracy i pełnego zaangażowania w projekty. Moja rola różni się w zależności od potrzeb firmy, zespołu i stanu rozwoju.   </p>    
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">Over the years, I have gained a breadth of experience in building strategic vision, planning and executing those plans.  </p>
+					<p class="font__size-16 line__height-24 mt-1">I understand the challenge of starting a new business, growing it and what it takes to keep customers & employees happy. I would like to bring my entrepreneurial spirit, experience in product and technology development to help take the company forward.  </p>    
 			</div>
 		</div>
 	</div>
@@ -87,9 +87,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/play-sec-4.png" alt="alt" class="image_video">
+                        <img src="img/play-sec-manjunath.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/5-crdUPwUF0" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/nyBOmB2ym6o" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -129,13 +129,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Waldemar-Pilch-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download2 href="https://www.linkedin.com/in/mbhat/ " type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">Visit my LinkedIn Profile<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
 								    </clipPath>
 								  </defs>
-								  <g id="Forward_arrow" data-name="Forward arrow" transform="translate(38) rotate(90)" clip-path="">
+								  <g id="Forward_arrow" data-name="Forward arrow" transform2="translate(38) rotate(90)" clip-path="">
 								    <path id="Path_10" data-name="Path 10" d="M19,0,15.545,3.455,28.623,16.532H0v4.935H28.623L15.545,34.545,19,38,38,19Z" fill="#fff"/>
 								  </g>
 								</svg>
@@ -143,7 +143,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-val.png" class="resume_img">
+				<img src="img/background-manjunath.png" class="resume_img">
 			</div>
 		</div>
 
@@ -153,7 +153,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:val.pilch@novastone-ca.com">val.pilch@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:manjunath.bhat@novastone-ca.com">manjunath.bhat@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -166,9 +166,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Praca dająca poczucie sensu oraz wartościowe relacje z ludźmi były i nadal są moimi głównymi celami i wszystko, co zrobiłem, było dla nich</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Ray Dalio</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase"> Inwestor i Przedsiębiorca </p>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Everything is created twice, first in the mind and then in reality.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Robin Sharma</h5>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
 			  </div>
@@ -183,7 +183,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Waldemar Pilch</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Manjunath Bhat</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Unternehmer</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -205,8 +205,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:val.pilch@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">val.pilch@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/george-berczely/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:manjunath.bhat@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">manjunath.bhat@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/mbhat/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
