@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
 							<a href="https://www.linkedin.com/in/george-berczely/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="http://novastone-ca.com/searcher-waldemar-en.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
+							<a href="http://novastone-ca.com/searcher-waldemar.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Polish</a>
 						</div>
 					</div>	
 
@@ -31,10 +31,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">Nazywam się Waldemar Pilch i mieszkam w Krakowie.  Przez ponad 25 lat miałem okazję mieszkać, studiować i pracować za granicą, wracając do Krakowa w 2016 roku. Po studiach zdobywałem doświadczenie w prestiżowych bankach inwestycyjnych w Nowym Jorku i Singapurze, po czym wróciłem do Polski, aby objąć stanowisko w zarządzie wiodącej firmy oświetleniowej. Pragnę kontynuować swoją pasję do przedsiębiorczości poprzez utworzenie nowego, autorskiego funduszu.  Poszukuje spółki, którą zakupię i będę dalej rozwijać, koncentrując się na tworzeniu wartości dla założycieli, inwestorów, pracowników i klientów.</p>
+						<p class="font__size-18 line__height-24">My name is Waldemar Pilch and I live in Krakow. For over 25 years, I had the opportunity to live, study and work abroad, returning to Krakow in 2016. After graduate school, I gained experience as an investment banker in New York and Singapore, and then returned to Poland to take on Managing Director role of a leading lighting company. I’m excited to continue my passion for entrepreneurship by creating a new, proprietary search fund. I am looking for a company to acquire and grow, focusing on creating value for founders, investors, employees and customers. </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:val.pilch@novastone-ca.com" type="button" class="btn text-white font__family-efb">Kontakt<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:val.pilch@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -55,25 +55,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Silne strony</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">CORE COMPETENCIES</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Dynamiczny</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Analityczny</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategiczny</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entuzjastyczny</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Odpowiedzialny</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Achiever</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Analytical</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Activator</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Responsible</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">Moje wyszukiwanie</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Moje poszukiwania skupiają się na firmach produkcyjno-usługowych o trwałej pozycji rynkowej, wieloletniej bazie klientów i rzetelnych operacjach wewnętrznych z naciskiem na rozwój i skalowanie firmy.  </p>
-					<p class="font__size-16 line__height-24 mt-2">Podstawą moich poszukiwań jest pasja do odkrywania nowych dróg rozwoju poprzez doskonalenie i innowacje.  Rozwijam kreatywności w biznesie, koncentrując się na strategiach wejścia na rynek i dopasowaniu produktu do rynku i klienta.   </p>
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">My Search</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">My search is focused on Industrial or Healthcare companies with a durable market position, a longstanding customer base, and reliable internal operations with focus on growing and scaling the company.  </p>
+					<p class="font__size-16 line__height-24 mt-2">My passion for figuring out how things work and applying creativity to business by focusing on go-to-market strategies, product-market fit and customer 
 
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">Mój wkład</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Mam duże doświadczenie w zakresie współpracy z dużymi firmami, jak i firmami rodzinnymi. Będąc w firmie rodzinnej, rozumiem znaczenie szacunku dla tych, dzięki którym firma odniosła sukces.  </p>
-					<p class="font__size-16 line__height-24 mt-1">Lubię zadawać pytania, słuchać i rozumieć, zanim dokonam wielkich obietnic lub wprowadzę rozległe zmiany. Jednocześnie, nie boję się pracy i pełnego zaangażowania w projekty. Moja rola różni się w zależności od potrzeb firmy, zespołu i stanu rozwoju.   </p>    
+experience forms the basis of my Search Fund.  </p>
+
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My Contribution</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">I have extensive experience in working with large companies and family businesses. Being in a family business, I understand the importance of respecting those who made the business successful. </p>
+					<p class="font__size-16 line__height-24 mt-1">I like to ask questions, listen, and understand, before making big promises or implementing sweeping changes.  With that said, I am not afraid to get my hands dirty. My role varies depending on the company’s needs, team and state of growth.   </p>    
 			</div>
 		</div>
 	</div>
@@ -166,9 +168,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Praca dająca poczucie sensu oraz wartościowe relacje z ludźmi były i nadal są moimi głównymi celami i wszystko, co zrobiłem, było dla nich</h4>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Meaningful work and meaningful relationships were and still are my primary goals and everything I did was for them.</h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Ray Dalio</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase"> Inwestor i Przedsiębiorca </p>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase"> Investor and Entrepreneur 
+
+</p>
 					</div>
 				</div>
 			  </div>
