@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/val.png">
+				<img src="img/nicoletta.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,23 +18,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/valpilch/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="http://novastone-ca.com/searcher-waldemar.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Polish</a>
+							<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="http://novastone-ca.com/searcher-nicoletta-en.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
 						</div>
 					</div>	
 
 
 
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Waldemar  <br> Pilch </h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Nicoletta <br> Nutrito</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">My name is Waldemar Pilch and I live in Krakow. For over 25 years, I had the opportunity to live, study and work abroad, returning to Krakow in 2016. After graduate school, I gained experience as an investment banker in New York and Singapore, and then returned to Poland to take on Managing Director role of a leading lighting company. I’m excited to continue my passion for entrepreneurship by creating a new, proprietary search fund. I am looking for a company to acquire and grow, focusing on creating value for founders, investors, employees and customers. </p>
+						<p class="font__size-18 line__height-24">Sono un ingegnere con la passione per i viaggi e lo sport. Sono nata e cresciuta a Bologna, e negli ultimi 10 anni ho ricoperto ruoli apicali in aziende internazionali. So motivare un team, gestire un il conto economico di un’azienda, e sfruttare le nuove tecnologie per migliorare prodotti e servizi esistenti. Ora voglio mettere le mie competenze al servizio di una PMI italiana e contribuire alla ripresa del mio Paese. Ho due figli ed imparo da loro ogni giorno come essere un buon leader.  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:val.pilch@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:nicoletta.nutrito@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contatto<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -55,27 +55,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">CORE COMPETENCIES</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Competenze chiave</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Achiever</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Analytical</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Activator</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Responsible</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Etica</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Orientata al risultato</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Gestione operativa dell’azienda</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Pragmatica</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Inclusiva</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">My Search</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">My search is focused on Industrial or Healthcare companies with a durable market position, a longstanding customer base, and reliable internal operations with focus on growing and scaling the company.  </p>
-					<p class="font__size-16 line__height-24 mt-2">My passion for figuring out how things work and applying creativity to business by focusing on go-to-market strategies, product-market fit and customer 
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">La mia ricerca</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">Sto cercando una PMI italiana che opera nel B2B.  </p>
+					<p class="font__size-16 line__height-24 mt-2">Sono particolarmente interessata all'automazione industriale, alla logistica ed alle macchine automatiche. La mia azienda ideale ha una storia importante, un impatto positivo sulla comunità e la volontà di abbracciare le nuove tecnologie. </p>
 
-experience forms the basis of my Search Fund.  </p>
-
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My Contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I have extensive experience in working with large companies and family businesses. Being in a family business, I understand the importance of respecting those who made the business successful. </p>
-					<p class="font__size-16 line__height-24 mt-1">I like to ask questions, listen, and understand, before making big promises or implementing sweeping changes.  With that said, I am not afraid to get my hands dirty. My role varies depending on the company’s needs, team and state of growth.   </p>    
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">Il mio contributo</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">Il mio approccio pragmatico mi permetterà di capire e preservare la tradizione dell’azienda, assicurando al contempo una solida crescita per gli anni a venire. </p>
+					<p class="font__size-16 line__height-24 mt-1">So far leva su nuove tecnologie per migliorare l'offerta di un prodotto, mettendo sempre il fattore umano al primo posto. Ho gestito siti operativi e divisioni aziendali, e conosco bene le imprese familiari. Ho creato e gestito team globali di Operations e  Customer Service e mi piace essere ogni giorno in prima linea, in ascolto del cliente.  </p>    
 			</div>
 		</div>
 	</div>
@@ -89,7 +87,7 @@ experience forms the basis of my Search Fund.  </p>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/play-sec-4.png" alt="alt" class="image_video">
+                        <img src="img/play-sec-nicoletta.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
                         <a class="d-flex align-items-center fancybox" href="https://youtu.be/5-crdUPwUF0" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
@@ -131,7 +129,7 @@ experience forms the basis of my Search Fund.  </p>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Waldemar-Pilch-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Nicoletta-Nutrito-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -145,7 +143,7 @@ experience forms the basis of my Search Fund.  </p>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-val.png" class="resume_img">
+				<img src="img/background-nicoletta.png" class="resume_img">
 			</div>
 		</div>
 
@@ -155,7 +153,7 @@ experience forms the basis of my Search Fund.  </p>
 					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:val.pilch@novastone-ca.com">val.pilch@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:nicoletta.nutrito@novastone-ca.com">nicoletta.nutrito@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -168,11 +166,9 @@ experience forms the basis of my Search Fund.  </p>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Meaningful work and meaningful relationships were and still are my primary goals and everything I did was for them.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Ray Dalio</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase"> Investor and Entrepreneur 
-
-</p>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Ci sono rischi e costi per agire. Ma sono molto meno dei rischi a lungo termine di una comoda inazione</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">John F. Kennedy</h5>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
 			  </div>
@@ -187,7 +183,7 @@ experience forms the basis of my Search Fund.  </p>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Waldemar Pilch</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Nicoletta Nutrito</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Unternehmer</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -209,8 +205,8 @@ experience forms the basis of my Search Fund.  </p>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:val.pilch@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">val.pilch@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/valpilch/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:nicoletta.nutrito@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">nicoletta.nutrito@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
