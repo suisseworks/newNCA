@@ -18,7 +18,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/in/nicoletta-nutrito-gm-bu-services/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							<a href="http://novastone-ca.com/searcher-nicoletta-en.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
 						</div>
 					</div>	
@@ -166,7 +166,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Ci sono rischi e costi per agire. Ma sono molto meno dei rischi a lungo termine di una comoda inazione</h4>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">“Ci sono dei rischi e dei costi in un programma d'azione, ma sono di gran lunga minori dei rischi e dei costi a lungo termine della comoda inerzia</h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">John F. Kennedy</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
 						<a href="mailTo:nicoletta.nutrito@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">nicoletta.nutrito@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="https://www.linkedin.com/in/nicoletta-nutrito-gm-bu-services/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>

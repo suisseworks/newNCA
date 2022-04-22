@@ -24,17 +24,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</svg>
 
 			        			</span><span class="font__size-41 ml-lg-0 ml-10">2024</span></p>	
-								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/nathanptaylor/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
+								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
 								
 						    </div>	
 	                    </div>
-	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160 position-relative"><span class="heading_bg">Nathan</span> <br> <sapn class="heading_bg_2">Taylor</sapn></h2>
+	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160 position-relative"><span class="heading_bg">DANIEL</span> <br> <sapn class="heading_bg_2">Coutinho</sapn></h2>
 				    </div>	
 				</div>    
 			</div>
 			<div class="col-lg-8">
 				<div class="searcher_image position-relative">
-					<img class="w-100" src="img/nate.png">
+					<img class="w-100" src="img/daniel.png">
 				</div>	
 			</div>	
 		</div>
@@ -65,7 +65,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 			</div>
 		</div>
-		        
+		
 	</div>			
 </section>
 <section class="sabs_page"> 
@@ -75,7 +75,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/about-me-nate.png">
+							<img class="w-100" src="img/about-me-daniel.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-36">ABOUT ME</p>
 							</div>
@@ -84,10 +84,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            I grew up in a small industrial town in Iowa located on the banks of the Mississippi River, where I understood the role small businesses play in the vitality of communities early on.
+                            I have over 20 years of international experience in strategy and operational roles, across several industries in both large organizations (JP Morgan, Microsoft, Sony, LVMH) and start-ups (Business of Bouffe). 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            After working for several small business owners in high school, I decided that I would eventually become an entrepreneur myself. However, I put that goal on pause to attend the US Military Academy at West Point and serve as an Army pilot and intelligence officer for eight years. After transitioning to work in the corporate world for a few years and obtaining my MBA, I am thrilled to return to my original goal and pursue a career in entrepreneurship through acquisition.  
+                            With a strong entrepreneurial mindset, I have accumulated 9 years of leadership roles in the Luxury and Food & Beverage industry. I am also an investor and non-executive board member at a few Food & Beverage startups and holder of an INSEAD MBA.   
+							</p>
+                            <p class="mt-30 font__size-16 font__halvetica-regular">
+                            I am a French/Portuguese entrepreneur, born and raised in Brazil. I have lived and worked in 8 different countries and have spent the last 15 years of my life in France.  
 							</p>
 						</div>	
 					</div>
@@ -99,7 +102,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/search-nathan.png">
+							<img class="w-100" src="img/my-search-daniel.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-36">MY SEARCH</p>
 							</div>
@@ -108,10 +111,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            I am looking to acquire and operate a service or light-manufacturing business in the infrastructure or utilities space.
+                            The focus of my search is Food & Beverage manufacturers based in France or Portugal.  
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            I am especially interested in businesses involved in the value chains of sub-industries such as environmental remediation, transmission line construction and repair, rail transportation, and port operations-critical elements of a strong economy. 
+                            I am looking to acquiring a profitable company with revenue ranging between 10M€-50M€, with a solid track record, an unique know-how and reputation.   
+							</p>
+                            <p class="mt-30 font__size-16 font__halvetica-regular">
+                            My goal is to perpetuate the legacy of its existing owner and continue its development locally and internationally. 
 							</p>
 						</div>	
 					</div>
@@ -123,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/contribution-nathan.png">
+							<img class="w-100" src="img/my-contribution-daniel.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-28">MY CONTRIBUTION</p>
 							</div>
@@ -132,10 +138,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-							Between my time in the military and corporate world, I gained extensive experience building high-performing teams and learned how to maximize individual talent through a culture of inclusiveness to achieve operational excellence.
+                            The Food & Beverage industry is going through a deep transformation influenced by an instable global supply chain and a shift in consumer behavior, who are increasingly turning to products they hope are more respectful of the environment, their health and the conditions of production. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-							I firmly believe that people are the foundation for any success, and if provided the right training, guidance, and motivation, they will accomplish the mission.
+                            I will bring my leadership and business skills to help the company succeed in this evolving environment, while preserving the heritage left by its previous owner. I will leverage my solid academic, professional and international background to lead the company into a new growth cycle which will create value for employees and other stakeholders. 
 							</p>
 						</div>	
 					</div>
@@ -160,7 +166,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-                        Coming together is a beginning. Keeping together is progress. Working together is success.<br><br>							 
+                        OBSTACLES<br> ARE THOSE<br> THINGS YOU SEE <BR> WHEN YOU <br> TAKE YOUR EYES <br> OFF YOUR GOALS.<br><br>							 
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -168,7 +174,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-						Henry Ford<br>  
+							Henry Ford<br> industrialist and <br> business magnate
 						</p> 
 					</div>	
 				</div>	
@@ -176,9 +182,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-8 pl-lg-20">
 				<div class="video_div d-flex h-100 pt-lg-0 pt-50">
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-	                    <img src="img/play-sec-nate.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
+	                    <img src="img/sabastein_thumb.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/hxWnkIHB9QU" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/oWzkhRGWenU" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
@@ -187,7 +193,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/Nathan-Taylor-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
+					<a download href="docs/Daniel-Coutinho-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
@@ -206,7 +212,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </h2>
                     <ul class="pl-0 mt-30">
                     	<li class="w-100 mb-30">
-                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:nate.taylor@novastone-ca.com">nate.taylor@novastone-ca.com</a>
+                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:daniel.coutinho@novastone-ca.com">daniel.coutinho@novastone-ca.com</a>
                     	</li>
                     </ul>
 				</div>	
@@ -222,7 +228,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Nathan Taylor</h1>
+							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Daniel Coutinho</h1>
 							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Entrepreneur</span></h3>
 						</div>
 						<div class="jan_detail mt-60">
@@ -244,8 +250,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-lg-right">
 					<div class="searcher_mail d-flex align-items-center justify-content-end mt-3 pt-1">
-						<a href="mailTo:nate.taylor@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>nate.taylor@novastone-ca.com</span></a>
-						<a href="https://www.linkedin.com/in/nathanptaylor/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:daniel.coutinho@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>daniel.coutinho@novastone-ca.com</span></a>
+						<a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>

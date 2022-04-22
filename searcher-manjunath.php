@@ -31,7 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24"><span style="font-weight:bold">I studied as an engineer and have spent over 20 years in technology and industrial companies.</span> My career has spanned from designing electrical systems, building hardware products, launching software applications, doing acquisitions to advising tech & industrial business owners. I love the challenge of building and growing businesses and am looking forward to continuing my entrepreneurial journey through acquisition.     </p>
+						<p class="font__size-18 line__height-24"><span style="font-weight:bold">I studied as an engineer and have spent over 20 years in technology and industrial companies.</span> My career has spanned designing electrical systems, building hardware products, laboratory testing, launching software, doing acquisitions to advising tech & industrial business owners. I love the challenge of building and growing businesses and am looking forward to continuing my entrepreneurial journey through acquisition.     </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:manjunath.bhat@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
