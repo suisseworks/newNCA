@@ -27,7 +27,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="detail_searcher mt-2">
 						<h2 class="font__family-efb text-uppercase line__height-90">Waldemar  <br> Pilch </h2>
-						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
+						<h4 class="font__size-38 mt-4">NCA Przedsiębiorca</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
@@ -129,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Waldemar-Pilch-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Waldemar-Pilch-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">POBIERZ CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -141,6 +141,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</svg>
 								</span></a>
 					</div>
+
+					<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
+						<a download href="docs/Kryteria-Inwestycyjne.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">POBIERZ KRYTERIA INWESTYCYJNE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+								  <defs>
+								    <clipPath id="clip-path">
+								      <rect width="38" height="38" fill="none"/>
+								    </clipPath>
+								  </defs>
+								  <g id="Forward_arrow" data-name="Forward arrow" transform="translate(38) rotate(90)" clip-path="">
+								    <path id="Path_10" data-name="Path 10" d="M19,0,15.545,3.455,28.623,16.532H0v4.935H28.623L15.545,34.545,19,38,38,19Z" fill="#fff"/>
+								  </g>
+								</svg>
+								</span></a>
+				</div>
 			</div>
 			<div class="col-lg-8">
 				<img src="img/background-val.png" class="resume_img">
@@ -150,7 +164,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row no-gutters">
 			<div class="col-lg-4">
 				<div class="about_contact_info pl-100 bg-white pr-100 pt-60 pb-80">
-					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
+					<h2 class="font__family-efb text-uppercase mb-3">KONTAKT DO MNIE</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
 					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:val.pilch@novastone-ca.com">val.pilch@novastone-ca.com</a>
@@ -184,12 +198,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
 							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Waldemar Pilch</h1>
-							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Unternehmer</h3>
+							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Przedsiębiorca</h3>
 						</div>
 						<div class="jan_detail mt-4">
 							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>
 
-							<a href="index-de.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Website <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
+							<a href="index.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Website <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="10" height="10" fill="none"/>

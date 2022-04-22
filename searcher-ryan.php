@@ -66,8 +66,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I'm seeking to acquire a profitable, small to medium-sized light manufacturing company in the US that I can help take to the next growth stage. </p>
-					<p class="font__size-16 line__height-24 mt-2">Ideally, this company will be in the defense/aerospace sector (although this is not a must) with a willingness and desire to scale into adjacent markets.  </p>
+					<p class="font__size-16 line__height-24 font__family-efb">I'm seeking to acquire a profitable, small to medium-sized light manufacturing company or manufacturing service provider in the US that I can help take to the next stage of growth.</p>
+					<p class="font__size-16 line__height-24 mt-2">Ideally, this company will have a loyal, diversified customer base with significant recurring revenue and be facing a succession issue.</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">I've spent my career building companies, physical products, and teams across several industries, including defense, aerospace, semiconductors, energy, and even cannabis. </p>

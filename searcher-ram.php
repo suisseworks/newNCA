@@ -84,7 +84,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            I grew up in one of the largest cosmopolitan cities in India called Chennai. I received a Bachelor's degree in Mechanical Engineering with Honors from a Top engineering school and then moved to the US to pursue graduate studies with research scholarship funding.
+                            I grew up in Chennai, one of the largest cosmopolitan cities in India. I received a bachelor's degree in Mechanical Engineering with Honors from a top engineering school and then moved to the US to pursue graduate studies with research scholarship funding.
                            
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
@@ -109,7 +109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            My search focuses on the Managed Service Provider sector in the IT Services industry in the US market. Opportunistically, I will look for tech-savvy MSPs that offer specialized high-value services, such as Digital Transformation services & Managed Security Services.
+                            My search focuses on the Managed Service Provider sector within the IT Services industry, targeting the US market. Opportunistically, I will look for tech-savvy MSPs that offer specialized high-value services, such as Digital Transformation Services & Managed Security Services.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
                             My deep knowledge of the IT industry and leadership skills will help craft an exciting vision backed by a focused strategy and execution to transform an acquired MSP to create a high-growth business with a significant margin. 

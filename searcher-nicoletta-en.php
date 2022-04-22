@@ -18,7 +18,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/in/nicoletta-nutrito-gm-bu-services/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							<a href="http://novastone-ca.com/searcher-nicoletta.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Italian</a>
 						</div>
 					</div>	
@@ -69,7 +69,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">I am looking for an Italian SME in the B2B space.  </p>
-					<p class="font__size-16 line__height-24 mt-2">I am particularly interested in the industries automation, logistic and machinery. My ideal company has a strong legacy, a positive impact on its community and the willingness to embrace new technologies.</p>
+					<p class="font__size-16 line__height-24 mt-2">I am particularly interested in industry automation, logistic and machinery. My ideal company has a strong legacy, a positive impact on its community and the willingness to embrace new technologies.</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">Thanks to my hands-on attitude, I will understand and preserve the company’s legacy while ensuring a solid growth for the years to come. I know how to apply technologies to enhance a product offering and I am always mindful of the human factor. </p>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
 						<a href="mailTo:nicoletta.nutrito@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">nicoletta.nutrito@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="https://www.linkedin.com/in/nicoletta-nutrito-gm-bu-services/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
