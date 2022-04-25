@@ -67,7 +67,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">Moje wyszukiwanie</h2>
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">Moje POSZUKIWANIA</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">Moje poszukiwania skupiają się na firmach produkcyjno-usługowych o trwałej pozycji rynkowej, wieloletniej bazie klientów i rzetelnych operacjach wewnętrznych z naciskiem na rozwój i skalowanie firmy.  </p>
 					<p class="font__size-16 line__height-24 mt-2">Podstawą moich poszukiwań jest pasja do odkrywania nowych dróg rozwoju poprzez doskonalenie i innowacje.  Rozwijam kreatywności w biznesie, koncentrując się na strategiach wejścia na rynek i dopasowaniu produktu do rynku i klienta.   </p>
 
