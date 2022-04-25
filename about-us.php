@@ -601,7 +601,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet <br>Manjunath Bath </h5>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet <br>Manjunath Bhat </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-34">NCA Entrepreneur<br>22 <span class=" member_count_arrow px-3 pt-12 d-inline-flex">
 			        				 <svg id="Group_969" data-name="Group 969" xmlns="http://www.w3.org/2000/svg" width="9.093" height="9.093" viewBox="0 0 9.093 9.093">
 									  <path id="Path_10" data-name="Path 10" d="M4.547,0,3.72.827l3.13,3.13H0V5.137H6.85L3.72,8.267l.827.827L9.093,4.547Z" fill="#e57200"/>
