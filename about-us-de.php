@@ -856,7 +856,7 @@ NCA-Akquisition</h5>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Sara Yates </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Investor Relations Director
+								Special Advisor
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/sarayatesuk/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
