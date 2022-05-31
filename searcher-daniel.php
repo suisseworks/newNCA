@@ -87,7 +87,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             I have over 20 years of international experience in strategy and operational roles, across several industries in both large organizations (JP Morgan, Microsoft, Sony, LVMH) and start-ups (Business of Bouffe). 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            With a strong entrepreneurial mindset, I have accumulated 9 years of leadership roles in the Luxury and Food & Beverage industry. I am also an investor and non-executive board member at a few Food & Beverage startups and holder of an INSEAD MBA.   
+                            With a strong entrepreneurial mindset, I have accumulated several years of leadership roles in the Luxury and Food & Beverage industry. Firstly, as Managing Director of a LVMH brand, and more recently, as founder and CEO of a consulting company and recognized B2B media brand specializing in the F&B industry. I am also an investor and non-executive board member at a few F&B startups and holder of an INSEAD MBA.
 							</p>
                             <p class="mt-30 font__size-16 font__halvetica-regular">
                             I am a French/Portuguese entrepreneur, born and raised in Brazil. I have lived and worked in 8 different countries and have spent the last 15 years of my life in France.  
@@ -166,7 +166,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-                        OBSTACLES<br> ARE THOSE<br> THINGS YOU SEE <BR> WHEN YOU <br> TAKE YOUR EYES <br> OFF YOUR GOALS.<br><br>							 
+                        A good product <br> can last forever<br><br>							 
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -174,7 +174,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-							Henry Ford<br> industrialist and <br> business magnate
+						Bernard Arnault <br> CEO and Founder of LVMH
 						</p> 
 					</div>	
 				</div>	
