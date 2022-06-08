@@ -25,7 +25,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			        			</span><span class="font__size-41 ml-lg-0 ml-10">2024</span></p>	
 								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/danielcoutinho/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
-								<a style="margin-top: -2px" href="http://novastone-ca.com/searcher-daniel-fr.php" class="bg-transparent   ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Française</a>
+								<a style="margin-top: -2px" href="http://novastone-ca.com/searcher-daniel.php" class="bg-transparent   ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
 						    </div>	
 	                    </div>
 	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160 position-relative"><span class="heading_bg">DANIEL</span> <br> <sapn class="heading_bg_2">Coutinho</sapn></h2>
@@ -52,10 +52,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img class="searcher_logo" src="img/LOGO-WHITE.png">
 						<p class="font__size-30 mb-2 mt-30 font__halvetica-bold font__weight-500">NCA Entrepreneur</p>
 						<p class="font__size-16 text-white mt-4 font__weight-500">
-                            The NCA Entrepreneurship Through Acquisition <br> Program accompanies the next generation <br> of exceptional talents on every stage of their<br> entrepreneurial path.							 
+                        Le programme NCA Entrepreneurship Through Acquisition <br> accompagne la prochaine génération <br> de talents exceptionnels à chaque étape de leur <br> parcours entrepreneurial.
 						</p>
 						<div class="text-right arrow_link sas_arrow font__halvetica-bold">
-							LEARN MORE
+                        Apprendre encore plus
 							<svg id="Forward_arrow" class="ml-lg-5 ml-2" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 60 60">
 							  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
 							</svg>
@@ -77,20 +77,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="image_content_div position-relative">
 							<img class="w-100" src="img/about-me-daniel.png">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-36">ABOUT ME</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-30">À PROPOS DE MOI</p>
 							</div>
 						</div>	
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            I have over 20 years of international experience in strategy and operational roles, across several industries in both large organizations (JP Morgan, Microsoft, Sony, LVMH) and start-ups (Business of Bouffe). 
+                            J'ai plus de 20 ans d'expérience internationale dans des rôles stratégiques et opérationnels, dans plusieurs secteurs, à la fois dans des grandes organisations (JP Morgan, Microsoft, Sony, LVMH) et dans des start-ups (Business of Bouffe). 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            With a strong entrepreneurial mindset, I have accumulated several years of leadership roles in the Luxury and Food & Beverage industry. Firstly, as Managing Director of a LVMH brand, and more recently, as founder and CEO of a consulting company and recognized B2B media brand specializing in the F&B industry. I am also an investor and non-executive board member at a few F&B startups and holder of an INSEAD MBA.
+                            Avec un fort esprit entrepreneurial, j'ai accumulé 9 ans dans des rôles de direction dans l'industrie du luxe et de l'agroalimentaire. Titulaire d'un MBA de l'INSEAD, je suis également investisseur et membre non exécutif du conseil d'administration de quelques start-ups dans les secteurs agroalimentaire, vins et spiritueux.   
 							</p>
                             <p class="mt-30 font__size-16 font__halvetica-regular">
-                            I am a French/Portuguese entrepreneur, born and raised in Brazil. I have lived and worked in 8 different countries and have spent the last 15 years of my life in France.  
+                            Je suis un entrepreneur franco-portugais, né et élevé au Brésil. J'ai vécu et travaillé dans 8 pays différents et j'ai passé les 15 dernières années de ma vie en France. 
+
+
 							</p>
 						</div>	
 					</div>
@@ -104,20 +106,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="image_content_div position-relative">
 							<img class="w-100" src="img/my-search-daniel.png">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-36">MY SEARCH</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-30">MA RECHERCHE</p>
 							</div>
 						</div>	
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            The focus of my search is Food & Beverage manufacturers based in France or Portugal.  
+                            Le focus de ma recherche sont des fabricants de produits alimentaires, vins et spiritueux basés en France ou au Portugal.  
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            I am looking to acquiring a profitable company with revenue ranging between 10M€-50M€, with a solid track record, an unique know-how and reputation.   
+                            Je cherche à acquérir une entreprise rentable dont le chiffre d'affaires se situe entre 10M€-50M€, avec un historique solide, un savoir-faire unique et une belle réputation.   
 							</p>
                             <p class="mt-30 font__size-16 font__halvetica-regular">
-                            My goal is to perpetuate the legacy of its existing owner and continue its development locally and internationally. 
+                            Mon objectif est de perpétuer l'héritage de son propriétaire actuel et de poursuivre son développement au niveau local et international. 
 							</p>
 						</div>	
 					</div>
@@ -131,17 +133,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="image_content_div position-relative">
 							<img class="w-100" src="img/my-contribution-daniel.png">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-28">MY CONTRIBUTION</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-28">MA CONTRIBUTION</p>
 							</div>
 						</div>	
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            The Food & Beverage industry is going through a deep transformation influenced by an instable global supply chain and a shift in consumer behavior, who are increasingly turning to products they hope are more respectful of the environment, their health and the conditions of production. 
+                            Les secteurs de l'agroalimentaire, des vins et spiritueux traversent une profonde transformation influencés par une chaîne d'approvisionnement mondiale instable et un changement de comportement des consommateurs, qui se tournent de plus en plus vers des produits qu'ils espèrent plus respectueux de l'environnement, de leur santé et des conditions de production. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            I will bring my leadership and business skills to help the company succeed in this evolving environment, while preserving the heritage left by its previous owner. I will leverage my solid academic, professional and international background to lead the company into a new growth cycle which will create value for employees and other stakeholders. 
+                            J'apporterai mes compétences en matière de leadership et gestion des affaires pour aider l'entreprise à réussir dans cet environnement en évolution, tout en préservant l'héritage laissé par son précédent propriétaire. Je m'appuierai sur ma solide expérience académique, professionnelle et internationale pour conduire l'entreprise vers un nouveau cycle de croissance qui créera de la valeur pour les employés et les autres parties prenantes. 
 							</p>
 						</div>	
 					</div>
@@ -166,7 +168,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-                        A good product <br> can last forever<br><br>							 
+                        Un bon produit <br> peut durer éternellement<br><br>							 
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -174,7 +176,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-						Bernard Arnault <br> CEO and Founder of LVMH
+						Bernard Arnault <br>PDG et Fondateur du groupe LVMH
 						</p> 
 					</div>	
 				</div>	
@@ -193,7 +195,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/Daniel-Coutinho-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
+					<a download href="docs/Daniel-Coutinho-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">Télécharger<br> CV
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
@@ -208,7 +210,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-8 pl-lg-20">
 				<div class="info_text sabastien_col mt-lg-0 mt-50 p-xs-0 pl-50 pr-50 pt-100 pb-100">
                     <h2 class="font__halvetica-bold font__size-30 text-uppercase text-white">
-                    	MY CONTACT DETAILS
+                    MES COORDONNÉES
                     </h2>
                     <ul class="pl-0 mt-30">
                     	<li class="w-100 mb-30">
