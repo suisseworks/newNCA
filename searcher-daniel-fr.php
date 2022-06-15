@@ -55,7 +55,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         Le programme NCA Entrepreneurship Through Acquisition <br> accompagne la prochaine génération <br> de talents exceptionnels à chaque étape de leur <br> parcours entrepreneurial.
 						</p>
 						<div class="text-right arrow_link sas_arrow font__halvetica-bold">
-                        Apprendre encore plus
+						Plus d’information
 							<svg id="Forward_arrow" class="ml-lg-5 ml-2" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 60 60">
 							  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
 							</svg>
@@ -87,7 +87,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             J'ai plus de 20 ans d'expérience internationale dans des rôles stratégiques et opérationnels, dans plusieurs secteurs, à la fois dans des grandes organisations (JP Morgan, Microsoft, Sony, LVMH) et dans des start-ups (Business of Bouffe). 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            Avec un fort esprit entrepreneurial, j'ai accumulé 9 ans dans des rôles de direction dans l'industrie du luxe et de l'agroalimentaire. Titulaire d'un MBA de l'INSEAD, je suis également investisseur et membre non exécutif du conseil d'administration de quelques start-ups dans les secteurs agroalimentaire, vins et spiritueux.   
+                            Avec un fort esprit entrepreneurial, j'ai accumulé plusieurs années d’expérience dans des rôles de direction dans l'industrie du luxe et de l'agroalimentaire. Tout d’abord en tant que Directeur Général d’une PME du groupe LVMH, puis en tant que fondateur et PDG d’un cabinet de conseil et media B2B spécialisé dans le secteur Food & Beverage. Titulaire d'un MBA de l'INSEAD, je suis également investisseur et membre non exécutif du conseil d'administration de quelques start-ups dans les secteurs agroalimentaire, vins et spiritueux. 
 							</p>
                             <p class="mt-30 font__size-16 font__halvetica-regular">
                             Je suis un entrepreneur franco-portugais, né et élevé au Brésil. J'ai vécu et travaillé dans 8 pays différents et j'ai passé les 15 dernières années de ma vie en France. 
@@ -195,7 +195,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/Daniel-Coutinho-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">Télécharger<br> CV
+					<a download href="docs/Daniel-Coutinho-resume-fr.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">Télécharger<br> CV
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
