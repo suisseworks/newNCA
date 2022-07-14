@@ -89,7 +89,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 I am a serial entrepreneur with 20 years of experience.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            I've recently been the CEO of a regional coffee chain with 20 locations with a central roasting facility and various bakeries.  I've been in the food and beverage industry for much of my career, and I love seeing my teams excel. I love food is about bringing people together and I absolutely believe that the right people with the right vision can accomplish anything. 
+                            I've recently been the CEO of a regional coffee chain with 20 locations with a central roasting facility and various bakeries.  I've been in the food and beverage industry for much of my career, and I love seeing my teams excel. I love that food is about bringing people together and I absolutely believe that the right people with the right vision can accomplish anything. 
 							</p>
 						</div>	
 					</div>
