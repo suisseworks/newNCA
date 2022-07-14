@@ -162,9 +162,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Discipline equals freedom</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Jocko Willink</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase">U.S. Navy Seal</p>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">If everyone is moving forward together, then success takes care of itself</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Henry Ford</h5>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
 			  </div>
