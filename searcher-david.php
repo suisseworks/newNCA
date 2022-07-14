@@ -89,7 +89,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 I am a serial entrepreneur with 20 years of experience.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            I've recently been the CEO of a regional coffee chain with 20 locations with a central roasting facility and various bakeries. I've been in the restaurant industry for much of my career, and I love seeing my teams excel. I love that restaurants are a people business, and I absolutely believe that the right people with the right vision can accomplish anything. 
+                            I've recently been the CEO of a regional coffee chain with 20 locations with a central roasting facility and various bakeries.  I've been in the food and beverage industry for much of my career, and I love seeing my teams excel. I love food is about bringing people together and I absolutely believe that the right people with the right vision can accomplish anything. 
 							</p>
 						</div>	
 					</div>
@@ -110,10 +110,10 @@ I am a serial entrepreneur with 20 years of experience.
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            My search will focus on regional restaurant companies with a history of profitability despite the turbulence caused by Covid-19.
+                            My search will focus on food and beverage manufacturers and regional restaurant companies with a history of profitability.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            I'm looking for companies where my creative problem solving can add value. Meaningful brands with strong unit economics are preferred. 
+                            I’m looking for companies where my creative problem solving and deep analytical talents can add significant value.  Meaningful brands with strong unit economics are preferred.
 							</p>
 						</div>	
 					</div>
@@ -134,10 +134,10 @@ I am a serial entrepreneur with 20 years of experience.
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            I love the creative process of solving difficult problems. In my career, I've navigated competitive landscapes by being flexible, relying on experts, and listening to the customer.
+                            I love the creative process of solving difficult problems. In my career, I've navigated competitive landscapes by being flexible, relying on experts, and listening to the customer. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            This has helped my companies grow via customer counts, average tickets, and unit growth. I love that every challenge is nuanced, and I look forward to delivering at my next venture.  
+                            This has helped my companies optimize and grow their key metrics, whether we’re talking customer counts, average ticket, cost per unit etc.  I love that every challenge is nuanced, and I look forward to delivering at my next venture.
 							</p>
 						</div>	
 					</div>
