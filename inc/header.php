@@ -17,11 +17,11 @@
 									<li class="home-menu d-xs-none"><a href="index.php"><div>Home</div></a></li>
 									<li><a href="about-us.php"><div>About Us</div></a></li>
 									<li><a href="talents.php"><div><span class="d-lg-none menu_for">For</span> Talents</div></a></li>
-									<li><a href="entrepreneurs.php"><div><span class="d-lg-none menu_for">For</span> Entrepreneurs </div></a></li>
+									<!--<li><a href="entrepreneurs.php"><div><span class="d-lg-none menu_for">For</span> Entrepreneurs </div></a></li> -->
 									<li><a href="co-investors.php"><div><span class="d-lg-none menu_for">For</span> Co-investors</div></a></li>
 									<li><a href="business-owners.php"><div><span class="d-lg-none menu_for">For</span> Business owners</div></a></li>
 									<li><a href="news-resources.php"><div>Resources</div></a></li>
-									<li><a href="insights.php"><div>Insights</div></a></li>
+									<li><a href="http://insights.novastone-ca.com/"><div>Insights</div></a></li>
 								</ul>
 							</nav>
 						</div>						
