@@ -83,9 +83,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                    <img src="img/play-sec-1.png" alt="alt" class="image_video">
+                    <img src="img/play-sec-marc.png" alt="alt" class="image_video">
                     <div class="play_button left_btn center_btn play_btn_white position-absolute">
-	                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/WpMLw8nDg4Q" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+	                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/03pwSqy6c9E" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                     </div>
                 </div>
 			</div>
@@ -162,7 +162,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">If everyone is moving forward together, then success takes care of itself</h4>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">If everyone is moving forward together, then success takes care of itself.</h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Henry Ford</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
