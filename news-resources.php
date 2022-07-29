@@ -34,26 +34,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<a href="docs/chronique_monestel.pdf" target="_blank" class="font__size-20 font__family-efb">Vanessa Monestel | Succession: un nouveau modèle qui fonctionne<span class="arrow_link_a"></span></a>
 							</div>	
 							<div class="anchore_div anchore_div py-3 px-3 position-relative">
-								<a href="https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds/primer" target="_blank" class="font__size-20 font__family-efb">Stanford GSB: Search Fund Primer (2020)<span class="arrow_link_a"></span></a>
+								<a href="https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds/primer" target="_blank" class="font__size-20 font__family-efb">Stanford GSB: Search Fund Primer (2021)<span class="arrow_link_a"></span></a>
 							</div>
 							<div class="anchore_div anchore_div py-3 px-3 position-relative">
 								<a href="https://www.gsb.stanford.edu/faculty-research/case-studies/2020-search-fund-study-selected-observations" target="_blank" class="font__size-20 font__family-efb">Stanford GSB: Search Fund Study - Selected Observations (2020)<span class="arrow_link_a"></span></a>
 							</div>
 							<div class="anchore_div anchore_div py-3 px-3 position-relative">
-								<a href="https://www.youtube.com/view_play_list?p=ED130F32CB9F698E" target="_blank" class="font__size-20 font__family-efb">Stanford GSB: Search Fund Videos<span class="arrow_link_a"></span></a>
+								<a href="https://www.youtube.com/c/stanfordgsb/search?query=search%20fund" target="_blank" class="font__size-20 font__family-efb">Stanford GSB: Search Fund Videos<span class="arrow_link_a"></span></a>
 							</div>
 							<div class="anchore_div anchore_div py-3 px-3 position-relative">
 								<a href="https://www.gsb.stanford.edu/insights/what-it-takes-be-search-fund-entrepreneur" target="_blank" class="font__size-20 font__family-efb">Stanford GSB: What it takes to be a Search Fund entrepreneur<span class="arrow_link_a"></span></a>
 							</div>
 							<div class="anchore_div anchore_div py-3 px-3 position-relative">
-								<a href="https://awaytolearn.iese.edu/wp-content/uploads/2018/09/2018-Intl-Search-Fund-Study.pdf?_ga=2.202987223.755460413.1597429627-832871423.1597429627" target="_blank" class="font__size-20 font__family-efb">IESE: International Search Funds Study (2018)<span class="arrow_link_a"></span></a>
+								<a href="https://media.iese.edu/research/pdfs/ST-0603-E.pdf" target="_blank" class="font__size-20 font__family-efb">IESE: International Search Funds Study (2020)<span class="arrow_link_a"></span></a>
 							</div>
 							<div class="anchore_div anchore_div py-3 px-3 position-relative">
-								<a href="https://digitalmedia-l3.iese.edu/VIDEOS/201503/2175/CONFV-2649-E_Low.mp4?_ga=2.135894391.755460413.1597429627-832871423.1597429627" target="_blank" class="font__size-20 font__family-efb">IESE Introductory session on Search Funds<span class="arrow_link_a"></span></a>
+								<a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" class="font__size-20 font__family-efb">IESE Introductory session on Search Funds<span class="arrow_link_a"></span></a>
 							</div>
-							<div class="anchore_div anchore_div py-3 px-3 position-relative">
-								<a href="https://bspeclub.com/2019/04/25/search-funds-entrepreneurship-through-acquisition/" target="_blank" class="font__size-20 font__family-efb">Bocconi Students PE: Search Funds - Entrepreneurship through Acquisition<span class="arrow_link_a"></span></a>
-							</div>
+							
 							<div class="anchore_div anchore_div py-3 px-3 position-relative">
 								<a href="https://www.handelsblatt.com/english/finance/germanys-mittelstand-search-funds-to-the-rescue/23565574.html?ticket=ST-1206870-efbJcmrNmkPlXHhsocnE-ap3" target="_blank" class="font__size-20 font__family-efb">Germany's Mittelstand: Search Funds To The Rescue<span class="arrow_link_a"></span></a>
 							</div>
