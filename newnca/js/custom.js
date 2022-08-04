@@ -5,10 +5,7 @@ jQuery(document).ready(function($) {
 
   if(pageURL.search("co-investors.php") > -1 || pageURL.search("404page.php") > -1) {
     $(".form_side_bar").hide();
-  }
-
- 
-    
+  }   
 })
 
 function horizontal_tabs(){
@@ -148,3 +145,26 @@ function clickbtn_2(){
     });
   }, false);
 })();
+
+// pdf form
+
+jQuery(document).on('submit','#talent-form', function(e){
+    e.preventDefault();
+    var form_data = jQuery("#talent-form").serialize();
+    jQuery.ajax({
+      url: 'send_email.php',
+      type: 'post',
+      data: form_data,
+      dataType: 'json',
+      success: function(status) {
+        if (status.msg == 'success') {
+          jQuery("#success_message").text(status.response).show();
+          jQuery("#error_message").hide();
+          jQuery('#talent-form')[0].reset();
+        } else if (status.msg == 'error') {
+          jQuery("#error_message").text(status.response).show();
+          jQuery("#success_message").hide();
+        }
+      }
+    });
+  }); 
