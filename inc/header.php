@@ -17,17 +17,17 @@
 									<li class="home-menu d-xs-none"><a href="index.php"><div>Home</div></a></li>
 									<li><a href="about-us.php"><div>About Us</div></a></li>
 									<li><a href="talents.php"><div><span class="d-lg-none menu_for">For</span> Talents</div></a></li>
-									<li><a href="entrepreneurs.php"><div><span class="d-lg-none menu_for">For</span> Entrepreneurs </div></a></li>
+									<!--<li><a href="entrepreneurs.php"><div><span class="d-lg-none menu_for">For</span> Entrepreneurs </div></a></li> -->
 									<li><a href="co-investors.php"><div><span class="d-lg-none menu_for">For</span> Co-investors</div></a></li>
 									<li><a href="business-owners.php"><div><span class="d-lg-none menu_for">For</span> Business owners</div></a></li>
 									<li><a href="news-resources.php"><div>Resources</div></a></li>
-									<li><a href="insights.php"><div>Insights</div></a></li>
+									<li><a href="http://insights.novastone-ca.com/"><div>Insights</div></a></li>
 								</ul>
 							</nav>
 						</div>						
 						<div class="col-lg-2 align-self-lg-stretch text-lg-right header_third_part">
 						<div class="brk-header__item h-100 d-flex align-items-center justify-content-center">
-							<a href="<?php echo $_SESSION['page'] ?>" class="bg-transparent font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button"><?php echo $_SESSION['lan']?></a>
+							 
 							
 							
 
