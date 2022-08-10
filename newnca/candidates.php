@@ -2,6 +2,7 @@
 $_SESSION["lan"] = "English";
 ?>
 <?php include 'inc/header.php'; ?>
+
 <body>
 	<!-- Google Tag Manager (noscript) -->
 	<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-PMVD7NQ
