@@ -1722,13 +1722,14 @@ input[type='radio']:checked:after {
     background-color: #BEA581;
 }
 
-html,
+
+/*html,
 *,
 body a,
 body div,
 body h2 {
     cursor: url('../../img/cursor.png'), auto !important;
-}
+}*/
 
 .form-control:focus {
     box-shadow: none;
@@ -2795,3 +2796,67 @@ li.li__margin-10 {
 
     }
 }
+
+
+/*side form css*/
+
+#zcampaignOptinForm input[type="checkbox"]{
+    opacity: 0;
+    position: relative;
+    left: 16px;
+    z-index: 1;
+    top: -2px;
+}
+#zcampaignOptinForm label{
+    position: relative;
+    display: flex;
+    align-items: center;
+    z-index: 0;
+}
+#zcampaignOptinForm label::before{
+    content: "";
+    display: inline-flex;
+    width: 18px;
+    height: 18px;
+    background-color: #fff;
+    position: relative;
+    box-shadow: inset 0 0 6px -3px rgb(0 0 0 / 50%);
+    border-radius: 50%;
+}
+
+#zcampaignOptinForm input[type="checkbox"]:checked+label::after{
+    content: "";
+    width: 8px;
+    position: absolute;
+    left: 5px;
+    height: 8px;
+    background: #0e2336;
+    border-radius: 101px;
+}
+#zcampaignOptinForm .jq-selectbox__select-text{
+    background-color: var(--brk-secondary-1);
+    border-radius: 30px;
+    color: #717a82;
+    line-height: 50px;
+    padding: 0 15px 0 29px;
+}
+#zcampaignOptinForm .jq-selectbox{
+    width: 50%;
+}
+#zcampaignOptinForm .jq-selectbox__dropdown{
+    width: 100%;
+    background-color: var(--brk-secondary-1);
+    border-radius: 10px;
+    padding: 0px 15px;
+}
+#zcampaignOptinForm .border-btn.submit_border{
+    background-color: transparent !important;
+    width: fit-content !important;
+    border: 3px solid #ffffff !important;
+    border-radius: 10px !important;
+}
+#zcampaignOptinForm .privacy_anchor:hover{
+    color: #000000;
+}
+
+/*side form css end*/
