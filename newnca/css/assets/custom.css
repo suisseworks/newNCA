@@ -2860,3 +2860,18 @@ li.li__margin-10 {
 }
 
 /*side form css end*/
+
+/*thank you css*/
+#THANKSPAGE{
+    position: initial !important;
+    height: 100vh;
+}
+#THANKSPAGE table tbody tr{
+    border-bottom: 0px !important;
+}
+#THANKSPAGE table{
+    box-shadow: none !important;
+}
+#THANKSPAGE #THANKS_PAGE_BODY_PARENT, #THANKSPAGE #THANKS_PAGE_BODY_PARENT #THANKS_HEADER{
+    color: #ffffff !important;
+}
