@@ -18,8 +18,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/safreeman/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							 
+							<a href="https://www.linkedin.com/in/david-widmer-b034302/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://novastone-ca.com/david-widmer-de.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">German</a>
 						</div>
 					</div>	
 
@@ -31,7 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">orn and raised in canton of Bern in Switzerland, I completed my engineering degree in Lausanne and India. After my studies, I worked 6 years as management consultant followed by 9 years as P&L manager in the manufacturing industry in Switzerland. In my next role as entrepreneur and CEO of a manufacturing SME, I want to create shareholder value and achieve positive impact on the environment & society. Are you looking for a successor for your SME who is eager to continue your success? I am looking forward to getting to know you! </p>
+						<p class="font__size-18 line__height-24">Born and raised in canton of Bern in Switzerland, I completed my engineering degree in Lausanne and India. After my studies, I worked 6 years as management consultant followed by 9 years as P&L manager in the manufacturing industry in Switzerland. In my next role as entrepreneur and CEO of an SME in the industrial sector, I want to create shareholder value and achieve positive impact on the environment & society. Are you looking for a successor who is eager to continue your success story? I am looking forward to getting to know you! </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:david.widmer@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
@@ -57,27 +57,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
 					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Building trust</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Creating strategies  </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Serving customers  </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Engage people  </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Achieving results  </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Build trust</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Create strategies</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Serve customers</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Engage people</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Achieve results</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I am looking to acquire a successful SME in the manufacturing industry in Switzerland.  </p>
+					<p class="font__size-16 line__height-24 font__family-efb">I am looking to acquire a successful SME in the industrial sector in Switzerland.  </p>
 					<p class="font__size-16 line__height-24 mt-2">
-
-My search includes but is not limited to the following subsectors: special materials, precision parts made of metal or plastic, machining technology, welding and cutting technology, additive manufacturing, toolmaking, power engineering technology, fluid technology, pump technology, measurement and sensor technology, electronics and electrical engineering, medical technology, diagnostics, semiconductors/microtechnology, automation and robotics, packaging solutions and greentech .</p>
+					My search includes but is not limited to the following subsectors: Sensor technology and measurement equipment, semiconductors/microtechnology, automation and robotics, machinery, electric motors, gear systems, fluid technology, pump technology, toolmaking, electromechanical components, electronics and electrical engineering, medical devices, diagnostics/biosensors, packaging solutions, greentech, special materials, precision parts made of metal or plastic.</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">With all my skills, hard work and passion, I want to continue the success story of my predecessor.</p>
-					<p class="font__size-16 line__height-24 mt-1">  
-
-Following the acquisition, I will start a structured handover of the SME from my predecessor to me. As soon as this initial learning period is completed, I will involve key employees to develop a compelling business strategy. The strategy will be market-oriented, measurable and inspiring. Together with an ambitious and competent team, I will turn thoughts into action. With my enthusiasm, dedication and care, I will activate others to join me in creating enterprise value and positive impact.   </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">With all my skills, hard work and passion, I want to continue the success story of my predecessor. </p>
+					<p class="font__size-16 line__height-24 mt-1">Following the acquisition, I would like to initiate a structured handover of the SME from my predecessor to me. As soon as this initial learning period is completed, I will involve key employees to develop a compelling business strategy. The strategy will be market-oriented, measurable and inspiring. Together with an ambitious and competent team, I will turn thoughts into action. With my enthusiasm, dedication and care, I will engage others to join me in creating enterprise value and positive impact.	  </p>    
 			</div>
 		</div>
 	</div>
@@ -91,7 +88,7 @@ Following the acquisition, I will start a structured handover of the SME from my
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/play-sec-widmer.png" alt="alt" class="image_video">
+                        <img src="img/play-sec-widmer2.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
                         <a class="d-flex align-items-center fancybox" href="https://youtu.be/BB6_5_Gt5GI" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
@@ -210,7 +207,7 @@ Following the acquisition, I will start a structured handover of the SME from my
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
 						<a href="mailTo:david.widmer@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">david.widmer@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/safreeman/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="https://www.linkedin.com/in/david-widmer-b034302/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
