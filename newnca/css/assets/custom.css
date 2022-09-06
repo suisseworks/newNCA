@@ -2600,6 +2600,7 @@ li.li__margin-10 {
     background: var(--brand-primary);
     cursor: pointer;
     border:8px solid #ffffff;
+    right: 80px;
 }
 .timeline_tabs .nav.nav-pills li{
     display: flex;
@@ -2610,7 +2611,7 @@ li.li__margin-10 {
     display: block;
     position: relative;
     top: -30px;
-    left: 15px;
+    left: 75px;
 }
 .timeline_tabs .nav.nav-pills li a.active::before {
   background: #0E2336!important; 
@@ -2625,11 +2626,13 @@ li.li__margin-10 {
 .timeline_tabs .nav.nav-pills::before{
     position: absolute;
     content: '';
-    width: 100%;
+    width: 80%;
     height: 3px;
     background-color: #0E2336;
     top: 14px;
-    left: 2px;
+    left: 0px;
+    right: 0px;
+    margin: 0 auto;
 }
 .timlime_tabs_nav .nav.nav-pills li{
     position: relative;
@@ -2641,6 +2644,7 @@ li.li__margin-10 {
     border-left: solid 20px transparent;
     border-right: solid 20px transparent;
     top: 52px;
+    right: 80px;
 }
 .strike_heading_talent_2{
     font-size: 75px;
@@ -2874,4 +2878,19 @@ li.li__margin-10 {
 }
 #THANKSPAGE #THANKS_PAGE_BODY_PARENT, #THANKSPAGE #THANKS_PAGE_BODY_PARENT #THANKS_HEADER{
     color: #ffffff !important;
+}
+
+@media only screen and (max-width: 991px){
+    .timeline_tabs .nav.nav-pills li a span{
+        left: 34px;
+    }
+    .timeline_tabs .nav.nav-pills li a::before{
+        right: 30px;
+    }
+    .timlime_tabs_nav .nav.nav-pills li a.active::after{
+        right: 18px;
+    }
+    .timeline_tabs .nav.nav-pills::before{
+        width: 90%;
+    }
 }
