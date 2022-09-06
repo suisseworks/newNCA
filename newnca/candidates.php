@@ -75,7 +75,7 @@ $_SESSION["lan"] = "English";
 		<div class="container">
 			<div class="pb-100">
 				<div class="stroke_wrap">
-					<h2 class="stroke_text talents_stroke_text talents_strok_cls_2 text-uppercase mb-20 wow fadeInLeft">what we look for?</h2>
+					<h2 class="stroke_text talents_stroke_text talents_strok_cls_2 text-uppercase mb-20 wow fadeInLeft">What do we look for?</h2>
 				</div>
 				<div class="row no-gutters d-flex align-items-center">
 					<div class="col-12 col-lg-4">
@@ -583,7 +583,7 @@ $_SESSION["lan"] = "English";
 				
 				<div class="col-lg-4 col-sm-6  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
 					<div class="img_section w-100">
-						<img class="w-100" src="img/dummy_img.png">
+						<img class="w-100" src="img/Giovanni.JPG">
 					</div>
 					<div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
 						<div>
