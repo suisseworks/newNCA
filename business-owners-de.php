@@ -204,17 +204,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<div class="tabs_wrap">
 											<ul>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
-													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>Bildung</span>
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>Bildung (online oder offline)</span>
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													LOGISTIK
+													Programmierung
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													MEM
+													Software-as-a-Service (SaaS)
 												</li>
-												
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+													Gesundheitswesen und Wellness
+												</li>
 
 											</ul>
 										</div>
@@ -222,20 +225,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="col-lg-6">
 										<div class="tabs_wrap">
 											<ul>
-											<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
-													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Gesundheitswesen und Wellness
-												</li>
-												 
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													ABFALLWIRTSCHAFT
+													FinTech, Zahlungs- oder Finanzdienstleister
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													DIES IST EINE NICHT ABSCHLIESSENDE LISTE; ANDERE BRANCHEN WERDEN IN ERWÄGUNG GEZOGEN
+													Business-Process-Outsourcing (BPO)
 												</li>
-												 
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+													Verlagswesen
+												</li>
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+													Spezialisierte Baunternehmen
+												</li>
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+													Dies ist eine nicht abschließende Liste; andere Branchen werden in Erwägung gezogen
+												</li>
 											</ul>
 										</div>
 									</div>
