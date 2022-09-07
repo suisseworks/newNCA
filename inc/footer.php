@@ -22,7 +22,7 @@
 
 					<div class="col-12 col-sm-12 col-lg-3 col-xs-12 footer_mb_btns order-lg-3 order-1">
 						<div class="d-flex align-items-center justify-content-right footer_btns mt-2">
-						 
+						<a href="<?php echo $_SESSION['page'] ?>" class="font__size-10 font__family-open-sans btn language_btn btn-prime btn-sm-1 bg-transparent text-capitalize letter-spacing-100 border-radius-25 btn-no-shadow btn_lang px-1 font__weight-bold" data-brk-library="component__button"><?php echo $_SESSION['lan'] ?></a>
 							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 
 							<a href="#" class="font__size-10 font__family-open-sans btn language_btn btn-prime btn-sm-1 bg-transparent text-capitalize letter-spacing-100 border-radius-25 btn-no-shadow btn_lang newsletter_btn ml-2 px-1 font__weight-bold">Newsletter</a>
