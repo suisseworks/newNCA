@@ -29,7 +29,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="font__family-efb text-uppercase line__height-90">Andreas <br> Franz</h2>
 						<h4 class="font__size-38 mt-4">NCA Unternehmer</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2020</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2022</span>
+							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
 						<p class="font__size-18 line__height-24">Nachdem ich in Deutschland aufgewachsen bin, hatte ich die Möglichkeit, in Ländern auf der ganzen Welt wie den USA, Großbritannien, Russland, Österreich, der Schweiz und Italien zu studieren, zu arbeiten und zu leben. Meine Karriere war umfangreich und prägte mein internationales Managementprofil durch Tätigkeiten in der Strategieberatung, bei Mode- und Sportmarken, im Business Development, dem Konsumgütersektor sowie als Unternehmer. </p>
 					</div>
@@ -57,11 +57,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
 					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Kernkompetenzen</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Neugier</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Ausgeprägte Neugier</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strukturiertes Experimentieren</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategisches Denken </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Teambildung</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Innovation</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Teams aufbauen</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Innovative Denkweise</li>
 					</ul>
 				</div>
 			</div>

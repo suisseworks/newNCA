@@ -29,7 +29,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="font__family-efb text-uppercase line__height-90">Andreas <br> Franz</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2020</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2022</span>
+							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
 						<p class="font__size-18 line__height-24">After growing up in Germany, I had the opportunity to study, work and live in countries across the globe like USA, UK, Russia, Austria, Switzerland and Italy. My career has been extensive and shaped my international management profile through missions in strategy consultancy, fashion & sports brands, business development, consumer goods sectors and my final aspiration in entrepreneurship.  </p>
 					</div>
@@ -55,13 +55,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Key Skills</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden">extraspa</span>Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Curiosity</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Conspicuous Curiosity</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Structured Experimentation</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic thinking</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Team Building</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Innovation</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Innovative Mindset</li>
 					</ul>
 				</div>
 			</div>
@@ -69,11 +69,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">My focus is on acquiring a company in the consumer goods industry in Germany, Austria, or Switzerland.</p>
-					<p class="font__size-16 line__height-24 mt-2">Specifically, my search will be on forward thinking SME’s within the fashion and lifestyle goods segments, which perform well despite the pandemic crisis.    </p>
+					<p class="font__size-16 line__height-24 mt-2">Specifically, my search will be on forward thinking SME’s within the fashion & lifestyle goods segments, which perform well despite the pandemic crisis.    </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">I am a multifaceted professional with over 25 years of experience and know-how in growing businesses in the search sector. </p>
-					<p class="font__size-16 line__height-24 mt-1">Within the fashion & lifestyle goods sector, I see 5 avenues to further create value and build growth in the target company: international expansion, new product development, new distribution channels, performance improvement, and digitalization.  </p>    
+					<p class="font__size-16 line__height-24 mt-1">Within the fashion & lifestyle goods sector, I see 5 levers to further create value and build growth in the target company: international expansion, new product development, new distribution channels, performance improvement, and digitalization.  </p>    
 			</div>
 		</div>
 	</div>
