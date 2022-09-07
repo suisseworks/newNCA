@@ -143,7 +143,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/andreas-background.png" class="resume_img">
+				<img src="img/andreas-background2.png" class="resume_img">
 			</div>
 		</div>
 
