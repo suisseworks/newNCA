@@ -69,11 +69,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">My focus is on acquiring a company in the consumer goods industry in Germany, Austria, or Switzerland.</p>
-					<p class="font__size-16 line__height-24 mt-2">Specifically, my search will be on SME within the segments of fashion & lifestyle goods, that perform well despite the pandemic crisis and are forward thinkers in their segment.    </p>
+					<p class="font__size-16 line__height-24 mt-2">Specifically, my search will be on forward thinking SME’s within the fashion and lifestyle goods segments, which perform well despite the pandemic crisis.    </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I am a multifaceted professional with over 25 years experience and know how in growing business in the search sector. </p>
-					<p class="font__size-16 line__height-24 mt-1">For the fashion & lifestyle goods sector I see 5 levers to further create value and hack growth in the Target Company: international expansion, new product development, new distribution channels, performance improvement, and digitalization.   </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">I am a multifaceted professional with over 25 years of experience and know-how in growing businesses in the search sector. </p>
+					<p class="font__size-16 line__height-24 mt-1">Within the fashion & lifestyle goods sector, I see 5 avenues to further create value and build growth in the target company: international expansion, new product development, new distribution channels, performance improvement, and digitalization.  </p>    
 			</div>
 		</div>
 	</div>
@@ -87,9 +87,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/play-sec-andreas.png" alt="alt" class="image_video">
+                        <img src="img/play-sec-andreas2.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/5-crdUPwUF0" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/KsEl77CNtDw" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
