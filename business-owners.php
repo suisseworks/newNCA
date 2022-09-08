@@ -207,24 +207,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											<ul>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Online or Offline Education
+													Education
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Programming
+													Logistics
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Software-as-a-Service (Saas)
+													HEALTHCARE AND WELLNESS
 												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
-													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Healthcare and Wellness
-												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
-													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Fintech, Payments or Financial Company Services
-												</li>
+												
+												
 
 											</ul>
 										</div>
@@ -232,26 +226,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="col-lg-6">
 										<div class="tabs_wrap">
 											<ul>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+											<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													BPOs
+													LIGHT MANUFACTURING
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Publishing
+													WASTE MANAGEMENT
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Specialized Construction
+													THIS IS A NON-EXHAUSTIVE LIST; OTHER SECTORS WILL BE CONSIDERED
+												 
 												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
-													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Consultancy services
-												</li>
-												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
-													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													This is a non-exhaustive list; other sectors will be considered
-												</li>
+												
 											</ul>
 										</div>
 									</div>
