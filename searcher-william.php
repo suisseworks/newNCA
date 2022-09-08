@@ -195,7 +195,7 @@ For this search, it will be exciting to bring together my engineering and senior
 				</div>	
 			</div>	
 		</div>	
-		<div class="row pt-50 ">
+		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
 					<a download href="docs/William-Hunnam-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
@@ -222,23 +222,6 @@ For this search, it will be exciting to bring together my engineering and senior
                     </ul>
 				</div>	
 			</div>	
-		</div>	
-		<div class="row  pb-130">
-			<div class="col-lg-4 pr-lg-20">
-				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/NCA-SF-12-Search-Criteria.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-36 line__height-60 p-0 m-0">DOWNLOAD<br> COMPANY CRITERIA
-						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
-						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
-						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
-						    <path id="Path_27" data-name="Path 27" d="M570,3696l-2.545-2.546-9.637,9.637V3682h-3.636v21.091l-9.637-9.637L542,3696l14,14Z" fill="#e5720a"/>
-						  </g>
-						</svg>
-
-
-					</a>
-				</div>
-			</div>	
-			 
 		</div>	
 	</div>	
 </section>
