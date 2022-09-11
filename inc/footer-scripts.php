@@ -3,6 +3,7 @@
 	<script src="js/custom.js"></script> 
 	<script src="js/zoho.js"></script> 
 	<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="9251f2fd-b0cc-453e-8f7e-54c940308e84" data-blockingmode="auto" type="text/javascript"></script>
+
 	<!--<script src="vendor/revslider/js/jquery.themepunch.tools.min.js"></script>
 	<script src="vendor/revslider/js/jquery.themepunch.revolution.min.js"></script>
 	<script src="vendor/revslider/js/extensions/revolution.extension.actions.min.js"></script>
@@ -103,31 +104,31 @@
 		}()); 
 	</script>-->
 	<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-	    <div class="modal-dialog modal-dialog-centered" role="document">
-		    <div class="modal-content bg-primary">
-		        <div class="modal-header border-bottom-0 pb-150">
-		            <button type="button" class="close text-white opacity-100" data-dismiss="modal" aria-label="Close">
-		                <span aria-hidden="true">&times;</span>
-		                <span class="">
-		            </button>
-		        </div>
-		        <div class="modal-body">
-		            <div class="modal_body_content">
-		            	<h2 class="text-white text-uppercase font__size-62 font__family-efb text-center">
-		            		THANK YOU
-		            	</h2>
-		            	<p class="text-white font__size-30 font__family-efb text-center pt-10">
-		            		for joining our mailing list.
-		            	</p>
-		            </div>	
-		        </div>
-		        <div class="modal-footer border-top-0 pt-150">
+		<div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-content bg-primary">
+				<div class="modal-header border-bottom-0 pb-150">
+					<button type="button" class="close text-white opacity-100" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+						<span class="">
+						</button>
+					</div>
+					<div class="modal-body">
+						<div class="modal_body_content">
+							<h2 class="text-white text-uppercase font__size-62 font__family-efb text-center">
+								THANK YOU
+							</h2>
+							<p class="text-white font__size-30 font__family-efb text-center pt-10">
+								for joining our mailing list.
+							</p>
+						</div>
+					</div>
+					<div class="modal-footer border-top-0 pt-150">
 
-		        </div>
-		    </div>
-	    </div>
-    </div>
-    <?php //include 'inc/cookies.php'; ?>
-</body>
+					</div>
+				</div>
+			</div>
+		</div>
+		<?php //include 'inc/cookies.php'; ?>
+	</body>
 
-</html>
+	</html>

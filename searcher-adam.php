@@ -26,7 +26,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">I grew up in Colorado and was raised in an entrepreneurial family, working at my father’s computer software business through Highschool and college.   And while I was later offered the reigns of the company when my father wanted to retire, I was only a senior in college at the time, and not old or experienced enough to take on the challenge. <br> <br> After completing an undergraduate degree from the University of Denver in Finance,  I  continued my formal education by earning a Master’s in Global Entrepreneurship at Babson College.  In my early career, I  started a consulting company, and co-founded a biofuels company in the US. Over the past 15 years I was blessed to have had the opportunity to work in global leadership roles across China, Germany and England for multinational Industrial manufacturing companies ( including Bayer Corp). I am  now looking to bring these globally acquired skills back to the US and lead a company in the lower middle market.  </p>
+						<p class="font__size-18 line__height-24">I grew up in Colorado and was raised in an entrepreneurial family, working at my father’s computer software business as a child. And while I was offered the reigns of the company when my father wanted to retire, I was only graduating from high school at the time, and not old or experienced enough to take on the challenge.  <br> <br> I pursued an undergraduate degree from the University of Denver in Finance, and continued with a Master’s at Babson College before starting a consulting company, and co-founding a biofuels company in the US. Over the past 15 years I was blessed to have had the opportunity to work in global leadership roles across China, Germany and England for multinational Industrial companies, I am looking to bring these globally acquired skills back to the US and lead a company in the lower middle market.    </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:adam.salmen@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
@@ -63,12 +63,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I am looking for a private, well-established industrial or manufacturing company, possibly facing succession issues, which needs marketing and management for continued growth. </p>
-					<p class="font__size-16 line__height-24 mt-2">This company will ideally have deep technical knowhow and is in the mountain west region of the USA. Ultimately, it’s about finding a company where our values align, and I can see a potential for meaningful impact through our investment and management. Initially,  I am  looking for profitable chemicals, basic materials, and advanced manufacturing firms with sales in the $10-30 M range. </p>
+					<p class="font__size-16 line__height-24 font__family-efb">I am looking for a private, well-established industrial or manufacturing type company, possibly facing succession issues, which needs marketing and management for continued growth.  </p>
+					<p class="font__size-16 line__height-24 mt-2">This company will ideally have deep technical knowhow and is in the mountain west region. Ultimately, it’s about finding a company where our values align, and I can see a potential for meaningful impact through our investment and management. Initially, were looking in chemicals, basic materials, and advanced manufacturing. </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My Contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">When you look at my career, you will see that I have a track record of increasing responsibility- most recently holding positions in senior global management and trusted to lead the strategic vision of several $50M+ business units, managing large cross-functional teams and innovation projects, and driving strategy & implementation to grow both top line and bottom-line results.   </p>
-					<p class="font__size-16 line__height-24 mt-1">While it ultimately depends on what the company needs to grow, my experience in Consulting, Marketing, Strategy and Management will be the foundation of my contribution. </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">When you look at my career, you will see that I have a track record of increasing responsibility, most recently holding positions in senior global management positions, and trusted to lead the strategic vision of several $50M+ business units, managing large cross-functional teams, innovation projects, and driving strategy & implementation to grow both top line and bottom-line results.    </p>
+					<p class="font__size-16 line__height-24 mt-1">While it ultimately depends on what the company needs, my experience in Consulting, Marketing, Strategy and Management will be the foundation of my contribution.  </p>    
 			</div>
 		</div>
 	</div>
@@ -84,7 +84,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
                     <img src="img/adam-thumbnail.png" alt="alt" class="image_video">
                     <div class="play_button left_btn center_btn play_btn_white position-absolute">
-	                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/t_tnEkgnUHg" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+	                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/WpMLw8nDg4Q" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                     </div>
                 </div>
 			</div>

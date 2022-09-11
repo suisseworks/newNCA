@@ -89,7 +89,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 I am a serial entrepreneur with 20 years of experience.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            I've recently been the CEO of a regional coffee chain with 20 locations with a central roasting facility and various bakeries.  I've been in the food and beverage industry for much of my career, and I love seeing my teams excel. I love that food is about bringing people together and I absolutely believe that the right people with the right vision can accomplish anything. 
+                            I've recently been the CEO of a regional coffee chain with 20 locations with a central roasting facility and various bakeries. I've been in the restaurant industry for much of my career, and I love seeing my teams excel. I love that restaurants are a people business, and I absolutely believe that the right people with the right vision can accomplish anything. 
 							</p>
 						</div>	
 					</div>
@@ -110,10 +110,10 @@ I am a serial entrepreneur with 20 years of experience.
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            My search will focus on food and beverage manufacturers and regional restaurant companies with a history of profitability.
+                            My search will focus on regional restaurant companies with a history of profitability despite the turbulence caused by Covid-19.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            I’m looking for companies where my creative problem solving and deep analytical talents can add significant value.  Meaningful brands with strong unit economics are preferred.
+                            I'm looking for companies where my creative problem solving can add value. Meaningful brands with strong unit economics are preferred. 
 							</p>
 						</div>	
 					</div>
@@ -134,10 +134,10 @@ I am a serial entrepreneur with 20 years of experience.
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            I love the creative process of solving difficult problems. In my career, I've navigated competitive landscapes by being flexible, relying on experts, and listening to the customer. 
+                            I love the creative process of solving difficult problems. In my career, I've navigated competitive landscapes by being flexible, relying on experts, and listening to the customer.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            This has helped my companies optimize and grow their key metrics, whether we’re talking customer counts, average ticket, cost per unit etc.  I love that every challenge is nuanced, and I look forward to delivering at my next venture.
+                            This has helped my companies grow via customer counts, average tickets, and unit growth. I love that every challenge is nuanced, and I look forward to delivering at my next venture.  
 							</p>
 						</div>	
 					</div>
@@ -162,7 +162,7 @@ I am a serial entrepreneur with 20 years of experience.
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-                        If you are going to achieve excellence in big things, you must develop the habit in little matters.  Excellence is not an exception, it is a prevailing attitude."<br><br>							 
+                        In the midst of chaos there is also opportunity<br><br>							 
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -170,7 +170,7 @@ I am a serial entrepreneur with 20 years of experience.
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-						Colin Powell<br>
+							Sun Tzus<br>
 						</p> 
 					</div>	
 				</div>	
@@ -178,9 +178,9 @@ I am a serial entrepreneur with 20 years of experience.
 			<div class="col-lg-8 pl-lg-20">
 				<div class="video_div d-flex h-100 pt-lg-0 pt-50">
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-	                    <img src="img/play-sec-lin2.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
+	                    <img src="img/play-sec-lin.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/NrdzrnQpXV4" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/KXL0-2m0dq4" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
