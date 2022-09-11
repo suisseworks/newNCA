@@ -17,7 +17,7 @@
 									<li class="home-menu d-xs-none"><a href="index-de.php"><div>Home</div></a></li>
 									<li><a href="about-us-de.php"><div>Über Uns</div></a></li>
 									
-									<li><a href="candidates.php"><div><span class="d-lg-none menu_for">For</span> Candidates</div></a></li>
+									<li><a href="talents.php"><div><span class="d-lg-none menu_for">For</span> Talents</div></a></li>
 									<li><a href="unternehmer.php"><div><span class="d-lg-none menu_for">For</span> Unternehmer</div></a></li>
 									<li><a href="co-investors.php"><div><span class="d-lg-none menu_for">For</span> Co-Investors</div></a></li>
 									<li><a href="business-owners-de.php"><div><span class="d-lg-none menu_for">Für</span> Geschäftsinhaber </div></a></li>									
