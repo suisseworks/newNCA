@@ -28,7 +28,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="font__family-efb text-uppercase line__height-90">Rohith  <br> Saravanan </h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2021</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2022</span>
+							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2023</span>
 						</div>
 						<p class="font__size-18 line__height-24">Rohith Saravanan is a dynamic physician executive adept at assessing needs, developing solutions, and implementing positive changes to achieve sustainability and growth in challenging market conditions. He is exceptional at building teams and strengthening strategic business relationships. He has a history of streamlining clinical operations, increasing revenue, and reducing costs to maximize value. People describe him as an inspirational leader with a humanitarian spirit. He has a proven track record of success and thrives in a progressive growth environment. With his broad educational background and varied management and clinical experience, he is the definition of a well-rounded healthcare leader that boards, investors, and other executives can depend on.  </p>
 					</div>
@@ -165,9 +165,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">The world is changed by your example, not by your opinion.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Paulo Coelho</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Brazilian lyricist and novelist</p>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">"If not us, who? If not now, when?"</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">John F. Kennedy</h5>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase"> </p>
 					</div>
 				</div>
 			  </div>
