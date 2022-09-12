@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
 							<a href="https://www.linkedin.com/in/nicoletta-nutrito-gm-bu-services/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="http://novastone-ca.com/searcher-nicoletta-en.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
+							<a href="http://novastone-ca.com/nicoletta-nutrito.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Italian</a>
 						</div>
 					</div>	
 
@@ -31,10 +31,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">Sono un ingegnere con la passione per i viaggi e lo sport. Sono nata e cresciuta a Bologna, e negli ultimi 10 anni ho ricoperto ruoli apicali in aziende internazionali. So motivare un team, gestire un il conto economico di un’azienda, e sfruttare le nuove tecnologie per migliorare prodotti e servizi esistenti. Ora voglio mettere le mie competenze al servizio di una PMI italiana e contribuire alla ripresa del mio Paese. Ho due figli ed imparo da loro ogni giorno come essere un buon leader.  </p>
+						<p class="font__size-18 line__height-24">I am an engineer with a passion for travels and sports.  I was born and raised in Bologna, Italy and in the past 20 years I progressed through the ranks in global companies. I can motivate a team, manage a P&L and leverage new technologies to enhance existing products and services. At this point in my career, I want to support a promising Italian SME and contribute to the recovery of my country. I have two children and I learn management lessons from them every day.  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:nicoletta.nutrito@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contatto<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:nicoletta.nutrito@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -55,25 +55,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Competenze chiave</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Core Competencies</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Etica</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Orientata al risultato</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Gestione operativa dell’azienda</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Pragmatica</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Inclusiva</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>High integrity</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Achiever</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Business operator</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Hands-on</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Inclusive</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">La mia ricerca</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Sto cercando una PMI italiana che opera nel B2B.  </p>
-					<p class="font__size-16 line__height-24 mt-2">Sono particolarmente interessata all'automazione industriale, alla logistica ed alle macchine automatiche. La mia azienda ideale ha una storia importante, un impatto positivo sulla comunità e la volontà di abbracciare le nuove tecnologie. </p>
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">I am looking for an Italian SME in the B2B space.  </p>
+					<p class="font__size-16 line__height-24 mt-2">I am particularly interested in industry automation, logistic and machinery. My ideal company has a strong legacy, a positive impact on its community and the willingness to embrace new technologies.</p>
 
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">Il mio contributo</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Il mio approccio pragmatico mi permetterà di capire e preservare la tradizione dell’azienda, assicurando al contempo una solida crescita per gli anni a venire. </p>
-					<p class="font__size-16 line__height-24 mt-1">So far leva su nuove tecnologie per migliorare l'offerta di un prodotto, mettendo sempre il fattore umano al primo posto. Ho gestito siti operativi e divisioni aziendali, e conosco bene le imprese familiari. Ho creato e gestito team globali di Operations e  Customer Service e mi piace essere ogni giorno in prima linea, in ascolto del cliente.  </p>    
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">Thanks to my hands-on attitude, I will understand and preserve the company’s legacy while ensuring a solid growth for the years to come. I know how to apply technologies to enhance a product offering and I am always mindful of the human factor. </p>
+					<p class="font__size-16 line__height-24 mt-1">I have a track record of margin improvement and years of experience in family-owned businesses. I have built global teams in operations and customer service, and I love to oversee client interactions daily.  </p>    
 			</div>
 		</div>
 	</div>
@@ -89,7 +89,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
                         <img src="img/play-sec-nicoletta.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/5-crdUPwUF0" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/C3__8t9JYpM" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -166,7 +166,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Ci sono dei rischi e dei costi in un programma d'azione, ma sono di gran lunga minori dei rischi e dei costi a lungo termine della comoda inerzia</h4>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">There are risks and costs to action. But they are far less than the long-range risks of comfortable inaction</h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">John F. Kennedy</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
