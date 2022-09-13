@@ -31,7 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">I am an engineer with a passion for travels and sports.  I was born and raised in Bologna, Italy and in the past 20 years I progressed through the ranks in global companies. I can motivate a team, manage a P&L and leverage new technologies to enhance existing products and services. At this point in my career, I want to support a promising Italian SME and contribute to the recovery of my country. I have two children and I learn management lessons from them every day.  </p>
+						<p class="font__size-18 line__height-24">I am an engineer with a passion for travels and sports.  I was born and raised in Bologna, Italy and in the past 10 years I progressed through the ranks in global companies. I can motivate a team, manage a P&L and leverage new technologies to enhance existing products and services. At this point in my career, I want to support a promising Italian SME and contribute to the recovery of my country. I have two children and I learn management lessons from them every day.  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:nicoletta.nutrito@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
