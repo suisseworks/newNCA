@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/andreas-franz.png">
+				<img src="img/andreas-franz3.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -129,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Andreas-Franz-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Andreas-Franz-resume-de.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -143,7 +143,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/andreas-background2.png" class="resume_img">
+				<img src="img/andreas-background3.png" class="resume_img">
 			</div>
 		</div>
 
