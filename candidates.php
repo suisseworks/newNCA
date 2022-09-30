@@ -194,7 +194,7 @@ $_SESSION["lan"] = "English";
 										<div class="font__weight-bold process_title_count">5</div>
 										<div class="font__weight-bold font__size-40 process_title line__height-45 text-uppercase">Open house webinar</div>
 										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">
-											At this stage, all candidates are invited to an “Open House” webinar. During the webinar, candidates can ask anonymous questions through the Q&A function. Each selection cycle includes one “Open House” webinar for North American candidates and one for European candidates. Participation in the webinar is not compulsory but is strongly encouraged.
+											At this stage, all candidates are invited to an “Open House” webinar. During the webinar, candidates can ask anonymous questions through the Q&A function. Each selection cycle includes one “Open House” webinar. Participation in the webinar is not compulsory but is strongly encouraged.
 										</div>
 										
 									</div>
@@ -216,7 +216,7 @@ $_SESSION["lan"] = "English";
 										<div class="font__weight-bold process_title_count">7</div>
 										<div class="font__weight-bold font__size-40 process_title line__height-45 text-uppercase">Legal document review</div>
 										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">
-											At this stage, selected candidates sign an NDA allowing NCA to share legal document samples and term sheets. Take time to review the documents and email any questions for NCA’s Legal, Value Creation, and Talent Management teams. Questions will be answered live during a Q&A webinar so candidates can benefit from each other’s questions. A recording of the webinar will be made available for those who cannot attend.
+											At this stage, selected candidates sign an NDA allowing NCA to share legal document samples and term sheets. Take time to review the documents and email any questions for NCA’s Legal and Talent Management teams. Questions will be answered live during a Q&A webinar so candidates can benefit from each other’s questions. A recording of the webinar will be made available for those who cannot attend.
 										</div>
 										
 									</div>
