@@ -340,7 +340,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</svg>
 			        			</span> 23</p>
 			        			<div class="d-flex align-items-center justify-content-center">
-									<a href="http://novastone-ca.com/searcher-mike-en.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/docs/NCA-CELEBRATES-THIRD-ACQUISITION.pdf" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>		
 						</div>	
                         </div>	
