@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
 							<a href="https://www.linkedin.com/in/olivierguillebert/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="https://novastone-ca.com/olivier-guillebert-fr.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Française</a>
+							<a href="https://novastone-ca.com/olivier-guillebert.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
 						</div>
 					</div>	
 
@@ -31,14 +31,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">I grew up in France and have since lived in the UK, China, South Africa, USA, Luxembourg and Switzerland. 
+						<p class="font__size-18 line__height-24">Je suis né en France et j’ai ensuite vécu et travaillé au Royaume-Uni, en Chine, en Afrique du Sud, aux USA, au Luxembourg et en Suisse. 
 
-While becoming a real citizen of the world, I developed a wide expertise in the distribution business, at a time when the sector experienced major new developments, especially with the rise of e-commerce. 
+Tout en devenant un véritable citoyen du monde, j’ai développé une large expertise dans les métiers de la distribution, à un moment où le secteur connaissait de grands bouleversements, et notamment l’avènement du commerce électronique. 
 
-I also founded my first company when I was 23, and now I want to combine my passion for entrepreneurship with my professional expertise through the acquisition of a SME in that specific field.  </p>
+J’ai également créé ma première entreprise à l’âge de 23 ans, et maintenant je veux combiner ma passion de l’entreprenariat avec mon expertise professionnelle, en faisant l’acquisition d’une PME dans ce domaine d’activité.  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:olivier.guillebert@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:olivier.guillebert@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contactez<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -59,27 +59,27 @@ I also founded my first company when I was 23, and now I want to combine my pass
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden">extraspa</span>Key Skills</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Compétences</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entrepreneurship</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Industry expertise</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic thinking</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Results-oriented</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Long-term value creation</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entreprenariat</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Expertise sectorielle</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Réflexion stratégique</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Orientation résultats </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Création de valeur à long terme </li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">My focus is on acquiring a company in the consumer goods industry in France, Belgium, or Switzerland.  </p>
-					<p class="font__size-16 line__height-24 mt-2">More specifically, I am looking for a company that sells B2C products or services, ideally through a dedicated distribution network.   </p>
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MA RECHERCHE</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">Je cherche à acquérir une PME dans le domaine des produits de grande consommation en France, Belgique ou Suisse.  </p>
+					<p class="font__size-16 line__height-24 mt-2">Plus spécifiquement, je recherche une société vendant des produits ou des services B2C, idéalement au moyen d’un réseau de distribution dédié.  </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">With my first-hand experience as a young entrepreneur when I built my first company, and the next chapter of my career in building successful B2C environments, I learned what it takes to lead large teams to high performance. 
+					<p class="font__size-16 line__height-24 font__family-efb">J’étais déjà un entrepreneur à 23 ans lorsque j’ai créé ma première société, et j’ai appris tout au long de ma carrière ce qu’il fallait faire pour réussir dans un environnement B2C, en emmenant d’importantes équipes vers la performance. 
 
-I also learned that such an industry requires a lot of humility, as success is never guaranteed beforehand.  </p>
-					<p class="font__size-16 line__height-24 mt-1">The company I will acquire can therefore count on my passion, skills, and hard work, but also on my deepest sense of respect for what has been achieved so far. My goal is to continue the success story of my predecessor.  f </p>    
+J’ai aussi appris que c’était un secteur qui demandait beaucoup d’humilité, le succès n’étant jamais garanti à l’avance.   </p>
+					<p class="font__size-16 line__height-24 mt-1">L’entreprise dont je ferai l’acquisition pourra donc compter sur ma passion, mes compétences et mon ardeur au travail, mais aussi sur mon profond respect pour ce qui a été accompli jusque-là. Mon objectif est clairement de poursuivre la « success story » de mon prédécesseur.  f </p>    
 			</div>
 		</div>
 	</div>
@@ -119,9 +119,10 @@ I also learned that such an industry requires a lot of humility, as success is n
 						</svg>
 					</span>
 					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Entrepreneur </h3>
-					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">The NCA Entrepreneurship Through Acquisition Program accompanies the next generation of exceptional talents on every stage of their entrepreneurial path.</p>
+					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">					 
+                            Le programme NCA Entrepreneurship Through Acquisition accompagne la prochaine génération de talents exceptionnels à chaque étape de leur parcours entrepreneurial.</p>
 					<div class="learn_more_btns learn_about_btn mt-5 mb-4 pb-2">
-						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">LEARN MORE <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">APRENDRE ENCORE PLUS <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 							  <defs>
 							    <clipPath id="clip-path">
 							      <rect width="38" height="38" fill="none"/>
@@ -135,7 +136,7 @@ I also learned that such an industry requires a lot of humility, as success is n
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Olivier-Guillebert-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Olivier-Guillebert-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">Télécharger LE CV<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -149,14 +150,14 @@ I also learned that such an industry requires a lot of humility, as success is n
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-olivier.jpg" class="resume_img">
+				<img src="img/background-olivier-fr.jpg" class="resume_img">
 			</div>
 		</div>
 
 		<div class="row no-gutters">
 			<div class="col-lg-4">
 				<div class="about_contact_info pl-100 bg-white pr-100 pt-60 pb-80">
-					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
+					<h2 class="font__family-efb text-uppercase mb-3">MES COORDONNÉES</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
 					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:olivier.guillebert@novastone-ca.com">olivier.guillebert@novastone-ca.com</a>
@@ -172,7 +173,7 @@ I also learned that such an industry requires a lot of humility, as success is n
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Life is like riding a bicycle. To keep your balance, you must keep moving.</h4>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">La vie c’est comme une bicyclette, il faut avancer pour ne pas perdre l’équilibre.</h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Albert Einstein</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
@@ -193,7 +194,7 @@ I also learned that such an industry requires a lot of humility, as success is n
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
-							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>
+							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">Ce site Web ne cons`tue nullement une offre d’achat ou de vente d’un instrument financier. Lesinforma`ons fournies sur ce site sont à `tre informa`f uniquement et ne cons`tuent pas une offre, unesollicita`on ou une recommanda`on de souscrire à un service financier. Dans la mesure où ce siteexprime des opinions sur des stratégies d'inves`ssement et des idées d'inves`ssement, ces informa`onssont de nature générale uniquement et ne doivent pas être interprétées comme une publicité poursouscrire à un service financier ou pour inves`r dans un instrument financier spécifique.</p>
 
 							<a href="index-de.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Website <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
 								  <defs>
