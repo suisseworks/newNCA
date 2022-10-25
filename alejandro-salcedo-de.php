@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
 							<a href="https://www.linkedin.com/in/alejandrosalcedo-/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="http://novastone-ca.com/alejandro-salcedo-de.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">German</a>
+							<a href="http://novastone-ca.com/alejandro-salcedo.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
 						</div>
 					</div>	
 
@@ -27,14 +27,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="detail_searcher mt-2">
 						<h2 class="font__family-efb text-uppercase line__height-90">Alejandro <br> Salcedo</h2>
-						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
+						<h4 class="font__size-38 mt-4">NCA Unternehmer</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">I was born and raised in Mexico, where I studied mechanical & electrical engineering. I have lived in 6 countries, worked for large and small enterprises, and lead a small company. I speak 4 languages and have 20 years’ experience in the high-tech and healthcare industries, my expertise is in sales, marketing and management. I live with my wife, two kids and a dog in French-speaking Switzerland. I love cycling and spend a lot of time discovering the trails and wildlife in the nearby Jura mountains.</p>
+						<p class="font__size-18 line__height-24">Ich bin in Mexiko geboren und aufgewachsen, wo ich meinen Abschluss in Maschinenbau und Elektrotechnik gemacht habe. Ich habe dann in 6 Ländern gelebt und in großen und kleinen Unternehmen gearbeitet, darunter auch die Leitung eines KMU. Als internationale Führungskraft mit 20 Jahren Erfahrung in der Hightech- und Gesundheitsbranche verfüge ich über einen starken Hintergrund in den Bereichen Vertrieb, Marketing und Management und spreche 4 Sprachen. Ich lebe mit meiner Frau, zwei Kindern und unserem Hund in der Westschweiz. Ich liebe Fahrräder und verbringe viel Zeit damit, die Wanderwege und die Tierwelt im Juragebirge in der Nähe meines Zuhauses zu erkunden. </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:alejandro.salcedo@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:alejandro.salcedo@novastone-ca.com" type="button" class="btn text-white font__family-efb">Kontakt<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -55,25 +55,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden">extraspa</span>Key Skills</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">KERNKOMPETENZEN</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Leadership</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Passion for learning</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategy</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Sales</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Führung</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Leidenschaft für das Lernen</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategie</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Verkauf</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Marketing</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I am interested in acquiring a company in the healthcare services or medical technology space based in Germany, Switzerland, Austria or Spain.  </p>
-					<p class="font__size-16 line__height-24 mt-2">A company with a success history and EBITDA around €2-5m where the owner has no clear succession path. Ideally with growth potential in international expansion, cross or upselling as well as portfolio expansion. </p>
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MEINE SUCHE</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">Ich interessiere mich für den Erwerb eines Unternehmens im Bereich Gesundheitsdienstleistungen oder Medizintechnik mit Sitz in Deutschland, der Schweiz, Österreich oder Spanien. </p>
+					<p class="font__size-16 line__height-24 mt-2">Das Unternehmen, das ich übernehmen möchte, sollte erfolgreich sein, ein EBITDA von etwa 2-5 Mio. € erzielen, der Eigentümer sollte den Wunsch haben, in den Ruhestand zu gehen und keine klare Nachfolgeregelung haben. Das Hauptwachstumspotenzial sollte in der internationalen Expansion, im Cross- oder Upselling sowie in der Erweiterung des Produktportfolios liegen.  </p>
 
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I have broad experience in commercial areas like go-to-market, sales and channel management and expansion, market development and process optimization. </p>
-					<p class="font__size-16 line__height-24 mt-1"> I’m a natural-born optimizer who loves to make good things great. </p>    
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">MEIN BEITRAG</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">Ich verfüge über eine breite Expertise in kaufmännischen Bereichen wie Produkteinführung, Vertriebs- und Kanalmanagement und -erweiterung, Marktentwicklung und Prozessoptimierung. </p>
+					<p class="font__size-16 line__height-24 mt-1">Ich bin von Natur aus ein Optimierer, der es liebt, Gutes großartig zu machen.  </p>    
 			</div>
 		</div>
 	</div>
@@ -112,10 +112,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						  <path id="Path_6602" data-name="Path 6602" d="M725.4-850.671c6.158,4.2,23.007,17.9,29.133,45.4l.086.389h2.547l-.132-.607c-7.571-34.61-32.04-48.449-32.286-48.585l-1.842-1.013v50.233h2.5Z" transform="translate(-722.906 856.146)" fill="#fff"/>
 						</svg>
 					</span>
-					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Entrepreneur </h3>
-					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">The NCA Entrepreneurship Through Acquisition Program accompanies the next generation of exceptional talents on every stage of their entrepreneurial path.</p>
+					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Unternehmer </h3>
+					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">Das NCA Entrepreneurship Through Acquisition Programm begleitet die nächste Generation aussergewöhnlicher Talente auf jeder Etappe ihres unternehmerischen Weges.</p>
 					<div class="learn_more_btns learn_about_btn mt-5 mb-4 pb-2">
-						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">LEARN MORE <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">ERFAHRE MEHR <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 							  <defs>
 							    <clipPath id="clip-path">
 							      <rect width="38" height="38" fill="none"/>
@@ -129,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Alejandro-Salcedo-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Alejandro-Salcedo-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD LEBENSLAUF<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -150,7 +150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row no-gutters">
 			<div class="col-lg-4">
 				<div class="about_contact_info pl-100 bg-white pr-100 pt-60 pb-80">
-					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
+					<h2 class="font__family-efb text-uppercase mb-3">MEINE KONTAKTDETAILS</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
 					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:alejandro.salcedo@novastone-ca.com">alejandro.salcedo@novastone-ca.com</a>
@@ -166,7 +166,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Don't be afraid to give up the good to go for the great.</h4>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Hab keine Angst, das Gute aufzugeben, um das Große zu erreichen.</h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">John D. Rockefeller</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
@@ -187,7 +187,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
-							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>
+							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">Diese Website stellt kein Angebot an die Öffentlichkeit oder eine Aufforderung zum Kauf oder zur Investition in ein Finanzinstrument dar. Die auf dieser Website bereitgestellten Informationen dienen nur zu Informationszwecken und stellen kein Angebot, keine Aufforderung oder Empfehlung dar, eine Finanzdienstleistung zu abonnieren. Soweit diese Website Ansichten zu Anlagestrategien und Anlageideen zum Ausdruck bringt, sind solche Informationen nur allgemeiner Natur und dürfen nicht als Werbung für die Zeichnung einer Finanzdienstleistung oder für eine Anlage in ein bestimmtes Finanzinstrument ausgelegt werden.</p>
 
 							<a href="index-de.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Website <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
 								  <defs>
