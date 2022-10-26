@@ -256,7 +256,7 @@ For this search, it will be exciting to bring together my engineering and senior
 						<div class="jan_detail mt-60">
 							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4"> This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>
 
-							<a href="index-de.php" target="__blank" class="font__family-avenir back_primary text-capitalize d-inline-flex text-left align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3 mt-10">NCA website <span class="ml-108"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="18" viewBox="0 0 10 10">
+							<a href="index.php" target="__blank" class="font__family-avenir back_primary text-capitalize d-inline-flex text-left align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3 mt-10">NCA website <span class="ml-108"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="18" viewBox="0 0 10 10">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="10" height="10" fill="none"/>

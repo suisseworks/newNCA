@@ -39,7 +39,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="main-page landing-page">
 		<div class="brk-header-mobile">
 			<div class="brk-header-mobile__open"><span></span></div>
-			<div class="brk-header-mobile__logo"><a href="index-de.php"><img class="brk-header-mobile__logo-1 lazyload" src="img/logo.png" data-src="img/nca_logo.png" alt="alt"> <img class="brk-header-mobile__logo-2 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"></a></div>
+			<div class="brk-header-mobile__logo"><a href="index.php"><img class="brk-header-mobile__logo-1 lazyload" src="img/logo.png" data-src="img/nca_logo.png" alt="alt"> <img class="brk-header-mobile__logo-2 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"></a></div>
 		</div>
 		<header class="brk-header brk-header-landing brk-header_style-1 brk-header_skin-1 position-fixed d-lg-flex flex-column brk-header_color-dark position-fixed pt-110" style="display: none;" data-logo-src="img/logo.png" data-brk-library="component__header">
 			<div class="brk-header__main-bar order-lg-2 order-1" style="height: 72px;">
@@ -49,7 +49,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div class="col-lg-2">
 						</div>	
 						<div class="col-lg-8 align-self-lg-center landing_page_header justify-content-center d-none d-lg-flex">
-							<a href="index-de.php" class="brk-header__logo brk-header_index_logo brk-header__item @@modifier"><img class="brk-header__logo-1 lazyload" src="img/landing-logo.png" data-src="img/landing-logo.png" alt="alt"> <img class="brk-header__logo-2 lazyload" src="img/landing-logo.png" data-src="img/landing-logo.png" alt="alt"></a>
+							<a href="index.php" class="brk-header__logo brk-header_index_logo brk-header__item @@modifier"><img class="brk-header__logo-1 lazyload" src="img/landing-logo.png" data-src="img/landing-logo.png" alt="alt"> <img class="brk-header__logo-2 lazyload" src="img/landing-logo.png" data-src="img/landing-logo.png" alt="alt"></a>
 						</div>
 
 						<div class="col-lg-2 align-self-lg-stretch text-lg-right header_third_part d-flex align-items-center">

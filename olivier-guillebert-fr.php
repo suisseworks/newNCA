@@ -196,7 +196,7 @@ J’ai aussi appris que c’était un secteur qui demandait beaucoup d’humilit
 						<div class="jan_detail mt-4">
 							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">Ce site Web ne cons`tue nullement une offre d’achat ou de vente d’un instrument financier. Lesinforma`ons fournies sur ce site sont à `tre informa`f uniquement et ne cons`tuent pas une offre, unesollicita`on ou une recommanda`on de souscrire à un service financier. Dans la mesure où ce siteexprime des opinions sur des stratégies d'inves`ssement et des idées d'inves`ssement, ces informa`onssont de nature générale uniquement et ne doivent pas être interprétées comme une publicité poursouscrire à un service financier ou pour inves`r dans un instrument financier spécifique.</p>
 
-							<a href="index-de.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Website <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
+							<a href="index.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Website <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="10" height="10" fill="none"/>
