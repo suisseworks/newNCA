@@ -2,19 +2,19 @@
 
 		<div class="brk-header-mobile">
 			<div class="brk-header-mobile__open"><span></span></div>
-			<div class="brk-header-mobile__logo"><a href="index-de.php"><img class="brk-header-mobile__logo-1 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"> <img class="brk-header-mobile__logo-2 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"></a></div>
+			<div class="brk-header-mobile__logo"><a href="index.php"><img class="brk-header-mobile__logo-1 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"> <img class="brk-header-mobile__logo-2 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"></a></div>
 		</div>
 		<header class="brk-header brk-header_style-1 brk-header_skin-1 position-fixed d-lg-flex flex-column brk-header_color-dark position-fixed bg-white" style="display: none;" data-logo-src="img/logo.png" data-brk-library="component__header">
 			<div class="brk-header__main-bar brk-header_border-top-dark order-lg-2 order-1" style="height: 72px;">
 				<div class="container">
 					<div class="row align-items-center">
 						<div class="col-lg-1 align-self-lg-center d-none d-lg-flex">
-							<a href="index-de.php" class="brk-header__logo brk-header__item @@modifier"><img class="brk-header__logo-1 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"> <img class="brk-header__logo-2 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"></a>
+							<a href="index.php" class="brk-header__logo brk-header__item @@modifier"><img class="brk-header__logo-1 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"> <img class="brk-header__logo-2 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"></a>
 						</div>
 						<div class="col-lg align-self-lg-stretch text-lg-right">
 							<nav class="brk-nav brk-header__item">
 								<ul class="brk-nav__menu">
-									<li class="home-menu d-xs-none"><a href="index-de.php"><div>Home</div></a></li>
+									<li class="home-menu d-xs-none"><a href="index.php"><div>Home</div></a></li>
 									<li><a href="about-us-de.php"><div>Über Uns</div></a></li>
 									
 									<li><a href="talents.php"><div><span class="d-lg-none menu_for">For</span> Talents</div></a></li>

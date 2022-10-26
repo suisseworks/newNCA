@@ -54,8 +54,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						</div>
 
 						<div class="col-lg-2 align-self-lg-stretch text-lg-right header_third_part d-flex align-items-center">
-						<div class="brk-header__item d-flex landing_lng justify-content-center">
-							<a href="index-de.php" class="bg-transparent btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Deutsch</a>
+						<div class="hide brk-header__item d-flex landing_lng justify-content-center">
+							<a href="index.php" class="bg-transparent btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Deutsch</a>
 						</div>
 						</div>
 					</div>
