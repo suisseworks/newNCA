@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
 							<a href="https://www.linkedin.com/in/olivierguillebert/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="https://novastone-ca.com/olivier-guillebert-fr.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Française</a>
+							<a href="https://novastone-ca.com/olivier-guillebert-fr.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Français</a>
 						</div>
 					</div>	
 
@@ -79,7 +79,7 @@ I also founded my first company when I was 23, and now I want to combine my pass
 					<p class="font__size-16 line__height-24 font__family-efb">With my first-hand experience as a young entrepreneur when I built my first company, and the next chapter of my career in building successful B2C environments, I learned what it takes to lead large teams to high performance. 
 
 I also learned that such an industry requires a lot of humility, as success is never guaranteed beforehand.  </p>
-					<p class="font__size-16 line__height-24 mt-1">The company I will acquire can therefore count on my passion, skills, and hard work, but also on my deepest sense of respect for what has been achieved so far. My goal is to continue the success story of my predecessor.  f </p>    
+					<p class="font__size-16 line__height-24 mt-1">The company I will acquire can therefore count on my passion, skills, and hard work, but also on my deepest sense of respect for what has been achieved so far. My goal is to continue the success story of my predecessor. </p>    
 			</div>
 		</div>
 	</div>
