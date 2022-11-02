@@ -38,7 +38,7 @@ Tout en devenant un véritable citoyen du monde, j’ai développé une large ex
 J’ai également créé ma première entreprise à l’âge de 23 ans, et maintenant je veux combiner ma passion de l’entreprenariat avec mon expertise professionnelle, en faisant l’acquisition d’une PME dans ce domaine d’activité.  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:olivier.guillebert@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contactez<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:olivier.guillebert@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contactez-moi<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -75,11 +75,11 @@ J’ai également créé ma première entreprise à l’âge de 23 ans, et maint
 					<p class="font__size-16 line__height-24 font__family-efb">Je cherche à acquérir une PME dans le domaine des produits de grande consommation en France, Belgique ou Suisse.  </p>
 					<p class="font__size-16 line__height-24 mt-2">Plus spécifiquement, je recherche une société vendant des produits ou des services B2C, idéalement au moyen d’un réseau de distribution dédié.  </p>
 
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">Ma contribution</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">J’étais déjà un entrepreneur à 23 ans lorsque j’ai créé ma première société, et j’ai appris tout au long de ma carrière ce qu’il fallait faire pour réussir dans un environnement B2C, en emmenant d’importantes équipes vers la performance. 
 
 J’ai aussi appris que c’était un secteur qui demandait beaucoup d’humilité, le succès n’étant jamais garanti à l’avance.   </p>
-					<p class="font__size-16 line__height-24 mt-1">L’entreprise dont je ferai l’acquisition pourra donc compter sur ma passion, mes compétences et mon ardeur au travail, mais aussi sur mon profond respect pour ce qui a été accompli jusque-là. Mon objectif est clairement de poursuivre la « success story » de mon prédécesseur.  f </p>    
+					<p class="font__size-16 line__height-24 mt-1">L’entreprise dont je ferai l’acquisition pourra donc compter sur ma passion, mes compétences et mon ardeur au travail, mais aussi sur mon profond respect pour ce qui a été accompli jusque-là. Mon objectif est clairement de poursuivre la « success story » de mon prédécesseur. </p>    
 			</div>
 		</div>
 	</div>
