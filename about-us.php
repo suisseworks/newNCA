@@ -87,7 +87,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								        <p class="font__family-open-sans font__size-16 pr-lg-175 pr-md-30">
 								        	 
 										<span class="font__weight-bold">Our program carefully selects talents (with an MBA/EMBA and ~10 years work experience) and our team supports them through every phase of the search and acquisition process. </span><br>										  
-										<span class="d-block mt-20">	 All candidates who submit an application to become an NCA Entrepreneur undergo a rigorous screening and selection process before being accepted into our program (read more about our selection process on our dedicated <a href="talents.php" class="underline">Talents page</a>).<br><br> In addition to accepting direct applications through our website, we also partner with the best business schools to source top-tier entrepreneurial talent for our ETA program. </span>
+										<span class="d-block mt-20">	 All candidates who submit an application to become an NCA Entrepreneur undergo a rigorous screening and selection process before being accepted into our program (read more about our selection process on our dedicated <a href="candidates.php" class="underline">Candidates page</a>).<br><br> In addition to accepting direct applications through our website, we also partner with the best business schools to source top-tier entrepreneurial talent for our ETA program. </span>
 								        </p>
 								        <div class="next_arrow w-100">
 								            <span class="next_accordion position-absolute" data-toggle="collapse" data-target="#collapseTwo">
@@ -366,7 +366,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div class="col-lg-4 member_card mt-10 mt-lg-0 pl-5 pr-5">
                         	<div class="bg-primary question-box question-box-height">
-								<a href="talents.php" class="d-block py-5 px-4 text-white h-100">
+								<a href="candidates.php" class="d-block py-5 px-4 text-white h-100">
 								<h2 class="text-white mb-1 font__family-efb text-uppercase">Interested in joining us?</h2>
 								<div class="text-right arrow_link">
 									<svg id="SMALL_ARROW" data-name="SMALL ARROW" xmlns="http://www.w3.org/2000/svg" width="34.975" height="34.976" viewBox="0 0 34.975 34.976">
