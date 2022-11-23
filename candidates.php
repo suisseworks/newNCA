@@ -164,18 +164,21 @@ $_SESSION["lan"] = "English";
 										<div class="font__weight-bold process_title_count">3</div>
 										<div class="font__weight-bold font__size-40 process_title line__height-45 text-uppercase">Orientation call</div>
 										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">If your profile is selected, you will be invited to a 45-minute zoom orientation call with our Talent team. This call will determine if your search focus requires further development or can move ahead. To prepare for the call:
-											<ul>
+											<ul class="text-left">
 												<li>
-													Read and review the program description beforehand
+													<i class="fa fa-check mt-2 mr-2 font__size-14"></i> Read and review the program description beforehand
 												</li>
 												<li>
-													Prepare your questions about the program, selection process, and the NCA team
+													<i class="fa fa-check mt-2 mr-2 font__size-14"></i> Prepare your questions about the program, selection process, and the NCA team
 												</li>
 												<li>
-													Prepare your search industries/sectors and target geography
+													<i class="fa fa-check mt-2 mr-2 font__size-14"></i> Prepare your search industries/sectors and target geography
 												</li>
 											</ul>
-											<a href="http://insights.novastone-ca.com/insights/the-nca-searcher-selection-process/" target="_blank" class="text-primary">Read this article for tips on acing your orientation call</a></div>
+											<div class="text-left mt-2">
+												<a href="http://insights.novastone-ca.com/insights/the-nca-searcher-selection-process/" target="_blank" class="text-primary">Read this article for tips on acing your orientation call</a>
+											</div>	
+										</div>
 										
 									</div>
 								</div>
@@ -504,8 +507,11 @@ $_SESSION["lan"] = "English";
 						</div>
 					</div>
 					<div class="w-100 form_div bg-primary py-4 px-lg-0 px-3">
+					    
 						<form method="POST" id="talent-form" class="investors_contact_form talent_form needs-validation form_send_email" novalidate onsubmit="return false">
+						    <p id="talent-form-error" style="margin-left: 20px; color: white;"></p>
 							<div class="row align-items-center mx-0">
+							    
 								<div class="col-md-9">
 									<div class="d-sm-flex">
 										<div class="form-group  position-relative w-100 pr-md-2">
@@ -521,7 +527,9 @@ $_SESSION["lan"] = "English";
 								</div>
 								<div class="col-sm-3">
 									<div id="talents_contact_form-submit" class="submit_btn talent_submit mt-md-0 mt-3 bg-white w-100 text-center">	
-										<button type="submit" class="text-primary font__size-50 p-5 shadow-none"><span><i class="fa fa-arrow-right"></i></span><span class="border-btn submit_border"></span></button>
+										<button type="submit" class="text-primary font__size-50 p-5 shadow-none">
+										    <span><i class="fa fa-arrow-right"></i></span><span class="border-btn submit_border"></span>
+										</button>
 									</div>  
 								</div>	
 							</div>	   

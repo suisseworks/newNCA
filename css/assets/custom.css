@@ -190,6 +190,12 @@ footer .container,
     color: var(--brand-primary);
     font-size: 12px;
 }
+.social_icon.social_icon_white{
+    border: 2px solid #ffffff;
+}
+.social_icon.social_icon_white i{
+    color: #ffffff !important;
+}
 
 .social_icon:hover i {
     color: var(--white);
@@ -1477,7 +1483,9 @@ small.toggle_text {
 .member_card .question-box.question-box-height {
     height: 583px;
 }
-
+.member_card .question-box.question-box-height.box-height-entrepre{
+    height: 100%;
+}
 .member_status {
     min-height: 102px;
 }
@@ -2882,6 +2890,29 @@ li.li__margin-10 {
 .key_skill h2.manjunath{
     left: -5px;
 }
+.newsletter_box input[type="checkbox"]:checked+label::after,
+.newsletter_box label::before{
+     display: none !important;
+}
+.newsletter_box input[type="checkbox"]{
+    opacity: 1 !important;
+}
+.bg-img-video{
+    background-color: #e4eaeb;
+}
+a.logo_section:hover,a.logo_section:focus{
+    background-color: var(--brand-primary) !important;
+}
+a.logo_section.bg-white:hover,a.logo_section.bg-white:focus{
+    background-color: #ffffff !important;
+}
+.enterpreneurs_top_text{
+    max-width: 70%;
+    line-height: 30px;
+}
+.c-logo-border{
+    border:2px solid #777777;
+}
 
 @media only screen and (max-width: 991px){
     .timeline_tabs .nav.nav-pills li a span{
@@ -2895,5 +2926,17 @@ li.li__margin-10 {
     }
     .timeline_tabs .nav.nav-pills::before{
         width: 90%;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    .h-sm-auto{
+        height: auto !important;
+    }
+    .information_div{
+        padding: 30px 0px;
+    }
+    .align-items-center.logo_social_div{
+        align-items: flex-start;
     }
 }
