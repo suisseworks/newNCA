@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/andreas-franz4.png">
+				<img src="img/bill-balliette.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,23 +18,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/andreas-franz-emba" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="https://novastone-ca.com/andreas-franz-de.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">German</a>
+							<a href="https://www.linkedin.com/in/bill-balliette/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>							 
 						</div>
 					</div>	
 
 
 
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Andreas <br> Franz</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Bill <br> Balliette</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
+							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
-						<p class="font__size-18 line__height-24">After growing up in Germany, I had the opportunity to study, work and live in countries across the globe like USA, UK, Russia, Austria, Switzerland and Italy. My career has been extensive and shaped my international management profile through missions in strategy consultancy, fashion & sports brands, business development, consumer goods sectors and my final aspiration in entrepreneurship.  </p>
+						<p class="font__size-18 line__height-24"> I grew up in the Northeastern US, moved to Texas to pursue an MBA and never left. Married my wife in 1995 and raised four children. For fun I used to play a lot of basketball but now prefer gardening and an occasional round of golf. My career focus has been on manufacturing companies of widely varying sizes and product types, doing business development and operations.  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:andreas.franz@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:bill.balliette@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -55,25 +54,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Core competencies</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Conspicuous Curiosity</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Structured Experimentation</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>High integrity</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entrepreneurship</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic thinking</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Team Building</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Innovative Mindset</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Personnel integration</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Result orientation</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">My focus is on acquiring a company in the consumer goods industry in Germany, Austria, or Switzerland.</p>
-					<p class="font__size-16 line__height-24 mt-2">Specifically, my search will be on forward thinking SME’s within the fashion & lifestyle goods segments, which perform well despite the pandemic crisis.    </p>
+					<p class="font__size-16 line__height-24 font__family-efb">My search will focus on SMEs in the electronic instruments, electronic components and electrical equipment and component manufacturing industries. </p>
+					<p class="font__size-16 line__height-24 mt-2">The recent massive influx of manufacturing investment into the Texas region, and the widespread drive towards “reshoring” supply chains, are two strong favorable trends for my search.  </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I am a multifaceted professional with over 25 years of experience and know-how in growing businesses in the search sector. </p>
-					<p class="font__size-16 line__height-24 mt-1">Within the fashion & lifestyle goods sector, I see 5 levers to further create value and build growth in the target company: international expansion, new product development, new distribution channels, performance improvement, and digitalization.  </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">I have a wealth of business development experience in technically intensive business-to-business environments. I am particularly skilled at understanding customer needs and how to get the organization to respond correctly. </p>
+					<p class="font__size-16 line__height-24 mt-1"> I also have experience and training in operations and continuous improvement methodologies like Six Sigma, Lean Production and Constraint Theory.    </p>    
 			</div>
 		</div>
 	</div>
@@ -87,9 +86,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/play-sec-andreas2.png" alt="alt" class="image_video">
+                        <img src="img/play-sec-bill.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/KsEl77CNtDw" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/BM9QzS6xNlY" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -129,7 +128,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Andreas-Franz-resume-en.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Jan-Nikolaisen-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -143,7 +142,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/andreas-background3.png" class="resume_img">
+				<img src="img/background-bill.png" class="resume_img">
 			</div>
 		</div>
 
@@ -153,7 +152,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:andreas.franz@novastone-ca.com">andreas.franz@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:bill.balliette@novastone-ca.com">bill.balliette@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -166,9 +165,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Antoine de Saint-Exupéry</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Men occasionally stumble over the truth but most of them pick themselves up and hurry off as if nothing happened.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Winston Churchill </h5>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Military commander</p>
 					</div>
 				</div>
 			  </div>
@@ -183,8 +182,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Andreas Franz</h1>
-							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Bill Balliette</h1>
+							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Unternehmer</h3>
 						</div>
 						<div class="jan_detail mt-4">
 							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>
@@ -205,8 +204,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:andreas.franz@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">andreas.franz@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/andreas-franz-emba" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:bill.balliette@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">bill.balliette@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/bill-balliette/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
