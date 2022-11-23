@@ -59,7 +59,7 @@ I also founded my first company when I was 23, and now I want to combine my pass
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden">extraspa</span>Key Skills</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
 					<ul class="ml-5 pl-4">
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entrepreneurship</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Industry expertise</li>
