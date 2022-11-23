@@ -57,6 +57,13 @@
 		font-size: 90px !important;
 		line-height: 100px !important;
 	}
+	.landing_col_1.landing_page_menus.mr-135{
+		margin-right: 30px;
+	}
+    .landing_row .landing_col_3 {
+        max-width: 220px;
+    }
+
 }
 @media only screen and (max-width: 1598px) and (min-width: 1230px){
     .col-lg-3.nca_circle_image_col{
@@ -75,6 +82,9 @@
       font-size: 120px !important;
       top: 110px;
 	}
+	.entrepreneurs_section.pb-100{
+    	padding-bottom: 130px !important;
+    }
 }
 
 @media only screen and (max-width: 1280px) and (min-width: 1230px){
@@ -94,6 +104,18 @@
 		font-size: 95px !important;
         top: 110px;
 	}
+	.landing_row .landing_col_1{
+        max-width: 220px;
+    }
+    .landing_row .landing_col_2 {
+        max-width: 150px;
+    }
+    .landing_row .landing_col_4 {
+        max-width: 250px;
+    }
+    .landing_row .landing_col_3 {
+        max-width: 210px;
+    }
 }
 
 @media only screen and (max-width: 1229px){

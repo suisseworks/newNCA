@@ -304,20 +304,7 @@ transform:scale(0.90);-webkit-transform:scale(0.90);transform-origin:50% 50%;-we
                                                         </div>
                                                         <div style="clear:both"></div>
                                                     </div>
-                                                    <div style="padding:10px 0px 10px 0px;" class="zcsffield " fieldid="103402000000401621">
-                                                        <div>
-                                                            <div style="display: inline-flex;">
-                                                                <div style="float: left; margin-top: 5px; margin-right: 20px; font-family: Arial, Helvetica, sans-serif; color: rgb(51, 51, 51); font-size: 12px;" name="SIGNUP_FORM_LABEL">Newsletter&nbsp;<span name="SIGNUP_REQUIRED" style="color: rgb(180, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">*</span></div>
-                                                                <div style="padding-left:10px;min-width:170px;  max-width:70%; display: flex; align-items: center;">
-                                                                        <input name="CONTACT_CF37" type="checkbox" zc_display_name="Newsletter" value="" style="padding-left:10px;padding-right:10px; margin-top:5px;">
-                                                                        <label for="CONTACT_CF37"></label>
-                                                                        <span style="display:none" id="dt_CONTACT_CF37">4,true,4,Newsletter,2</span>
-                                                                </div>
-                                                                <div style="clear:both"></div>
-                                                            </div>
-                                                        </div>
-                                                        <div style="clear:both"></div>
-                                                    </div>
+                                                    
                                                     <div style="padding:10px 0px 10px 0px;" class="zcsffield " fieldid="103402000000000025">
                                                         <div style="">
                                                             <div style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" name="SIGNUP_FORM_LABEL">Company Name&nbsp;</div>
@@ -362,7 +349,22 @@ transform:scale(0.90);-webkit-transform:scale(0.90);transform-origin:50% 50%;-we
                                                 </div>
                                                 <input type="hidden" id="secretid" value="6LdNeDUUAAAAAG5l7cJfv1AA5OKLslkrOa_xXxLs"><!-- Captcha for Signup End--><!-- Other Lists Subscription Start--><!-- Other Lists Subscription End-->
                                                 <div style=" border-bottom:#ebebeb dotted 1px; margin-top:10px; clear:both;"></div>
-                                                <div id="REQUIRED_FIELD_TEXT" changetype="REQUIRED_FIELD_TEXT" name="SIGNUP_REQUIRED" style="color: rgb(180, 0, 0); padding: 10px 10px 10px 0px; font-family: Arial, Helvetica, sans-serif; font-size: 11px;">*Required Fields</div>
+                                                <!-- <div id="REQUIRED_FIELD_TEXT" changetype="REQUIRED_FIELD_TEXT" name="SIGNUP_REQUIRED" style="color: rgb(180, 0, 0); padding: 10px 10px 10px 0px; font-family: Arial, Helvetica, sans-serif; font-size: 11px;">*Required Fields</div> -->
+                                                <div style="padding:10px 0px 10px 0px;" class="zcsffield " fieldid="103402000000401621">
+                                                        <div>
+                                                            <div class="newsletter_box" style="display: inline-flex; padding: 0px 10px;">
+                                                                
+                                                                <div style="padding-right:10px; display: flex; align-items: center;">
+                                                                        <input name="CONTACT_CF37" type="checkbox" zc_display_name="Newsletter" value="" style="padding-left:10px;padding-right:10px; margin-top:5px;">
+                                                                        <label for="CONTACT_CF37"></label>
+                                                                        <span style="display:none" id="dt_CONTACT_CF37">4,true,4,Newsletter,2</span>
+                                                                </div>
+                                                                <div style="float: left; margin-top: 5px; padding-left:15px;font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px;" name="SIGNUP_FORM_LABEL">Newsletter&nbsp;</div>
+                                                                <div style="clear:both"></div>
+                                                            </div>
+                                                        </div>
+                                                        <div style="clear:both"></div>
+                                                    </div>
                                                 <div name="privacyPolicy" style=" padding:10px;width:100%;position:relative;display: inline-flex;">
                                                     <input type="checkbox" style="vertical-align:middle" name="PRIVACY_POLICY" value="PRIVACY_AGREED">
                                                     <label for="PRIVACY_POLICY"></label>
