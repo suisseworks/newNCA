@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/david-miller.png">
+				<img src="img/david-miller2.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -29,7 +29,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="font__family-efb text-uppercase line__height-90">David <br> Miller</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2020</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2022</span>
+							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
 						<p class="font__size-18 line__height-24">I grew up in Montreal, Quebec and I lived in New York City for 4 years while attending law school. After passing the New York Bar Exam, I have spent the last 20 years searching, acquiring, managing, and selling three core businesses. I have a proven history of driving full-cycle mergers and acquisitions- from initial research, closing the deal successfully and operating the business afterwards.   </p>
 					</div>
@@ -184,7 +184,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
 							<h1 class="font__size-30 font__family-efb line__height-70 text-white">David Miller</h1>
-							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Unternehmer</h3>
+							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
 							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>

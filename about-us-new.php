@@ -465,7 +465,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								Paralegal 
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/giovannigallinohr" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/in/swapnali-gaikwad-1b2a0720b/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
@@ -530,7 +530,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								Data Analyst
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/jose-miguel-infantozzi-h/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/in/elias-m-7617a2130/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
@@ -547,7 +547,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/jose-miguel-infantozzi-h/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/in/christopher-meier-ba064410/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
@@ -564,7 +564,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/jose-miguel-infantozzi-h/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/in/roman-trukhin-6b1195234/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
@@ -581,7 +581,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/jose-miguel-infantozzi-h/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/in/giulio-isoli-52a448140/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
@@ -613,7 +613,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								Data Analyst
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/company/30146432" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+									<a href="https://www.linkedin.com/in/gt1/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
