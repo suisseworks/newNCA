@@ -332,9 +332,9 @@ $_SESSION["lan"] = "English";
 	                	   <img class="w-100" src="img/Jan.jpg">
 	                	</div>   
 	                </a>
-	                <a href="https://grupodalt.com/" target="_blank" class="logo_section w-50 bg-primary text-center d-flex align-items-center">
+	                <a href="https://grupodalt.com/" target="_blank" class="logo_section w-50 bg-white text-center d-flex align-items-center">
 	                	<div class="logo_div">
-	                	    <img class="w-50" src="img/logo-grupo-dalt.svg">
+	                	    <img style="padding-left:30px "class="w-70" src="img/logo-grupo-dalt.svg">
 	                	</div>    
 	                </a>	
 	            </div>    	
@@ -363,9 +363,9 @@ $_SESSION["lan"] = "English";
 	                	   <img class="w-100" src="img/Mike.jpg">
 	                	</div>   
 	                </a>
-	                <a href="https://glgbv.com/en/" target="_blank" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border">
+	                <a href="https://glgbv.com/en/" target="_blank" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
 	                	<div class="logo_div">
-	                	    <img class="w-50" src="img/green-logo-header-3.png">
+	                	    <img style="padding-left:20px" class="w-80" src="img/green-logistics.png">
 	                	</div>    
 	                </a>	
 	            </div>    	

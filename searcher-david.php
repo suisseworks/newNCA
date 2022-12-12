@@ -162,7 +162,7 @@ I am a serial entrepreneur with 20 years of experience.
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-                        In the midst of chaos there is also opportunity<br><br>							 
+                        If you are going to achieve excellence in big things, you must develop the habit in little matters.  Excellence is not an exception, it is a prevailing attitude.<br><br>							 
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -170,7 +170,7 @@ I am a serial entrepreneur with 20 years of experience.
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-							Sun Tzus<br>
+							Colin Powell<br>
 						</p> 
 					</div>	
 				</div>	
@@ -178,9 +178,9 @@ I am a serial entrepreneur with 20 years of experience.
 			<div class="col-lg-8 pl-lg-20">
 				<div class="video_div d-flex h-100 pt-lg-0 pt-50">
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-	                    <img src="img/play-sec-lin.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
+	                    <img src="img/play-sec-lin2.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/KXL0-2m0dq4" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/NrdzrnQpXV4" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
