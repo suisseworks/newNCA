@@ -64,9 +64,15 @@ of a general nature only and shall not be construed as advertisement to subscrib
 		</div>
 	</footer><!-- <a href="#top" id="toTop"></a> -->
 
-	<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
+	<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
+    	<div class="modal-header">
+    		<h1></h1>
+	        <button type="button" class="btn-close candidate-close-btn" data-dismiss="modal" aria-label="Close">
+	        	<i aria-hidden="true" class="fa fa-times"></i>
+	        </button>
+	    </div>
       <div class="modal-body">
         <div class="brk-theme-options__control shadow-none bg-primary get_touch_main candidate_form_get">
 

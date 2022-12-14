@@ -2914,6 +2914,12 @@ a.logo_section.bg-white:hover,a.logo_section.bg-white:focus{
     border:2px solid #777777;
 }
 
+/*modal style*/
+.btn-close.candidate-close-btn{
+	font-size: 24px;
+	margin-right: 10px;
+}
+
 @media only screen and (max-width: 991px){
     .timeline_tabs .nav.nav-pills li a span{
         left: 34px;
