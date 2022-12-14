@@ -62,44 +62,73 @@ $_SESSION["lan"] = "English";
 <section class="our_team bg-white">
 	<div class="container">	
 		<div class="row no-gutters new_row pb-130">
-			<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+			
+		<div class="col-lg-3 member_card mt-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/george-about.png">
+                    	<img class="w-100" src="img/Erick.jpg">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">George Berczely</h5>
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Erick Azen</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-		        				Lorem ipsum dolor set amet.
-		        			</p>	
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-erick.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>
 					</div>	
                     </div>	
 				</div>
-				<div class="col-lg-3 member_card mt-10 mt-lg-0 pl-5 pr-5">
+
+
+				<div class="  col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/manjunath-about.png">
+                    	<img class="w-100" src="img/Viktor.jpg">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">
-                        	    Manjunath Bhat
+                        	    Viktor Dimitrov 
                         	</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-		        				Lorem ipsum dolor set amet.
+		        			<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-viktor.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>		
+					</div>	
+                    </div>	
+				</div>
+
+				<div class="  col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/Markus.jpg">
+                    </div>	
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">
+                        	    Markus Graeber 
+                        	</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-markus.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
 		        			</p>
-		        			
-						</div>	
+		        					
+					</div>	
                     </div>	
 				</div>
 				<div class="  col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/ram-about.png">
+                    	<img class="w-100" src="img/Rania.jpg">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Ram Sriram </h5>
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">
+                        	    Rania Missoumi 
+                            </h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-		        				Lorem ipsum dolor set amet.
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-rania.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
 		        			</p>		
 					</div>	
                     </div>	
@@ -117,66 +146,11 @@ $_SESSION["lan"] = "English";
 							</a>
 						</div>	
 				</div>
-				<div class="col-lg-3 member_card mt-10 mt-lg-0 pl-5 pr-5">
-                    <div class="img_section w-100">
-                    	<img class="w-100" src="img/Erick.jpg">
-                    </div>	
-                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
-                    	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Erick Azen</h5>
-		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-		        				Lorem ipsum dolor set amet.
-		        			</p>
-					</div>	
-                    </div>	
-				</div>
+				
 		
-				<div class="  col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
-                    <div class="img_section w-100">
-                    	<img class="w-100" src="img/Viktor.jpg">
-                    </div>	
-                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
-                    	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">
-                        	    Viktor Dimitrov 
-                        	</h5>
-		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-		        				Lorem ipsum dolor set amet.
-		        			</p>		
-					</div>	
-                    </div>	
-				</div>
-				<div class="  col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
-                    <div class="img_section w-100">
-                    	<img class="w-100" src="img/Markus.jpg">
-                    </div>	
-                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
-                    	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">
-                        	    Markus Graeber 
-                        	</h5>
-		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-		        				Lorem ipsum dolor set amet.
-		        			</p>
-		        					
-					</div>	
-                    </div>	
-				</div>
-				<div class="  col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
-                    <div class="img_section w-100">
-                    	<img class="w-100" src="img/Rania.jpg">
-                    </div>	
-                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
-                    	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">
-                        	    Rania Missoumi 
-                            </h5>
-		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-		        				Lorem ipsum dolor set amet.
-		        			</p>		
-					</div>	
-                    </div>	
-				</div>
+				
+				
+				
 				<div class="  col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/Fryderyk.jpg">
@@ -187,7 +161,9 @@ $_SESSION["lan"] = "English";
                         	    Fryderyk Rdułtowski 
                         	</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-		        				Lorem ipsum dolor set amet.
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-fryderyk.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
 		        			</p>		
 					    </div>	
                     </div>	
@@ -202,7 +178,9 @@ $_SESSION["lan"] = "English";
                         	    Vanessa Monestel 
                         	</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-		        				Lorem ipsum dolor set amet.
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-vanessa.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
 		        			</p>		
 					    </div>	
                     </div>	
@@ -217,7 +195,9 @@ $_SESSION["lan"] = "English";
                         	    William Hunnam 
                         	</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-		        				Lorem ipsum dolor set amet.
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-william.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
 		        			</p>		
 					    </div>	
                     </div>	
@@ -226,18 +206,343 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/nick.jpg">
                     </div>	
-                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">
-                        		Nick Akers 
-                        	</h5>
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Nick Ackers</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-		        				Lorem ipsum dolor set amet.
-		        			</p>
-		        				
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-nick.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
 					</div>	
-                </div>	
-			</div>					
+                    </div>	
+				</div>
+
+
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/ryan.jpg">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Ryan Wright</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-ryan.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/nate.jpg">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Nathan Taylor</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-nathan.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/robert.jpg">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Roberto Wagner</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-robert.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/george-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">George Berczely</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-george.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/manjunath-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Manjunath  Bhat</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-manjunath.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/ram-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Ram Sriram</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-ram.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+					
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/val-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Waldemar Pilch</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-waldemar.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/rohith-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Rohit Saravanan</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-rohith.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/daniel-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Daniel Coutinho</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-daniel.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/david-lin-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">David Lin</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-david.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/darwin-about-us.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Darwin Salicrup</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-darwin.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/about-us-marc.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Marc Decoste</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-marc.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/adam-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Adam Salmen</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/searcher-adam.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/samantha-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Samantha Freeman</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/samantha-freeman.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/nicoletta-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Nicoletta Nutrito</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/nicoletta-nutrito.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/andreas-about3.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Andreas Franz</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/andreas-franz.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/david-widmer-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">David Widmer</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/david-widmer.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/olivier-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Olivier Guillebert</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/olivier-guillebert.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/alejandro-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Alejandro Salcedo</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/alejandro-salcedo.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/aron-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Aron Szabo</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/aron-szabo.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/david-miller-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">David Miller</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/david-miller.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				 
+				 
+				 
+				 
+				
+
+				
+			</div>								
 	    </div>				
 	</div>	
 </section>
