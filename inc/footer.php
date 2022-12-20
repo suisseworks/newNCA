@@ -455,5 +455,6 @@ transform:scale(0.90);-webkit-transform:scale(0.90);transform-origin:50% 50%;-we
     </div>
   </div>
 </div>
-	<?php include 'inc/footer-scripts.php'; ?>
+
+<?php include 'inc/footer-scripts.php'; ?>
 	
