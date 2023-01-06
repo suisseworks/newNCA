@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/erika-obrien.png">
+				<img src="img/ben-boenk.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,7 +18,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/erika-o-brien-6864b142/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/in/benboenk/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							 
 						</div>
 					</div>	
@@ -26,15 +26,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Erika <br> O'Brien</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Ben <br> Boenk</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
+							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">I was born and raised in the Midwest and spent the early years of my career working in the Twin Cities before professional life and extensive travel brought me to Southern California. I’ve dedicated the last decade of my career to working with small businesses as a leader and growth expert within the mass market consumer product industry. As I embark on this Entrepreneurship Through Acquisition journey, I look forward to connecting with founders, their teams, stakeholders, and consumers.  </p>
+						<p class="font__size-18 line__height-24">There is nothing more rewarding than seeing your friends and family enjoy a product that you’ve brought into their lives.  I’ve spent the past 15 years in the Food and CPG industries, developing new products, and bringing them to market.  I’ve learned that I am passionate about seeing businesses thrive and grow, and want to continue my career leading the next great food company.     </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:erika.obrien@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:ben.boenk@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -57,23 +57,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
 					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Relationship Centered</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic Growth</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Operational Leadership</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Product Expertise</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Results Driven</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Curiosity</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entrepreneurship</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Business Development </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Engineering</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Product Development</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">My search is focused on acquiring a profitable lower middle market company that creates products to facilitate human connections. Whether that be through play, gathering, sharing, celebrating, or creating, I enjoy working with innovators in this space.  </p>
-					<p class="font__size-16 line__height-24 mt-2">Market segments include Toys, Games, Housewares, Hobby, Party, Gifts, and Crafts in both B2B and DTC formats.   </p>
+					<p class="font__size-16 line__height-24 font__family-efb">My passion is to bring joy to consumers by sharing remarkable food & beverages with them.  I strive to acquire and lead a Food & Beverage manufacturing company based in the Western United States.     </p>
+					<p class="font__size-16 line__height-24 mt-2">I am looking for a business that needs a trusted leader to continue its legacy.    </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">As an experienced leader in strategic growth, I plan to deploy a balanced mix of value creation strategies post-acquisition. I firmly believe that small businesses are the heartbeat of the global economy and I look forward to working with ambitious teams that share in that core value.  </p>
-					<p class="font__size-16 line__height-24 mt-1"> I strive to create inclusive and humanizing work environments that foster collaboration, creativity, and empower employees.  </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">My experience has given me the technical skills and business acumen to provide exemplary leadership in the Food & Beverage industry.  </p>
+					<p class="font__size-16 line__height-24 mt-1"> From my engineering background to my success leading innovation for one of the most beloved brands in the country, I believe I am a well-rounded executive capable of solving difficult problems with creative solutions.      </p>    
 			</div>
 		</div>
 	</div>
@@ -89,7 +89,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
                         <img src="img/play-sec-aron2.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/0Kx5wziLz28" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/meKg8rcmd8Q" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -129,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Jordan-Frank-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Ben-Boenk-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -143,7 +143,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-erika.png" class="resume_img">
+				<img src="img/background-ben.png" class="resume_img">
 			</div>
 		</div>
 
@@ -153,7 +153,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:erika.obrien@novastone-ca.com">erika.obrien@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:ben.boenk@novastone-ca.com">ben.boenk@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -166,8 +166,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Go confidently in the direction of your dreams. Live the life you imagined.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Henry David Thoreau</h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">The best way to predict the future is to create it.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Peter Drucker</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
@@ -183,7 +183,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Erika O'Brien</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Ben Boenk</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -205,8 +205,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:erika.obrien@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">erika.obrien@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/erika-o-brien-6864b142/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:ben.boenk@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">ben.boenk@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/benboenk/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
