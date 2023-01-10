@@ -16,6 +16,7 @@
 								<ul class="brk-nav__menu">
 									<li class="home-menu d-xs-none"><a href="index.php"><div>Home</div></a></li>
 									<li><a href="about-us.php"><div>About Us</div></a></li>
+                                    <li><a href="entrepreneurs.php"><div><span class="d-lg-none menu_for">For</span> Entrepreneurs</div></a></li>
 									<li><a href="candidates.php"><div><span class="d-lg-none menu_for">For</span> Candidates</div></a></li>
 									 
 									<li><a href="co-investors.php"><div><span class="d-lg-none menu_for">For</span> Co-investors</div></a></li>
