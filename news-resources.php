@@ -30,9 +30,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-12 col-lg-6">
 
 						<div class="resource_wrap_links py-3 bg-light">
+						 	
 							<div class="anchore_div anchore_div py-3 px-3 position-relative">
 								<a href="docs/chronique_monestel.pdf" target="_blank" class="font__size-20 font__family-efb">Vanessa Monestel | Succession: un nouveau modèle qui fonctionne<span class="arrow_link_a"></span></a>
-							</div>	
+							</div>
 							<div class="anchore_div anchore_div py-3 px-3 position-relative">
 								<a href="https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds/primer" target="_blank" class="font__size-20 font__family-efb">Stanford GSB: Search Fund Primer (2020)<span class="arrow_link_a"></span></a>
 							</div>
@@ -128,7 +129,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="resource_wrap_links">
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-								<a href="docs/NCA-CELEBRATES-ITS-NEXT-ACQUISITION-IN-POLAND.pdf" target="_blank" title="NCA celebrates second acquisition" class="font__size-20 font__family-efb">NCA celebrates its next acquisition in Poland<span class="arrow_link_a"></span></a>
+								<a href="https://www.youtube.com/watch?v=f4zhOPfX1Zk" target="_blank" title=" " class="font__size-20 font__family-efb">Davos 2023 - Interview with NCA Co-Founders, Christian Malek & Elena Trukhina<span class="arrow_link_a"></span></a>
+							</div>	
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="docs/NCA-CELEBRATES-ITS-NEXT-ACQUISITION-IN-POLAND.pdf" target="_blank" title="NCA celebrates third acquisition" class="font__size-20 font__family-efb">NCA celebrates its next acquisition in Poland<span class="arrow_link_a"></span></a>
 							</div>	
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/NCA-CELEBRATES-SECOND-ACQUISITION.pdf" target="_blank" title="NCA celebrates second acquisition" class="font__size-20 font__family-efb">NCA celebrates second acquisition<span class="arrow_link_a"></span></a>

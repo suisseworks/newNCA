@@ -29,7 +29,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="font__family-efb text-uppercase line__height-90">Juan <br> Fernández </h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
+							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
 						<p class="font__size-18 line__height-24">I was raised in Madrid where I obtained my engineering degree, which I completed in Paris. After my studies, I worked 12 years for ArcelorMittal in various positions, moving to a focus on production management. After this step in my career, I took ownership of the P&L responsibilities in several factories within companies such as Gestamp, Hutchinson, Hitachi or Linxens for both, within the automotive and semi-conductors industries. Throughout my career, I have discovered my passion for entrepreneurship, making impactful decisions on behalf of the companies, and having a real positive influence on the business. At this point in my career, I am planning to acquire a SME in Spain or France to ensure its continuity and create further growth.  </p>
 					</div>
