@@ -255,7 +255,7 @@ $_SESSION["lan"] = "English";
                     </div>	
                     <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Roberto Wagner</h5>
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Robert Wagner</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
 									<a href="https://www.novastone-ca.com/searcher-robert.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
@@ -516,6 +516,36 @@ $_SESSION["lan"] = "English";
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
 									<a href="https://www.novastone-ca.com/david-miller.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/juan-fernandez2-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Juan Fernández</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/juan-fernandez.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/dean2-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Dean Curran</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/dean-curran.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	

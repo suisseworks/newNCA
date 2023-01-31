@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
 							<a href="https://www.linkedin.com/in/benboenk/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							 
+							<a href="http://novastone-ca.com/ben-boenk-du.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Dutch</a>
 						</div>
 					</div>	
 
@@ -31,7 +31,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">There is nothing more rewarding than seeing your friends and family enjoy a product that you’ve brought into their lives.  I’ve spent the past 15 years in the Food and CPG industries, developing new products, and bringing them to market.  I’ve learned that I am passionate about seeing businesses thrive and grow, and want to continue my career leading the next great food company.     </p>
+						<p class="font__size-18 line__height-24"><b style="font-weight: bold;">I spent my career in two main industries: 18 years as founder and managing director of a very successful high-end catering and event management business in the Netherlands and 17 years as co-founder and CEO of various businesses in products for Babies and Infants in the Middle East. </b><br> 
+
+As a next step in my career I would like to bring my passion, knowledge and international experience back to my native Netherlands and lead a business, in one of the categories of my search, to the next phase.  
+
+Even outside work I’m always interested in entrepreneurship and coach others to achieve their objectives. I’m a father of two studying kids and love to sail, play golf and cook.  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:ben.boenk@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
@@ -68,12 +72,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">My passion is to bring joy to consumers by sharing remarkable food & beverages with them.  I strive to acquire and lead a Food & Beverage manufacturing company based in the Western United States.     </p>
-					<p class="font__size-16 line__height-24 mt-2">I am looking for a business that needs a trusted leader to continue its legacy.    </p>
+					<p class="font__size-16 line__height-24 font__family-efb">The focus of my search is on three main categories: 
+												<ul class="mt-2 ml-5 pl-4" style="list-style: circle;">
+													<li>Health food and beverage production and supply </li>
+													<li>Leisure, entertainment, and wellness </li>
+													<li>Baby and infant products and services </li>
+												</ul>
+										 </p>
+					<p class="font__size-16 line__height-24 mt-2">It is especially in these industries where I can leverage my 34 years of entrepreneurial experience best.  </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">My experience has given me the technical skills and business acumen to provide exemplary leadership in the Food & Beverage industry.  </p>
-					<p class="font__size-16 line__height-24 mt-1"> From my engineering background to my success leading innovation for one of the most beloved brands in the country, I believe I am a well-rounded executive capable of solving difficult problems with creative solutions.      </p>    
+					<p class="font__size-16 line__height-24 font__family-efb"> 
+
+					I have a proven senior top management experience in various industries, focusing on international business development and product - as well as service - innovation.  </p>
+					<p class="font__size-16 line__height-24 mt-1"> Over the course of my career, I have gained strong operational experience in day-to-day business management, as well as in the implementation of new strategies. Having led companies through various phases of growth as well as crises, these valuable experiences have taught me to steer companies to eventual success and not to be distracted by the inevitable up- and downturns.  With my problem-solving and creative nature, I have successfully managed large multicultural teams and led several mergers and acquisitions. My hospitality background provides me with the ability to exceed customer expectations, while my vast experience in retail and distribution has taught me how to operate in a lean fashion. </p>    
 			</div>
 		</div>
 	</div>
@@ -87,9 +99,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/play-sec-aron2.png" alt="alt" class="image_video">
+                        <img src="img/thumbnail-ben.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/meKg8rcmd8Q" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/f2fb1itVptQ" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -166,8 +178,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">The best way to predict the future is to create it.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Peter Drucker</h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">The most effective way to do it, is to do it.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Amelia Earhart</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>

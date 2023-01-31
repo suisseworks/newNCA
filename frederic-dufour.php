@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/juan-fernandez.png">
+				<img src="img/frederic-dufour.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,23 +18,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/juan-fernandez-pascual/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="http://novastone-ca.com/juan-fernandez.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
+							<a href="https://www.linkedin.com/in/fred-dufour/?locale=en_US" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							 
 						</div>
 					</div>	
 
 
 
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Juan <br> Fernández </h2>
-						<h4 class="font__size-38 mt-4">Emprendedor en NCA</h4>
+						<h2 class="font__family-efb text-uppercase line__height-90">Frédéric <br> Dufour</h2>
+						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
-						<p class="font__size-18 line__height-24">Me crie en Madrid donde obtuve mi título de ingeniero, que completé en París. Tras mis estudios, trabajé 12 años para ArcelorMittal en diferentes posiciones avanzando hacia la gerencia de producción. Tras este paso en mi carrera, ocupé puestos con responsabilidad sobre resultados en varias fábricas de empresas como Gestamp, Hutchinson, Hitachi o Linxens, tanto para la industria de automoción como para la de semiconductores. A lo largo de todos estos años he confirmado mi pasión por el emprendimiento, asumiendo la responsabilidad de las decisiones y teniendo un impacto altamente positivo para el negocio. En este punto de mi carrera profesional, busco un proyecto que permita perpetuar la historia de éxito de una PYME española.  </p>
+						<p class="font__size-18 line__height-24"><b style="font-weight: bold;">I am a proactive, efficient, result-driven senior executive with a robust experience in managing businesses in selective industries, in France and abroad.  </b> </p>
+						<p class="font__size-18 line__height-24"><br>	I know how to develop companies thar want to step up with disruptive and strong DNA brands, within the cosmetic or pharmaceutical industry. 
+I lived in Russia, US, and France, graduated from EDHEC Business school, and with an MBA at Centrale Supelec.  
+I am hard worker, very hands on, and wish to continue my career in entrepreneurship through acquisition to create long term value.	
+					</p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:juan.fernandez@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contacto<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:frederic.dufour@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -55,25 +59,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Habilidades Clave</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Liderazgo</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Orientación a resultados </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Crecimiento internacional</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Creación de valor</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Productividad</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entrepreneurship</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Leadership </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Proactivity </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Organization</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Commitment </li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MI BÚSQUEDA</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Busco una pyme manufacturera rentable que genere entre 5 y 75 millones de euros de ingresos y esté ubicada en España o Francia. Los productos de la empresa objetivo pueden incluir materiales, componentes, piezas ensambladas o productos de ingeniería. Debe posicionarse en un mercado creciente y fragmentado.  </p>
-					<p class="font__size-16 line__height-24 mt-2">El EBITDA debe ser ≥10% y oscilar entre 1 y 10 millones de euros.  </p>
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">I will focus my search on cosmetics / dermo cosmetic / medical devices brands localized in France, as France is a world industrial leader in these sectors.  
+ </p>
+					<p class="font__size-16 line__height-24 mt-2">I plan, in an industry that I know well, to acquire a mid-sized company, to ensure the managerial and patrimonial transition, and to develop it strategically. 
 
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">Mi Contribución</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Me comprometo a de tomar el liderazgo de la empresa en un breve periodo de tiempo. Gracias a mi carácter pragmático, orientado a resultados, sabré encontrar oportunidades de creación de valor. Mi experiencia a nivel internacional me hace sentir cómodo para traer nuevas oportunidades de negocio más allá del ámbito nacional.  </p>
-					<p class="font__size-16 line__height-24 mt-1"> La mejora de la productividad ha sido siempre un pilar en el que he cimentado los éxitos de mi carrera.  </p>    
+</p>
+
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">I want to to use developped skills and industry expertise to the acquired company in order to create value with a strategy which will be governed by benevolence and requirement. </p>
+					<p class="font__size-16 line__height-24 mt-1"> The roadmap will undertake brand development through international markets development, digital transformation management, product innovation, sustainability, and team engagement.   </p>    
 			</div>
 		</div>
 	</div>
@@ -87,9 +94,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/juan-play-sec.png" alt="alt" class="image_video">
+                        <img src="img/thumbnail-frederic.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/Bp4Sb0euKTg" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/Ts9UsU0evS8" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -129,7 +136,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Juan-Fernandez-resume-es.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DESCARGAR CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Frederic-Dufour-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -143,17 +150,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-javier.png" class="resume_img">
+				<img src="img/background-frederic.png" class="resume_img">
 			</div>
 		</div>
 
 		<div class="row no-gutters">
 			<div class="col-lg-4">
 				<div class="about_contact_info pl-100 bg-white pr-100 pt-60 pb-80">
-					<h2 class="font__family-efb text-uppercase mb-3">Mis detalles de contacto</h2>
+					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:juan.fernandez@novastone-ca.com">juan.fernandez@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:frederic.dufour@novastone-ca.com">frederic.dufour@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -166,9 +173,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Cada vez que veas un negocio con éxito, alguien, en algún momento, tomó una decisión valiente.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Peter Drucker</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Consultor de Gestión, Profesor de Negocios y Autor </p>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">I never lose. I either win or learn.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Nelson Mandela </h5>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
 			  </div>
@@ -183,7 +190,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Juan Fernández</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Frédéric Dufour</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -205,8 +212,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:juan.fernandez@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">juan.fernandez@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/juan-fernandez-pascual/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:frederic.dufour@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">frederic.dufour@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/fred-dufour/?locale=en_US" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
