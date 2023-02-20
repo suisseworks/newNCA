@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/ben-boenk.png">
+				<img src="img/marcin-chrusciel.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,27 +18,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/benboenk/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="http://novastone-ca.com/ben-boenk-du.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Dutch</a>
+							<a href="https://www.linkedin.com/in/marcinch/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							 
 						</div>
 					</div>	
 
 
 
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Ben <br> Boenk</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Marcin  <br> Chruściel</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
+							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
-						<p class="font__size-18 line__height-24"><b style="font-weight: bold;">I spent my career in two main industries: 18 years as founder and managing director of a very successful high-end catering and event management business in the Netherlands and 17 years as co-founder and CEO of various businesses in products for Babies and Infants in the Middle East. </b><br> 
-
-As a next step in my career I would like to bring my passion, knowledge and international experience back to my native Netherlands and lead a business, in one of the categories of my search, to the next phase.  
-
-Even outside work I’m always interested in entrepreneurship and coach others to achieve their objectives. I’m a father of two studying kids and love to sail, play golf and cook.  </p>
+						<p class="font__size-18 line__height-24"><b style="font-weight: bold;">Nazywam się Marcin Chruściel i mieszkam we Wrocławiu. Przez ostatnie 17 lat zdobywałem doświadczenie w zarządzeniu firmami technologicznymi na różnych etapach ich rozwoju.  </b> </p>
+						<p class="font__size-18 line__height-24"><br>Po ukończeniu studiów MBA na Oxford Brookes University objąłem stanowisko Dyrektora Zarządzającego Polskiego oddziału firmy inżynieryjnej, a w kolejnych latach aktywnie uczestniczyłem w jej rozwoju tak organicznym jak i przez akwizycje. Obecnie, poprzez utworzenie autorskiego funduszu w ramach NCA zamierzam zakupić i rozwijać przedsiębiorstwo budując wartość dla interesariuszy a w szczególności dla udziałowców, pracowników i kontrahentów. 
+					</p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:ben.boenk@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:marcin.chrusciel@novastone-ca.com" type="button" class="btn text-white font__family-efb">Kontakt<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -59,33 +57,31 @@ Even outside work I’m always interested in entrepreneurship and coach others t
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> </span>Kluczowe umiejętności</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Curiosity</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entrepreneurship</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Business Development </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Engineering</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Product Development</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Kreatywny</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Analityczny </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Futurystyczny </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Rozwijający</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Poszukujący  </li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">The focus of my search is on three main categories: 
-												<ul class="mt-2 ml-5 pl-4" style="list-style: circle;">
-													<li>Health food and beverage production and supply </li>
-													<li>Leisure, entertainment, and wellness </li>
-													<li>Baby and infant products and services </li>
-												</ul>
-										 </p>
-					<p class="font__size-16 line__height-24 mt-2">It is especially in these industries where I can leverage my 34 years of entrepreneurial experience best.  </p>
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">Moje wyszukiwanie</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">Poszukuję przedsiębiorstwa o ugruntowanej pozycji rynkowej, które zakupię i będę rozwijać zwiększając wartość dla interesariuszy.  
+ </p>
+					<p class="font__size-16 line__height-24 mt-2">Skupiam się na firmach inżynieryjnych z sektora automatyki przemysłowej, robotyki lub usług produkcji oprogramowania. Jestem wielkim zwolennikiem długoterminowego budowania relacji biznesowych. Uważam, że są one niezbędną podstawą zwycięskiej strategii rozwoju.      
 
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb"> 
+</p>
 
-					I have a proven senior top management experience in various industries, focusing on international business development and product - as well as service - innovation.  </p>
-					<p class="font__size-16 line__height-24 mt-1"> Over the course of my career, I have gained strong operational experience in day-to-day business management, as well as in the implementation of new strategies. Having led companies through various phases of growth as well as crises, these valuable experiences have taught me to steer companies to eventual success and not to be distracted by the inevitable up- and downturns.  With my problem-solving and creative nature, I have successfully managed large multicultural teams and led several mergers and acquisitions. My hospitality background provides me with the ability to exceed customer expectations, while my vast experience in retail and distribution has taught me how to operate in a lean fashion. </p>    
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">Mój wkład</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">Współpracowałem zarówno z dużymi przedsiębiorstwami i z firmami rodzinnymi. Pracując dla  
+i z prywatnymi właścicielami poznałem specyfikę budowanych przez nich przedsiębiorstw oraz pomagałem w ich adaptacji do zmieniającego się modelu finansowania i struktury właścicielskiej.  </p>
+					<p class="font__size-16 line__height-24 mt-1"> Odczuwam satysfakcję z projektowania i przewidywania przyszłości oraz potrafię definiować bieżące zadania w sposób, który umożliwi osiągnięcie zakładanych celów. Biorę pełną odpowiedzialność za własne prognozy oraz zawsze wspieram i identyfikuję się z otaczającymi mnie zespołami.  
+
+</p>    
 			</div>
 		</div>
 	</div>
@@ -99,9 +95,9 @@ Even outside work I’m always interested in entrepreneurship and coach others t
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/thumbnail-ben.png" alt="alt" class="image_video">
+                        <img src="img/thumbnail-marcin.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/1JoXeoUyKQc" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/7XtvDdIVmjU" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -127,7 +123,7 @@ Even outside work I’m always interested in entrepreneurship and coach others t
 					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Entrepreneur </h3>
 					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">The NCA Entrepreneurship Through Acquisition Program accompanies the next generation of exceptional talents on every stage of their entrepreneurial path.</p>
 					<div class="learn_more_btns learn_about_btn mt-5 mb-4 pb-2">
-						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">LEARN MORE <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">Ucz się więcej <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 							  <defs>
 							    <clipPath id="clip-path">
 							      <rect width="38" height="38" fill="none"/>
@@ -141,7 +137,7 @@ Even outside work I’m always interested in entrepreneurship and coach others t
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Ben-Boenk-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Marcin-Chrusciel-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">POBIERZ CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -155,17 +151,17 @@ Even outside work I’m always interested in entrepreneurship and coach others t
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-ben.png" class="resume_img">
+				<img src="img/background-marcin.png" class="resume_img">
 			</div>
 		</div>
 
 		<div class="row no-gutters">
 			<div class="col-lg-4">
 				<div class="about_contact_info pl-100 bg-white pr-100 pt-60 pb-80">
-					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
+					<h2 class="font__family-efb text-uppercase mb-3">Moje dane kontaktowe</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:ben.boenk@novastone-ca.com">ben.boenk@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:marcin.chrusciel@novastone-ca.com">marcin.chrusciel@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -178,8 +174,8 @@ Even outside work I’m always interested in entrepreneurship and coach others t
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">The most effective way to do it, is to do it.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Amelia Earhart</h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Kto nie wie, do którego portu chce dopłynąć, dla tego żaden wiatr nie będzie dobry.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Seneca Młodszy  </h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
@@ -195,7 +191,7 @@ Even outside work I’m always interested in entrepreneurship and coach others t
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Ben Boenk</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Marcin Chruściel</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -217,8 +213,8 @@ Even outside work I’m always interested in entrepreneurship and coach others t
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:ben.boenk@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">ben.boenk@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/benboenk/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:marcin.chrusciel@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">marcin.chrusciel@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/marcinch/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>

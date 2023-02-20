@@ -31,7 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
-						<p class="font__size-18 line__height-24">I have 16 years’ experience, as Operations Director and CEO, rapidly growing and improving UK-based family-owned technology manufacturing SMEs into international export markets. I am an Emotionally intelligent leader with excellent soft management skills, experienced at building and motivating successful teams, honed by an Executive MBA.  </p>
+						<p class="font__size-18 line__height-24">I have 16 years’ experience, as Operations Director and CEO, rapidly growing and improving UK-based family-owned technology manufacturing SMEs into international export markets. I am an emotionally intelligent leader with excellent soft management skills, experienced at building and motivating successful teams, honed by an Executive MBA.  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:dean.curran@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
@@ -68,11 +68,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I am seeking to acquire and transform a light-manufacturing technology SME, preferably supplying products for the low-carbon or environment sectors, with international market potential.  </p>
+					<p class="font__size-16 line__height-24 font__family-efb">I am seeking to acquire and transform a light-manufacturing technology SME, preferably supplying products for the low-carbon or environmental sectors, with international market potential.  </p>
 					<p class="font__size-16 line__height-24 mt-2">My primary focus will be a successful electrical or electronic engineering SME.   </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Dean will deploy his extensive experience in people and change management and LEAN manufacturing/6Sigma techniques, to instil a no-blame continuous improvement culture deliver operational excellence and growth, driven by targets and Key Performance Indicators (KPIs), to measure and improve the performance of the business. He will also utilize his high emotional intelligence to create a culture of psychological safety and communicate his vision and culture across the organisation.  </p>
+					<p class="font__size-16 line__height-24 font__family-efb">Dean will deploy his extensive experience in people and change management and LEAN manufacturing/6Sigma techniques, to instil a no-blame continuous improvement culture and deliver operational excellence and growth, driven by targets and Key Performance Indicators (KPIs), to measure and improve the performance of the business. He will also utilise his high emotional intelligence to create a culture of psychological safety and communicate his vision and culture across the organisation.  </p>
 					<p class="font__size-16 line__height-24 mt-1"> Dean will also use his previous international commercial experience to create a customer-centric business, maximise market pricing, grow new export markets, reduce working capital, develop a low-cost supply chain, and drive innovation through an R&D strategy focused on customer-need.  </p>    
 			</div>
 		</div>
@@ -89,7 +89,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
                         <img src="img/thumbnail-dean.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/GcqQKpRzxAo" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/YjndU2eg1lE" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
