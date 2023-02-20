@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
 							<a href="https://www.linkedin.com/in/fred-dufour/?locale=en_US" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							 
+							<a href="https://novastone-ca.com/frederic-dufour-fr.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Français</a>
 						</div>
 					</div>	
 
@@ -32,9 +32,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
 						<p class="font__size-18 line__height-24"><b style="font-weight: bold;">I am a proactive, efficient, result-driven senior executive with a robust experience in managing businesses in selective industries, in France and abroad.  </b> </p>
-						<p class="font__size-18 line__height-24"><br>	I know how to develop companies thar want to step up with disruptive and strong DNA brands, within the cosmetic or pharmaceutical industry. 
-I lived in Russia, US, and France, graduated from EDHEC Business school, and with an MBA at Centrale Supelec.  
-I am hard worker, very hands on, and wish to continue my career in entrepreneurship through acquisition to create long term value.	
+						<p class="font__size-18 line__height-24"><br>	I know how to develop companies that want to stand out with a disruptive and strong  brand DNA within the cosmetic or pharmaceutical industries. I lived in Russia, US, and France, graduated from EDHEC Business school, and with an MBA at Centrale Supelec. I am hard worker, very hands on, and wish to continue my career in entrepreneurship through acquisition to create long term value.	
 					</p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
@@ -79,8 +77,8 @@ I am hard worker, very hands on, and wish to continue my career in entrepreneurs
 </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I want to to use developped skills and industry expertise to the acquired company in order to create value with a strategy which will be governed by benevolence and requirement. </p>
-					<p class="font__size-16 line__height-24 mt-1"> The roadmap will undertake brand development through international markets development, digital transformation management, product innovation, sustainability, and team engagement.   </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">I want to use my developed skills to and industry expertise to the acquired company in order to create value with a strategy I will govern with benevolence and careful attention to all the requirements. </p>
+					<p class="font__size-16 line__height-24 mt-1"> My roadmap will undertake brand development through international markets development, digital transformation management, product innovation, sustainability, and team engagement.   </p>    
 			</div>
 		</div>
 	</div>
@@ -96,7 +94,7 @@ I am hard worker, very hands on, and wish to continue my career in entrepreneurs
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
                         <img src="img/thumbnail-frederic.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/Ts9UsU0evS8" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/vPJVw-N-eg8" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
