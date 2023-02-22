@@ -32,7 +32,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
 						<p class="font__size-18 line__height-24"><b style="font-weight: bold;">I am a proactive, efficient, result-driven senior executive with a robust experience in managing businesses in selective industries, in France and abroad.  </b> </p>
-						<p class="font__size-18 line__height-24"><br>	I know how to develop companies that want to stand out with a disruptive and strong  brand DNA within the cosmetic or pharmaceutical industries. I lived in Russia, US, and France, graduated from EDHEC Business school, and with an MBA at Centrale Supelec. I am hard worker, very hands on, and wish to continue my career in entrepreneurship through acquisition to create long term value.	
+						<p class="font__size-18 line__height-24"><br>	I know how to develop companies that want to stand out with a disruptive and strong brand DNA within the cosmetic or pharmaceutical industries. I lived in Russia, US, and France, graduated from EDHEC Business school, and with an MBA at Centrale Supelec. I am hard worker, very hands on, and wish to continue my career in entrepreneurship through acquisition to create long term value.	
 					</p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
