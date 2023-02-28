@@ -33,7 +33,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						<p class="font__size-18 line__height-24"><b style="font-weight: bold;">Je suis un manager proactif, efficace, orienté résultats, avec une solide expérience dans la gestion d’entreprises dans l’industrie sélective, en France et à l’étranger.  
  </b> </p>
-						<p class="font__size-18 line__height-24"><br>	J’ai une expertise dans le développement des entreprises qui veulent changer de dimansion, avec des marques à forte ADN, au sein de l’industrie cosmétique ou pharmaceutique. J’ai vécu en Russie, aux États-Unis et en France.  Diplômé de l’EDHEC Business School et titulaire d’un MBA à Centrale Supelec, je suis travailleur, pragmatique, et je souhaite poursuivre ma carrière dans l’entrepreneuriat par acquisition pour créer de la valeur à long terme. 
+						<p class="font__size-18 line__height-24"><br>	J’ai une expertise dans le développement des entreprises qui veulent changer de dimension, avec des marques à forte ADN, au sein de l’industrie cosmétique ou pharmaceutique. J’ai vécu en Russie, aux États-Unis et en France.  Diplômé de l’EDHEC Business School et titulaire d’un MBA à Centrale Supelec, je suis travailleur, pragmatique, et je souhaite poursuivre ma carrière dans l’entrepreneuriat par acquisition pour créer de la valeur à long terme. 
 					</p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
@@ -71,7 +71,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MA RECHERCHE</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Je concentrerai ma recherche sur des entreprises de cosmétiques / dermo-cosmétiques / dispositifs médicaux localisée en France, car la France est un leader industriel mondial dans ces secteurs. J’envisage, dans une industrie que je connais bien, d’acquérir une entreprise de taille moyenne, d’assurer la transition managériale et patrimoniale, et de la développer stratégiquement. 
+					<p class="font__size-16 line__height-24 font__family-efb">Je concentrerai ma recherche sur des entreprises de cosmétiques / dermo-cosmétiques / dispositifs médicaux localisées en France, car la France est un leader industriel mondial dans ces secteurs. J’envisage, dans une industrie que je connais bien, d’acquérir une entreprise de taille moyenne, d’assurer la transition managériale et patrimoniale, et de la développer stratégiquement. 
  </p>
 					<p class="font__size-16 line__height-24 mt-2">  
 
@@ -79,7 +79,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">MA CONTRIBUTION</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">Je prévois d’utiliser les compétences et l’expertise de l’industrie acquises au cours de ma carrière afin de créer de la valeur avec une stratégie qui sera régie par la bienveillance et l’exigence. </p>
-					<p class="font__size-16 line__height-24 mt-1">La feuille de route détaillera le développement de la marque par le développement des  marchés internationaux, la  gestion de la transformation numérique, l’innovation produits, la durabilité et l’engagement des équipes.   </p>    
+					<p class="font__size-16 line__height-24 mt-1">La feuille de route détaillera le développement de la marque par le développement des  marchés internationaux, la  gestion de la transformation numérique, l’innovation produits, le développement durable et l’engagement des équipes.   </p>    
 			</div>
 		</div>
 	</div>
