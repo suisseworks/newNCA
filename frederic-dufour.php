@@ -31,8 +31,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
-						<p class="font__size-18 line__height-24"><b style="font-weight: bold;">I am a proactive, efficient, result-driven senior executive with a robust experience in managing businesses in selective industries, in France and abroad.  </b> </p>
-						<p class="font__size-18 line__height-24"><br>	I know how to develop companies that want to stand out with a disruptive and strong brand DNA within the cosmetic or pharmaceutical industries. I lived in Russia, US, and France, graduated from EDHEC Business school, and with an MBA at Centrale Supelec. I am hard worker, very hands on, and wish to continue my career in entrepreneurship through acquisition to create long term value.	
+						<p class="font__size-18 line__height-24"><b style="font-weight: bold;">I am a proactive, efficient, results-driven senior executive with a robust experience in managing businesses in selective industries, in France and abroad. 
+
+ 
+</b> </p>
+						<p class="font__size-18 line__height-24"><br>	I have experience developing companies that want to stand out with a disruptive and strong brand-DNA within the cosmetic and pharmaceutical industries. I have lived in Russia, US, and France, graduated from EDHEC Business school, and obtained my MBA at Centrale Supelec. I pride myself on my hard work ethic and very hands-on approach, and wish to continue my career in entrepreneurship through acquisition to create long-term value. 	
 					</p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
@@ -70,15 +73,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I will focus my search on cosmetics / dermo cosmetic / medical devices brands localized in France, as France is a world industrial leader in these sectors.  
+					<p class="font__size-16 line__height-24 font__family-efb">I will focus my search on cosmetics, dermo-cosmetics, and medical devices brands localized in France - as France is a world leader in these sectors.   
  </p>
-					<p class="font__size-16 line__height-24 mt-2">I plan, in an industry that I know well, to acquire a mid-sized company, to ensure the managerial and patrimonial transition, and to develop it strategically. 
+					<p class="font__size-16 line__height-24 mt-2">I plan to acquire a mid-sized company, in an industry that I know well, to ensure that the managerial transition goes smoothly with the company legacy in mind, and to develop it strategically. 
 
 </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I want to use my developed skills to and industry expertise to the acquired company in order to create value with a strategy I will govern with benevolence and careful attention to all the requirements. </p>
-					<p class="font__size-16 line__height-24 mt-1"> My roadmap will undertake brand development through international markets development, digital transformation management, product innovation, sustainability, and team engagement.   </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">I want to use my developed skills and industry expertise to create value for the acquired company with a well-planned strategy. I will lead the business with benevolence and careful attention to all the requirements.  </p>
+					<p class="font__size-16 line__height-24 mt-1"> My roadmap will involve brand development through international markets development, digital transformation management, product innovation, sustainability, and team engagement.  </p>    
 			</div>
 		</div>
 	</div>
