@@ -18,7 +18,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/erika-o-brien-6864b142/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/in/lisapierceymd" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							 
 						</div>
 					</div>	
@@ -68,11 +68,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">6.	Dr. Piercey’s target search industry is rural healthcare in the Southeastern United States, where fragmented care and barriers to access drive the worst health outcomes in the nation. Her motivation to be an entrepreneur stems from the opportunities she has identified firsthand to improve and transform the availability and efficiency of rural healthcare services. </p>
+					<p class="font__size-16 line__height-24 font__family-efb">Dr. Piercey’s target search industry is rural healthcare in the Southeastern United States, where fragmented care and barriers to access drive the worst health outcomes in the nation. Her motivation to be an entrepreneur stems from the opportunities she has identified firsthand to improve and transform the availability and efficiency of rural healthcare services. </p>
 					<p class="font__size-16 line__height-24 mt-2">Her leadership in private and public sector roles offers a unique vantage point into the industry and familiarity with the needs of multiple stakeholders. Growing up in the rural South, this work is deeply personal to her, driving a passion for finding solutions that sustain and enhance access to healthcare in rural areas and the economic development of rural regions.</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">7.	Opportunities for creating value in the acquired company include delivering value-based care arrangements to payors for cost-efficient care for older and sicker populations, preserving the independence and autonomy of SMEs experiencing consolidation pressures from health systems and national retailers, and providing a trusted off-ramp for business owners who are weary from both the recent pandemic-related stressors and the projected economic difficulties. </p>
+					<p class="font__size-16 line__height-24 font__family-efb">Opportunities for creating value in the acquired company include delivering value-based care arrangements to payors for cost-efficient care for older and sicker populations, preserving the independence and autonomy of SMEs experiencing consolidation pressures from health systems and national retailers, and providing a trusted off-ramp for business owners who are weary from both the recent pandemic-related stressors and the projected economic difficulties. </p>
 					<p class="font__size-16 line__height-24 mt-1"> After the acquisition, the target company will almost certainly have immediate opportunities for value creation through instituting operational best practices, transforming inefficient processes, and leveraging technology to grow market reach.  </p>    
 			</div>
 		</div>
@@ -87,9 +87,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/thumbnail-ericka.png" alt="alt" class="image_video">
+                        <img src="img/thumbnail-lisa.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/0Kx5wziLz28" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/8b_S3CSERmw" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
 						<a href="mailTo:lisa.piercey@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">lisa.piercey@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/erika-o-brien-6864b142/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="https://www.linkedin.com/in/lisapierceymd" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>

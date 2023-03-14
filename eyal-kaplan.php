@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/frederic-dufour.png">
+				<img src="img/eyal-kaplan.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,26 +18,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/fred-dufour/?locale=en_US" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							<a href="https://novastone-ca.com/frederic-dufour.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a> 
+							<a href="https://www.linkedin.com/in/lisapierceymd" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							 
 						</div>
 					</div>	
 
 
 
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Frédéric <br> Dufour</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Eyal <br> Kaplan</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
-						<p class="font__size-18 line__height-24"><b style="font-weight: bold;">Je suis un manager proactif, efficace, orienté résultats, avec une solide expérience dans la gestion d’entreprises dans l’industrie sélective, en France et à l’étranger.  
- </b> </p>
-						<p class="font__size-18 line__height-24"><br>	J’ai une expertise dans le développement des entreprises qui veulent changer de dimension, avec des marques à forte ADN, au sein de l’industrie cosmétique ou pharmaceutique. J’ai vécu en Russie, aux États-Unis et en France.  Diplômé de l’EDHEC Business School et titulaire d’un MBA à Centrale Supelec, je suis travailleur, pragmatique, et je souhaite poursuivre ma carrière dans l’entrepreneuriat par acquisition pour créer de la valeur à long terme. 
-					</p>
+						<p class="font__size-18 line__height-24">For the last 12 years, I have been living in Hertfordshire with my wife and our three children. After 15+ years with large corporations such as Amazon, Ernst & Young and TJX, I cannot wait to return to entrepreneurship. My professional experience includes a unique blend of strategic and large-scale operational roles, small business ownership and general management roles in ecommerce and stores. If you own a successful business and are thinking about passing it on to a safe pair of hands, reach out. We will have a confidential conversation and explore ways to keep your legacy alive and thriving. </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:frederic.dufour@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contactez-moi<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:eyal.kaplan@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -58,28 +55,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>COMPÉTENCES</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Esprit d’entreprise</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Leadership </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Proactivité </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Organisation</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Engagement </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Authentic & approachable</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Flexible, strategic thinker </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Customer-obsessed </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Solution-oriented </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Resilient</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MA RECHERCHE</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Je concentrerai ma recherche sur des entreprises de cosmétiques / dermo-cosmétiques / dispositifs médicaux localisées en France, car la France est un leader industriel mondial dans ces secteurs. J’envisage, dans une industrie que je connais bien, d’acquérir une entreprise de taille moyenne, d’assurer la transition managériale et patrimoniale, et de la développer stratégiquement. 
- </p>
-					<p class="font__size-16 line__height-24 mt-2">  
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">With the support of Novastone and its investors, I am looking to buy and grow a successful SME in the B2B services, or Light-Manufacturing industries in the UK. </p>
+					<p class="font__size-16 line__height-24 mt-2">My search includes but is not limited to the following subsectors: Third-Party Logistics, Freight Forwarding & Customs Agents, Warehousing & Storage, Private security services, Packaging Services, Removal Services, Joinery Installation, Landscaping Services, General Building Cleaning, Machinery Repair & Maintenance, Non-Hazardous Waste Collection, Non-Hazardous Waste Treatment & Disposal, Waste Management Services and Light-Manufacturing SMEs. </p>
 
-</p>
-
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">MA CONTRIBUTION</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Je prévois d’utiliser les compétences et l’expertise de l’industrie acquises au cours de ma carrière afin de créer de la valeur avec une stratégie qui sera régie par la bienveillance et l’exigence. </p>
-					<p class="font__size-16 line__height-24 mt-1">La feuille de route détaillera le développement de la marque par le développement des  marchés internationaux, la  gestion de la transformation numérique, l’innovation produits, le développement durable et l’engagement des équipes.   </p>    
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">Utilising my experience and skills gained across all the roles I’ve filled to date, I will work with the team to ensure the continued growth and profitability that my predecessor has worked so hard to achieve. </p>
+					<p class="font__size-16 line__height-24 mt-1"> During an initial handover period I will have an opportunity to not only learn the business and industry, but also get to know and connect with the team. Thereafter, I will work with and guide the team to achieve significant growth and value creation through any strategic improvement measures that form a good fit with the company’s business model and broader industry trends. </p>    
 			</div>
 		</div>
 	</div>
@@ -93,9 +87,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/thumbnail-frederic.png" alt="alt" class="image_video">
+                        <img src="img/thumbnail-lisa.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/hWVpvKzUQLQ" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/8b_S3CSERmw" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -119,9 +113,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</svg>
 					</span>
 					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Entrepreneur </h3>
-					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">Le programme NCA Entrepreneurship Through Acquisition accompagne la prochaine génération de talents exceptionnels à chaque étape de leur parcours entrepreneurial.</p>
+					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">The NCA Entrepreneurship Through Acquisition Program accompanies the next generation of exceptional talents on every stage of their entrepreneurial path.</p>
 					<div class="learn_more_btns learn_about_btn mt-5 mb-4 pb-2">
-						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">APRENDRE ENCORE PLUS <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">LEARN MORE <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 							  <defs>
 							    <clipPath id="clip-path">
 							      <rect width="38" height="38" fill="none"/>
@@ -135,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Frederic-Dufour-resume-fr.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">Télécharger LE CV<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Lisa-Piercey-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -149,17 +143,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-frederic.png" class="resume_img">
+				<img src="img/background-piercey.png" class="resume_img">
 			</div>
 		</div>
 
 		<div class="row no-gutters">
 			<div class="col-lg-4">
 				<div class="about_contact_info pl-100 bg-white pr-100 pt-60 pb-80">
-					<h2 class="font__family-efb text-uppercase mb-3">MES COORDONNÉES</h2>
+					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:frederic.dufour@novastone-ca.com">frederic.dufour@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:eyal.kaplan@novastone-ca.com">eyal.kaplan@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -172,8 +166,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> Je ne perds jamais. Soit je gagne, soit j’apprends</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Nelson Mandela </h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">If an expert says it can't be done, get another expert.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">David Ben-Gurion </h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
@@ -189,13 +183,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Frédéric Dufour</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Eyal Kaplan</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
-							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">Ce site Web ne cons`tue nullement une offre d’achat ou de vente d’un instrument financier. Lesinforma`ons fournies sur ce site sont à `tre informa`f uniquement et ne cons`tuent pas une offre, unesollicita`on ou une recommanda`on de souscrire à un service financier. Dans la mesure où ce siteexprime des opinions sur des stratégies d'inves`ssement et des idées d'inves`ssement, ces informa`onssont de nature générale uniquement et ne doivent pas être interprétées comme une publicité poursouscrire à un service financier ou pour inves`r dans un instrument financier spécifique.
-
-</p>
+							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>
 
 							<a href="index.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Website <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
 								  <defs>
@@ -213,8 +205,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:frederic.dufour@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">frederic.dufour@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/fred-dufour/?locale=en_US" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:eyal.kaplan@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">eyal.kaplan@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/lisapierceymd" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
