@@ -6,7 +6,7 @@
 <?php include 'inc/header-de.php'; ?>
 <body>
 	<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-PMVD7NQ
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHG7P3C"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 		<section class="pt-lg-70 pt-100 pt_tab_60 about_section" id="about">
