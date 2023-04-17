@@ -131,7 +131,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Nca <br> News</h2>
 						<div class="resource_wrap_links">
 
-						
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="https://m.youtube.com/watch?v=ThU7d9v1z4o&feature=youtu.be" target="_blank" title=" " class="font__size-20 font__family-efb">Novastone Capital Advisors on Advancements with Ted Danson- March 2023<span class="arrow_link_a"></span></a>
+							</div>	
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/NCA-Program-presentation-for-Q&A-Feb-23.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">NCA Program presentation for Q&A- Feb 23<span class="arrow_link_a"></span></a>

@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/jordan-frank.png">
+				<img src="img/juan-fernandez.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,23 +18,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/jordanfrank2/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							 
+							<a href="https://www.linkedin.com/in/juan-fernandez-pascual/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>							 
 						</div>
 					</div>	
 
 
 
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Jordan <br> Frank</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Jim <br> Kelly </h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
+							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
-						<p class="font__size-18 line__height-24">There is nothing more rewarding than seeing your friends and family enjoy a product that you’ve brought into their lives.  I’ve spent the past 15 years in the Food and CPG industries, developing new products, and bringing them to market.  I’ve learned that I am passionate about seeing businesses thrive and grow, and want to continue my career leading the next great food company.     </p>
+						<p class="font__size-18 line__height-24">I was raised in Madrid where I obtained my engineering degree, which I completed in Paris. After my studies, I worked 12 years for ArcelorMittal in various positions, moving to a focus on production management. After this step in my career, I took ownership of the P&L responsibilities in several factories within companies such as Gestamp, Hutchinson, Hitachi or Linxens for both, within the automotive and semi-conductors industries. Throughout my career, I have discovered my passion for entrepreneurship, making impactful decisions on behalf of the companies, and having a real positive influence on the business. At this point in my career, I am planning to acquire a SME in Spain or France to ensure its continuity and create further growth.  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:jordan.frank@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:juan.fernandez@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -55,25 +54,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Core competencies</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Curiosity</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entrepreneurship</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Business Development </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Engineering</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Product Development</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Leadership</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Result oriented</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>International development</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Value creation</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Productivity</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">My passion is to bring joy to consumers by sharing remarkable food & beverages with them.  I strive to acquire and lead a Food & Beverage manufacturing company based in the Western United States.     </p>
-					<p class="font__size-16 line__height-24 mt-2">I am looking for a business that needs a trusted leader to continue its legacy.    </p>
+					<p class="font__size-16 line__height-24 font__family-efb"> I am looking for a profitable manufacturing SME generating €5-75 million of revenue and located in Spain or France. The Target Company’s products could include materials, components, assembled parts or engineered products. It should be positioned in a growing and fragmented market.  </p>
+					<p class="font__size-16 line__height-24 mt-2">The EBITDA should be ≥10% (no turnaround situation) and range between €1 and 10 million. </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">My experience has given me the technical skills and business acumen to provide exemplary leadership in the Food & Beverage industry.  </p>
-					<p class="font__size-16 line__height-24 mt-1"> From my engineering background to my success leading innovation for one of the most beloved brands in the country, I believe I am a well-rounded executive capable of solving difficult problems with creative solutions.      </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">I can ensure a fast transition and seamlessly take the lead of the company in a short period of time. Thanks to my pragmatic, result-oriented character, I will find new value creation opportunities. My international experience supports my ability to expose new business opportunities beyond the national boundaries.  </p>
+					<p class="font__size-16 line__height-24 mt-1">Improving productivity has always been a pillar on which I have built the success points of my career.    </p>    
 			</div>
 		</div>
 	</div>
@@ -87,9 +86,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/jordan-thumbnail.png" alt="alt" class="image_video">
+                        <img src="img/juan-play-sec.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/meKg8rcmd8Q" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/Es0W4xGMq4Q" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -129,7 +128,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Jordan-Frank-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Juan-Fernandez-resume-fr.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -143,7 +142,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-jordan.png" class="resume_img">
+				<img src="img/background-javier.png" class="resume_img">
 			</div>
 		</div>
 
@@ -153,7 +152,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:jordan.frank@novastone-ca.com">jordan.frank@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:juan.fernandez@novastone-ca.com">juan.fernandez@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -166,9 +165,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">The best way to predict the future is to create it.</h4>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Whenever you see a successful business, someone once made a courageous decision.</h4>
 							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Peter Drucker</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase">Management Consultant, Educator, and Author </p>
 					</div>
 				</div>
 			  </div>
@@ -183,7 +182,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Jordan Frank</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Juan Fernández</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -205,8 +204,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:jordan.frank@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">jordan.frank@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/jordanfrank2/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:juan.fernandez@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">juan.fernandez@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/juan-fernandez-pascual/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
