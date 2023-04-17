@@ -24,7 +24,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="font__family-efb text-uppercase line__height-90">Marc <br> Decoste</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2023</span>
+							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
 						<p class="font__size-18 line__height-24"> I grew up in Canada and have lived in Guam, the Philippines, the UK, and several US cities. I’ve worked for small and large companies, in corporate and startup settings, and across roles ranging from business development to strategic finance. Entrepreneurship has been a consistent theme throughout my career and is now the focus of my work with NCA.  </p>
 					</div>
@@ -83,9 +83,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                    <img src="img/play-sec-1.png" alt="alt" class="image_video">
+                    <img src="img/marc-thumbnail.png" alt="alt" class="image_video">
                     <div class="play_button left_btn center_btn play_btn_white position-absolute">
-	                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/WpMLw8nDg4Q" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+	                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/03pwSqy6c9E" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                     </div>
                 </div>
 			</div>
