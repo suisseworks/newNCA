@@ -190,7 +190,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/nick.jpg">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Nick Akers</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -207,7 +207,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/ryan.jpg">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Ryan Wright</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -222,7 +222,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/nate.jpg">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Nathan Taylor</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -237,7 +237,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/robert.jpg">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Robert Wagner</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -252,7 +252,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/george-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">George Berczely</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -267,7 +267,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/manjunath-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Manjunath  Bhat</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -282,7 +282,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/ram-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Ram Sriram</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -299,7 +299,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/rohith-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Rohit Saravanan</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -314,7 +314,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/daniel-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Daniel Coutinho</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -329,7 +329,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/david-lin-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">David Lin</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -344,7 +344,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/darwin-about-us.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Darwin Salicrup</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -359,7 +359,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/about-us-marc.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Marc Decoste</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -374,7 +374,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/adam-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Adam Salmen</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -389,7 +389,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/samantha-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Samantha Freeman</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -404,7 +404,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/nicoletta-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Nicoletta Nutrito</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -419,7 +419,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/andreas-about3.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Andreas Franz</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -434,7 +434,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/david-widmer-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">David Widmer</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -449,7 +449,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/olivier-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Olivier Guillebert</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -464,7 +464,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/alejandro-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Alejandro Salcedo</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -479,7 +479,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/aron-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Aron Szabo</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -494,7 +494,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/david-miller-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">David Miller</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -509,7 +509,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/juan-fernandez2-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Juan Fernández</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -524,7 +524,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/about-erika-obrien.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Erika O'Brien</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -539,7 +539,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/ben-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Ben Boenk</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -554,7 +554,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/frederic-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Frédéric Dufour</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -569,7 +569,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/lisa-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Lisa Piercey</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -584,7 +584,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/dean2-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Dean Curran</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -599,7 +599,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/marcin-about.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Marcin Chruściel</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
@@ -614,7 +614,7 @@ $_SESSION["lan"] = "English";
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/about-jordan.png">
                     </div>	
-                    <div class="member_content bg-primary py-3 d-flex align-items-center justify-content-center px-4">
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Jordan Frank</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
