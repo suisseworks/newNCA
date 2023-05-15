@@ -731,7 +731,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div class="col-lg-3 pl-5 pr-5 mt-10 mt-lg-0">
 					<div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/angel.jpg">
+                        	<img class="w-100" src="img/angel2.png">
                         </div>	
 						<div class="member_content bg-white py-4 d-flex align-items-center justify-content-center">
                         	<div>
