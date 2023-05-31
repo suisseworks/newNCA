@@ -5,10 +5,13 @@
 
 <?php include 'inc/header.php'; ?>
 <body>
-	<!-- Google Tag Manager (noscript) -->
+ 
+<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHG7P3C"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
+
     <section class="pt-lg-70 pt-70 about_section" id="about">
 		<div class="strike_heading_2 bg-white">
 			<div class="container">
@@ -544,7 +547,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> José Infantozzi </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Business Analyst
+								Financial Controller
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/jose-miguel-infantozzi-h/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
