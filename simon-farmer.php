@@ -31,7 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
-						<p class="font__size-18 line__height-24">I was born and raised in the UK, where is still live with my wife and 3 boys. My career has been very broad across various Energy, Tech, and Facilities Management roles, crossing many boarders including Europe and the USA. I have always gravitated towards business development and general leadership roles, as I love helping business and people grow. My passion is growing energy businesses, and this is the areas I intend to focus on during my entrepreneurial journey. </p>
+						<p class="font__size-18 line__height-24">I was born and raised in the UK, where is still live with my wife and 3 boys. My career has been very broad across various Energy, Tech, and Facilities Management roles, crossing many borders including Europe and the USA. I have always gravitated towards business development and general leadership roles, as I love helping business and people grow. My passion is growing energy businesses, and this is the areas I intend to focus on during my entrepreneurial journey. </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:simon.farmer@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
@@ -87,9 +87,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/thumbnail-eyal.png" alt="alt" class="image_video">
+                        <img src="img/thumbnail-simon-farmer.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/EMwmVNDhMDg" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/IHWq82HtZZQ" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>

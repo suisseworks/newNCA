@@ -68,8 +68,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb"> My target companies are wholesale distribution SMEs within the durable goods segment.  My search focuses on businesses with a good potential for revenue growth and has room to increase profitability through greater business efficiencies. </p>
-					<p class="font__size-16 line__height-24 mt-2"> My target geography is Canada, ideally the Quebec and Ontario area, where I can leverage bilingualism to penetrate new geographies. </p>
+					<p class="font__size-16 line__height-24 font__family-efb"> My target companies are wholesale distribution and light manufacturing SMEs. My search focuses on businesses with a good potential for revenue growth and have room to increase profitability through greater business efficiencies. </p>
+					<p class="font__size-16 line__height-24 mt-2"> My target geography is Canada, ideally the Quebec and Ontario area, where I can leverage bilingualism to penetrate new geographies, however, I am open to opportunities within North America.</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">Having worn all the different “hats” while growing my own company allows me to understand the many challenges faced by today’s SMEs.  I am passionate about creating value and using creativity to tackle business problems.  </p>
@@ -143,7 +143,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-piercey.png" class="resume_img">
+				<img src="img/background-martine.png" class="resume_img">
 			</div>
 		</div>
 
@@ -166,8 +166,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Yesterday’s home runs don’t win today’s games.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Babe Ruth</h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">The journey of a thousand miles begins with one step.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Lao Tzu</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
