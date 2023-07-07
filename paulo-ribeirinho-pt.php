@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/javier-fernandez.png">
+				<img src="img/paulo-ribeirinho.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,25 +18,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/javierfdezm/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							 
+							<a href="https://www.linkedin.com/in/pauloribeirinho/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="paulo-ribeirinho.php" class="bg-transparent mt-110 ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
 						</div>
 					</div>	
 
 
 
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Javier <br> Fernández</h2>
-						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
+						<h2 class="font__family-efb text-uppercase line__height-90">Paulo <br> Ribeirinho</h2>
+						<h4 class="font__size-38 mt-4">NCA Empreendedor</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
+							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
 						<p class="font__size-18 line__height-24"> 
 
-I was born and raised in Madrid, where I now live with my wife and two kids. My career has been focused on investment and financing, and I have gathered experience encompassing management, operations, and strategy. I began my entrepreneurial journey about 15 years ago, which I found to be my passion. Thus, with the support of NCA I want to continue my entrepreneurial journey through acquisition.  </p>
+                        Nasci e fui criado em Portugal, mas vivi e trabalhei na Nigéria, Singapura, França, Reino Unido e Brasil. Sou engenheiro de formação e comecei a minha carreira na área industrial, mas mais recentemente tive cargos executivos em startups de e-commerce em diversas geografias e big tech. O empreendedorismo é a minha paixão e tenho como objectivo fazê-lo através da aquisição duma PME.   </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:javier.fernandez@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:paulo.ribeirinho@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contato<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -57,27 +57,27 @@ I was born and raised in Madrid, where I now live with my wife and two kids. My 
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Habilidades Chave</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic thinking</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entrepreneurship</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Leadership</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Goal Oriented</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strong communication skils</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Empreendedorismo</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Operações Industriais</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Digitalização</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Orientação a Resultados</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Escalar Negócios</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MINHA PESQUISA</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">  
 
-My goal is to acquire a profitable business, which I could bring to its full potential. I am searching for a company that has 4 years of consecutive growth and an EBITDA of 2M – 10M euros. </p>
-					<p class="font__size-16 line__height-24 mt-2"> Geographically I am searching in Spain with a focus on Madrid and its surrounding areas. Regarding the industry/sector I am agnostic.  </p>
+                    O meu foco é a aquisição de uma PME lucrativa de produção industrial ou serviços associados que gere € 10-50 milhões em receitas e que esteja localizada em Portugal ou, de forma oportunista, no sector de serviços em Portugal ou Espanha. </p>
+					<p class="font__size-16 line__height-24 mt-2">   </p>
 
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I have a deep understanding of how to identify and evaluate opportunities for growth, and I am skilled at leveraging the operational strengths and capabilities of companies for exceptional value creation. I have also served in leadership positions where I have managed and motivated teams.  </p>
-					<p class="font__size-16 line__height-24 mt-1">My background combined with my entrepreneurial track record, will help me to manage/transform the company we acquire and continue its legacy.    </p>    
+					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">Minha contribuição</h2>
+					<p class="font__size-16 line__height-24 font__family-efb">O meu objetivo é combinar a minha experiência em operações industriais e desenvolvimento de negócios digitais para criar valor para a empresa adquirida sem deixar de preservar o legado do fundador da empresa.  </p>
+					<p class="font__size-16 line__height-24 mt-1">A minha experiência em melhoria operacional, desenvolvimento de negócios de tecnologia e liderança de equipas grandes em várias geografias leva-me a acreditar que posso trazer à empresa adquirida um novo ciclo de crescimento que criará valor para colaboradores e acionistas.   </p>    
 			</div>
 		</div>
 	</div>
@@ -91,9 +91,9 @@ My goal is to acquire a profitable business, which I could bring to its full pot
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/thumbnail-javier-fernandez.png" alt="alt" class="image_video">
+                        <img src="img/paulo-thumbnail.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/bh1aWZW-fdw" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/8c_08Z8yLLU" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -116,10 +116,10 @@ My goal is to acquire a profitable business, which I could bring to its full pot
 						  <path id="Path_6602" data-name="Path 6602" d="M725.4-850.671c6.158,4.2,23.007,17.9,29.133,45.4l.086.389h2.547l-.132-.607c-7.571-34.61-32.04-48.449-32.286-48.585l-1.842-1.013v50.233h2.5Z" transform="translate(-722.906 856.146)" fill="#fff"/>
 						</svg>
 					</span>
-					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Entrepreneur </h3>
-					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">The NCA Entrepreneurship Through Acquisition Program accompanies the next generation of exceptional talents on every stage of their entrepreneurial path.</p>
+					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Empreendedor </h3>
+					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">O Programa de Empreendedorismo Através da Aquisição da NCA acompanha a próxima geração de talentos excepcionais em todas as etapas de seu caminho empreendedor.</p>
 					<div class="learn_more_btns learn_about_btn mt-5 mb-4 pb-2">
-						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">LEARN MORE <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">Saber mais <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 							  <defs>
 							    <clipPath id="clip-path">
 							      <rect width="38" height="38" fill="none"/>
@@ -133,7 +133,7 @@ My goal is to acquire a profitable business, which I could bring to its full pot
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Javier-Fernandez-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Paulo-Ribeirinho-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">Baixar currículo<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -147,17 +147,17 @@ My goal is to acquire a profitable business, which I could bring to its full pot
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-javier.png" class="resume_img">
+				<img src="img/paulo-background.png" class="resume_img">
 			</div>
 		</div>
 
 		<div class="row no-gutters">
 			<div class="col-lg-4">
 				<div class="about_contact_info pl-100 bg-white pr-100 pt-60 pb-80">
-					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
+					<h2 class="font__family-efb text-uppercase mb-3">Meus Detalhes de contato</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:javier.fernandez@novastone-ca.com">javier.fernandez@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:paulo.ribeirinho@novastone-ca.com">paulo.ribeirinho@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -170,8 +170,8 @@ My goal is to acquire a profitable business, which I could bring to its full pot
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">The harder I work, the luckier I get.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Samuel Goldwyn</h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">A nossa maior glória não consiste em nunca falhar, mas em levantar-se a cada vez que falhamos.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Confucius</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
@@ -187,7 +187,7 @@ My goal is to acquire a profitable business, which I could bring to its full pot
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Javier Fernández</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Paulo Ribeirinho</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -209,8 +209,8 @@ My goal is to acquire a profitable business, which I could bring to its full pot
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:javier.fernandez@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">javier.fernandez@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/javierfdezm/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:paulo.ribeirinho@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">paulo.ribeirinho@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/pauloribeirinho/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>

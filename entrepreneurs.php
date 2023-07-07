@@ -72,7 +72,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Erick Azen</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-erick.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-erick.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>
 					</div>	
@@ -91,7 +91,7 @@ $_SESSION["lan"] = "English";
                         	</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 		        			<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-viktor.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-viktor.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>		
 					</div>	
@@ -109,7 +109,7 @@ $_SESSION["lan"] = "English";
                         	</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-markus.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-markus.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>
 		        					
@@ -146,7 +146,7 @@ $_SESSION["lan"] = "English";
                         	</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-fryderyk.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-fryderyk.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>		
 					    </div>	
@@ -163,28 +163,13 @@ $_SESSION["lan"] = "English";
                         	</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-vanessa.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-vanessa.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>		
 					    </div>	
                     </div>	
 				</div>
 				 
-				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
-                    <div class="img_section w-100">
-                    	<img class="w-100" src="img/nick.jpg">
-                    </div>	
-                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
-                    	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Nick Akers</h5>
-		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-nick.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
-								</div>	
-		        			</p>	
-					</div>	
-                    </div>	
-				</div>
 
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
@@ -196,27 +181,13 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Ryan Wright</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-ryan.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-ryan.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
                     </div>	
 				</div>
-				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
-                    <div class="img_section w-100">
-                    	<img class="w-100" src="img/nate.jpg">
-                    </div>	
-                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
-                    	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Nathan Taylor</h5>
-		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-nathan.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
-								</div>	
-		        			</p>	
-					</div>	
-                    </div>	
-				</div>
+				 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/robert.jpg">
@@ -226,7 +197,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Robert Wagner</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-robert.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-robert.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -242,7 +213,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Manjunath  Bhat</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-manjunath.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-manjunath.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -257,7 +228,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Ram Sriram</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-ram.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-ram.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -274,7 +245,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Rohit Saravanan</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-rohith.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-rohith.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -289,7 +260,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Daniel Coutinho</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-daniel.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-daniel.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -304,7 +275,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">David Lin</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-david.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-david.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -319,7 +290,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Darwin Salicrup</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-darwin.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-darwin.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -334,7 +305,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Marc Decoste</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-marc.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-marc.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -349,7 +320,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Adam Salmen</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-adam.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/searcher-adam.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -364,7 +335,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Samantha Freeman</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/samantha-freeman.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/samantha-freeman.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -379,7 +350,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Nicoletta Nutrito</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/nicoletta-nutrito.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/nicoletta-nutrito.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -394,7 +365,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Andreas Franz</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/andreas-franz.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/andreas-franz.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -409,7 +380,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">David Widmer</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/david-widmer.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/david-widmer.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -424,7 +395,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Olivier Guillebert</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/olivier-guillebert.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/olivier-guillebert.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -439,7 +410,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Alejandro Salcedo</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/alejandro-salcedo.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/alejandro-salcedo.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -454,7 +425,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Aron Szabo</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/aron-szabo.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/aron-szabo.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -470,7 +441,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Juan Fernández</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/juan-fernandez.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/juan-fernandez.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -485,7 +456,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Erika O'Brien</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/erika-obrien.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/erika-obrien.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -500,7 +471,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Ben Boenk</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/ben-boenk.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/ben-boenk.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -515,7 +486,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Frédéric Dufour</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/frederic-dufour.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/frederic-dufour.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -530,7 +501,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Lisa Piercey</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/lisa-piercey.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/lisa-piercey.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -545,7 +516,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Dean Curran</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/dean-curran.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/dean-curran.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -560,7 +531,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Marcin Chruściel</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/marcin-chrusciel.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/marcin-chrusciel.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -575,7 +546,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Jordan Frank</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/jordan-frank.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/jordan-frank.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -590,7 +561,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Bill Balliette</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/bill-balliette.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/bill-balliette.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -605,7 +576,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Bill Balliette</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/bill-balliette.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/bill-balliette.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -620,7 +591,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Jim Kelly</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/jim-kelly.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/jim-kelly.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -635,7 +606,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Simon Farmer</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/simon-farmer.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/simon-farmer.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -651,7 +622,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Martine Legault</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/martine-legault.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/martine-legault.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -667,13 +638,61 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Eyal Kaplan</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/eyal-kaplan.php" target="_blank" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/eyal-kaplan.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/about-javier-fernandez.png">
+                    </div>	
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Javier Fernández</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/javier-fernandez.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
                     </div>	
 				</div>
 				 
+
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/paolo-ribeirinho-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Paulo Ribeirinho</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/paulo-ribeirinho.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/max-koutny-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Max Koutny</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://www.novastone-ca.com/max-koutny.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
+				
 
 				 
 				 
@@ -745,7 +764,7 @@ $_SESSION["lan"] = "English";
 	                	   <img class="w-100" src="img/sabastien.png">
 	                	</div>   
 	                </a>
-	                <a href="https://iargroup.com/" target="_blank" class="logo_section w-50 bg-white text-center d-flex align-items-center">
+	                <a href="https://iargroup.com/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center">
 	                	<div class="logo_div">
 	                	    <img class="w-50" src="img/IAR-Dark-Desktop.png">
 	                	</div>    
@@ -760,7 +779,7 @@ $_SESSION["lan"] = "English";
 	        				CEO IARGroup
 	        			</p>
 	        			<div class="icon_div mt-3 text-center">
-							<a href="https://www.linkedin.com/in/sebastienperroud/" target="_blank" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
+							<a href="https://www.linkedin.com/in/sebastienperroud/" target="_self" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
 								<i class="fab fa-linkedin-in font__size-18"></i>
 							</a>
 						</div>
@@ -776,7 +795,7 @@ $_SESSION["lan"] = "English";
 	                	   <img class="w-100" src="img/Jan.jpg">
 	                	</div>   
 	                </a>
-	                <a href="https://grupodalt.com/" target="_blank" class="logo_section w-50 bg-white text-center d-flex align-items-center">
+	                <a href="https://grupodalt.com/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center">
 	                	<div class="logo_div">
 	                	    <img style="padding-left:30px "class="w-70" src="img/logo-grupo-dalt.svg">
 	                	</div>    
@@ -791,7 +810,7 @@ $_SESSION["lan"] = "English";
 	        				CEO Grupo Dalt
 	        			</p>
 	        			<div class="icon_div mt-3 text-center">
-							<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_blank" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
+							<a href="https://www.linkedin.com/in/jan-nikolaisen-770151/" target="_self" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
 								<i class="fab fa-linkedin-in font__size-18"></i>
 							</a>
 						</div>
@@ -807,7 +826,7 @@ $_SESSION["lan"] = "English";
 	                	   <img class="w-100" src="img/Mike.jpg">
 	                	</div>   
 	                </a>
-	                <a href="https://glgbv.com/en/" target="_blank" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
+	                <a href="https://glgbv.com/en/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
 	                	<div class="logo_div">
 	                	    <img style="padding-left:20px" class="w-80" src="img/green-logistics.png">
 	                	</div>    
@@ -822,7 +841,7 @@ $_SESSION["lan"] = "English";
 	        				CEO GreenLogistics
 	        			</p>
 	        			<div class="icon_div mt-3 text-center">
-							<a href="https://www.linkedin.com/in/mike-hindi" target="_blank" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
+							<a href="https://www.linkedin.com/in/mike-hindi" target="_self" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
 								<i class="fab fa-linkedin-in font__size-18"></i>
 							</a>
 						</div>
@@ -837,7 +856,7 @@ $_SESSION["lan"] = "English";
 	                	   <img class="w-100" src="img/val-about.png">
 	                	</div>   
 	                </a>
-	                <a href="https://www.formeds.com.pl/" target="_blank" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
+	                <a href="https://www.formeds.com.pl/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
 	                	<div class="logo_div">
 	                	    <img style="padding-left:20px" class="w-80" src="img/formeds.png">
 	                	</div>    
@@ -852,7 +871,7 @@ $_SESSION["lan"] = "English";
 	        				CEO ForMeds
 	        			</p>
 	        			<div class="icon_div mt-3 text-center">
-							<a href="https://www.linkedin.com/in/valpilch/" target="_blank" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
+							<a href="https://www.linkedin.com/in/valpilch/" target="_self" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
 								<i class="fab fa-linkedin-in font__size-18"></i>
 							</a>
 						</div>
@@ -867,7 +886,7 @@ $_SESSION["lan"] = "English";
 	                	   <img class="w-100" src="img/will-ceo.png">
 	                	</div>   
 	                </a>
-	                <a href="https://www.forza-doors.com/" target="_blank" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
+	                <a href="https://www.forza-doors.com/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
 	                	<div class="logo_div">
 	                	    <img style="padding-left:20px" class="w-80" src="img/forza.png">
 	                	</div>    
@@ -882,7 +901,7 @@ $_SESSION["lan"] = "English";
 	        				CEO Forza Doors
 	        			</p>
 	        			<div class="icon_div mt-3 text-center">
-							<a href="https://www.linkedin.com/in/will-hunnam-11877b28/" target="_blank" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
+							<a href="https://www.linkedin.com/in/will-hunnam-11877b28/" target="_self" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
 								<i class="fab fa-linkedin-in font__size-18"></i>
 							</a>
 						</div>
@@ -897,7 +916,7 @@ $_SESSION["lan"] = "English";
 	                	   <img class="w-100" src="img/george-ceo.png">
 	                	</div>   
 	                </a>
-	                <a href="https://seyses.com/es/en/" target="_blank" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
+	                <a href="https://seyses.com/es/en/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
 	                	<div class="logo_div">
 	                	    <img style="padding-left:20px" class="w-80" src="img/seyses.png">
 	                	</div>    
@@ -909,10 +928,10 @@ $_SESSION["lan"] = "English";
 						George Berczely
                     	</h5>
 	        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-						SEYSES
+						CEO SEYSES
 	        			</p>
 	        			<div class="icon_div mt-3 text-center">
-							<a href="https://www.linkedin.com/in/george-berczely/" target="_blank" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
+							<a href="https://www.linkedin.com/in/george-berczely/" target="_self" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
 								<i class="fab fa-linkedin-in font__size-18"></i>
 							</a>
 						</div>
@@ -929,7 +948,7 @@ $_SESSION["lan"] = "English";
 	                	   <img class="w-100" src="img/david-miller-ceo.png">
 	                	</div>   
 	                </a>
-	                <a href="https://www.chapter-1.net/" target="_blank" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
+	                <a href="https://www.chapter-1.net/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
 	                	<div class="logo_div">
 	                	    <img style="padding-left:20px" class="w-80" src="img/chapter1.png">
 	                	</div>    
@@ -944,7 +963,69 @@ $_SESSION["lan"] = "English";
 						CEO Chapter One Sportswear Inc.
 	        			</p>
 	        			<div class="icon_div mt-3 text-center">
-							<a href="https://www.linkedin.com/in/davidmillermontreal/" target="_blank" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
+							<a href="https://www.linkedin.com/in/davidmillermontreal/" target="_self" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
+								<i class="fab fa-linkedin-in font__size-18"></i>
+							</a>
+						</div>
+	        				
+				    </div>	
+                </div>	
+			</div>
+
+			<div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-50 pr-50">
+				<div class="img-logo d-flex">
+	                <a href="docs/SUCCESSFUL-ACQUISITION-FOR-NCA-ENTREPRENEUR-NICK-AKERS.pdf" class="img_section w-50">
+                        <div class="img_div">
+	                	   <img class="w-100" src="img/nick-akers-ceo.png">
+	                	</div>   
+	                </a>
+	                <a href="https://stlcom.com/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
+	                	<div class="logo_div">
+	                	    <img style="padding-left:20px" class="w-80" src="img/stllogo.png">
+	                	</div>    
+	                </a>	
+	            </div>    	
+                <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
+                	<div class="text-white">
+                    	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">
+						Nick Akers
+                    	</h5>
+	        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+						CEO STL Communications
+	        			</p>
+	        			<div class="icon_div mt-3 text-center">
+							<a href="https://www.linkedin.com/in/akersnick/" target="_self" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
+								<i class="fab fa-linkedin-in font__size-18"></i>
+							</a>
+						</div>
+	        				
+				    </div>	
+                </div>	
+			</div>
+
+			<div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-50 pr-50">
+				<div class="img-logo d-flex">
+	                <a href="docs/SUCCESSFUL-ACQUISITION-FOR-NCA-ENTREPRENEUR-NATE-TAYLOR.pdf" class="img_section w-50">
+                        <div class="img_div">
+	                	   <img class="w-100" src="img/nathan-taylor-ceo.png">
+	                	</div>   
+	                </a>
+	                <a href="https://www.waterrunnerinc.com/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
+	                	<div class="logo_div">
+	                	    <img style="padding-left:20px" class="w-80" src="img/water-runner.png">
+	                	</div>    
+	                </a>	
+	            </div>    	
+                <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
+                	<div class="text-white">
+                    	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">
+						Nathan Taylor
+                    	</h5>
+	        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+						CEO Water Runner, Inc.
+	        			</p>
+	        			<div class="icon_div mt-3 text-center">
+							<a href="https://www.linkedin.com/in/nathanptaylor/" target="_self" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
 								<i class="fab fa-linkedin-in font__size-18"></i>
 							</a>
 						</div>
@@ -993,7 +1074,7 @@ $_SESSION["lan"] = "English";
 								<div class="col-md-2 d-flex align-items-center logo_social_div">
 									<div class="main_content_div">
 										<div class="icon_div mb-5 mb-sm-3">
-											<a href="#" target="_blank" class="social_icon social_icon_white d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir">
+											<a href="#" target="_self" class="social_icon social_icon_white d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir">
 												<i class="fab fa-linkedin-in font__size-18"></i>
 											</a>
 										</div>	
