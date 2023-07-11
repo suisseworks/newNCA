@@ -8,7 +8,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    	    <div class="container h-vh">
 			
 			<div class="landing_row pt-490">
-				<div class="landing_col_1 landing_page_menus mr-135">
+				<div class="landing_col_1 landing_page_menus mr-40">
 					<div class="page_text">
 						<a href="about-us.php">
 							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name">About Us</h2>
@@ -44,6 +44,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name"><span class="font__size-13 font__family-efblack position-absolute for_text">For</span>Business Owners</h2>
 							<p class="font__size-12 font__family-open-sans line__height-17 pt-2 pr-70">
 								Do you own a company and need to define its future? Or do your clients have succession issues? NCA works with business owners and intermediaries to address succession challenges and ensure sustainable business legacies.
+							</p>
+						</a>	
+					</div>
+				</div>
+
+				<div class="landing_col_5 landing_page_menus">
+					<div class="page_text">
+						<a href="entrepreneurs.php" class="position-relative">
+							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name"><span class="font__size-13 font__family-efblack position-absolute for_text">For</span>Entrepreneurs</h2>
+							<p class="font__size-12 font__family-open-sans line__height-17 pt-2">
+								Once Searching Entrepreneurs complete a successful acquisition they become NCA CEOs.
 							</p>
 						</a>	
 					</div>
