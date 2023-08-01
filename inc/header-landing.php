@@ -18,7 +18,7 @@
 	<link id="brk-base-color" rel="stylesheet" href="css/skins/brk-base-color.css">
 	<link rel="stylesheet" id="brk-direction-offsets" href="css/assets/offsets.css">
 	<link id="brk-css-min" rel="stylesheet" href="css/assets/styles.min.css">
-	<link rel="stylesheet" type="text/css" href="css/assets/custom.css">
+	<link rel="stylesheet" type="text/css" href="css/assets/custom.css?v=2.0">
 	<link rel="stylesheet" type="text/css" href="css/assets/nca.css">
 	<link rel="stylesheet" type="text/css" href="css/assets/nca2.css">
 	<link rel="stylesheet" type="text/css" href="css/assets/responsive.css">
