@@ -209,8 +209,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 			</div>
-			<div class="row align-items-center mt-5">
-							
+			<div class="row align-items-center mt-5">							
 						<div class="col-lg-8 col-sm-12 col-12 col-xs-12">
 							<p class="font__size-12 font__family-open-sans text-white">&copy; Novastone Capital Advisors <?php echo date("Y"); ?> - Haldenstraße 5, 6340 Baar, Schweiz</p>
 						</div>
