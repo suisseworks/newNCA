@@ -140,6 +140,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</svg>
 								</span></a>
 					</div>
+
+					
 			</div>
 			<div class="col-lg-8">
 				<img src="img/background-bill2.png" class="resume_img">
