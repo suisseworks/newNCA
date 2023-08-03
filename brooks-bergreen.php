@@ -16,8 +16,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="searcher_content pt-100 ml-4">
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/brooksbergreen/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							 
+							<a href="https://www.linkedin.com/in/brooksbergreen/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a> 
 						</div>
 					</div>	
 					<div class="detail_searcher mt-2">
@@ -27,7 +26,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
 						<p class="font__size-18 line__height-24">
-						   Born and raised on a farm in Saskatchewan, I now live in Vancouver, British Columbia with my wife and two kids, (4 yr old girl and 8 yr old boy).  I have spent over 15 years operating businesses internationally in the EU, US, Canada, South Asia and China, and raising over $25M in equity for these companies. As a seasoned innovator, I have built complex satellite communications networks across the world, launched several brands into large retailers like Best Buy and Amazon among others and worked with my engineering teams to design and deliver novel high precision products in metals, plastics, textiles and glass at scale and directed two documentary films about subjects I was passionate about. With previous exposure directing several M&A deals, I am excited to progress my entrepreneurial journey further through acquisition and building new relationships.
+						    Born and raised on a farm in Saskatchewan, I now live in Vancouver, British Columbia with my wife and two kids, (4 yr old girl and 8 yr old boy). I have spent over 15 years operating businesses internationally in the EU, US, Canada, South Asia and China, and raising over $25M in equity for these companies. As a seasoned innovator, I have built complex satellite communications networks across the world, launched several brands into large retailers like Best Buy and Amazon among others and worked with my engineering teams to design and deliver novel high precision products in metals, plastics, textiles and glass at scale, and directed two documentary films about subjects I was passionate about along the way.  With previous exposure directing several M&A deals, I am excited to progress my entrepreneurial journey further through acquisition and building new relationships.
 						</p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
@@ -86,7 +85,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
                         <img src="img/thumbnail-brooks.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/8Lje5jED4gE" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
