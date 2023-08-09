@@ -3,8 +3,8 @@
 	<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHG7P3C"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 
+<!-- End Google Tag Manager (noscript) -->
 <section class="searcher_sectain searcher_bg">
 	<div class="row no-gutters">
 		<div class="col-lg-6">
