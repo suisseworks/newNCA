@@ -220,8 +220,7 @@ $_SESSION["lan"] = "English";
 										<div class="font__weight-bold font__size-40 process_title line__height-45 text-uppercase">Legal document review</div>
 										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">
 											At this stage, selected candidates sign an NDA allowing NCA to share legal document samples and term sheets. Take time to review the documents and email any questions for NCA’s Legal and Talent Management teams. Questions will be answered live during a Q&A webinar so candidates can benefit from each other’s questions. A recording of the webinar will be made available for those who cannot attend.
-										</div>
-										
+										</div>										
 									</div>
 								</div>
 
@@ -591,11 +590,11 @@ $_SESSION["lan"] = "English";
 				
 				<div class="col-lg-4 col-sm-6  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
 					<div class="img_section w-100">
-						<img class="w-100" src="img/Giovanni.png">
+						<img class="w-100" src="img/Candidates1.png">
 					</div>
 					<div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
 						<div>
-							<h5 class="text-center font__size-22 text-white line__height-30 font__family-efb">Giovanni Gallino</h5>
+							<h5 class="text-center font__size-22 text-white line__height-30 font__family-efb">Wendy Van Der Maas</h5>
 							<p class="text-center font__size-16 text-white font__family-open-sans line__height-28 mt-2 member_status">
 								Talent Acquisition Specialist
 							</p>
