@@ -15,7 +15,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="col-lg-6 pr-0">
 				<div class="searcher_content pt-100 ml-4">
 					
-
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
 							<a href="https://www.linkedin.com/in/philipgbenson/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
@@ -23,15 +22,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</div>	
 
-
-
 					<div class="detail_searcher mt-2">
 						<h2 class="font__family-efb text-uppercase line__height-90">Philip <br> Benson</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
-						<p class="font__size-18 line__height-24"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  </p>
+						<p class="font__size-18 line__height-24"> 3.	I grew up in the United States and have lived in five countries in Latin America and Europe. My career has spanned operational roles within both Fortune 100 companies, family-owned SMEs, and a strategy consulting firm. For the last 16 years I have helped clients launch and grow multiple brands within the North American Active Lifestyle consumer goods market. Through the NCA Entrepreneurship through Acquisition program, I will continue my entrepreneurial journey by acquiring and leading another Active Lifestyle brand through its next stage of value creation and growth.   </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:phillip.benson@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
@@ -57,23 +54,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
 					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum dolor</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum dolor</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum dolor</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum dolor</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum dolor</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Integrity</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Leadership</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Culture Creation</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic Mindset</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Consistent Results</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-					<p class="font__size-16 line__height-24 mt-2"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </p>
+					<p class="font__size-16 line__height-24 font__family-efb">  I will be focused on finding high potential consumer goods brands within the Active Lifestyle space. I am most interested in heritage brands or those that have the capacity for creating an enduring and sustainable legacy through their impact on their customers, employees, and other stakeholders.  </p>
+					<p class="font__size-16 line__height-24 mt-2"> Specifically, I will target companies in sub-sectors including outdoor, hunting, fitness and wellness, and individual and team sports, as well as the companies that supply them.  </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  </p>
-					<p class="font__size-16 line__height-24 mt-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.    </p>    
+					<p class="font__size-16 line__height-24 font__family-efb"> At its core, my contribution will be a continuation of what I have demonstrated throughout my career. The first and never-ending job will be to build a foundational culture of trust, mutual respect, and deep belief in the vision of the company.   </p>
+					<p class="font__size-16 line__height-24 mt-1"> With this foundation and a clear plan, we will build an efficient organization dedicated to realizing an enduring legacy that inspires our team, our customers, and our shareholders.   </p>    
 			</div>
 		</div>
 	</div>
@@ -81,6 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </section>
 
+<br />
 <section class="jan_video searcher_bg">
 	<div class="container">
 		<div class="row no-gutters">
@@ -129,7 +127,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/philip-benson-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Philip-Benson-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -166,8 +164,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Lorem ipsum dolor sit amet, consectetur.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Lorem ipsum</h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;"> A team is not a group of people that work together. A team is a group of people that trust each other .</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Simon Sinek</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
