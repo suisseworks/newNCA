@@ -767,7 +767,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Eric Tai</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								 Investment Associate
+								  Senior Investment Associate
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/eric-tai-ab4846b1/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
