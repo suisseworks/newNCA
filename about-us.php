@@ -297,61 +297,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
 					</div>
 					 
-				
-					 		
-					<div class="col-lg-3 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/james3.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>James McLaren</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Director M&A
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/james-mclaren-3rd/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
-					 
-				 
-					<div class=" col-lg-3 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section w-100">
-                        	<img class="w-100" src="img/Marine.jpg">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Marine Hamou</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Executive Director Global Talent Acquisition & HR
-
-                                </p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/hamoumarine/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
-
-
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section w-100">
-                        	<img class="w-100" src="img/sandrine.jpg">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Sandrine Steiner</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Director Investor Relations
-								</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/sandrine-tamara-steiner-9948a333/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
 
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
@@ -390,40 +335,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 
 
-					<div class=" col-lg-3 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/aviva.jpg">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Aviva Egulsky Ozeri</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Executive Director DDO & Israel Office 
-
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/aviva-egulsky-ozeri-7b40766/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
-
-					<div class="col-lg-3 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/anna.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Anna Troitskaya </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Manager Operations
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/annatroitskaya/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/lisa.png">
@@ -661,39 +572,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						    </div>	
                         </div>	
 					</div>
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/monica.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Monica Lynn</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Executive Assistant to Elena Trukhina Managing Partner / Co-CEO
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/monica-lynn-a08a3976/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
 
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/frederik.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Frederik Pepping</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Chief of Staff
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/frederik-pepping-90201457/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
 
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
@@ -730,8 +609,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						    </div>	
                         </div>	
 					</div>
-
-
 
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
@@ -788,6 +665,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 
 
+
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/Jacob.png">
@@ -804,6 +682,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						    </div>	
                         </div>	
 					</div>
+
 
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
@@ -855,24 +734,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/tomer-gottlieb-33a824189/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
-
-
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/nicolas-narbel.jpg">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Nicolas Narbel </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								  Legal General Counsel
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/nicolasnarbel/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
