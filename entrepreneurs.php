@@ -1140,6 +1140,42 @@ $_SESSION["lan"] = "English";
 
 
 
+			<div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-50 pr-50">
+				<div class="img-logo d-flex">
+	                <a href="#" class="img_section w-50">
+                        <div class="img_div">
+	                	   <img class="w-100" src="img/viktor-about.png">
+	                	</div>   
+	                </a>
+	                <a href="https://www.med-systeme.de/?lang=en" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
+	                	<div class="logo_div">
+	                	    <img style="padding-left:20px" class="w-80" src="img/ff-co.png">
+	                	</div>    
+	                </a>	
+	            </div>   
+
+                <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
+                	<div class="text-white">
+                    	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">
+						 Viktor Dimitrov
+                    	</h5>
+	        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+						 CEO Med-Systeme GmbH 
+	        			</p>
+	        			<div class="icon_div mt-3 text-center">
+							<a href="https://www.linkedin.com/in/viktordimitrov/ " target="_self" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
+								<i class="fab fa-linkedin-in font__size-18"></i>
+							</a>
+						</div>
+	        				
+				    </div>	
+                </div>	
+			</div>
+
+
+
+
+
 
 
 
