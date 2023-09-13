@@ -1149,10 +1149,11 @@ $_SESSION["lan"] = "English";
 	                </a>
 	                <a href="https://www.med-systeme.de/?lang=en" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
 	                	<div class="logo_div">
-	                	    <img style="padding-left:20px" class="w-80" src="img/Med-Systeme-ff-co.jpg">
+	                	    <img style="padding-left:20px" class="w-80" src="img/Med-Systeme-FF-CO.jpg">
 	                	</div>    
 	                </a>	
-	            </div>   
+	            </div>  
+
 
                 <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                 	<div class="text-white">
