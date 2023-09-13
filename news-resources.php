@@ -132,6 +132,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="resource_wrap_links">
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="docs/SUCCESSFUL_ACQUISITION_FOR_NCA_ENTREPRENEUR_VIKTOR_DIMITROV.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Successful Acquisition for NCA Entrepreneur Viktor Dimitrov<span class="arrow_link_a"></span></a>
+							</div>	
+
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/SUCCESSFUL-ACQUISITION-FOR-NCA-ENTREPRENEUR-NATE-TAYLOR.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Successful Acquisition for NCA Entrepreneur Nathan Taylor<span class="arrow_link_a"></span></a>
 							</div>	
 
