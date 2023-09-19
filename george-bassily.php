@@ -1,6 +1,7 @@
 <?php include 'inc/header-scripts.php'; ?>		
 <body>
-	<!-- Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHG7P3C"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
@@ -9,7 +10,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/carlos-laconi.png">
+				<img src="img/george-bassily.jpg">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/carlos-rodriguez-laconi-80b2173b/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/in/georgebassily/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							 
 						</div>
 					</div>	
@@ -26,17 +27,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Carlos Rodriguez <br> Laconi</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">George  <br> Bassily</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
+							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025 </span>
 						</div>
 						<p class="font__size-18 line__height-24"> 
-						  I am originally from Argentina, with Italian roots, coming from entrepreneurial families on both sides. My grandparents had family businesses, so I grew up immersed in the world of SMEs (Small to Medium sized Enterprise) and always had a passion for them. For that reason, I always dreamt of having my own business and after graduation, started my own farming and exporting company. I then moved to Boston for my MBA and focus on entrepreneurship, where I learned about Search Funds and ETA (Entrepreneurship Through Acquisition). I then partnered with the owners of a leading Plant Health Care Company to manage, grow, and sell the business. Now that I have completed my first exit, I have the energy and knowledge to continue my entrepreneurial journey at a larger scale.  
-                        </p>
+                           I'm a Mechanical Engineer by training with a fervent interest in strategy, business development, and finance. I have spent most of my life in the charming city of Montreal, gaining extensive experience across various fields including engineering, sales, operations, management, and consultancy. Throughout my career, I've been instrumental in aiding several SMEs in scaling, securing funding, and creating substantial value. My MBA thesis delved into the intricacies of leverage buyouts and private equity strategies for mid-sized companies, reflecting my passion for value creation. As an active mentor in incubators and accelerators at HEC University, I'm dedicated to nurturing the next generation of business talents.
+                           <br/> <br/> 
+
+                           Beyond my professional pursuits, I am a proud father of three wonderful daughters and find solace in activities like biking, running, and reading. These moments of leisure, shared with my family and friends, provide me with the balance and inspiration to fuel my entrepreneurial journey towards acquiring and growing my own business, with the ultimate goal of establishing a small private equity office. 
+                         </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:carlos.laconi@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:george.bassily@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -59,11 +63,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
 					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Team Work</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic Thinking</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Adaptability to uncertain scenarios</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Problem Solving</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Long Term vision</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Storyteller </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Result Oriented </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Servant Leadership </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Grit </li>
 					</ul>
 				</div>
 			</div>
@@ -71,19 +75,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">  
-					  I want to acquire a great company and take it to the next level, enhancing the legacy of the previous owner. I have a passion for the green industry where I developed my career, and I will be searching in Plant Health Care, Landscaping, Agriculture, and Food Supply Chain
-                     
-					<p class="font__size-16 line__height-24 mt-2">Geographically I will be searching in the US, where I have been living since 2015.  </p>
+                       I am primarily targeting advanced and light manufacturing, along with distribution SMEs. My search is centered on identifying businesses poised for substantial revenue growth and room for margin improvements through operational efficiencies. 
+                      </p>
+					<p class="font__size-16 line__height-24 mt-2"> Geographically, my focus encompasses Canada, specifically Quebec and Ontario, as well as the East Coast of the United States. Additionally, I am open to exploring opportunities in California when they arise.   </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I have already managed, grew, and sold a US- based company that was a leader in its industry, thus I have the experience to take a company to the next level. In my previous experience I leveraged my 12+ years as CEO managing SMEs.    </p>
-					<p class="font__size-16 line__height-24 mt-1">Having developed my whole career in entrepreneurship and SMEs, I know how to optimize the limited resources these businesses have, compared to larger corporations- which has prepared me to be always “hands on” in every problem that might arise.   </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">Leveraging nearly two decades of experience in top-line growth, operational efficiency, business model refinement, and product development, I am well-prepared to drive the expansion and success of the company I will acquire. My strategic acumen will guide us in making informed decisions and navigate today’s complex business landscape, while my track record of boosting top-line revenue demonstrates my ability to capture growth opportunities.   </p>
+					<p class="font__size-16 line__height-24 mt-1">I aim to optimize operations to enhance efficiency and profitability, and my expertise in elaborating upon robust business models will provide a solid foundation for scaling the company. Together, these skills will empower us to achieve sustainable growth and reach new heights of success.     </p>    
 			</div>
 		</div>
 	</div>
 	</div>
 
-</section> <br />
+</section>
+<br/><br/><br/>
 
 <section class="jan_video searcher_bg">
 	<div class="container">
@@ -91,9 +96,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/thumbnail-carlos-laconi.png" alt="alt" class="image_video">
+                        <img src="img/video.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/jBXKktB3V-w?si=STE2ia8e63UbDxHH" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/4_2q9CJPmBE?si=ll29TNc4imGQceQ6" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -133,7 +138,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Carlos-Laconi-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/George-Bassily-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -147,7 +152,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-carlos-laconi.png" class="resume_img">
+				<img src="img/background-george-bassily.png" class="resume_img">
 			</div>
 		</div>
 
@@ -157,7 +162,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:carlos.laconi@novastone-ca.com">carlos.laconi@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:george.bassily@novastone-ca.com">george.bassily@novastone-ca.com </a>
 				</div>
 				</div>
 			</div>
@@ -170,8 +175,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Action Trumps Everything. </h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase"></h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Don't be afraid to give up the good to go for the great. </h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">John D. Rockefeller</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
@@ -187,7 +192,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Carlos Rodriguez Laconi </h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">George Bassily </h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -209,8 +214,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:carlos.laconi@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">carlos.laconi@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/carlos-rodriguez-laconi-80b2173b/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:george.bassily@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">george.bassily@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/georgebassily/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>

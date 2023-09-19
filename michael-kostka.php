@@ -1,6 +1,7 @@
 <?php include 'inc/header-scripts.php'; ?>		
 <body>
-	<!-- Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHG7P3C"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
@@ -9,34 +10,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/carlos-laconi.png">
+				<img src="img/michael-kostka.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
 				<div class="searcher_content pt-100 ml-4">
 					
-
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/carlos-rodriguez-laconi-80b2173b/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							 
+							<a href="https://www.linkedin.com/in/dr-michael-kostka-2382646a/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 						</div>
 					</div>	
 
-
-
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Carlos Rodriguez <br> Laconi</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Dr.Michael <br> Kostka</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
 						<p class="font__size-18 line__height-24"> 
-						  I am originally from Argentina, with Italian roots, coming from entrepreneurial families on both sides. My grandparents had family businesses, so I grew up immersed in the world of SMEs (Small to Medium sized Enterprise) and always had a passion for them. For that reason, I always dreamt of having my own business and after graduation, started my own farming and exporting company. I then moved to Boston for my MBA and focus on entrepreneurship, where I learned about Search Funds and ETA (Entrepreneurship Through Acquisition). I then partnered with the owners of a leading Plant Health Care Company to manage, grow, and sell the business. Now that I have completed my first exit, I have the energy and knowledge to continue my entrepreneurial journey at a larger scale.  
-                        </p>
+                          Despite still living in Austria, where I was born and raised, I was fortunate to develop an international and competitive mindset due to early-on traveling and sports. I have +10 years of M&A experience in consulting (Big4), private equity and as Head of M&A of a global mechanical engineering corporate. This is paired up with over 7 years of operational management experience in international CEO, CFO and COO roles. My profile offers continuity management and a distinctive contribution to complex (sometimes harsh) transformations. What makes my profile unique is not just my attitude, but especially the mix of M&A, due diligence, and operational experience, topped up by the broad range of industries I have worked in, which has strongly influenced my “investment universe”. 
+                         </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:carlos.laconi@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:michael.kostka@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -59,31 +56,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
 					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Team Work</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic Thinking</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Adaptability to uncertain scenarios</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Problem Solving</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Long Term vision</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">  
-					  I want to acquire a great company and take it to the next level, enhancing the legacy of the previous owner. I have a passion for the green industry where I developed my career, and I will be searching in Plant Health Care, Landscaping, Agriculture, and Food Supply Chain
-                     
-					<p class="font__size-16 line__height-24 mt-2">Geographically I will be searching in the US, where I have been living since 2015.  </p>
+					<p class="font__size-16 line__height-24 font__family-efb"> 
+                       My primary focus is the mechanical engineering manufacturing industry in Austria and Germany. It is one of the most significant segments of the countries’ economies, and both have earned a reputation for having many hidden champions in this sector. 
+                     </p>
+					<p class="font__size-16 line__height-24 mt-2">  Opportunistically, I will also focus on crisis resilient sectors such as (pet)food, especially offering attractive opportunities due to the ”new foods” trend and the sports(tech) field. A dynamically growing segment I have been following for years while working in sports management.   </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I have already managed, grew, and sold a US- based company that was a leader in its industry, thus I have the experience to take a company to the next level. In my previous experience I leveraged my 12+ years as CEO managing SMEs.    </p>
-					<p class="font__size-16 line__height-24 mt-1">Having developed my whole career in entrepreneurship and SMEs, I know how to optimize the limited resources these businesses have, compared to larger corporations- which has prepared me to be always “hands on” in every problem that might arise.   </p>    
+					<p class="font__size-16 line__height-24 font__family-efb"> I am a highly driven and internationally minded professional with multiple years of experience in C-level management functions from early stage to expansion, post-merger, or restructuring. This helps me understand situations quickly and find suitable solutions.    </p>
+					<p class="font__size-16 line__height-24 mt-1">I have been acknowledged as a goal-focused executive, always ready to go above and beyond to achieve corporate objectives. My highly focused mindset and entrepreneurial personality will be key to turning this opportunity into a successful journey.    </p>    
 			</div>
 		</div>
 	</div>
 	</div>
 
-</section> <br />
+</section> <br /><br /><br />
 
 <section class="jan_video searcher_bg">
 	<div class="container">
@@ -91,9 +88,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/thumbnail-carlos-laconi.png" alt="alt" class="image_video">
+                        <img src="img/video.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/jBXKktB3V-w?si=STE2ia8e63UbDxHH" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/cPtFwu_lUTo?si=8dktp4ztg_tnDd4D" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -133,7 +130,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Carlos-Laconi-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Michael-Kostka-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -147,7 +144,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-carlos-laconi.png" class="resume_img">
+				<img src="img/background-michael.png" class="resume_img">
 			</div>
 		</div>
 
@@ -157,7 +154,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:carlos.laconi@novastone-ca.com">carlos.laconi@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:michael.kostka@novastone-ca.com">michael.kostka@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -170,8 +167,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Action Trumps Everything. </h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase"></h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">There’s no shortage of remarkable ideas, what’s missing is the will to execute them.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Seth Godin</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
@@ -187,7 +184,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Carlos Rodriguez Laconi </h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Dr. Michael Kostka</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -209,8 +206,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:carlos.laconi@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">carlos.laconi@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/carlos-rodriguez-laconi-80b2173b/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:michael.kostka@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">michael.kostka@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/dr-michael-kostka-2382646a/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
