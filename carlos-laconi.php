@@ -24,7 +24,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>	
 
 
-
 					<div class="detail_searcher mt-2">
 						<h2 class="font__family-efb text-uppercase line__height-90">Carlos Rodriguez <br> Laconi</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
@@ -32,7 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
 						<p class="font__size-18 line__height-24"> 
-						  I am originally from Argentina, with Italian roots, coming from entrepreneurial families on both sides. My grandparents had family businesses, so I grew up immersed in the world of SMEs (Small to Medium sized Enterprise) and always had a passion for them. For that reason, I always dreamt of having my own business and after graduation, started my own farming and exporting company. I then moved to Boston for my MBA and focus on entrepreneurship, where I learned about Search Funds and ETA (Entrepreneurship Through Acquisition). I then partnered with the owners of a leading Plant Health Care Company to manage, grow, and sell the business. Now that I have completed my first exit, I have the energy and knowledge to continue my entrepreneurial journey at a larger scale.  
+                              I come from entrepreneurial families on both sides. My grandparents had family businesses, so I grew up immersed in the world of SMEs (Small to Medium sized Enterprise) and always had a passion for them. For that reason, I always dreamt of having my own business and after graduation, started my own farming, processing and exporting company. I then moved to Boston for my MBA and focus on entrepreneurship, where I learned about Search Funds and ETA (Entrepreneurship Through Acquisition). I then partnered with the owners of a leading Plant Health Care Company to manage, grow, and sell the business. Now that I have completed my first exit, I have the energy and knowledge to continue my entrepreneurial journey at a larger scale.  
                         </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
