@@ -1142,7 +1142,7 @@ $_SESSION["lan"] = "English";
 
 			<div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-50 pr-50">
 				<div class="img-logo d-flex">
-	                <a href="#" class="img_section w-50">
+	                <a href="https://novastone-ca.com/docs/SUCCESSFUL_ACQUISITION_FOR_NCA_ENTREPRENEUR_VIKTOR_DIMITROV.pdf" class="img_section w-50">
                         <div class="img_div">
 	                	   <img class="w-100" src="img/viktor-about.png">
 	                	</div>   
@@ -1168,7 +1168,6 @@ $_SESSION["lan"] = "English";
 								<i class="fab fa-linkedin-in font__size-18"></i>
 							</a>
 						</div>
-	        				
 				    </div>	
                 </div>	
 			</div>
