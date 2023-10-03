@@ -1,6 +1,7 @@
 <?php include 'inc/header-scripts.php'; ?>		
 <body>
-	<!-- Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHG7P3C"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
@@ -9,7 +10,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/kristoffer-ekelund.png">
+				<img src="img/krishan-arora.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,22 +19,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/kristoffer-ekelund-013485/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/in/krishan-arora/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							 
 						</div>
 					</div>	
 
+
+
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Kristoffer <br> Ekelund</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Krishan <br> Arora</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
 						<p class="font__size-18 line__height-24"> 
-						   I was born in Sweden and have spent significant time working and studying in various countries across Europe, the US and Asia. Understanding new cultures, meeting new people and learning new skills are great motivators for me. My professional background consists of 12 years in consumer goods and retail and 8 years in management consulting. As such, I have gained significant managerial experience on a wide range of business topics, within large and small enterprises. I try to spend as much time as possible doing outdoor adventures or coaching basketball to kids.
+                          As an experienced entrepreneur, I've demonstrated my ability to identify and capitalize on profitable opportunities. My previous venture, Arora Project, achieved remarkable success returning 2.25X capital to investors and sustaining 200+ year-over-year revenue growth. I also raised and deployed over $125 Million in investor capital for our portfolio companies. With a team of 75 employees in three countries, I consistently grew EBITDA into the millions and successfully completed our M&A lifecycle leading to an 8-figure exit in 2022. My track record speaks to my capability in effective enterprise scaling providing potential investors with a strong foundation for their capital.
                         </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:kristoffer.ekelund@novastone-ca-com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:krishan.arora@Novastone-ca.com " type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -56,11 +60,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
 					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Leadership</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Learning</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategy</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Operational excellence</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Tenacity</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Effectively managing PNLs</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Hiring & Motivating Teams</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Building Operational Processes</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Customer Acquisition</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Data Analytics</li>
 					</ul>
 				</div>
 			</div>
@@ -68,30 +72,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">  
-					  I am seeking to acquire and grow a medium-sized consumer goods or services company in the Nordics. 
-                    </p>
-					<p class="font__size-16 line__height-24 mt-2"> I will focus my search on companies with strong brands, dedicated teams and high- quality offering.    </p>
+                       My primary objective is to acquire a digital media agency and drive its revenue growth, leading to an acquisition (again).  </p>
+					<p class="font__size-16 line__height-24 mt-2"> My strategic vision involves positioning the company for a successful exit, capitalizing on the robust market demand from a several international acquirers actively participating in the digital media agency M&A sector. </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb"> I will use my experience and tools from both small and large companies to determine the most suitable steps to take the business to the next level, while building on and respecting prior achievements. Usually this involves understanding the value drivers and setting a simple yet powerful vision with 3-5 priorities.   </p>
-					<p class="font__size-16 line__height-24 mt-1">I will work hard to instill a culture of respect, learning and continuous improvement. Only when all employees feel important and understand their contribution to the overall goals, will the business be successful.   </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">With a proven track record spanning the entire lifecycle of digital media agencies, from inception to high-yield M&A exits, I offer valuable insights and established connections within this industry. My goal is to engage in meaningful discussions with potential acquirers that are in my network to identify their ideal acquisition targets and valuation criteria. </p>
+					<p class="font__size-16 line__height-24 mt-1">The goal is to strategically acquire and position agency for a liquidity event. I have done this before, 2 board members of my previous agency have done this before, and this M&A exit strategy can be reproduced again.    </p>    
 			</div>
 		</div>
 	</div>
 	</div>
 
-</section>
+</section> <br /><br /><br />
 
-<br /><br /><br /><br />
 <section class="jan_video searcher_bg">
 	<div class="container">
 		<div class="row no-gutters">
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/thumbnail-kristoffer-ekelund.png" alt="alt" class="image_video">
+                        <img src="img/video.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/n7UkcmnT5Eg?si=1sN8WW_poU-G0WOs" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/4_2q9CJPmBE?si=gQzzcLijeR9yeoTJ" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -131,7 +133,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Kristoffer-Ekelund-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -145,7 +147,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-kristoffer.png" class="resume_img">
+				<img src="img/background-krishan.png" class="resume_img">
 			</div>
 		</div>
 
@@ -155,7 +157,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:kristoffer.ekelund@novastone-ca-com">kristoffer.ekelund@novastone-ca-com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:krishan.arora@Novastone-ca.com ">krishan.arora@Novastone-ca.com </a>
 				</div>
 				</div>
 			</div>
@@ -168,8 +170,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">We are what we repeatedly do. Excellence, then, is not an act, but a habit .</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Aristotle</h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">A ship is safest in the harbor, but that is not what ships are built for. </h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">John Shedd</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
@@ -185,7 +187,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Kristoffer Ekelund</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Krishan Arora</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -207,8 +209,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:kristoffer.ekelund@novastone-ca-com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">kristoffer.ekelund@novastone-ca-com</a>
-						<a href="https://www.linkedin.com/in/kristoffer-ekelund-013485/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:krishan.arora@Novastone-ca.com " class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">krishan.arora@Novastone-ca.com </a>
+						<a href="https://www.linkedin.com/in/krishan-arora/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
