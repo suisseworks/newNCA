@@ -18,22 +18,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="member_content py-4">
                         	<div>
 	                        	
-			        			<p class="font__size-30 font__halvetica-bold line__height-50"><span class="pb-15 d-inline-block">NCA Entrepreneur</span><br><span class="font__size-41">2023</span> <span class=" member_count_arrow px-lg-3 pt-lg-12 pt-10 d-inline-flex">
+			        			<p class="font__size-30 font__halvetica-bold line__height-50">
+									
+								<span class="pb-15 d-inline-block">NCA Entrepreneur</span><br><span class="font__size-41">2023</span> <span class=" member_count_arrow px-lg-3 pt-lg-12 pt-10 d-inline-flex">
 			        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
 									  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
 									</svg>
+			        			</span>
+								<span class="font__size-41 ml-lg-0 ml-10">2025</span>
+							    </p>	
 
-			        			</span><span class="font__size-41 ml-lg-0 ml-10">2025</span></p>	
-								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/advancedmanufacturing" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
+								<p style="margin-top: 8px;  "> 
+								<a href="https://www.linkedin.com/in/advancedmanufacturing" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2">
+									<i style="font-size: 18px;" class="fab fa-linkedin-in"></i>
+								</a>
 								
 						    </div>	
 	                    </div>
-	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160 position-relative"><span class="heading_bg">James</span> <br> <sapn class="heading_bg_2">Reeves</sapn></h2>
+
+	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160 position-relative">
+							<p class="heading_bg">James</p>
+							<p class="heading_bg_2">Reeves</p>
+						</h2>
 				    </div>	
 				</div>    
 			</div>
 			<div class="col-lg-8">
-				<div class="searcher_image position-relative">
+				<div class="searcher_image position-relative" style="position: revert;">
 					<img class="w-100" src="img/james-reeves.png">
 				</div>	
 			</div>	
