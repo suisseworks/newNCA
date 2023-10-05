@@ -10,7 +10,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/george-bassily.png">
+				<img src="img/padraig-lawlor.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -19,7 +19,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/georgebassily/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/in/padraiglawlor" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							 
 						</div>
 					</div>	
@@ -27,20 +27,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">George  <br> Bassily</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Padraig  <br> Lawlor</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025 </span>
+							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
 						<p class="font__size-18 line__height-24"> 
-                           I'm a Mechanical Engineer by training with a fervent interest in strategy, business development, and finance. I have spent most of my life in the charming city of Montreal, gaining extensive experience across various fields including engineering, sales, operations, management, and consultancy. Throughout my career, I've been instrumental in aiding several SMEs in scaling, securing funding, and creating substantial value. My MBA thesis delved into the intricacies of leverage buyouts and private equity strategies for mid-sized companies, reflecting my passion for value creation. As an active mentor in incubators and accelerators at HEC University, I'm dedicated to nurturing the next generation of business talents.
-                           <br/> <br/> 
-
-                           Beyond my professional pursuits, I am a proud father of three wonderful daughters and find solace in activities like biking, running, and reading. These moments of leisure, shared with my family and friends, provide me with the balance and inspiration to fuel my entrepreneurial journey towards acquiring and growing my own business, with the ultimate goal of establishing a small private equity office. 
-                         </p>
+                        I was born in Ireland and moved to the US in 2013. I have over 25 years of experience building teams, developing strategies, and driving operations. I began my career as an Engineer and was quickly promoted to senior management where I was involved in acquiring two subsidiaries. After taking some time to travel I began my entrepreneurial journey and have since managed three startups, two of which involved acquisitions, and two of which involved successful exits. 
+                        </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:george.bassily@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:padraig.lawlor@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -63,32 +60,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
 					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Storyteller </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Result Oriented </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Servant Leadership </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Grit </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entrepreneurship</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic thinking</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Innovation</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Problem-solving</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Motivation</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">  
-                       I am primarily targeting advanced and light manufacturing, along with distribution SMEs. My search is centered on identifying businesses poised for substantial revenue growth and room for margin improvements through operational efficiencies. 
-                      </p>
-					<p class="font__size-16 line__height-24 mt-2"> Geographically, my focus encompasses Canada, specifically Quebec and Ontario, as well as the East Coast of the United States. Additionally, I am open to exploring opportunities in California when they arise.   </p>
+					<p class="font__size-16 line__height-24 font__family-efb">  My search will focus on Light Manufacturing companies in California, in the range of $5m to $50m. I am looking for a company with consistent revenues, a stable customer base, and an organization that values their people as much as their profitability.  </p>
+					<p class="font__size-16 line__height-24 mt-2"> Specifically companies that manufacture Metal Products, Industrial Machinery, Electronic products, or other miscellaneous products (HVAC, lifestyle goods, medical devices etc).  </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Leveraging nearly two decades of experience in top-line growth, operational efficiency, business model refinement, and product development, I am well-prepared to drive the expansion and success of the company I will acquire. My strategic acumen will guide us in making informed decisions and navigate today’s complex business landscape, while my track record of boosting top-line revenue demonstrates my ability to capture growth opportunities.   </p>
-					<p class="font__size-16 line__height-24 mt-1">I aim to optimize operations to enhance efficiency and profitability, and my expertise in elaborating upon robust business models will provide a solid foundation for scaling the company. Together, these skills will empower us to achieve sustainable growth and reach new heights of success.     </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">I have been on both the buy side and sell side of transactions, so I understand what it’s like and I can be guide through the process. Most importantly I understand the true value of what it takes to create a successful company. </p>
+					<p class="font__size-16 line__height-24 mt-1">Looking after the employees and their families, continuing to support the customers and keeping the organizations legacy intact will be my priority.   </p>    
 			</div>
 		</div>
 	</div>
 	</div>
 
-</section>
-<br/>
+</section><br /> <br /><br />
 
 <section class="jan_video searcher_bg">
 	<div class="container">
@@ -96,9 +90,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/thumbnail-george.png" alt="alt" class="image_video">
+                        <img src="img/video.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/a0X0ICm3chU?si=RzxwPBR2v9w8EBh_" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -138,7 +132,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/George-Bassily-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -152,7 +146,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-george-bassily.png" class="resume_img">
+				<img src="img/background-padraig.png" class="resume_img">
 			</div>
 		</div>
 
@@ -162,7 +156,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:george.bassily@novastone-ca.com">george.bassily@novastone-ca.com </a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:padraig.lawlor@novastone-ca.com">padraig.lawlor@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -175,8 +169,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Don't be afraid to give up the good to go for the great. </h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">John D. Rockefeller</h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Screw it, let’s do it</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Richard Branson</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
@@ -192,7 +186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">George Bassily </h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Padraig Lawlor</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -214,8 +208,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:george.bassily@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">george.bassily@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/georgebassily/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:padraig.lawlor@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">padraig.lawlor@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/padraiglawlor" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
