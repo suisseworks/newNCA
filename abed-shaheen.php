@@ -67,14 +67,15 @@ geographical expansion, and M&A.
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
 					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Lorem ipsum</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-circle font__size-16 rounded mr-3" style="color: #fff"></i>Strategy & Execution</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-circle font__size-16 rounded mr-3" style="color: #fff"></i>Digital Transformation</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-circle font__size-16 rounded mr-3" style="color: #fff"></i>Mergers &Acquisitions</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-circle font__size-16 rounded mr-3" style="color: #fff"></i>Leadership</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-circle font__size-16 rounded mr-3" style="color: #fff"></i>People / Culture Shaping</li>
 					</ul>
 				</div>
 			</div>
+
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
