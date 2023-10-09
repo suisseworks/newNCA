@@ -83,7 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 	</div>
 
-</section> <br /><br /><br />
+</section> <br />
 
 <section class="jan_video searcher_bg">
 	<div class="container">
