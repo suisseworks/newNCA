@@ -1,4 +1,25 @@
 <?php include 'inc/header-scripts.php'; ?>	
+
+
+<style>
+
+
+ 
+
+.detail_main_col .heading_bg_2::before, .detail_main_col .heading_bg::before {
+    content: '';
+    position: absolute;
+    width: 10% !important;
+    height: 135px;
+    background-color: #FFFBF6;
+    top: 180px;
+    z-index: -1;
+}
+
+</style>
+
+
+
 <body>
 	<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHG7P3C"
