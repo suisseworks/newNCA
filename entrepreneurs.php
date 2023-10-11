@@ -778,6 +778,25 @@ $_SESSION["lan"] = "English";
                     </div>	
 				</div>
 
+
+
+
+
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/krishan-arora-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Krishan Arora</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://novastone-ca.com/krishan-arora.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
 				 
 				 
 				 
