@@ -288,12 +288,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Christian Malek</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">Group CEO & Partner</p>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CEO</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/christian-malek-2088368b/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>	
 							
 						     </div>	
+                        </div>	
+					</div>
+
+
+					
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/daniel-gartner.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Daniel Gärtner </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								 Managing Partner
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/daniel-g%C3%A4rtner-8503b0/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
                         </div>	
 					</div>
 					 
@@ -307,8 +326,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Christopher Meier </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Director Investor Relations
-
+								Head of Investor Relations
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/christopher-meier-ba064410/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -326,7 +344,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Elisa Lorenzi </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Director Talent Management			        			</p>
+								  Head of Entrepreneur Success Management		        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/elisa-lorenzi/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
@@ -343,7 +361,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Lisa Michaeli</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Marketing Manager
+								  Head of Marketing
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/company/30146432" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -361,7 +379,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Andrea Botton</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Talent Acquisition Specialist
+								 Head of AC EU
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/andreagaiabotton/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -379,7 +397,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Swapnali Gaikwad</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Paralegal 
+								  Paralegal 
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/swapnali-gaikwad-1b2a0720b/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -397,10 +415,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Jessica Ajzensztejn  </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Senior Data Analyst
+								  Head of DDO
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/jessica-ajzensztejn-157678184/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/piotr-zawadzki.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Piotr Zawadzki </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								 Head of Portfolio Management
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
@@ -415,7 +450,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Moran Shomer </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Senior Data Analyst
+								 DDO Israel
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/moran-shomer/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -423,6 +458,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						    </div>	
                         </div>	
 					</div>
+
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/jose-infantozzi.png">
@@ -447,7 +483,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Elias Mayer </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Data Analyst
+								 DDO Israel
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/elias-m-7617a2130/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -456,8 +492,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
 					</div>
 				
-
-
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/giulio-isoli.png">
@@ -466,8 +500,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Giulio Isoli </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Investment Associate
-
+								  Investment Associate
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/giulio-isoli-52a448140/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -484,7 +517,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Gabriel Tamman</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Data Analyst
+								 DDO Israel
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/gt1/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -500,7 +533,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Albert Farreras</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Senior Investment Associate
+								  Senior Investment Associate
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/albert-farreras-cfa-439731b5/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -516,7 +549,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Taylor Perry</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Investment Manager
+								 Head of M&A
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/taylorperry1/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -533,7 +566,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Blair Late</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Global Manager of People & Culture
+								Head of HR
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/blair-madison-late-1a7a5914/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -568,7 +601,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Isaac Leyne</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Investment Analyst
+								  Investment Analyst
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/isaac-leyne/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -586,7 +619,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Maxim Evenko</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Junior Analyst
+								 DDO Israel
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/maxim-evenko-1582ba235/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -604,7 +637,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Noa Eisenberg</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Junior Analyst
+								  DDO Israel
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/noa-eisenberg/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -678,7 +711,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Kristina Kiltinaviciute </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								  HR Administrative Specialist
+								 HR Administrative Specialist
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/kristina-kiltinavi%C4%8Di%C5%ABt%C4%97-8764674b/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -755,6 +788,57 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/monica-lynn-a08a3976/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Greta Antonacci</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								 Recruiting and Marketing Coord.
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Arantxa Aguilar</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								  Legal Counsel
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Kayla Herrin</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								  M&A Counsel, North America
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
