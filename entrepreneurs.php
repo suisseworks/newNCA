@@ -784,7 +784,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/krishan-arora-about.png">
+                    	<img class="w-100" src="img/krishan-arora_about.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
