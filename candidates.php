@@ -14,47 +14,10 @@ $_SESSION["lan"] = "English";
 					<div class="row no-gutters d-flex align-items-center">
 						<div class="col-12 col-lg-8">
 							<h2 class="stroke_text talents_stroke_text talents_strok_cls_2 px-5 text-uppercase text-center text-lg-left text-md-left text-sm-left text-xs-left mb-40 wow fadeInLeft">What is ETA?</h2>
-							<div class="responsive_xs_pad px-5">
-								<div class="brk-ic-left-slide image_caption" data-brk-library="component__image_caption_css">
-									<img src="img/Christian_video_tumbnail.jpg" alt="alt" class="image_video w-100">
 
-
-                        <!-- <div class="heading_text_video position-absolute w-100 px-3 py-2">
-                        	<div class="row">
-                        		<div class="col-6">
-                        			<h6 class="mt-1">
-			                           	<span class="font__family-montserrat font__weight-semibold font__size-14 letter-spacing--60 uppercase text-white">Our program in 3 minutes</span>
-			                          </h6>
-                        		</div>
-                        		<div class="col-6">
-                        			<p class="text-right">
-			                           	<span class="font__family-montserrat font__weight-semibold font__size-12 letter-spacing--60 text-white"><img class="mt-1" src="img/Time.png"> 2:33 min</span>
-			                          </p>
-                        		</div>
-                        	</div>
-                        </div> -->
-                    </div>
-
-                    <div class="play_button left_btn talents_video_btn brk-hosted-video" data-brk-library="component__media_embeds,fancybox">
-                    	<!-- <a class="d-flex align-items-center fancybox" href="https://youtu.be/AFtUpMTs4vI" data-brk-library="fancybox"><i class="fas fa-play font__size-25"></i><span class="ml-2 font__size-12">PLAY</span></a> -->
-                    	<div class="brk-hosted-video__body">
-                    		<a class="d-flex align-items-center fancybox brk-hosted-video__btn" href="https://youtu.be/g1x9R3S6ewk" data-brk-library="component__button">
-                    			<svg width="138" height="134" viewBox="0 0 138 134" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    				<path d="M68.9999 0C55.3488 0 42.0042 3.93069 30.6537 11.295C19.3032 18.6594 10.4565 29.1266 5.23248 41.373C0.00841832 53.6194 -1.35843 67.0951 1.30477 80.0958C3.96798 93.0966 10.5416 105.039 20.1944 114.412C29.8472 123.785 42.1457 130.168 55.5345 132.754C68.9233 135.34 82.8012 134.012 95.4132 128.94C108.025 123.867 118.805 115.277 126.389 104.255C133.973 93.234 138.021 80.2762 138.021 67.0207C138.021 49.2457 130.749 32.1987 117.805 19.6299C104.861 7.06109 87.3055 0 68.9999 0ZM79.3673 79.6925L56.7041 92.3919V41.5874L79.3531 54.2799L102.002 66.9793L79.3673 79.6925Z" fill="#D6762C"/>
-                    			</svg>
-                    		</a>
-                    	</div>
-                    </div>
-                        	<!-- <video id="player" playsinline controls data-poster="/path/to/poster.jpg">
-							  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4" />
-							</video> -->
-	                        <!-- <div class="exampleVideo">
-								<div class="myVideo" id="my_video" data-video="https://www.w3schools.com/html/mov_bbb.mp4" data-poster="img/play-sec-1.png" data-type='video/mp4'></div>
-							</div> -->
-						</div>
 					</div>
+
 					<div class="col-12 col-lg-4">
-						
 						<div class="col-12 col-lg-8">
 							<div class="responsive_xs_pad">
 								<div class="headline pt-150">
@@ -95,36 +58,10 @@ $_SESSION["lan"] = "English";
 							</ul>
 						</div>
 					</div>
-					<div class="col-12 col-lg-8">
-						<div class="responsive_xs_pad px-5">
-							<div class="brk-ic-left-slide image_caption mt-lg-0 mt-5" data-brk-library="component__image_caption_css">
-								<img src="img/play-sec-2.png" alt="alt" class="image_video">
-                        <!-- <div class="heading_text_video position-absolute w-100 px-3 py-2">
-                        	<div class="row">
-                        		<div class="col-6">
-                        			<h6 class="mt-1">
-			                           	<span class="font__family-montserrat font__weight-semibold font__size-14 letter-spacing--60 uppercase text-white">What we look for in talents</span>
-			                          </h6>
-                        		</div>
-                        		<div class="col-6">
-                        			<p class="text-right">
-			                           	<span class="font__family-montserrat font__weight-semibold font__size-12 letter-spacing--60 text-white"><img class="mt-1" src="img/Time.png"> 3:05 min</span>
-			                          </p>
-                        		</div>
-                        	</div>
-                        </div> -->
-                    </div>
-                    <div class="play_button left_btn center_btn brk-hosted-video rendered brk-library-rendered talents_video_btn" data-brk-library="component__media_embeds,fancybox">
-                    	<!--  <a class="d-flex align-items-center fancybox" href="https://youtu.be/AFtUpMTs4vI" data-brk-library="fancybox"><span class="mr-2 font__size-12">PLAY</span><i class="fas fa-play font__size-25"></i></a> -->
-                    	<div class="brk-hosted-video__body">
-                    		<a class="d-flex align-items-center fancybox brk-hosted-video__btn" href="https://youtu.be/FICy-KXv4DM" data-brk-library="component__button">
-                    			<svg width="138" height="134" viewBox="0 0 138 134" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    				<path d="M68.9999 0C55.3488 0 42.0042 3.93069 30.6537 11.295C19.3032 18.6594 10.4565 29.1266 5.23248 41.373C0.00841832 53.6194 -1.35843 67.0951 1.30477 80.0958C3.96798 93.0966 10.5416 105.039 20.1944 114.412C29.8472 123.785 42.1457 130.168 55.5345 132.754C68.9233 135.34 82.8012 134.012 95.4132 128.94C108.025 123.867 118.805 115.277 126.389 104.255C133.973 93.234 138.021 80.2762 138.021 67.0207C138.021 49.2457 130.749 32.1987 117.805 19.6299C104.861 7.06109 87.3055 0 68.9999 0ZM79.3673 79.6925L56.7041 92.3919V41.5874L79.3531 54.2799L102.002 66.9793L79.3673 79.6925Z" fill="#D6762C"/>
-                    			</svg></a>
-                    		</div>
-                    	</div>
-                    </div>
-                </div>
+
+
+
+				
             </div>
         </div>
     </div>
