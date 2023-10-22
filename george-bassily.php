@@ -61,7 +61,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 		</div>
 	</div>
-	<div class="my_searcher" style="margin-top: -270px !important">
+	<div class="my_searcher">
 		<div class="container">
 		<div class="row no-gutters">
 			<div class="col-lg-2"></div>
