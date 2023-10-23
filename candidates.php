@@ -34,38 +34,7 @@ $_SESSION["lan"] = "English";
 			</div>
 		</div>
 	</section>
-	<section class="entrepreneurs_section bg-white pt-100 pb-100">
-		<div class="container">
-			<div class="pb-100">
-				<div class="stroke_wrap">
-					<h2 class="stroke_text talents_stroke_text talents_strok_cls_2 text-uppercase mb-20 wow fadeInLeft">What do we look for?</h2>
-				</div>
-				<div class="row no-gutters d-flex align-items-center">
-					<div class="col-12 col-lg-4">
-						
-						<div class="col-12">
-							<div class="responsive_xs_pad">
-								<div class="headline">
-									<h4 class="mb-3 title talent_title wow fadeInUp">
-									Interested in applying? </h4>
-								</div>
-							</div>
-							<p class="font__family-open-sans text-content wow fadeInUp font__size-20">Our Co-Founder Elena shares key attributes of NCA Entrepreneurs in this video. Make sure you also:</p>
-							<ul class="list_for_tips mt-2">
-								<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Have 1-3 defined target industries and sectors</li>
-								<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Have target industry experience, a network, and transferable skills</li>
-								<li class="font__size-18 mb-2"><i class="fa fa-check mt-2 mr-2 font__size-14"></i>Meet target geography language and living requirements</li>
-							</ul>
-						</div>
-					</div>
 
-
-
-				
-            </div>
-        </div>
-    </div>
-</section>
 
 <section class="slider_process_section">
 	<div class="container">
