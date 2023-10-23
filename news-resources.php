@@ -132,7 +132,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="resource_wrap_links">
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-								<a href="docs/NCA-Announcement-October-2023-FINAL.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Novastone Capital Advisors announces key hires & promotions<span class="arrow_link_a"></span></a>
+								<a href="docs/NCA-Announcement-October-2023-FINAL.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">NOVASTONE CAPITAL ADVISORS ANNOUNCES KEY HIRES & PROMOTIONS<span class="arrow_link_a"></span></a>
 							</div>	
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
