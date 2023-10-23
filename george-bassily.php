@@ -33,10 +33,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025 </span>
 						</div>
 						<p class="font__size-18 line__height-24"> 
-                           I'm a Mechanical Engineer by training with a fervent interest in strategy, business development, and finance. I have spent most of my life in the charming city of Montreal, gaining extensive experience across various fields including engineering, sales, operations, management, and consultancy. Throughout my career, I've been instrumental in aiding several SMEs in scaling, securing funding, and creating substantial value. My MBA thesis delved into the intricacies of leverage buyouts and private equity strategies for mid-sized companies, reflecting my passion for value creation. As an active mentor in incubators and accelerators at HEC University, I'm dedicated to nurturing the next generation of business talents.
+						I'm a Mechanical Engineer by training, but my true passion lies in strategy, business development, and finance. Based in the vibrant city of Montreal, I've gained diverse experience in engineering, sales, operations, management, and consultancy. 
                            <br/> <br/> 
 
-                           Beyond my professional pursuits, I am a proud father of three wonderful daughters and find solace in activities like biking, running, and reading. These moments of leisure, shared with my family and friends, provide me with the balance and inspiration to fuel my entrepreneurial journey towards acquiring and growing my own business, with the ultimate goal of establishing a small private equity office. 
+                           Throughout my career, I've helped multiple SMEs scale, secure funding, and create value. My MBA thesis focused on leverage buyouts and private equity strategies for mid-sized companies, reflecting my enthusiasm to value creation. 
+                           <br/> <br/> 
+
+						   Beyond work, I'm a proud father of three daughters and enjoy biking, running, and reading for relaxation and inspiration. I'm an active mentor in incubators and accelerators, supporting and being inspired by the next generation of business talent. 
+						   <br/> <br/> 
+
+						   My entrepreneurial journey aims to acquire and grow my own business, with the ultimate goal of establishing a small private equity office. 
                          </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
@@ -76,13 +82,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">  
-                       I am primarily targeting advanced and light manufacturing, along with distribution SMEs. My search is centered on identifying businesses poised for substantial revenue growth and room for margin improvements through operational efficiencies. 
+					I am primarily looking for advanced and light manufacturing, along with distribution SMEs. My search is centered on identifying businesses poised for substantial revenue growth and room for margin improvements through operational efficiencies. 
                       </p>
-					<p class="font__size-16 line__height-24 mt-2"> Geographically, my focus encompasses Canada, specifically Quebec and Ontario, as well as the East Coast of the United States. Additionally, I am open to exploring opportunities in California when they arise.   </p>
+					<p class="font__size-16 line__height-24 mt-2"> Geographically, my focus covers Canada, specifically Quebec and Ontario, as well as the East Coast of the United States. Additionally, I am open to exploring opportunities in California.   </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Leveraging nearly two decades of experience in top-line growth, operational efficiency, business model refinement, and product development, I am well-prepared to drive the expansion and success of the company I will acquire. My strategic acumen will guide us in making informed decisions and navigate today’s complex business landscape, while my track record of boosting top-line revenue demonstrates my ability to capture growth opportunities.   </p>
-					<p class="font__size-16 line__height-24 mt-1">I aim to optimize operations to enhance efficiency and profitability, and my expertise in elaborating upon robust business models will provide a solid foundation for scaling the company. Together, these skills will empower us to achieve sustainable growth and reach new heights of success.     </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">Drawing upon nearly two decades of experience in top-line growth, operational efficiency, business model refinement, and product development, I am well-prepared to drive the acquired company's expansion and success. My strategic acumen will aid in making informed decisions and navigating today's complex business landscape.     </p>
+					<p class="font__size-16 line__height-24 mt-1">With a track record of increasing top-line revenue, I can effectively seize growth opportunities. My goal is to optimize operations, improve efficiencies, and enhance profitability, while my expertise in developing robust business models will establish a solid foundation for scaling the company. Together, these skills will empower us to achieve sustainable growth and reach new heights of success.   </p>    
 			</div>
 		</div>
 	</div>
