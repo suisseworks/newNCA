@@ -10,7 +10,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/krishan_arora.png">
+				<img src="img/krishan-arora.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -83,7 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 	</div>
 
-</section> <br />
+</section> 
 
 <section class="jan_video searcher_bg">
 	<div class="container">

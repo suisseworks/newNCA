@@ -114,8 +114,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>	
 					</div>
 					<div class="col-lg-5 pl-lg-20">
-						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
-							<p class="font-weight-bold font__size-16">
+						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
+							<p class="mt-30 font__size-16">
 							I am an engineer and I love making things. As a child I used to make jigsaws to sell at local fairs. To help my sporting endeavours I designed and built a freestyle kayak using robotic carbon fibre placement. I started my career designing production lines and machinery for the automotive industry and enjoyed the impact I had on the way things are made.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
@@ -138,14 +138,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>	
 					</div>
 					<div class="col-lg-5 pl-lg-20">
-						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
-							<p class="font-weight-bold font__size-16">
+						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
+							<p class="mt-30 font__size-16">
                             I am looking for a UK company that manufactures and supplies high value parts or systems into industrial sectors such as aerospace, automotive or similar. 
-Companies that have an innovative culture, who are keen to explore new technologies and ways to enhance their offering to their customers are of particular interest. 
+Companies that have an innovative culture, who are keen to explore new technologies and ways to enhance their offering to their customers are of particular interest.
+
+Of course, I am looking for a successful business, one which is ready and capable of growing.
 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            Of course, I am looking for a successful business, one which is ready and capable of growing 
+                    
 							</p>
 						</div>	
 					</div>
@@ -164,8 +166,8 @@ Companies that have an innovative culture, who are keen to explore new technolog
 						</div>	
 					</div>
 					<div class="col-lg-5 pl-lg-20">
-						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
-							<p class="font-weight-bold font__size-16">
+						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
+							<p class="mt-30 font__size-16">
 							I believe the next big opportunity is in local manufacturing. So I want to help a UK business grow with that opportunity and bring more manufacturing back to the UK. 
 I am a strategic leader, with a pragmatic engineering approach. I will not change things that are working well in the business but I will find opportunities to improve and grow. 
 
