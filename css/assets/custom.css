@@ -5945,3 +5945,15 @@ a.logo_section.bg-white:hover,a.logo_section.bg-white:focus{
     }
 
 }
+
+@media (min-width: 992px){
+
+   .searcher_jan_img img {
+    min-height: 1530px !important;
+    object-fit: contain;
+}
+   .my_searcher {
+   margin-top: -270px !important;
+}
+
+}
