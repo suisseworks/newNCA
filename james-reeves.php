@@ -16,6 +16,13 @@
     z-index: -1;
 }
 
+.heading_top_icon {
+    position: relative;
+    top: -3px;
+    left: 30px;
+
+}
+
 </style>
 
 
@@ -200,7 +207,7 @@ I will be a safe pair of hands for your business, ensuring the legacy remains st
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-                        In<br> the<br> middle<br> of <br>difficulty<br> lies<br> opportunity<br>		<br>				 
+                          In<br>the<br> middle<br> of <br>difficulty<br> lies<br> opportunity<br>		<br>				 
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
