@@ -3,9 +3,6 @@
 
 <style>
 
-
- 
-
 .detail_main_col .heading_bg_2::before, .detail_main_col .heading_bg::before {
     content: '';
     position: absolute;
@@ -14,6 +11,13 @@
     background-color: #FFFBF6;
     top: 180px;
     z-index: -1;
+}
+
+
+.heading_top_icon {
+    position: relative;
+    top: -20px;
+    left: 30px;
 }
 
 </style>
@@ -107,7 +111,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/about-james-reeves.png">
+							<img class="w-100" src="img/about-justin-mack.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-36">ABOUT ME</p>
 							</div>
@@ -131,7 +135,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/my-search-james.png">
+							<img class="w-100" src="img/my-search-justin.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-36">MY SEARCH</p>
 							</div>
@@ -156,7 +160,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/my-contribution-james-reeves.png">
+							<img class="w-100" src="img/my-contribution-justin-mack.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-28">MY CONTRIBUTION</p>
 							</div>
@@ -211,9 +215,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-8 pl-lg-20">
 				<div class="video_div d-flex h-100 pt-lg-0 pt-50">
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-	                    <img src="img/video.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
+	                    <img src="img/justin_thumb.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/bD3Vy3akPsE?si=NE6OEI9a3AAIepSd" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
@@ -222,7 +226,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
+					<a download href="docs/Justin-Mack-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
