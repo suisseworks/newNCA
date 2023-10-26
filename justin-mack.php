@@ -50,7 +50,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							    </p>	
 
 								<p style="margin-top: 8px;  "> 
-								<a href="https://www.linkedin.com/in/advancedmanufacturing" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2">
+								<a href="https://www.linkedin.com/in/justin-mack-indiana/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2">
 									<i style="font-size: 18px;" class="fab fa-linkedin-in"></i>
 								</a>
 								
@@ -58,15 +58,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	                    </div>
 
 	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160">
-							<p class="heading_bg">James</p>
-							<p class="heading_bg_2">Reeves</p>
+							<p class="heading_bg">Justin</p>
+							<p class="heading_bg_2">Mack</p>
 						</h2>
 				    </div>	
 				</div>    
 			</div>
 			<div class="col-lg-8">
 				<div class="searcher_image position-relative" style="position: revert;">
-					<img class="w-100" src="img/james-reeves.png">
+					<img class="w-100" src="img/justin-mack.png">
 				</div>	
 			</div>	
 		</div>
@@ -116,10 +116,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
 							<p class="mt-30 font__size-16">
-							I am an engineer and I love making things. As a child I used to make jigsaws to sell at local fairs. To help my sporting endeavours I designed and built a freestyle kayak using robotic carbon fibre placement. I started my career designing production lines and machinery for the automotive industry and enjoyed the impact I had on the way things are made.
+							  I grew up in a small business household in Alaska and launched my first business at 6 years old buying bulk candy and reselling individual pieces to my classmates. Since then, I’ve been fortunate enough to serve my country in the military, earn an MBA from the University of Michigan, and coach my kids in rugby and football. Professionally, I’ve learned and led in multiple functions across the chemicals, financial services, e-commerce, and tech industries.
 							</p>
+
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-							I got excited about new ways of doing things, not just in manufacturing but in business. I started brokering technology licensing deals, then building strategies for high-tech start-ups before moving into corporate leadership. For me, engineering isn’t just in what is made, but also in making the business.
 							</p>
 						</div>	
 					</div>
@@ -140,10 +140,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
 							<p class="mt-30 font__size-16">
-                            I am looking for a UK company that manufactures and supplies high value parts or systems into industrial sectors such as aerospace, automotive or similar. 
-Companies that have an innovative culture, who are keen to explore new technologies and ways to enhance their offering to their customers are of particular interest.
-
-Of course, I am looking for a successful business, one which is ready and capable of growing.
+                            The focus of my search is the chemical sector in the United States. This is a growing industry with diverse applications in a wide range of end markets. Specifically, I’m searching for manufacturing, logistics, and value-added distribution businesses in the Midwest who are positioned to benefit from evolving customer demand for more environmentally friendly and less labor-intensive chemical solutions.
 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
@@ -168,13 +165,11 @@ Of course, I am looking for a successful business, one which is ready and capabl
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
 							<p class="mt-30 font__size-16">
-							I believe the next big opportunity is in local manufacturing. So I want to help a UK business grow with that opportunity and bring more manufacturing back to the UK. 
-I am a strategic leader, with a pragmatic engineering approach. I will not change things that are working well in the business but I will find opportunities to improve and grow. 
+							As an experienced people management professional, I have a track record of driving operational excellence and achieving strategic objectives across diverse industries. My expertise lies in leading cross-functional teams, developing high-performance cultures, and implementing effective processes that drive growth and profitability. 
 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-							I believe in people. I will spend time to get to know people in the business, understand their value and make sure they are appreciated. 
-I will be a safe pair of hands for your business, ensuring the legacy remains strong and enduring. 
+							Throughout my career I have overseen all aspects of a business including sales, marketing, finance, and operations and been responsible for setting and executing the company's strategic direction, ensuring that we are delivering value to our customers and shareholders. I focus on building strong teams and mentoring emerging leaders so that everyone in the organization is in the right position to do their best work.
 
 							</p>
 						</div>	
@@ -200,7 +195,7 @@ I will be a safe pair of hands for your business, ensuring the legacy remains st
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-                        In<br> the<br> middle<br> of <br>difficulty<br> lies<br> opportunity<br>		<br>				 
+						the main<br> thing is<br> to keep <br>the main <br>thing the<br> main thing. <br>	<br>			 
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -208,7 +203,7 @@ I will be a safe pair of hands for your business, ensuring the legacy remains st
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-						  Albert Einstein
+						  Stephen Covey
 						</p> 
 					</div>	
 				</div>	
@@ -216,9 +211,9 @@ I will be a safe pair of hands for your business, ensuring the legacy remains st
 			<div class="col-lg-8 pl-lg-20">
 				<div class="video_div d-flex h-100 pt-lg-0 pt-50">
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-	                    <img src="img/james_thumb.png" alt="alt" class="image_video object-fit_cover w-100 h-100"> 
+	                    <img src="img/video.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/2so2xDIl3K4?si=3r2GEtM4Msx2wej7" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
@@ -227,7 +222,7 @@ I will be a safe pair of hands for your business, ensuring the legacy remains st
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/James-Reeves-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
+					<a download href="" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
@@ -246,7 +241,7 @@ I will be a safe pair of hands for your business, ensuring the legacy remains st
                     </h2>
                     <ul class="pl-0 mt-30">
                     	<li class="w-100 mb-30">
-                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:james.reeves@novastone-ca.com">james.reeves@novastone-ca.com</a>
+                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:justin.mack@novastone-ca.com">justin.mack@novastone-ca.com</a>
                     	</li>
                     </ul>
 				</div>	
@@ -262,7 +257,7 @@ I will be a safe pair of hands for your business, ensuring the legacy remains st
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">James Reeves</h1>
+							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Justin Mack</h1>
 							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Entrepreneur</span></h3>
 						</div>
 						<div class="jan_detail mt-60">
@@ -284,8 +279,8 @@ I will be a safe pair of hands for your business, ensuring the legacy remains st
 				</div>
 				<div class="col-12 col-lg-5 text-lg-right">
 					<div class="searcher_mail d-flex align-items-center justify-content-end mt-3 pt-1">
-						<a href="mailTo:james.reeves@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>james.reeves@novastone-ca.com</span></a>
-						<a href="https://www.linkedin.com/in/advancedmanufacturing/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:justin.mack@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>justin.mack@novastone-ca.com</span></a>
+						<a href="https://www.linkedin.com/in/justin-mack-indiana/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
