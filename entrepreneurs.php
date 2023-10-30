@@ -810,7 +810,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">James Reeves</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.linkedin.com/in/advancedmanufacturing" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://novastone-ca.com/james-reeves.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
@@ -828,7 +828,7 @@ $_SESSION["lan"] = "English";
                         	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">George Bassily</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.linkedin.com/in/georgebassily/" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://novastone-ca.com/george-bassily.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
