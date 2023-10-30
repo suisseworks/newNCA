@@ -25,7 +25,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>	
 
 
-
 					<div class="detail_searcher mt-2">
 						<h2 class="font__family-efb text-uppercase line__height-90">Padraig  <br> Lawlor</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
@@ -90,9 +89,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/video.png" alt="alt" class="image_video">
+                        <img src="img/padraig-lawlor-thumbnail.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/hy3TW5CuSYU?si=ry8B6Vw9d8ZZWQWQ" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
