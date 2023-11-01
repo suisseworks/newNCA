@@ -1,26 +1,35 @@
 <?php include 'inc/header-scripts.php'; ?>
 
-
-
-<div class="brk-header-mobile">
-
-	<div class="brk-header-mobile__open"><span></span></div>
-
-	<div class="brk-header-mobile__logo"><a href="index.php"><img class="brk-header-mobile__logo-1 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"> <img class="brk-header-mobile__logo-2 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"></a></div>
-
-</div>
-
-<header class="brk-header brk-header_style-1 brk-header_skin-1 position-fixed d-lg-flex flex-column brk-header_color-dark position-fixed bg-white" style="display: none;" data-logo-src="img/logo.png" data-brk-library="component__header">
-
-	<div class="brk-header__main-bar brk-header_border-top-dark order-lg-2 order-1" style="height: 72px;">
-
-		<div class="container">
-
-			<div class="row align-items-center">
-
-				<div class="col-lg-1 align-self-lg-center d-none d-lg-flex">
-
-					<a href="index.php" class="brk-header__logo brk-header__item @@modifier"><img class="brk-header__logo-1 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"> <img class="brk-header__logo-2 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"></a>
+		<div class="brk-header-mobile">
+			<div class="brk-header-mobile__open"><span></span></div>
+			<div class="brk-header-mobile__logo"><a href="index.php"><img class="brk-header-mobile__logo-1 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"> <img class="brk-header-mobile__logo-2 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"></a></div>
+		</div>
+		<header class="brk-header brk-header_style-1 brk-header_skin-1 position-fixed d-lg-flex flex-column brk-header_color-dark position-fixed bg-white" style="display: none;" data-logo-src="img/logo.png" data-brk-library="component__header">
+			<div class="brk-header__main-bar brk-header_border-top-dark order-lg-2 order-1" style="height: 72px;">
+				<div class="container">
+					<div class="row align-items-center">
+						<div class="col-lg-1 align-self-lg-center d-none d-lg-flex">
+							<a href="index.php" class="brk-header__logo brk-header__item @@modifier"><img class="brk-header__logo-1 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"> <img class="brk-header__logo-2 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"></a>
+						</div>
+						<div class="col-lg align-self-lg-stretch text-lg-right">
+							<nav class="brk-nav brk-header__item">
+								<ul class="brk-nav__menu">
+									<li class="home-menu d-xs-none"><a href="index.php"><div>Home</div></a></li>
+									<li><a href="about-us.php"><div>About Us</div></a></li>
+                                    <li><a href="entrepreneurs.php"><div><span class="d-lg-none menu_for">For</span> Entrepreneurs</div></a></li>
+									<li><a href="candidates.php"><div><span class="d-lg-none menu_for">For</span> Candidates</div></a></li>
+									<li><a href="co-investors.php"><div><span class="d-lg-none menu_for">For</span> Co-investors</div></a></li>
+									<li><a href="business-owners.php"><div><span class="d-lg-none menu_for">For</span> Business owners</div></a></li>
+									<li><a href="news-resources.php"><div>Resources</div></a></li>
+									<li><a href="http://insights.novastone-ca.com/"><div>Insights</div></a></li>
+								</ul>
+							</nav>
+						</div>						
+						<div class="col-lg-2 align-self-lg-stretch text-lg-right header_third_part">
+						<div class="brk-header__item h-100 d-flex align-items-center justify-content-center">
+							<!-- <a href="<?php echo $_SESSION['page'] ?>" class="bg-transparent font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button"><?php echo $_SESSION['lan']?></a> -->
+							
+							
 
 				</div>
 
