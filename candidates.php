@@ -481,22 +481,6 @@ $_SESSION["lan"] = "English";
 					</div>
 				</div>
 
-				
-				<div class="col-lg-4 col-sm-6  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-					<div class="img_section w-100">
-						<img class="w-100" src="img/wendy.png">
-					</div>
-					<div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
-						<div>
-							<h5 class="text-center font__size-22 text-white line__height-30 font__family-efb">Wendy Van Der Maas</h5>
-							<p class="text-center font__size-16 text-white font__family-open-sans line__height-28 mt-2 member_status">
-								Talent Acquisition Specialist
-							</p>
-
-						</div>
-					</div>
-				</div>
-
 				<div class="col-lg-12 col-sm-6">
 					<div class="d-flex align-items-center justify-content-center talent_btn_learn h-100 pb-lg-0 pb-sm-2">
 						<a href=" http://insights.novastone-ca.com/insights/the-nca-searcher-selection-process/" class="social_icon d-inline-flex align-items-center border-bottom h-100 justify-content-center border-radius-0 p-2 text-white bg-primary w-100">Learn More</a>
