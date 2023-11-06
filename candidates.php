@@ -474,9 +474,6 @@ $_SESSION["lan"] = "English";
 						<div>
 							<h5 class="text-center font__size-22 text-white line__height-30 font__family-efb">Andrea Gaia</h5>
 							<p class="text-center font__size-16 text-white font__family-open-sans line__height-28 mt-2 member_status">Talent Acquisition Specialist</p>
-
-
-							
 						</div>
 					</div>
 				</div>
