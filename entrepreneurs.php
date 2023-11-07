@@ -3,7 +3,7 @@ $_SESSION["lan"] = "English";
 ?>
 <?php include 'inc/header.php'; ?>
 <body>
-	<section class="entrepreneurs_section bg-white pt-100">
+	<section id="entrepreneurs" class="entrepreneurs_section bg-white pt-100">
 		<div class="container">
 			<div class="row no-gutters">
 					<div class="col-12 strike_heading_2 mt-3">
@@ -857,7 +857,7 @@ $_SESSION["lan"] = "English";
 	</div>		
 </section>
 
-<section class="entrepreneurs_section bg-white pt-100 pb-100">
+<section id="ceos" class="entrepreneurs_section bg-white pt-100 pb-100">
 		<div class="container">
 			<div class="pb-100">
 				<div class="stroke_wrap pt-3">
