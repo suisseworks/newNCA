@@ -24,8 +24,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</div>	
 
-
-
 					<div class="detail_searcher mt-2">
 						<h2 class="font__family-efb text-uppercase line__height-90">George  <br> Bassily</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
