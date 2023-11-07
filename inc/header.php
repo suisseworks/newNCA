@@ -46,9 +46,9 @@
 
 							<ul class="dropdown-content">
 
-								<li><a href="news-resources.php">Searching Entrepreneurs</a></li>
+								<li><a href="entrepreneurs.php#entrepreneurs">Searching Entrepreneurs</a></li>
 
-								<li><a href="http://insights.novastone-ca.com/">NCA CEO's</a></li>
+								<li><a href="entrepreneurs.php#ceos">NCA CEO's</a></li>
 
 							</ul>
 
