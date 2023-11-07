@@ -20,6 +20,10 @@
     left: 30px;
 }
 
+.heading-_icon.heading_bottom_icon {
+    margin-top: -40px !important;
+}
+
 </style>
 
 
@@ -70,7 +74,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 			<div class="col-lg-8">
 				<div class="searcher_image position-relative" style="position: revert;">
-					<img class="w-100" src="img/justin-mack.png">
+					<img class="w-100" src="img/justin_mack.png">
 				</div>	
 			</div>	
 		</div>
