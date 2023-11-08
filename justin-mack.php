@@ -74,7 +74,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 			<div class="col-lg-8">
 				<div class="searcher_image position-relative" style="position: revert;">
-					<img class="w-100" src="img/justin--mack.png">
+					<img class="w-100" src="img/justin_mack.jpg">
 				</div>	
 			</div>	
 		</div>
