@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/samantha2.png">
+				<img src="img/paolo-ciarlariello.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,23 +18,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/safreeman/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							 
+							<a href="" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>						
 						</div>
 					</div>	
 
-
-
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Samantha <br> Freeman</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">David <br> Kirubi</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2022</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
+							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2024</span>
 						</div>
-						<p class="font__size-18 line__height-24">I have 25+ years building successful children’s media brands and consumer products businesses.  After managing global brands for Mattel, Marvel and Nickelodeon, I co-founded a children’s educational media company and grew it from start-up through strategic exit.  Now based in New York, I’m excited to acquire and grow another company in an industry that I thoroughly know and enjoy.  </p>
+						<p class="font__size-18 line__height-24"> 
+
+						Born in Kenya, my life's journey has taken me to over 40 countries across the US, Canada, Europe, Asia and Pacific, and Sub-Saharan Africa, where I have lived, worked, and traveled. This global exposure has deeply influenced both my personal passions and professional insights. I've been blessed to be a part of, build, and lead exceptional teams and communities throughout my two-decade-long career. Beyond that, I'm an avid traveler and foodie, and I pride myself on being a solver of puzzles in both professional and personal realms. Every endeavor is supercharged by my WHY: to ignite people’s imaginations about what’s possible, so that, together, we can progress our infinite potential.  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:samantha.freeman@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:david.kirubi@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -55,41 +54,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary">Key Skills</h2>
+					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entrepreneurship</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Industry Expertise </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic & Creative Thinking </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Results Orientation </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>High Integrity </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>21 years of experience holding senior executive roles</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Leadership in diverse industrial sectors</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Ability to build and lead high-performance teams</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Goal Oriented</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strong communication skils</li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">My search is focused on identifying a children’s product or service business for value creation, revenue generation and earnings growth.  Target companies are parent-directed with educational or other evergreen offerings for younger children ages 0-6. </p>
-					<p class="font__size-16 line__height-24 mt-2">Categories include toys, apparel and accessories, baby products, home or seasonal goods, personal care, publishing, digital learning subscriptions, and e-commerce.  </p>
+					<p class="font__size-16 line__height-24 font__family-efb">  
+                      I am targeting a fire safety services business in the United States, focusing on California, Texas, Florida, and New York. The ideal business specializes in maintenance and monitoring for a diverse B2B clientele with enduring profitability. Given that fire safety services are both essential and legally mandated, their fundamentals are stable across cycles. 
+					<p class="font__size-16 line__height-24 mt-2">However, the sector is currently lagging in digital transformation, creating opportunities for efficiencies, data-driven decision-making, and enhanced customer experiences. Factors such as demographic growth in key regions, evolving real estate trends, and expanding regulatory requirements further amplify the growth potential for these services. This landscape offers promising prospects for companies eager to drive growth and innovation.  </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I plan to apply broad and deep functional industry expertise to the target company to create value.  </p>
-					<p class="font__size-16 line__height-24 mt-1">Depending on the specific acquisition, strategies may include:  brand differentiation, product innovation, category expansion, character licensing, e-commerce development, marketing and social media, sustainability, and/or international expansion.     </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">With a background in operations, strategy, and entrepreneurship, I have a diverse toolkit honed over 21+ years. My experiences in diverse global markets, spanning the US, Europe, and Asia Pacific, have cultivated a culturally sensitive leadership style, adept at motivating varied teams.   </p>
+					<p class="font__size-16 line__height-24 mt-1">I see opportunities in driving digital transformation, expanding services, and delving into specialized sectors. My approach always centers on creating value, whether it's through enhancing customer experiences, fostering an owner's mindset in teams, or penetrating new growth verticals.    </p>    
 			</div>
 		</div>
 	</div>
 	</div>
 
 </section>
-
+<br/>
 <section class="jan_video searcher_bg">
 	<div class="container">
 		<div class="row no-gutters">
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/play-sec-samantha2.jpg" alt="alt" class="image_video">
+                        <img src="img/paolo-thumbnail.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/8eoHUm3G94I" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/ui_zRTMVe24" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -129,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Samantha-Freeman-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD RESUME / CV<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Paolo-Ciarlariello-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -143,7 +143,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-bricks.jpg" class="resume_img">
+				<img src="img/background-paolo.png" class="resume_img">
 			</div>
 		</div>
 
@@ -153,7 +153,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:samantha.freeman@novastone-ca.com">samantha.freeman@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:david.kirubi@novastone-ca.com">david.kirubi@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -166,9 +166,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">The most effective way to do it, is to do it.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Amelia Earhart</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase">American aviation pioneer and writer</p>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">If I have seen further it is by standing on the shoulders of Giants.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Sir Isaac Newton</h5>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
 			  </div>
@@ -183,7 +183,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Samantha Freeman</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">David Kirubi</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -205,8 +205,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:samantha.freeman@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">samantha.freeman@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/safreeman/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:david.kirubi@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">david.kirubi@novastone-ca.com</a>
+						<a href="" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
