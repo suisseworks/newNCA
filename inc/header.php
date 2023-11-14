@@ -38,7 +38,7 @@
 
 							<li class="dropdown d-li">
 								<a href="entrepreneurs.php">
-									<div><span class="d-lg-none menu_for">For</span> Entrepreneurs</div>
+									<div><span class="d-lg-none menu_for"></span>Our Entrepreneurs</div>
 								<i class="fa fa-caret-down pl-1"></i>
 							    </a>
 
@@ -56,7 +56,7 @@
 
                         <li class="dropdown m-li">
 							
-							<a href="entrepreneurs.php"><span class="d-lg-none menu_for">For</span>Entrepreneurs
+							<a href="entrepreneurs.php"><span class="d-lg-none menu_for"></span>Our Entrepreneurs
 								<i class="fa fa-caret-down pl-1"></i>                  
 							</a>
 
@@ -75,13 +75,13 @@
 
 
 
-						<li><a href="candidates.php"><div><span class="d-lg-none menu_for">For</span> Candidates</div></a></li>
+						<li><a href="candidates.php"><div><span class="d-lg-none menu_for"></span>For Candidates</div></a></li>
 
 
 
-						<li><a href="co-investors.php"><div><span class="d-lg-none menu_for">For</span> Co-investors</div></a></li>
+						<li><a href="co-investors.php"><div><span class="d-lg-none menu_for"></span>For Co-investors</div></a></li>
 
-						<li><a href="business-owners.php"><div><span class="d-lg-none menu_for">For</span> Business owners</div></a></li>
+						<li><a href="business-owners.php"><div><span class="d-lg-none menu_for"></span>For Business owners</div></a></li>
 
 						<li class="dropdown d-li">
 							
