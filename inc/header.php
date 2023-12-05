@@ -38,7 +38,7 @@
 
 							<li class="dropdown d-li">
 								<a href="entrepreneurs.php">
-									<div><span class="d-lg-none menu_for"></span>Our Entrepreneurs</div>
+									<div><span class="d-lg-none menu_for"></span>For Entrepreneurs</div>
 								<i class="fa fa-caret-down pl-1"></i>
 							    </a>
 
