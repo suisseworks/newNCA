@@ -56,7 +56,7 @@
 
                         <li class="dropdown m-li">
 							
-							<a href="entrepreneurs.php"><span class="d-lg-none menu_for"></span>Our Entrepreneurs
+							<a href="entrepreneurs.php"><span class="d-lg-none menu_for"></span>For Entrepreneurs
 								<i class="fa fa-caret-down pl-1"></i>                  
 							</a>
 
