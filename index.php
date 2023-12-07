@@ -52,7 +52,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="landing_col_5 landing_page_menus">
 					<div class="page_text">
 						<a href="entrepreneurs.php" class="position-relative">
-							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name"><span class="font__size-13 font__family-efblack position-absolute for_text">For</span>Entrepreneurs</h2>
+							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name"><span class="font__size-13 font__family-efblack position-absolute for_text">Our</span>Entrepreneurs</h2>
 							<p class="font__size-12 font__family-open-sans line__height-17 pt-2">
 								Once Searching Entrepreneurs complete a successful acquisition they become NCA CEOs.
 							</p>
