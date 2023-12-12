@@ -17,11 +17,11 @@
 	<link rel="stylesheet" id="brk-skin-color" href="css/skins/orange-skin.css">
 	<link id="brk-base-color" rel="stylesheet" href="css/skins/brk-base-color.css">
 	<link rel="stylesheet" id="brk-direction-offsets" href="css/assets/offsets.css">
-	<link id="brk-css-min" rel="stylesheet" href="css/assets/styles.min.css">
-	<link rel="stylesheet" type="text/css" href="css/assets/custom.css?v=2.0">
-	<link rel="stylesheet" type="text/css" href="css/assets/nca.css">
-	<link rel="stylesheet" type="text/css" href="css/assets/nca2.css">
-	<link rel="stylesheet" type="text/css" href="css/assets/responsive.css">
+	<link id="brk-css-min" rel="stylesheet" href="css/assets/styles.min.css?v=<php echo rand(): ?>">
+	<link rel="stylesheet" type="text/css" href="css/assets/custom.css?v=<php echo rand(): ?>">
+	<link rel="stylesheet" type="text/css" href="css/assets/nca.css?v=<php echo rand(): ?>">
+	<link rel="stylesheet" type="text/css" href="css/assets/nca2.css?v=<php echo rand(): ?>">
+	<link rel="stylesheet" type="text/css" href="css/assets/responsive.css?v=<php echo rand(): ?>">
 	<!-- <link rel="stylesheet" href="vendor/revslider/css/settings.css"> 
 	<style>#rev_slider_21_1_wrapper .tp-loader.spinner2{ background-color: #0071fc !important; }</style>-->
 	<style>.brk-button-shadow{-webkit-box-shadow:0 10px 15px rgba(0,0,0,.07) !important;-moz-box-shadow:0 10px 15px rgba(0,0,0,.07) !important;box-shadow:0 10px 15px rgba(0,0,0,.07) !important;  margin:20px !important}.brk-castom-btn.rev-btn.rev-withicon i{margin-left:0 !important; margin-right:20px !important; vertical-align:0; top:-1px}.brk-tp-mask-wrap .tp-mask-wrap{-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;-webkit-box-shadow:0 20px 40px rgba(39,117,255,.1);-moz-box-shadow:0 20px 40px rgba(39,117,255,.1);box-shadow:0 20px 40px rgba(39,117,255,.1);  overflow:hidden !important}</style>
