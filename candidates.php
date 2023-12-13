@@ -92,7 +92,10 @@ $_SESSION["lan"] = "English";
 									<div class="brk-testimonials-layered-horizontal__item text-center rounded-0 shadow-none">
 										<div class="font__weight-bold process_title_count">4</div>
 										<div class="font__weight-bold font__size-40 process_title line__height-45 text-uppercase">Interview with vp of talent acquisition</div>
-										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">If selected, candidates will then be invited to a zoom interview with NCA’s Global VP of Talent Acquisition. Be prepared to present your “universe of search” including industry/sectors, geographic focus, and number of potential companies (filtered using NCA investment criteria). Candidates will also be expected to explain how their experience, background, and network is relevant to their search strategy. Please note that we run 4 selection cycles per year and your application may be put on hold until the next cycle if we determine your search thesis requires further development.
+										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">
+										If selected, candidates will then be invited to a zoom interview with a team member of the Assessment Center.
+										Be prepared to present your "universe of search" including industry/sectors, geographic focus, and number of potential companies (filtered using NCA investment criteria). Candidates will also be expected to explain how their experience, background, and network is relevant to their search strategy. Please note that we run 3 selection cycles per year and your application may be put on hold until the next cycle if we determine your search thesis requires further development.
+
 										</div>
 										
 									</div>
@@ -135,7 +138,9 @@ $_SESSION["lan"] = "English";
 										<div class="font__weight-bold process_title_count">8</div>
 										<div class="font__weight-bold font__size-40 process_title line__height-45 text-uppercase">Discussions with NCA partners</div>
 										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">
-											After familiarizing yourself with the sample legal documents shared in Step 7, you will then be invited to a 90-minute video call with our Co-CEOs and a 30-minute investment thesis deep dive with our Head of Value Creation. During the call with our Co-CEOs, candidates are expected to discuss their interest in our program and how their experience, network, and vision is relevant to their search strategy. During the value creation call, candidates will be expected to present a 15-minute pitch of their investment thesis. These are great opportunities to get to know our Partners and gather valuable feedback in preparation for the next step in the selection process (Assessment Center).
+										  After familiarizing yourself with the sample legal documents shared in Step 7, you will then be invited to a 45-minutes video call with our CEO.
+                                          During the call with our CEO, candidates are expected to discuss their interest in our program and how their
+                                          experience, network, and vision is relevant to their search strategy. During the value creation call, candidates will be expected to present a 15-minute pitch of their investment thesis. This is a great opportunity to get to know our Partner and gather valuable feedback in preparation for the next step in the selection process (Assessment Center).
 										</div>
 										
 									</div>
@@ -146,7 +151,8 @@ $_SESSION["lan"] = "English";
 										<div class="font__weight-bold process_title_count">9</div>
 										<div class="font__weight-bold font__size-40 process_title line__height-45 text-uppercase">Assessment center</div>
 										<div class="brk-testimonials-layered-horizontal__comment font__family-open-sans">
-											If selected to continue to this final stage of the selection process, candidates will be given 5 days to revise their 15-minute pitch of their search and acquisition case, following their call with our head of Value Creation. Candidates are required to complete an online leadership assessment and create a CV using our NCA template. You will then be invited to our Assessment Center to present your pitch to our Entrepreneurs Jury and a selection of external advisors, followed by 30 minutes of questions.
+										  If selected to continue to this final stage of the selection process, candidates will be given 5 days to revise their 15-minute pitch of their search and acquisition case.
+                                          Candidates are required to complete an online leadership assessment and create a CV using our NCA template. You will then be invited to our Assessment Center to present your pitch to our Entrepreneurs Jury and a selection of external advisors, followed by 30 minutes of questions.
 										</div>
 										
 									</div>
