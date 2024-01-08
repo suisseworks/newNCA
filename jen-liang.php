@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/jen_liang.png">
+				<img src="img/jen-liang.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
