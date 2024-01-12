@@ -158,35 +158,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<a href="docs/SUCCESSFUL-UK-ACQUISITION-FOR-NCA-ENTREPRENEUR-WILL-HUNNAM.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Successful UK Acquisition for NCA Entrepreneur Will Hunnam<span class="arrow_link_a"></span></a>
 							</div>	
  
-							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-								<a href="https://m.youtube.com/watch?v=ThU7d9v1z4o&feature=youtu.be" target="_blank" title=" " class="font__size-20 font__family-efb">Novastone Capital Advisors on Advancements with Ted Danson- March 2023<span class="arrow_link_a"></span></a>
-							</div>	
 
-							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-								<a href="docs/NCA-Program-presentation-for-Q&A-Feb-23.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">NCA Program presentation for Q&A- Feb 23<span class="arrow_link_a"></span></a>
-							</div>	
-
-						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-								<a href="https://www.youtube.com/watch?v=f4zhOPfX1Zk" target="_blank" title=" " class="font__size-20 font__family-efb">Davos 2023 - Interview with NCA Co-Founders, Christian Malek & Elena Trukhina<span class="arrow_link_a"></span></a>
-							</div>	
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/NCA-CELEBRATES-ITS-NEXT-ACQUISITION-IN-POLAND.pdf" target="_blank" title="NCA celebrates third acquisition" class="font__size-20 font__family-efb">NCA celebrates its next acquisition in Poland<span class="arrow_link_a"></span></a>
 							</div>	
+							
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/NCA-CELEBRATES-SECOND-ACQUISITION.pdf" target="_blank" title="NCA celebrates second acquisition" class="font__size-20 font__family-efb">NCA celebrates second acquisition<span class="arrow_link_a"></span></a>
 							</div>	
+
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/NCA-CELEBRATES-FIRST-ACQUISITION.pdf" target="_blank" title="NCA celebrates first acquisition" class="font__size-20 font__family-efb">NCA celebrates first acquisition<span class="arrow_link_a"></span></a>
 							</div>
+
 							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="font__size-20 font__family-efb">Visit our LinkedIn for the latest NCA news<span class="arrow_link_a"></span></a>
 							</div>
-							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-								<a href="https://www.imd.org/news/updates/Enterprise-through-acquisition-offers-a-fast-path-to-business-leadership" target="_blank" class="font__size-20 font__family-efb">IMD: Entrepreneurship through Acquisition offers a fast path to business leadership<span class="arrow_link_a"></span></a>
-							</div>
-							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-								<a href="https://www.finews.ch/news/finanzplatz/43938-search-funds-novastone-capital-christian-malek-elena-trukhina" target="_blank" class="font__size-20 font__family-efb">finews.ch: Search Funds: Wenn Family Offices den CEO kaufen<span class="arrow_link_a"></span></a>
-							</div>
+
+
 						</div>
 					</div>
 					<div class="col-12 col-lg-4">
