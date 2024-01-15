@@ -24,14 +24,14 @@
 
 						<ul class="brk-nav__menu">
 
-							<li class="home-menu d-xs-none"><a href="index.php"><div>Home</div></a></li>
+							<li class="home-menu d-xs-none"><a href="../index.php"><div>Home</div></a></li>
 
-							<li><a href="about-us.php"><div>About Us</div></a></li>
+							<li><a href="../about-us.php"><div>About Us</div></a></li>
 
 
 
 							<li class="dropdown d-li">
-								<a href="entrepreneurs.php">
+								<a href="../entrepreneurs.php">
 									<div><span class="d-lg-none menu_for"></span>Our Entrepreneurs</div>
 								<i class="fa fa-caret-down pl-1"></i>
 							    </a>
@@ -40,9 +40,9 @@
 
 							<ul class="dropdown-content">
 
-								<li><a href="entrepreneurs.php#entrepreneurs">Searching Entrepreneurs</a></li>
+								<li><a href="../entrepreneurs.php#entrepreneurs">Searching Entrepreneurs</a></li>
 
-								<li><a href="entrepreneurs.php#ceos">NCA CEO's</a></li>
+								<li><a href="../entrepreneurs.php#ceos">NCA CEO's</a></li>
 
 							</ul>
 
@@ -50,7 +50,7 @@
 
                         <li class="dropdown m-li">
 							
-							<a href="entrepreneurs.php"><span class="d-lg-none menu_for"></span>Our Entrepreneurs
+							<a href="../entrepreneurs.php"><span class="d-lg-none menu_for"></span>Our Entrepreneurs
 								<i class="fa fa-caret-down pl-1"></i>                  
 							</a>
 
@@ -58,7 +58,7 @@
 								<!-- <li><a href="entrepreneurs.php">Entrepreneurs
 
 								</a></li> -->
-								<li><a href="news-resources.php">Searching Entrepreneurs</a></li>
+								<li><a href="../news-resources.php">Searching Entrepreneurs</a></li>
 
 								<li><a href="http://insights.novastone-ca.com/">NCA CEO's</a></li>
 
@@ -69,13 +69,13 @@
 
 
 
-						<li><a href="candidates.php"><div><span class="d-lg-none menu_for"></span>For Candidates</div></a></li>
+						<li><a href="../candidates.php"><div><span class="d-lg-none menu_for"></span>For Candidates</div></a></li>
 
 
 
-						<li><a href="co-investors.php"><div><span class="d-lg-none menu_for"></span>For Co-Investors</div></a></li>
+						<li><a href="../co-investors.php"><div><span class="d-lg-none menu_for"></span>For Co-Investors</div></a></li>
 
-						<li><a href="business-owners.php"><div><span class="d-lg-none menu_for"></span>For Business Owners</div></a></li>
+						<li><a href="../business-owners.php"><div><span class="d-lg-none menu_for"></span>For Business Owners</div></a></li>
 
 						<li class="dropdown d-li">
 							
@@ -85,7 +85,7 @@
 
 							<ul class="dropdown-content">
 
-								<li><a href="news-resources.php">Resources</a></li>
+								<li><a href="../news-resources.php">Resources</a></li>
 
 								<li><a href="http://insights.novastone-ca.com/">Blog</a></li>
 
@@ -105,7 +105,7 @@
 								<!-- <li><a href="http://insights.novastone-ca.com/">Insights
 
 								</a></li> -->
-								<li><a href="news-resources.php">Resources</a></li>
+								<li><a href="../news-resources.php">Resources</a></li>
 
 								<li><a href="http://insights.novastone-ca.com/">Blog</a></li>
 

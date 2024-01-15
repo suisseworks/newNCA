@@ -132,7 +132,7 @@ $category_names = json_decode($response, true);
 			</div>
 			<div class="col-md-6">
 				<h3 class="mb-3 underline title blog-title wow fadeInUp">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet,
+					Taking success to the next level.
 				</h3>
 			</div>
 		</div>
