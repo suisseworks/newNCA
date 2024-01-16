@@ -30,6 +30,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-12 col-lg-6">
 
 						<div class="resource_wrap_links py-3 bg-light">
+
+						
 						 	
 						<div class="anchore_div anchore_div py-3 px-3 position-relative">
 								<a href="https://www.gsb.stanford.edu/faculty-research/case-studies/2022-search-fund-study-selected-observations" target="_blank" class="font__size-20 font__family-efb">Stanford GSB: Search Fund Study - Selected Observations (2022)<span class="arrow_link_a"></span></a>
@@ -130,6 +132,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-12 col-lg-6">
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Nca <br> News</h2>
 						<div class="resource_wrap_links">
+
+						
+
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="docs/NCA-Program-presentation-for-Q&A-Jan-2024.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">NCA Program presentation for Q&A Jan 2024<span class="arrow_link_a"></span></a>
+							</div>	
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/NCA-Announcement-October-30-2023-FINAL.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Novastone Capital Advisors Announces Key Hires & Promotions<span class="arrow_link_a"></span></a>
