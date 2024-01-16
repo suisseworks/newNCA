@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="1; URL=http://insights.novastone-ca.com/register-qa/" />
