@@ -2,7 +2,7 @@
 <?php
 
 // change url here too
-$base_url = 'https://novastone-ca.com/blog/portal/api';
+$base_url = 'https://novastone-ca.com/blog/portal/api/';
 $image_url = 'https://novastone-ca.com/blog/portal/uploads/blog/';
 
 if (isset($_GET['slug'])) {
