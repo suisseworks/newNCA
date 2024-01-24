@@ -36,6 +36,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="anchore_div anchore_div py-3 px-3 position-relative">
 								<a href="https://www.gsb.stanford.edu/faculty-research/case-studies/2022-search-fund-study-selected-observations" target="_blank" class="font__size-20 font__family-efb">Stanford GSB: Search Fund Study - Selected Observations (2022)<span class="arrow_link_a"></span></a>
 							</div>
+
+							<div class="anchore_div anchore_div py-3 px-3 position-relative">
+								<a href="https://www.iese.edu/media/research/pdfs/ST-0629-E" target="_blank" class="font__size-20 font__family-efb">IESE: International Search Funds Study (2022)<span class="arrow_link_a"></span></a>
+							</div>
+
 							<div class="anchore_div anchore_div py-3 px-3 position-relative">
 								<a href="docs/chronique_monestel.pdf" target="_blank" class="font__size-20 font__family-efb">Vanessa Monestel | Succession: un nouveau modèle qui fonctionne<span class="arrow_link_a"></span></a>
 							</div>
@@ -132,6 +137,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-12 col-lg-6">
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Nca <br> News</h2>
 						<div class="resource_wrap_links">
+
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="docs/SFBJ-KA-Fund-Announcement.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">This Entrepreneur Wants to Buy a South Florida Company<span class="arrow_link_a"></span></a>
+							</div>	
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/SUCCESSFUL-ACQUISITION-FOR-NCA-ENTREPRENEUR-FRYDERYK-RDUŁTOWSKI-FINAL.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Successful Acquisition for NCA Entrepreneur Fryderyk Rdułtowski<span class="arrow_link_a"></span></a>
