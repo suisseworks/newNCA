@@ -152,10 +152,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>	
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-								<a href="https://novastonecapital.sharepoint.com/:b:/s/NCAResourceLibrary/EY3BfKzl2NhKtCKfl79DCAoBYVNBQj4EXeGCFLOUTas1ng?e=sp1q0a" target="_blank" title=" " class="font__size-20 font__family-efb">NCA Program presentation for Q&A Jan 2024<span class="arrow_link_a"></span></a>
-							</div>	
-
-						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/NCA-Announcement-October-30-2023-FINAL.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Novastone Capital Advisors Announces Key Hires & Promotions<span class="arrow_link_a"></span></a>
 							</div>	
 
