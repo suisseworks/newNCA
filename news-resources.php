@@ -138,19 +138,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Nca <br> News</h2>
 						<div class="resource_wrap_links">
 
-						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+						   <div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="https://www.laweekly.com/inside-krishan-aroras-next-big-move-transforming-floridas-digital-media-landscape-through-a-50m-acquisition/" target="_blank" title=" " class="font__size-20 font__family-efb">Inside Krishan Arora's Next Big Move<span class="arrow_link_a"></span></a>
+							</div>	
+
+						   <div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/SFBJ-KA-Fund-Announcement.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">This Entrepreneur Wants to Buy a South Florida Company<span class="arrow_link_a"></span></a>
 							</div>	
 
-						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+						   <div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/SUCCESSFUL-ACQUISITION-FOR-NCA-ENTREPRENEUR-FRYDERYK-RDUŁTOWSKI-FINAL.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Successful Acquisition for NCA Entrepreneur Fryderyk Rdułtowski<span class="arrow_link_a"></span></a>
 							</div>	
-
-						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+  
+						    <div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/NCA-Announcement-October-30-2023-FINAL.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Novastone Capital Advisors Announces Key Hires & Promotions<span class="arrow_link_a"></span></a>
 							</div>	
 
-						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+						  <div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/SUCCESSFUL_ACQUISITION_FOR_NCA_ENTREPRENEUR_VIKTOR_DIMITROV.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Successful Acquisition for NCA Entrepreneur Viktor Dimitrov<span class="arrow_link_a"></span></a>
 							</div>	
 
