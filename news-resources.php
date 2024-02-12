@@ -144,7 +144,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>	
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-						   <div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+						   
 								<a href="https://www.laweekly.com/inside-krishan-aroras-next-big-move-transforming-floridas-digital-media-landscape-through-a-50m-acquisition/" target="_blank" title=" " class="font__size-20 font__family-efb">Inside Krishan Arora's Next Big Move<span class="arrow_link_a"></span></a>
 							</div>	
 
@@ -212,7 +212,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Insights </h2>
 						<div class="resource_wrap_links">
 							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-								<a href="http://insights.novastone-ca.com/" target="_blank" class="font__size-20 font__family-efb">Visit our blog NCA Insights<span class="arrow_link_a"></span></a>
+								<a href="http://novastone-ca.com/blog/blog.php" target="_blank" class="font__size-20 font__family-efb">Visit our blog NCA Insights<span class="arrow_link_a"></span></a>
 							</div>
 						 
 						</div>
