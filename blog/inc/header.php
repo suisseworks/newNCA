@@ -73,7 +73,7 @@
 
 
 
-						<li><a href="../co-investors.php"><div><span class="d-lg-none menu_for"></span>For Co-Investors</div></a></li>
+					 
 
 						<li><a href="../business-owners.php"><div><span class="d-lg-none menu_for"></span>For Business Owners</div></a></li>
 
@@ -87,7 +87,7 @@
 
 								<li><a href="../news-resources.php">Resources</a></li>
 
-								<li><a href="http://insights.novastone-ca.com/">Blog</a></li>
+								 
 
 							</ul>
 
