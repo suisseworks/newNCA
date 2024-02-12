@@ -1191,7 +1191,7 @@ $_SESSION["lan"] = "English";
 
 			<div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-50 pr-50">
 				<div class="img-logo d-flex">
-	                <a href="#" class="img_section w-50">
+	                <a href="https://novastone-ca.com/docs/SUCCESSFUL-ACQUISITION-FOR-NCA-ENTREPRENEUR-FRYDERYK-RDU%C5%81TOWSKI-FINAL.pdf" class="img_section w-50">
                         <div class="img_div">
 	                	   <img class="w-100" src="img/fryderyk-about.png">
 	                	</div>   
@@ -1226,7 +1226,7 @@ $_SESSION["lan"] = "English";
 
 			<div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-50 pr-50">
 				<div class="img-logo d-flex">
-	                <a href="#" class="img_section w-50">
+	                <a href="https://novastone-ca.com/docs/NCA-Announces-Another-Successful-USA-Acquisition.pdf" class="img_section w-50">
                         <div class="img_div">
 	                	   <img class="w-100" src="img/ryan-about.png">
 	                	</div>   
