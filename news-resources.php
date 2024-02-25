@@ -138,7 +138,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Nca <br> News</h2>
 						<div class="resource_wrap_links">
 
-						
+                         
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="https://www.ibtimes.com/novastone-transforming-smes-shaping-future-search-funds-3725053" target="_blank" title=" " class="font__size-20 font__family-efb">Novastone Is Transforming SMEs And Shaping The Future <br> Of Search Funds | IBTimes<span class="arrow_link_a"></span></a>
+							</div>	
+
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="docs/The-Visionary-Path-of-Novastone-Capital-Advisors.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">The Visionary Path of Novastone Capital Advisors: Transforming & Leading High-Growth Businesses<span class="arrow_link_a"></span></a>
+							</div>	
+
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/NCA-Announces-Another-Successful-USA-Acquisition.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">NCA Announces Another Successful USA Acquisition<span class="arrow_link_a"></span></a>
 							</div>	
