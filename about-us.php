@@ -35,7 +35,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="responsive_xs_pad pl-60 pt-120 pb-90 position-relative z-index-1">
 										<div class="headline about_headline">
 										<h3 class="mb-3 underline title wow fadeInUp">
-											Novastone Capital Advisors (NCA) is a Swiss company, founded by a consortium of Single<br> Family Offices, that runs an Entrepreneurship<br> Through Acquisition program.
+										    Novastone Capital Advisors (NCA) is a global company based in Switzerland, that runs an Entrepreneurship Through Acquisition program.
 										</h3>
 										<h4 class="mb-5 subtitle wow fadeInUp subtitle_text">
 											Our ETA program is a highly specialized process that connects investors with talented entrepreneurs who are looking to locate, acquire, manage, and grow a privately held company.
