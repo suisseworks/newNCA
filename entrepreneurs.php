@@ -1260,7 +1260,7 @@ $_SESSION["lan"] = "English";
 						  Robert Wagner
                     	</h5>
 	        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-						  CEO Stewards of Recovery <br><br>
+						  CEO Stewards of Recovery <br>
 	        			</p>
 	        			<div class="icon_div mt-3 text-center">
 							<a href="https://www.linkedin.com/in/robert-wagner-healthcare-investor/" target="_self" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">
