@@ -85,7 +85,7 @@
 
 						<li class="dropdown d-li">
 							
-							<a href="http://insights.novastone-ca.com/">Insights
+							<a href="">Insights
 								<i class="fa fa-caret-down pl-1"></i>                  
 							</a>
 
