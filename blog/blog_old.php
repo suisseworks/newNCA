@@ -119,112 +119,7 @@ $category_names = json_decode($response, true);
 	padding-left: 15px;
     padding-right: 15px;
 }
-.blog-card .post-content-div{
-	margin-left: 0px !important;
 }
-section.blog-banner .stroke_text{
-	font-size: 48px !important;
-	line-height: 48px !important;
-}
-.blog-banner .title.blog-title{
-	margin-top: 30px;
-}
-.blog-banner-head-2{
-	font-size: 24px;
-}
-.blog-banner .title{
-	font-size: 16px;
-}
-}
-
-/*latest blog css*/
-
-.social_icon.bg-primary.post-btn{
-    background-color: #D6762C !important;
-    border: 2px solid #D6762C;
-}
-section.filter-section{
-    padding-top: 30px !important;
-}
-.post-img img {
-    border-radius: 0px 20px 20px;
-}
-.blog-footer .brk-footer__wrapper{
-    background-color: #2c2c2c !important;
-}
-.blog-footer .brk-footer__wrapper .container{
-    background: linear-gradient(90deg, rgb(186 163 133 / 0.3) 1px, transparent 1px) 1px 0 !important;
-    background-size: 257px 1px !important;
-    background-position: calc(13px);
-}
-.blog-banner .stroke_text{
-    line-height: 90px !important;
-    text-align: left !important;
-}
-.post-content-div{
-    padding-left: 0px !important;
-    margin-left: 30px !important;
-}
-.post-content-div .post-title{
-    text-transform: capitalize;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    max-width: 682px;
-}
-.post-content-div p.post-para{
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    margin-top: 10px !important;
-    font-size: 16px;
-}
-.month-name{
-    text-transform: uppercase;
-}
-.exact-div{
-    font-weight: 700;
-}
-.post-img{
-    position: relative;
-}
-.blog-categories{
-    position: absolute;
-    top: -28px;
-    font-size: 16px;
-    font-style: italic;
-}
-.filter-section, .posts-section-one, .load-mor-btn, .blog-banner-bottom{
-	background-color: transparent !important;
-}
-.date-div{
-	min-width: 125px;
-}
-.month-name::before{
-	width: 30.5px;
-}
-.blog-banner-head-2{
-    font-weight: bold;
-}
-.social_icon.post-btn{
-	font-size: 20px;
-	font-weight: bold;
-}
-#loadMoreText{
-    text-decoration: underline;
-    font-style: italic;
-    font-size: 16px;
-}
-@media only screen and (max-width: 991px){
-	.filter-list ul li{
-		margin: 0px 10px;
-	}
-}
-
 </style>
 <section class="blog-banner pt-120 pb-70">
 	<div class="container">
@@ -369,7 +264,7 @@ section.filter-section{
 				<section class="<?php echo $sectionClass; ?> post-item pt-40 pb-40 blog-card">
 					<div class="container">
 						<div class="row d-flex align-items-center">
-							<div class="date-div">
+							<div class="date-div mr-5">
 								<h3 class="month-name"><?php echo date('M', strtotime($blog['created_at'])); ?></h3>
 								<h2 class="exact-div"><?php echo date('d', strtotime($blog['created_at'])); ?></h2>
 							</div>
@@ -484,9 +379,9 @@ if (!isset($_GET['category'])) { ?>
 							blogCard.innerHTML = `
 												<div class="container">
 													<div class="row d-flex align-items-center">
-														<div class="date-div">
+														<div class="date-div mr-5">
 															<h3 class="month-name">${new Date(blog.created_at).toLocaleDateString('en-US', { month: 'short' })}</h3>
-															<h2 class="exact-div">${('0' + new Date(blog.created_at).getDate()).slice(-2)}</h2>
+															<h2 class="exact-div">${new Date(blog.created_at).getDate()}</h2>
 														</div>
 														<div class="post-img">
 															<span class="blog-categories">${blog.categories.join(' / ')}</span>

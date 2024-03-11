@@ -1,5 +1,39 @@
 <?php include 'inc/header-scripts.php'; ?>
 
+<style>
+	@media only screen and (max-width: 991px){
+	.brk-header-mobile{
+		display: flex !important;
+		align-items: center;
+        justify-content: center;
+	}
+	}
+	.brk-header_style-1 .brk-nav__menu>li{
+		margin: 0 5px;
+	}
+	@media only screen and (max-width:992px) and (min-width:992px){
+	header .brk-nav__menu>li a{
+		font-size: 12px !important;
+	}
+	.brk-header_style-1 .brk-nav__menu>li>a {
+		display: flex;
+		align-items: center;
+	}
+	.brk-header .dropdown-content{
+		min-width: auto;
+	}
+	.dropdown.m-li{
+		position: relative;
+	}
+	.dropdown.m-li .dropdown-content{
+		position: absolute;
+	}
+	.brk-header_style-1 .brk-nav__menu>li {
+    margin: 0 3px;
+}
+}
+</style>
+
 <div class="brk-header-mobile">
 	<div class="brk-header-mobile__open"><span></span></div>
 	<div class="brk-header-mobile__logo"><a href="index.php"><img class="brk-header-mobile__logo-1 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"> <img class="brk-header-mobile__logo-2 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"></a></div>
