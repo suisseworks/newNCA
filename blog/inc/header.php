@@ -141,7 +141,7 @@
 								</a></li> -->
 								<li><a href="../news-resources.php">Resources</a></li>
 
-								<li><a href="http://insights.novastone-ca.com/">Blog</a></li>
+								<li><a href="https://novastone-ca.com/blog/blog.php">Blog</a></li>
 
 							</ul>
 
