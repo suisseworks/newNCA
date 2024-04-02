@@ -12057,10 +12057,10 @@ header .brk-nav__menu>li a {
     color: #000000;
     font-size: 30px;
     max-width: 675px;
-    font-weight: 700;
+    font-weight: 900;
 }
 .post-content-div {
-    max-width: 770px;
+    max-width: 815px;
     padding-left: 30px;
 }
 .social_icon.post-btn{
@@ -12098,6 +12098,7 @@ header .brk-nav__menu>li a {
 .blog-details{
     font-size: 28px;
     line-height: 40px;
+    font-weight: 900;
 }
 
 .date-categories{
@@ -12136,6 +12137,11 @@ header .brk-nav__menu>li a {
     width: 275px;
 }
 
+@media only screen and (max-width: 991px){
+.brk-header-mobile {
+    align-items: center !important;
+}
+}
 /*blog-details responsive css*/
 @media only screen and (max-width: 767px){
 

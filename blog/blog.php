@@ -48,8 +48,13 @@ $category_names = json_decode($response, true);
 
 
 <style>
-	.post-img img{
-    width: 275px;
+/*	.post-img img{*/
+/*    width: 275px;*/
+/*}*/
+.post-img img {
+  width: 275px;
+  height: 225px;
+  object-fit: cover;
 }
 .mobile-date{
 	display: none;
@@ -250,17 +255,17 @@ section.filter-section{
 		<div class="row d-flex align-items-center">
 			<div class="col-md-8">
 				<div class="filter-list d-inline-flex">
-					<div class="flter mr-4">
+					<!-- <div class="flter mr-4">
 						<span>Filter :</span>
-					</div>
+					</div> -->
 					<div class="filter_list-content">
 						<ul>
 							<ul>
-								<li>
+								<!-- <li>
 									<a href="./blog.php">
 										All
 									</a>
-								</li>
+								</li> -->
 								<?php foreach ($category_names['data'] as $category) : ?>
 									<li>
 										<a href="?category=<?php echo $category['slug']; ?>" <?php if (isset($_GET['category']) && $_GET['category'] == $category['slug']) {

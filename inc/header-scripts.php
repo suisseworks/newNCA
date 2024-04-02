@@ -31,8 +31,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<link id="brk-base-color" rel="stylesheet" href="css/skins/brk-base-color.css">
 	<link rel="stylesheet" id="brk-direction-offsets" href="css/assets/offsets.css">
 	<link id="brk-css-min" rel="stylesheet" href="css/assets/styles.min.css">
+	<link rel="stylesheet" type="text/css" href="css/assets/tabs-slider.css">
 	<link rel="stylesheet" type="text/css" href="css/assets/custom.css?ver=<php echo rand(): ?>">
 	<link rel="stylesheet" type="text/css" href="css/assets/responsive.css?ver=<php echo rand(): ?>">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.min.css">
 	<!-- <link rel="stylesheet" href="vendor/revslider/css/settings.css"> 
 	<style>#rev_slider_21_1_wrapper .tp-loader.spinner2{ background-color: #0071fc !important; }</style>-->
 	<style>.brk-button-shadow{-webkit-box-shadow:0 10px 15px rgba(0,0,0,.07) !important;-moz-box-shadow:0 10px 15px rgba(0,0,0,.07) !important;box-shadow:0 10px 15px rgba(0,0,0,.07) !important;  margin:20px !important}.brk-castom-btn.rev-btn.rev-withicon i{margin-left:0 !important; margin-right:20px !important; vertical-align:0; top:-1px}.brk-tp-mask-wrap .tp-mask-wrap{-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;-webkit-box-shadow:0 20px 40px rgba(39,117,255,.1);-moz-box-shadow:0 20px 40px rgba(39,117,255,.1);box-shadow:0 20px 40px rgba(39,117,255,.1);  overflow:hidden !important}</style>

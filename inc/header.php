@@ -85,7 +85,7 @@
 
 						<li class="dropdown d-li">
 							
-							<a href="">Insights
+							<a href="#">Insights
 								<i class="fa fa-caret-down pl-1"></i>                  
 							</a>
 
@@ -93,7 +93,7 @@
 
 								<li><a href="news-resources.php">Resources</a></li>
 
-								<li><a href="https://novastone-ca.com/blog/blog.php">Blog</a></li>
+								<li><a href="blog/blog.php">Blog</a></li>
 
 							</ul>
 

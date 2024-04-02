@@ -27,7 +27,7 @@
 
 					<div class="col-12 col-sm-4 col-lg-3 col-xs-12">
 						<div class="d-flex align-items-center justify-content-right">
-							<a href="#" class="btn btn-prime btn-sm-1 btn-outline-hover font__size-12 bg-transparent letter-spacing-100 border-radius-25 btn-no-shadow" data-brk-library="component__button"><span class="before"></span><span class="after"></span><span class="border-btn"></span>English</a>
+							
 							<a href="#" class="social_icon h-100 d-inline-flex align-items-center border-radius-5 p-1"><i class="fab fa-linkedin-in"></i></a>
 							
 						</div>	
