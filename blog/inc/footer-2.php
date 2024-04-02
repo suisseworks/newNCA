@@ -16,18 +16,22 @@
 
 					<div class="col-12 col-sm-4 col-lg-3 col-xs-12">
 						<ul class="d-flex flex-column brk-white-font-color font__size-14 font__weight-normal line__height-16 text-sm-left  footer_custom_colum">
-							<li class="mb-20"><a href="#">Home</a></li>
-							<li class="mb-20"><a href="#">About us</a></li>
-							<li class="mb-20"><a href="#">Talents</a></li>
-							<li class="mb-20"><a href="#">Business owners & Intermediaries</a></li>
-							<li class="mb-20"><a href="#">Co-investors</a></li>
-							<li class="mb-20"><a href="#">News & Resources</a></li>
+							<li class="mb-20"><a href="/">Home</a></li>
+							<li class="mb-20"><a href="/about-us.php">About us</a></li>
+							<li class="mb-20"><a href="/entrepreneurs.php">Our Entrepreneurs</a></li>
+							<li class="mb-20"><a href="/candidates.php">For Candidates</a></li>
+							<li class="mb-20"><a href="/business-owners.php">For Business Owners</a></li>
+							<li class="mb-20"><a href="/blog/blog.php">Insights</a></li>
 						</ul>
 					</div>
 
 					<div class="col-12 col-sm-4 col-lg-3 col-xs-12">
 						<div class="d-flex align-items-center justify-content-right">
+<<<<<<< .mine
 							
+=======
+						 
+>>>>>>> .theirs
 							<a href="#" class="social_icon h-100 d-inline-flex align-items-center border-radius-5 p-1"><i class="fab fa-linkedin-in"></i></a>
 							
 						</div>	
