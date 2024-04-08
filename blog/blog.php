@@ -242,7 +242,7 @@ section.filter-section{
 			</div>
 			<div class="col-md-6">
 				<h3 class="mb-3 underline title blog-title wow fadeInUp">
-					Taking success to the next level.
+				Welcome to the NCA blog.  Dive into a variety of informative articles, insightful interviews, and in-depth explanations covering a range of topics involving our unique ETA program.
 				</h3>
 			</div>
 		</div>
