@@ -498,7 +498,6 @@ $_SESSION["lan"] = "English";
 						</div>
 
 
-<<<<<<< .mine
 						<div class="col-lg-4 col-sm-6 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
 							<div class="img_section w-100">
 								<img class="w-100" src="img/sam.png">
@@ -509,18 +508,6 @@ $_SESSION["lan"] = "English";
 									<p class="text-center font__size-16 text-white font__family-open-sans line__height-28 mt-2 member_status">Senior Executive Recruiter</p>
 								</div>
 							</div>
-=======
-				<div class="col-lg-4 col-sm-6 member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-					<div class="img_section w-100">
-						<img class="w-100" src="img/sam.png">
-					</div>
-					<div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
-						<div>
-							<h5 class="text-center font__size-22 text-white line__height-30 font__family-efb">Sam Holt</h5>
-							<p class="text-center font__size-16 text-white font__family-open-sans line__height-28 mt-2 member_status">Senior Executive Recruiter</p>
-
-
->>>>>>> .theirs
 						</div>
 
 
