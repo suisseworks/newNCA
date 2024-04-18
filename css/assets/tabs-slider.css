@@ -1,0 +1,330 @@
+.tabs-slider .slick-arrow {
+    top: 40%;
+}
+.row-main {
+    display: flex;
+    width: 100%;
+    max-width: 785px;
+    margin: 0 auto;
+    padding: 52px 0px 90px 0px;
+}
+.row-main .profile-pic {
+    width: 35%;
+}
+
+.row-main .profile-pic img{
+    width: 100%;
+    height: auto;
+}
+section.tabs-slider-section {
+    background-color: #e4eaeb !important;
+}
+.profile-data h2 {
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 23px;
+}
+.profile-data p {
+    margin: 10px 0px;
+}
+.row-main .profile-data {
+    width: 65%;
+    align-self: center;
+    padding-left: 48px;
+}
+
+.profile-data p {
+    color: #0E2336;
+    font-size: 14px;
+    font-weight: regular;
+}
+.profile-data h3 {
+    margin-bottom: 23px;
+}
+.tabs-slider .footer_btns{
+    margin-top: 30px;
+}
+.profile-data h3 {
+    color: #0E2336;
+    font-size: 28px;
+    font-weight: bold;
+}
+.tabs-slider .social_icon:before {
+    content: "";
+    width: 42px;
+    height: 42px;
+    background-color: white;
+    left: -7px;
+    position: absolute;
+    z-index: -1;
+    top: -7px;
+}
+.tabs-slider .social_icon {
+    border: 2px solid #D6762C;
+    padding: 5px;
+    border-radius: 5px;
+}
+.tabs-slider .social_icon {
+    position: relative;
+}
+.tabs-slider .footer_btns .social_icon {
+    width: 30px;
+    height: 30px;
+}
+
+.tabs-slider .social_icon i {
+    color: #D6762C;
+    font-size: 18px;
+}
+.tabs-slider .social_icon:hover {
+    background-color: #D6762C;
+}
+.tabs-slider .social_icon:hover i {
+    color: white;
+}
+.tabs-slider.main {
+    font-family: Arial;
+    width: 1064px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+.tabs-slider .slider-nav .slick-slide {
+    background-color: white;
+    padding: 27px 22px 17px 22px;
+    border: 1px solid #D1D5D6;
+    align-self: center;
+    background-color: white;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.tabs-slider .slick-slide.slick-current.slick-active.slick-center {
+    background-color: #0E2336;
+    padding: 34px 22px 31px 22px;
+}
+.tabs-slider .slider-nav .slick-track {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    overflow: hidden;
+}
+
+.tabs-slider .slider-nav h3 {
+  line-height: 1.42857143;
+  margin-left: 1px;
+  position: relative;
+  font-weight: bold;
+  color: #D1D5D6;
+  text-transform: uppercase;
+  font-size: 24px;
+  margin: 0;
+  cursor: pointer;
+}
+
+.tabs-slider .slick-list {
+    padding: 0 !important;
+}
+
+.tabs-slider .slick-next::before  ,.tabs-slider .slick-prev::before  {
+    font-family: "Font Awesome 5 Free";
+    content: "\f054" !important;
+    speak: none;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    display: inline-block;
+    vertical-align: top;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1;
+    color: #333;
+    font-size: 50px;
+    color: #d6762c;
+}
+
+.tabs-slider .slick-prev::before {
+    content: "\f053" !important;
+}
+
+.tabs-slider .slick-next {
+    right: -10px !important;
+}
+
+.tabs-slider .slick-prev {
+    left: -18px;
+    z-index: 99;
+}
+
+.tabs-slider ul.slick-dots li{
+ width: 40px !important;
+    height: 7px !important;   
+}
+.tabs-slider ul.slick-dots button{
+    width: 40px !important;
+    height: 7px !important;
+    padding: 0 !important;
+    background-color: #999da1;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.tabs-slider .slick-dots .slick-active button {
+    width: 45px;
+    background-color: #D6762C;
+}
+
+.tabs-slider .slick-dots li button:before {
+    display: none;
+}
+.tabs-slider ul.slick-dots {
+    display: flex;
+    justify-content: space-evenly;
+    width: 370px;
+    flex-wrap: nowrap;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.profile-data .profile-pic ,.small-block.footer_btns {
+    display: none;
+}
+.tabs-slider .slick-next:before, .tabs-slider .slick-prev:before {
+    opacity: 1 !important;
+}
+.tabs-slider .slick-dots {
+    -webkit-transform: unset !important;
+    transform: unset !important];
+    background-color: unset !important; 
+  box-shadow: unset !important;
+}
+
+.tabs-slider .slick-slider {
+    margin-bottom: 0;
+}
+
+.tabs-slider-section .stroke_text.talents_stroke_text.talents_strok_cls_2.f-s-75{
+    font-size: 75px !important;
+}
+.tabs-slider .footer_btns {
+    width: fit-content !important;
+}
+@media only screen and (max-width: 1229px) and (min-width: 992px){
+.tabs-slider-section .stroke_text.talents_stroke_text.talents_strok_cls_2.f-s-75{
+    font-size: 60px !important;
+}
+}
+
+@media only screen and (max-width: 991px) {
+.tabs-slider-section .stroke_text.talents_stroke_text.talents_strok_cls_2.f-s-75{
+    font-size: 45px !important;
+}
+}
+@media (max-width: 1100px){
+    .tabs-slider .slick-prev ,.tabs-slider .slick-next {
+        display: none !important;
+    }
+    section.tabs-slider-section {
+    padding: 0px 30px;
+}
+}
+
+@media (max-width: 992px){
+    .profile-data{
+        padding-left: 20px !important;
+    }
+}
+
+@media (max-width: 767px){
+    .row-main {
+        flex-wrap: wrap !important;
+        padding: 20px 0px 20px 0px;
+    }
+    .profile-data{
+        padding-left: 0px !important;
+    }
+
+    .row-main .profile-data ,.row-main .profile-pic{
+        width: 100%;
+    }
+
+    .tabs-slider .slick-slide.slick-current.slick-active.slick-center {
+        padding: 20px;
+    }
+    .profile-pic{
+        position: relative;
+        margin-bottom: 20px;
+    }
+    .footer_btns{
+        position: absolute;
+        bottom: 7px;
+        left: 6px;
+        z-index: 1;
+    }
+    .tabs-slider .slider-nav {
+        display: none;
+    }
+    .profile-pic ,.footer_btns{
+        display: none;
+    }
+
+    .profile-data .profile-pic ,.profile-data .small-block.footer_btns {
+        display: block;
+    }
+    .tabs-slider ul.slick-dots {
+        bottom: unset;
+        top: 0;
+    }
+    .row-main .profile-pic img {
+        width: 100%;
+    }
+    .profile-data h2 {
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 35px;
+    font-size: 24px;
+}
+
+    .tabs-slider-section .stroke_text.talents_stroke_text.talents_strok_cls_2.f-s-75 {
+    font-size: 32px !important;
+    position: unset;
+    margin-bottom: 5px !important;
+}
+}
+@media only screen and (max-width: 575px) {
+    .tabs-slider ul.slick-dots button {
+    width: 30px !important;
+    height: 6px !important;
+}
+
+.tabs-slider-section .stroke_text.talents_stroke_text.talents_strok_cls_2.f-s-75{
+    font-size: 30px !important;
+}
+}
+@media (min-width: 1200px){
+.slick-slide.slick-current.slick-active.slick-center:before {
+    content: "";
+    width: 1px;
+    background-color: #0E2336;
+    left: -214px;
+    position: absolute;
+    z-index: 999;
+    top: 10px;
+    bottom: 9px;
+}
+.slick-slide.slick-current.slick-active.slick-center{
+    position: relative;
+}
+.slick-slide.slick-current.slick-active.slick-center:after {
+    content: "";
+    width: 1px;
+    background-color: #0E2336;
+    right: -215px;
+    position: absolute;
+    z-index: 999;
+    top: 10px;
+    bottom: 9px;
+}
+}

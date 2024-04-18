@@ -2374,9 +2374,10 @@ li.li__margin-10 {
     }
 }
 /*side form css*/
-#zcampaignOptinForm input[type="checkbox"] {
-    opacity: 1;
+#zcampaignOptinForm input[type="checkbox"]{
+    opacity: 0;
     position: relative;
+    left: 16px;
     z-index: 1;
     top: -2px;
 }
