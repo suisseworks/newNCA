@@ -957,6 +957,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						    </div>	
                         </div>
 					</div>	
+
+
+
+					<div class="col-lg-3 pl-5 pr-5 mt-10 mt-lg-0">
+					<div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/nate-wasson.png">
+                        </div>	
+						<div class="member_content bg-white py-4 d-flex align-items-center justify-content-center">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Nate Wasson</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								  Halbar Partners Co-Founder & CIO
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/nate-wasson/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>
+					</div>	
+
+
+
+
+
+
+
+
+
+
+
 					
 					<div class="col-lg-12 mt-2 pl-5 pr-5">
 						<div class="advisory_img w-100">
@@ -964,6 +994,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>	
 					</div>	
 				</div>	
+
+
+
 
 
 

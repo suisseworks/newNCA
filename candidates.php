@@ -760,7 +760,7 @@ $_SESSION["lan"] = "English";
 		<div class="row no-gutters d-flex align-items-center">
 			<div class="col-12">
 				<h2 class="stroke_text talents_stroke_text talents_strok_cls_2 text-uppercase text-center mb-90 wow fadeInLeft f-s-75">
-					Condensed Professor Bios
+					Professor Bios
 				</h2>
 
 			</div>	
@@ -773,19 +773,16 @@ $_SESSION["lan"] = "English";
 				<h3>Dr. Benoit <br>Leleux</h3>
 			</div>
 			<div>
-				<h3>Dr. Benoit <br>Leleux</h3>
+				<h3>Horacio <br>Falcao</h3>
 			</div>
 			<div>
-				<h3>Dr. Benoit <br>Leleux</h3>
+				<h3>Nuno <br>Fernandes</h3>
 			</div>
 			<div>
-				<h3>Dr. Benoit <br>Leleux</h3>
+				<h3>Tim <br>Calkins</h3>
 			</div>
 			<div>
-				<h3>Dr. Benoit <br>Leleux</h3>
-			</div>
-			<div>
-				<h3>Dr. Benoit <br>Leleux</h3>
+				<h3>John <br>Hallal</h3>
 			</div>
 		</div>
 
@@ -793,7 +790,7 @@ $_SESSION["lan"] = "English";
 			<div>
 				<div class="row-main">
 					<div class="profile-pic">
-						<img src="img/profile-pic.png">
+						<img src="img/benoit_leleux.jpg">
 					</div>    
 					<div class="profile-data">
 						<h2>Dr. Benoit Leleux</h2>
@@ -803,11 +800,17 @@ $_SESSION["lan"] = "English";
 								<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							</div>
 						</div>
-						<p>Dr. Benoît Leleux, the Stephan Schmidheiny Professor of Entrepreneurship and Finance at IMD in Lausanne, Switzerland, is a distinguished academic and expert in entrepreneurship, venture capital, and private equity. With a Ph.D. from INSEAD, he has held leadership roles at IMD, including director of the MBA program and Vice-President of the Pension Foundation.
-						</p><p>
-						Dr. Leleux, a prolific author with publications like &quot;Winning Sustainability Strategies&quot; and &quot;Private Equity 4.0,&quot; has also contributed over 150 teaching cases and conducted executive education programs for global corporations, demonstrating his multifaceted expertise in academia and the business world.</p>
+						<p>
+						   Dr. Benoît Leleux, the Stephan Schmidheiny Professor of Entrepreneurship and Finance at IMD in Lausanne, Switzerland, is a distinguished academic and expert in entrepreneurship, venture capital, and private equity. With a Ph.D. from INSEAD, he has held leadership roles at IMD, including director of the MBA program and Vice-President of the Pension Foundation. 
+						</p>
+
+						<p>
+						Dr. Leleux, a prolific author with publications like "Winning Sustainability Strategies" and "Private Equity 4.0," has also contributed over 150 teaching cases and conducted executive education programs for global corporations, demonstrating his multifaceted expertise in academia and the business world.
+					   </p>
+
+
 						<div class="footer_btns">
-							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/in/benoit-leleux-48a1b6/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 						</div>
 					</div>                          
 				</div>
@@ -815,21 +818,25 @@ $_SESSION["lan"] = "English";
 			<div>
 				<div class="row-main">
 					<div class="profile-pic">
-						<img src="img/profile-pic.png">
+						<img src="img/horacio-falcao.jpg">
 					</div>    
 					<div class="profile-data">
-						<h2>Dr. Benoit Leleux</h2>
+						<h2>Horacio Falcao</h2>
 						<div class="profile-pic">
 							<img src="img/profile-two.png">
 							<div class="footer_btns small-block">
 								<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							</div>
 						</div>
-						<p>Dr. Benoît Leleux, the Stephan Schmidheiny Professor of Entrepreneurship and Finance at IMD in Lausanne, Switzerland, is a distinguished academic and expert in entrepreneurship, venture capital, and private equity. With a Ph.D. from INSEAD, he has held leadership roles at IMD, including director of the MBA program and Vice-President of the Pension Foundation.
-						</p><p>
-						Dr. Leleux, a prolific author with publications like &quot;Winning Sustainability Strategies&quot; and &quot;Private Equity 4.0,&quot; has also contributed over 150 teaching cases and conducted executive education programs for global corporations, demonstrating his multifaceted expertise in academia and the business world.</p>
+						<p>
+						    Horacio Falcão is a Professor of Management Practice at INSEAD and the creator of the Value Negotiation system, designed to maximize rewards and minimize risks in negotiations. At INSEAD, Horacio is the program director for the Negotiation Dynamics program, the co-creator of two Online Negotiation Certificate programs, and the co-founder of the INSEAD Negotiation and Conflict Resolution initiative. 
+						</p>
+						
+						<p>
+						   Horacio Falcão is a Professor of Management Practice at INSEAD and the creator of the Value Negotiation system, designed to maximize rewards and minimize risks in negotiations. At INSEAD, Horacio is the program director for the Negotiation Dynamics program, the co-creator of two Online Negotiation Certificate programs, and the co-founder of the INSEAD Negotiation and Conflict Resolution initiative.
+					   </p>
 						<div class="footer_btns">
-							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/in/horaciofalcao" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 						</div>
 					</div>                          
 				</div>
@@ -837,21 +844,25 @@ $_SESSION["lan"] = "English";
 			<div>
 				<div class="row-main">
 					<div class="profile-pic">
-						<img src="img/profile-pic.png">
+						<img src="img/nuno_fernandes.jpg">
 					</div>    
 					<div class="profile-data">
-						<h2>Dr. Benoit Leleux</h2>
+						<h2>Nuno Fernandes</h2>
 						<div class="profile-pic">
 							<img src="img/profile-two.png">
 							<div class="footer_btns small-block">
 								<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							</div>
 						</div>
-						<p>Dr. Benoît Leleux, the Stephan Schmidheiny Professor of Entrepreneurship and Finance at IMD in Lausanne, Switzerland, is a distinguished academic and expert in entrepreneurship, venture capital, and private equity. With a Ph.D. from INSEAD, he has held leadership roles at IMD, including director of the MBA program and Vice-President of the Pension Foundation.
-						</p><p>
-						Dr. Leleux, a prolific author with publications like &quot;Winning Sustainability Strategies&quot; and &quot;Private Equity 4.0,&quot; has also contributed over 150 teaching cases and conducted executive education programs for global corporations, demonstrating his multifaceted expertise in academia and the business world.</p>
+						<p>
+						   Nuno Fernandes, a distinguished finance expert and Professor of Finance at IESE Business School, holds key roles as Chairman of the Board of Auditors at the Portuguese Central Bank and Non-Executive Director at the European Investment Bank. With a focus on corporate finance, climate finance, mergers and acquisitions, and corporate governance, Professor Fernandes advises global companies and financial institutions and is a sought-after speaker, delivering impactful presentations worldwide. 
+						</p>
+						
+						<p>
+						   A prolific author featured in international media, he has received numerous awards, including the 2022 "Outstanding Teacher" accolade from The Case Centre, and has a robust academic background with a PhD from IESE Business School and a degree in Economics from Universidade Católica Portuguesa.
+						</p>
 						<div class="footer_btns">
-							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/in/nufernandes/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 						</div>
 					</div>                          
 				</div>
@@ -859,22 +870,26 @@ $_SESSION["lan"] = "English";
 			<div>
 				<div class="row-main">
 					<div class="profile-pic">
-						<img src="img/profile-pic.png">
+						<img src="img/tim_calkins.jpg">
 
 					</div>    
 					<div class="profile-data">
-						<h2>Dr. Benoit Leleux</h2>
+						<h2>Tim Calkins</h2>
 						<div class="profile-pic">
 							<img src="img/profile-two.png">
 							<div class="footer_btns small-block">
 								<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							</div>
 						</div>
-						<p>Dr. Benoît Leleux, the Stephan Schmidheiny Professor of Entrepreneurship and Finance at IMD in Lausanne, Switzerland, is a distinguished academic and expert in entrepreneurship, venture capital, and private equity. With a Ph.D. from INSEAD, he has held leadership roles at IMD, including director of the MBA program and Vice-President of the Pension Foundation.
-						</p><p>
-						Dr. Leleux, a prolific author with publications like &quot;Winning Sustainability Strategies&quot; and &quot;Private Equity 4.0,&quot; has also contributed over 150 teaching cases and conducted executive education programs for global corporations, demonstrating his multifaceted expertise in academia and the business world.</p>
+						<p>
+						  Tim Calkins, the distinguished Associate Chair of the Marketing Department and Clinical Professor of Marketing at Northwestern University's Kellogg School of Management, is a two-time recipient of the Lawrence G. Lavengood Outstanding Professor of the Year Award and the 2018 recipient of the Top Professor Award from Germany’s Kellogg-WHU Executive MBA Program. Renowned for his exceptional teaching and recognized as one of Poets & Quants' "Favorite MBA Professors" in 2016, Tim is also an accomplished author. 
+						</p>
+						
+						<p>
+						  His book, "How to Wash a Chicken: Mastering the Business Presentation," not only received the Gold Prize for Business and Economics from the Foreword Indie Book of the Year Awards but was also named the Top Business Book by the IndieReader Discovery Awards. Applying his extensive expertise in strategy and branding, Tim collaborates with major corporations such as Moderna, Eli Lilly, Caterpillar, and AbbVie, further solidifying his impact on the business and academic realms.
+						</p>
 						<div class="footer_btns">
-							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/in/tim-calkins/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 						</div>
 					</div>                          
 				</div>
@@ -882,47 +897,33 @@ $_SESSION["lan"] = "English";
 			<div>
 				<div class="row-main">
 					<div class="profile-pic">
-						<img src="img/profile-pic.png">
+						<img src="img/john_hallal.jpg">
 					</div>    
 					<div class="profile-data">
-						<h2>Dr. Benoit Leleux</h2>
+						<h2>John Hallal</h2>
 						<div class="profile-pic">
 							<img src="img/profile-two.png">
 							<div class="footer_btns small-block">
 								<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							</div>
 						</div>
-						<p>Dr. Benoît Leleux, the Stephan Schmidheiny Professor of Entrepreneurship and Finance at IMD in Lausanne, Switzerland, is a distinguished academic and expert in entrepreneurship, venture capital, and private equity. With a Ph.D. from INSEAD, he has held leadership roles at IMD, including director of the MBA program and Vice-President of the Pension Foundation.
-						</p><p>
-						Dr. Leleux, a prolific author with publications like &quot;Winning Sustainability Strategies&quot; and &quot;Private Equity 4.0,&quot; has also contributed over 150 teaching cases and conducted executive education programs for global corporations, demonstrating his multifaceted expertise in academia and the business world.</p>
+						<p>
+						John Hallal is a seasoned entrepreneur and M&A expert, with a successful track record in advising and operating startup and emerging growth companies. As the founder of Network Blue, he specializes in providing comprehensive M&A advisory services to founder-led lower middle market companies, encompassing financial advisory, negotiations, deal structuring, and due diligence. 
+						</p>
+
+						<p>
+						In addition to his entrepreneurial endeavors, including involvement in medical device manufacturing and cannabis brands, John has been a faculty member at Babson College for twelve years, teaching courses on Entrepreneurship Through Acquisition and M&A for Entrepreneurs, while also actively advising and investing in various Entrepreneurship Through Acquisition projects, including search funds.
+					   </p>
 						<div class="footer_btns">
-							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/in/john-hallal-b566617/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 						</div>
 					</div>                          
 				</div>
 			</div>
-			<div>
-				<div class="row-main">
-					<div class="profile-pic">
-						<img src="img/profile-pic.png">
-					</div>    
-					<div class="profile-data">
-						<h2>Dr. Benoit Leleux</h2>
-						<div class="profile-pic">
-							<img src="img/profile-two.png">
-							<div class="footer_btns small-block">
-								<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							</div>
-						</div>
-						<p>Dr. Benoît Leleux, the Stephan Schmidheiny Professor of Entrepreneurship and Finance at IMD in Lausanne, Switzerland, is a distinguished academic and expert in entrepreneurship, venture capital, and private equity. With a Ph.D. from INSEAD, he has held leadership roles at IMD, including director of the MBA program and Vice-President of the Pension Foundation.
-						</p><p>
-						Dr. Leleux, a prolific author with publications like &quot;Winning Sustainability Strategies&quot; and &quot;Private Equity 4.0,&quot; has also contributed over 150 teaching cases and conducted executive education programs for global corporations, demonstrating his multifaceted expertise in academia and the business world.</p>
-						<div class="footer_btns">
-							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-						</div>
-					</div>                          
-				</div>
-			</div>
+
+
+
+
 		</div>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
