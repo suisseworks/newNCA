@@ -759,12 +759,25 @@ $_SESSION["lan"] = "English";
 	<div class="container">
 		<div class="row no-gutters d-flex align-items-center">
 			<div class="col-12">
-				<h2 class="stroke_text talents_stroke_text talents_strok_cls_2 text-uppercase text-center mb-90 wow fadeInLeft f-s-75">
+				<h2 class="stroke_text talents_stroke_text talents_strok_cls_2 text-uppercase text-center mb-60 wow fadeInLeft f-s-75">
 					Professor Bios
 				</h2>
 
 			</div>	
 		</div>				
+
+		<div class="col-12 mb-80">
+								<div class="support_team_content px-5">
+									<p class="pr-lg-100 pr-0">
+									Introducing our esteemed panel of contributing professors, offering business training courses to our entrepreneurs. Hailing from renowned MBA programs across the EU and the US, each professor brings a wealth of academic expertise and real-world experience to our ETA program. Explore below to learn more about the professors contributing to NCA searchers on their entrepreneurial journey!
+									</p>
+	 
+
+									</div>	
+		</div>		
+ 
+
+
 	</div>
 
 	<div class="main tabs-slider">
