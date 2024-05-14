@@ -42,25 +42,130 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<div class="brk-header-mobile__open"><span></span></div>
 			<div class="brk-header-mobile__logo"><a href="index.php"><img class="brk-header-mobile__logo-1 lazyload" src="img/logo.png" data-src="img/nca_logo.png" alt="alt"> <img class="brk-header-mobile__logo-2 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"></a></div>
 		</div>
-		<header class="brk-header brk-header-landing brk-header_style-1 brk-header_skin-1 position-fixed d-lg-flex flex-column brk-header_color-dark position-fixed pt-110" style="display: none;" data-logo-src="img/logo.png" data-brk-library="component__header">
-			<div class="brk-header__main-bar order-lg-2 order-1" style="height: 72px;">
-				<div class="container">
-				<div class="container-inner-1400 m-auto">
-					<div class="row align-items-center">
-						<div class="col-lg-2">
-						</div>	
-						<div class="col-lg-8 align-self-lg-center landing_page_header justify-content-center d-none d-lg-flex">
-							<a href="index.php" class="brk-header__logo brk-header_index_logo brk-header__item @@modifier"><img class="brk-header__logo-1 lazyload" src="img/landing-logo.png" data-src="img/landing-logo.png" alt="alt"> <img class="brk-header__logo-2 lazyload" src="img/landing-logo.png" data-src="img/landing-logo.png" alt="alt"></a>
-						</div>
+		<header class="brk-header brk-header_style-1 brk-header_skin-1 position-fixed d-lg-flex flex-column brk-header_color-dark position-fixed bg-white" style="display: none;" data-logo-src="img/logo.png" data-brk-library="component__header">
 
-						<div class="col-lg-2 align-self-lg-stretch text-lg-right header_third_part d-flex align-items-center">
-						<div class="hide brk-header__item d-flex landing_lng justify-content-center">
-							<a href="index.php" class="bg-transparent btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Deutsch</a>
-						</div>
-						</div>
-					</div>
-					</div>
+	<div class="brk-header__main-bar brk-header_border-top-dark order-lg-2 order-1" style="height: 72px;">
+
+		<div class="container">
+
+			<div class="row align-items-center">
+
+				<div class="col-lg-1 align-self-lg-center d-none d-lg-flex">
+
+					<a href="index.php" class="brk-header__logo brk-header__item @@modifier"><img class="brk-header__logo-1 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"> <img class="brk-header__logo-2 lazyload" src="img/logo.png" data-src="img/logo.png" alt="alt"></a>
+
 				</div>
+
+				<div class="col-lg align-self-lg-stretch text-lg-right">
+
+					<nav class="brk-nav brk-header__item">
+
+						<ul class="brk-nav__menu">
+
+							<li class="home-menu d-xs-none"><a href="index.php"><div>Home</div></a></li>
+
+							<li><a href="about-us.php"><div>About Us</div></a></li>
+
+
+
+							<li class="dropdown d-li">
+								<a href="entrepreneurs.php">
+									<div><span class="d-lg-none menu_for"></span>Our Entrepreneurs</div>
+								<i class="fa fa-caret-down pl-1"></i>
+							    </a>
+
+
+
+							<ul class="dropdown-content">
+
+								<li><a href="entrepreneurs.php#entrepreneurs">Searching Entrepreneurs</a></li>
+
+								<li><a href="entrepreneurs.php#ceos">NCA CEO's</a></li>
+
+							</ul>
+
+                            </li>
+
+                        <li class="dropdown m-li">
+
+							<a href="entrepreneurs.php"><span class="d-lg-none menu_for"></span>Our Entrepreneurs
+								<i class="fa fa-caret-down pl-1"></i>
+							</a>
+
+							<ul class="dropdown-content">
+								<!-- <li><a href="entrepreneurs.php">Entrepreneurs
+
+								</a></li> -->
+								<li><a href="news-resources.php">Searching Entrepreneurs</a></li>
+
+								<li><a href="entrepreneurs.php#ceos">NCA CEO's</a></li>
+
+							</ul>
+
+						</li>
+
+
+
+
+						<li><a href="candidates.php"><div><span class="d-lg-none menu_for"></span>For Candidates</div></a></li>
+
+
+
+						<!-- <li><a href="co-investors.php"><div><span class="d-lg-none menu_for"></span>For Co-Investors</div></a></li> -->
+
+						<li><a href="business-owners.php"><div><span class="d-lg-none menu_for"></span>For Business Owners</div></a></li>
+
+						<li class="dropdown d-li">
+
+							<a href="#">Insights
+								<i class="fa fa-caret-down pl-1"></i>
+							</a>
+
+							<ul class="dropdown-content">
+
+								<li><a href="news-resources.php">Resources</a></li>
+
+								<li><a href="blog/blog.php">Blog</a></li>
+
+							</ul>
+
+						</li>
+
+
+
+						<li class="dropdown mo-li">
+
+							<a href="http://insights.novastone-ca.com/"><span class="d-lg-none menu_for">For</span>Insights
+								<i class="fa fa-caret-down pl-1"></i>
+							</a>
+
+							<ul class="dropdown-content">
+								<!-- <li><a href="http://insights.novastone-ca.com/">Insights
+
+								</a></li> -->
+								<li><a href="news-resources.php">Resources</a></li>
+
+								<li><a href="http://insights.novastone-ca.com/">Blog</a></li>
+
+							</ul>
+
+						</li>
+
+
+
+					</ul>
+
+				</nav>
+
 			</div>
-		</header>
+
+
+
+			</div>
+
+		</div>
+
+	</div>
+
+</header>
 		

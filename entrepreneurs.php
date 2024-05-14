@@ -63,43 +63,8 @@ $_SESSION["lan"] = "English";
 	<div class="container">	
 		<div class="row no-gutters new_row pb-130">
 			
-		<div class="col-lg-3 member_card mt-10 mt-lg-0 pl-5 pr-5">
-                    <div class="img_section w-100">
-                    	<img class="w-100" src="img/Erick.jpg">
-                    </div>	
-                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
-                    	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Erick Azen</h5>
-		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-erick.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
-								</div>	
-		        			</p>
-					</div>	
-                    </div>	
-				</div>
 
-				 
-				<div class="col-lg-3 member_card mt-10 mt-lg-0 pl-5 pr-5">
-                    	<div class="bg-primary question-box question-box-height box-height-entrepre">
-							<a href="talents.php" class="d-flex align-items-center py-5 px-4 text-white h-100">
-							<h2 class="text-white mb-1 font__family-efb text-uppercase">Interested in joining us?</h2>
-							<div class="text-right arrow_link">
-								<svg id="SMALL_ARROW" data-name="SMALL ARROW" xmlns="http://www.w3.org/2000/svg" width="34.975" height="34.976" viewBox="0 0 34.975 34.976">
-								  <path id="Path_10" data-name="Path 10" d="M17.488,0l-3.18,3.18L26.345,15.217H0v4.542H26.345L14.308,31.8l3.18,3.18L34.975,17.488Z" fill="#fff"/>
-								</svg>
-
-							</div>
-							</a>
-						</div>	
-				</div>
-				
-		
-				
-				
-				
-				
-				<div class="  col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+		<div class="  col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/vanessa.jpg">
                     </div>	
@@ -117,6 +82,15 @@ $_SESSION["lan"] = "English";
                     </div>	
 				</div>
 				 
+		 
+				 
+				
+		
+				
+				
+				
+				
+				
 
 				 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
@@ -153,7 +127,20 @@ $_SESSION["lan"] = "English";
 				</div>
 				 
 
+				<div class="col-lg-3 member_card mt-10 mt-lg-0 pl-5 pr-5">
+                    	<div class="bg-primary question-box question-box-height box-height-entrepre">
+							<a href="talents.php" class="d-flex align-items-center py-5 px-4 text-white h-100">
+							<h2 class="text-white mb-1 font__family-efb text-uppercase">Interested in joining us?</h2>
+							<div class="text-right arrow_link">
+								<svg id="SMALL_ARROW" data-name="SMALL ARROW" xmlns="http://www.w3.org/2000/svg" width="34.975" height="34.976" viewBox="0 0 34.975 34.976">
+								  <path id="Path_10" data-name="Path 10" d="M17.488,0l-3.18,3.18L26.345,15.217H0v4.542H26.345L14.308,31.8l3.18,3.18L34.975,17.488Z" fill="#fff"/>
+								</svg>
 
+							</div>
+							</a>
+						</div>	
+				</div>
+				
 				<!--
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
@@ -249,22 +236,7 @@ $_SESSION["lan"] = "English";
 					</div>	
                     </div>	
 				</div>
-
-				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
-                    <div class="img_section w-100">
-                    	<img class="w-100" src="img/andreas-about3.png">
-                    </div>	
-                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
-                    	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Andreas Franz</h5>
-		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/andreas-franz.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
-								</div>	
-		        			</p>	
-					</div>	
-                    </div>	
-				</div>
+ 
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
