@@ -103,7 +103,7 @@
 
 						<li class="dropdown mo-li">
 							
-							<a href="http://insights.novastone-ca.com/"><span class="d-lg-none menu_for">For</span>Insights
+							<a href="blog/blog.php"><span class="d-lg-none menu_for">For</span>Insights
 								<i class="fa fa-caret-down pl-1"></i>                  
 							</a>
 
@@ -113,7 +113,7 @@
 								</a></li> -->
 								<li><a href="news-resources.php">Resources</a></li>
 
-								<li><a href="http://insights.novastone-ca.com/">Blog</a></li>
+								<li><a href="blog/blog.php">Blog</a></li>
 
 							</ul>
 
