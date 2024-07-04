@@ -76,23 +76,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
 					<p class="font__size-16 line__height-24 mt-1"> 
-                    <p class="font__family-efb" >1.	Functional Breadth:</p> I have practical and leadership experience in nearly every functional area (Finance, Engineering, Sales, Marketing) within an organization, giving me a holistic understanding of business operations. <br /><br />
-                    2.	Operations: I have executed across various types of companies, from Fortune 100 firms to mid-sized growth companies to early-stage startups. I have direct operational experience as a Founder or CEO at four companies that completed successful exits.<br /><br />
-                    3.	Leadership: My leadership experience ranges from founding teams to leading operations with up to 3,000 employees. I have a track record of building world-class teams and leading with integrity.
+                    <p class="font__family-efb" >Functional Breadth:</p> I have practical and leadership experience in nearly every functional area (Finance, Engineering, Sales, Marketing) within an organization, giving me a holistic understanding of business operations. <br /><br />
+                    <p class="font__family-efb" >Operations:</p> I have executed across various types of companies, from Fortune 100 firms to mid-sized growth companies to early-stage startups. I have direct operational experience as a Founder or CEO at four companies that completed successful exits.<br /><br />
 
                     </p>
 					<p class="font__size-16 line__height-24 mt-1">
-                    4.	Profitable Growth: I have a history of driving profitable growth in companies of all sizes, with notable achievements such as substantial EBITDA and revenue growth. <br /><br />
-                    5.	Track Record: I have successfully grown four startups—including founding two and leading them to over $50 million in revenue—resulting in successful acquisitions. I've also managed and grown a billion-dollar business line within a Fortune 200 company. <br /><br />
-                    6.	Domain Experience: My domain expertise spans technology, fintech, and residential/commercial real estate. My core strength lies in building and accelerating go-to-market approaches that significantly drive customer acquisition and revenue growth. Actively involved as advisor, investor, and Board Member in clean-tech, or sustainability oriented non-profits.  
-
+                    <p class="font__family-efb" >Leadership:</p> My leadership experience ranges from founding teams to leading operations with up to 3,000 employees. I have a track record of building world-class teams and leading with integrity. <br /><br />
+                    <p class="font__family-efb" >Profitable Growth:</p> I have a history of driving profitable growth in companies of all sizes, with notable achievements such as substantial EBITDA and revenue growth. 
                     </p>    
 			</div>
 		</div>
 	</div>
 	</div>
 
-</section> <br />
+</section> <br /><br /><br /><br />
 
 <section class="jan_video searcher_bg">
 	<div class="container">
@@ -100,9 +97,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/thumbnail-carlos-laconi.png" alt="alt" class="image_video">
+                        <img src="img/thumbnail-jeffrey-revoy.jpeg" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/Au98PFV0LnQ?si=AOqqmccQWX0u7DRJ" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/Au98PFV0LnQ?si=iZjr8t6oFB0BMUzW" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -142,7 +139,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Carlos-Laconi-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Jeff-Revoy-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -156,7 +153,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-carlos-laconi.png" class="resume_img">
+				<img src="img/background-jeffrey-revoy.png" class="resume_img">
 			</div>
 		</div>
 
@@ -179,8 +176,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Action Trumps Everything. </h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase"></h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Viktor Frankl</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
