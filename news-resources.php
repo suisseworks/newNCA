@@ -123,6 +123,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Nca <br> News</h2>
 						<div class="resource_wrap_links">
 
+
+						
+
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="docs/SUCCESSFUL_ACQUISITION_FOR_NCA_ENTREPRENEUR_NICOLETTA_NUTRITO.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Successful Acquisition for NCA Entrepreneur Nicoletta Nutrito<span class="arrow_link_a"></span></a>
+							</div>
+
+
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="https://hauteliving.com/2024/05/novastones-eta-program-making-new-business-leaders/751136/" target="_blank" title=" " class="font__size-20 font__family-efb">How Novastone’s ETA Program Is Making New Business Leaders (hauteliving.com)<span class="arrow_link_a"></span></a>
 							</div>
