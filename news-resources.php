@@ -30,6 +30,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-12 col-lg-6">
 
 						<div class="resource_wrap_links py-3 bg-light">
+
+						<div class="anchore_div anchore_div py-3 px-3 position-relative">
+								<a href="https://www.ibtimes.com/navigating-succession-challenges-novastone-capital-advisors-unique-approach-entrepreneurship-3735760" target="_blank" class="font__size-20 font__family-efb">Navigating Succession Challenges: Novastone Capital Advisors' Unique Approach to Entrepreneurship Through Acquisition | IBTimes<span class="arrow_link_a"></span></a>
+							</div>
 						 	
 						<div class="anchore_div anchore_div py-3 px-3 position-relative">
 								<a href="https://www.gsb.stanford.edu/faculty-research/case-studies/2022-search-fund-study-selected-observations" target="_blank" class="font__size-20 font__family-efb">Stanford GSB: Search Fund Study - Selected Observations (2022)<span class="arrow_link_a"></span></a>
@@ -130,6 +134,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<a href="docs/SUCCESSFUL_ACQUISITION_FOR_NCA_ENTREPRENEUR_NICOLETTA_NUTRITO.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Successful Acquisition for NCA Entrepreneur Nicoletta Nutrito<span class="arrow_link_a"></span></a>
 							</div>
 
+
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="docs/SUCCESSFUL-ACQUISITION-FOR-NCA-ENTREPRENEUR-DEAN-CURRAN-FINAL.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Successful Acquisition for NCA Entrepreneur Dean Curran<span class="arrow_link_a"></span></a>
+							</div>
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="https://hauteliving.com/2024/05/novastones-eta-program-making-new-business-leaders/751136/" target="_blank" title=" " class="font__size-20 font__family-efb">How Novastone’s ETA Program Is Making New Business Leaders (hauteliving.com)<span class="arrow_link_a"></span></a>

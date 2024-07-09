@@ -1,3 +1,17 @@
+<?php 
+	$_SESSION["lan"] = "Deutsch";
+	$_SESSION["page"] = "about-us-de.php";
+?>
+
+
+<body>
+ 
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHG7P3C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  
 <?php include 'inc/header-scripts.php'; ?>
 
 
@@ -493,6 +507,22 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--Zoho Campaigns Web-Optin Form's Header Code Ends Here--><!--Zoho Campaigns Web-Optin Form Starts Here-->
 
 
@@ -917,3 +947,14 @@
 
 </div>
 
+
+
+
+
+
+
+
+
+
+</body>
+<?php include 'inc/footer.php' ?>
