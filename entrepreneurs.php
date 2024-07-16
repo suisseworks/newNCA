@@ -1045,7 +1045,7 @@ $_SESSION["lan"] = "English";
 	                	   <img class="w-100" src="img/fryderyk-about.png">
 	                	</div>   
 	                </a>
-	                <a href="https://adexcosmetics.com/en/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
+	                <a href="https://adexcp.com/en/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
 	                	<div class="logo_div">
 	                	    <img style="padding-left:20px" class="w-80" src="img/adex.jpg">
 	                	</div>    

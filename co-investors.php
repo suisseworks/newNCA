@@ -17,7 +17,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	                <div class="investors_content">
 		                <div class="headline about_headline d-lg-none">
 							<h3 class="mb-3 underline title tile_2 position-relative wow fadeInUp pl-80">
-								Our consortium of <br>Single Family Offices<br> supports the next generation of exceptional entrepreneurial talents.
+								 
+								NCA closely partners <br> with our Entrepreneurs  <br>supporting them strategically, operationally, and financially through all stages of their Search Fund.
 							</h3>
 						</div>
 					</div>	
@@ -75,7 +76,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 	<div class="checkbox checkbox-info checkbox-circle d-flex mb-2 line__height-16 text-white font__size-14">
 							            <input id="co-investor01" type="checkbox" name="Newsletter">
 							            <label for="co-investor01" class="d-flex align-items-center line__height-14 text-white font__size-14 font__family-open-sans">
-											Subscribe to our newsletter
+										&nbsp;&nbsp;&nbsp;Subscribe to our newsletter
 										</label>
 							        </div>
 
@@ -105,7 +106,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="investors_content pt-lg-100 pt-50">
 								<div class="headline about_headline d-xs-none">
 									<h3 class="mb-3 underline title tile_2 position-relative wow fadeInUp pl-80">
-										Our consortium of <br>Single Family Offices<br> supports the next generation of exceptional entrepreneurial talents.
+									NCA closely partners <br> with our Entrepreneurs  <br>supporting them strategically, operationally, and financially through all stages of their Search Fund.
 									</h3>
 								</div>
 								<div class="investors_content_text bg-white pl-lg-80 pr-lg-115 pb-lg-60 pt-lg-100 p-5 p-xs-20">
