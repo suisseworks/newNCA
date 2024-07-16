@@ -28,6 +28,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>	
 					</div>
 				</div>
+				<!--
+
 				<div class="landing_col_4 landing_page_menus">
 					<div class="page_text">
 						<a href="co-investors.php" class="position-relative">
@@ -38,6 +40,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>	
 					</div>
 				</div>
+                -->
+
 				<div class="landing_col_3 landing_page_menus">
 					<div class="page_text">
 						<a href="business-owners.php" class="position-relative">
