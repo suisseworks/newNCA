@@ -18,6 +18,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>	
 					</div>	
 				</div>
+				
 				<div class="landing_col_2 landing_page_menus mr-40">
 					<div class="page_text">
 						<a href="candidates.php" class="position-relative">
@@ -28,7 +29,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>	
 					</div>
 				</div>
-			<!-- 	<div class="landing_col_4 landing_page_menus">
+
+				<!--
+				<div class="landing_col_4 landing_page_menus">
 					<div class="page_text">
 						<a href="co-investors.php" class="position-relative">
 							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name"><span class="font__size-13 font__family-efblack position-absolute for_text">For</span>Co-Investors</h2>
@@ -37,7 +40,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</p>
 						</a>	
 					</div>
-				</div> -->
+				</div>
+                -->
+
 				<div class="landing_col_3 landing_page_menus">
 					<div class="page_text">
 						<a href="business-owners.php" class="position-relative">
