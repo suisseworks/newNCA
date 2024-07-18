@@ -1043,7 +1043,7 @@ $_SESSION["lan"] = "English";
 
 									</span>
 								</a></li>
-								<li class="mt-3 font__size-16"><a href="http://insights.novastone-ca.com/register-qa/" target="_blank" class="d-inline-block w-100"><i class="fa fa-check mr-3 mt-1"></i><span class="pb-2 border-bottom">Register for Q&A Session</span>
+								<li class="mt-3 font__size-16"><a href="https://insights.novastone-ca.com/nca-website/" target="_blank" class="d-inline-block w-100"><i class="fa fa-check mr-3 mt-1"></i><span class="pb-2 border-bottom">Register for Q&A Session</span>
 									<span class="float-right mobile-hidden">
 										<svg width="105" height="38" viewBox="0 0 105 38" fill="none" xmlns="http://www.w3.org/2000/svg">
 											<g clip-path="url(#clip0_515_815)">
