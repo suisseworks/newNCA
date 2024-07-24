@@ -79,7 +79,7 @@
 
 
 
-						<li><a href="co-investors.php"><div><span class="d-lg-none menu_for"></span>For Co-Investors</div></a></li>
+						 
 
 						<li><a href="business-owners.php"><div><span class="d-lg-none menu_for"></span>For Business Owners</div></a></li>
 
@@ -599,7 +599,7 @@
 
 																<option value="Candidate">Candidate</option>
 
-																<option value="Co-Investor">Co-Investor</option>
+														 
 
 																<option value="Business Owner">Business Owner</option>
 
