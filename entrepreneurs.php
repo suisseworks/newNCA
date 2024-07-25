@@ -918,7 +918,7 @@ $_SESSION["lan"] = "English";
                 <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                 	<div class="text-white">
                     	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">
-						Nick Akers
+						Nate Taylor
                     	</h5>
 	        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 						CEO Water Runner
