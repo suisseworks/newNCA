@@ -23,12 +23,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</div>	
 
-
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Jeffrey <br> Revoy</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Francis <br> Cohen</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
+							<span class="font-weight-bold font__size-22">2024</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2026</span>
 						</div>
 						<p class="font__size-18 line__height-24"> 
                            I have extensive experience across multiple sized companies continually excelling in functional marketing, revenue generation and overall business leadership positions as a high-impact leader. I truly pride myself on my integrity, work ethic/drive, and the ability to build and coach/lead high-performing teams while fostering collaborative cross organization success.  
