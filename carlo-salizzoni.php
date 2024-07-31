@@ -9,7 +9,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="row no-gutters">
 		<div class="col-lg-6">
 			<div class="searcher_jan_img">
-				<img src="img/morgan-ericksen.png">
+				<img src="img/francis-cohen.png">
 			</div>
 		</div>
 		<div class="col-lg-6 pr-0">
@@ -18,31 +18,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="align-self-lg-stretch">
 						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/morgancoan/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+							<a href="https://www.linkedin.com/in/franciscohen/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 							 
 						</div>
 					</div>	
 
-
-
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Morgan <br> Ericksen</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Francis <br> Cohen</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2024</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2026</span>
 						</div>
 						<p class="font__size-18 line__height-24"> 
-					        Growing up in Indianapolis, Indiana, I was the quintessential energetic and curious kid. Whether it was exploring the woods and catching any critter in sight or organizing basketball, soccer, and roller hockey matches with the neighborhood kids, I was always on the move. 
-							These early passions seamlessly transitioned into my academic and professional pursuits, as I majored in both biology and mechanical engineering while balancing the demands of being a student-athlete playing soccer. Following graduation, I moved to Kansas City to begin a career with Owens Corning as a manufacturing engineer in a flagship insulation facility. 
-							Over the next decade, my career advanced through progressive operational leadership positions in various facilities nationwide, spanning from Oregon to Texas and eventually back to Indiana. <br /><br />
-
-							Throughout this journey, I've honed my expertise in streamlining operations, building engaged teams, and laying the groundwork for innovation. 
-							Leveraging my experience and extensive network of mentors, SME owners, and professional colleagues, I am eager to partner with NCA to acquire an SME and begin my next chapter in entrepreneurial success. 
-
-						</p>
+						I am a serial entrepreneur with over 20 years of experience in creating, developing, and selling software and service companies.
+                        I have successfully built and sold bootstrapped businesses, as well as developed and sold three venture capital-backed companies, achieving €30 million in annual recurring revenue within five years, starting from 0. Additionally, I have acquired distressed assets, turned them around, and sold them profitably.
+                        The main driver in each of these ventures has been to foster innovation and channel it into deliverables that matter to clients.
+                        </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:morgan.ericksen@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
+						<a href="mailto:francis.cohen@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="30" height="31" fill="none"/>
@@ -65,11 +59,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
 					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
 					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Relationship centered</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Problem-solving mindset</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strong vision</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic growth</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Innovation Management</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Opportunity-driven</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Operational leadership</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Problem Solver</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Relentless Doer</li>
 					</ul>
 				</div>
 			</div>
@@ -77,31 +71,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">  
-						
-					  My target companies are value-add distribution and light manufacturing SMEs seeking a succession plan. My search focuses on profitable businesses in the Midwestern, United States but opportunistically would consider other regions.
-					<p class="font__size-16 line__height-24 mt-2">
-					  This market is undergoing a significant transformation, swiftly adapting with digital technologies and analytics to minimize bottlenecks, streamline inventory management, and establish a direct connection to customers via e-commerce. As the Baby Boomer generation moves closer to retirement, forming partnerships for succession planning becomes vital to maintain and build upon their legacy.
+					  I am looking to acquire and grow an IT services or software business with sales between $10 million and $50 million.
+                     
+					<p class="font__size-16 line__height-24 mt-2">My search is centered on identifying businesses poised for substantial revenue growth through operational efficiencies and innovation management.
+						Geographically, my focus is primarily on France.
 					</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">Through a decade of triumphs and challenges in operations, I've sharpened my skills in pinpointing, prioritizing, and executing initiatives that drive results and generate value. </p>
-					<p class="font__size-16 line__height-24 mt-1">I am dedicated to fostering change through thoughtful reflection, employing a playbook that integrates a cohesive vision, clear objectives, and regular evaluations to push forward or pivot as needed.</p>    
+					<p class="font__size-16 line__height-24 font__family-efb">
+					    Drawing upon two decades of experience in innovation management and product development, I aim to expand the existing business through automation and the development of advanced SaaS sales techniques.
+                        I also intend to explore concrete applications of recent innovations that can have an immediate impact on the bottom line.
+					</p>
+					<p class="font__size-16 line__height-24 mt-1">
+					    I will apply the same principles that have driven my success in turning around businesses and developing them through scale-up phases, with a relentless focus on iterating, executing, assessing the impact of my actions, and repeating the process.
+					</p>    
 			</div>
 		</div>
 	</div>
 	</div>
 
-</section>
-<br/><br/><br/><br/>
+</section> <br /><br /><br /><br />
+
 <section class="jan_video searcher_bg">
 	<div class="container">
 		<div class="row no-gutters">
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/morgan-thumbnail.jpeg" alt="alt" class="image_video">
+                        <img src="img/thumbnail-francis-cohen.jpeg" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/sERa_W6roIE?si=wrZ2uZ27NuuCaD3m" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/ZiVg8eLD8Qo?si=1jDAY8HRwAG1iVUy" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -141,7 +140,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Francis-Cohen-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -155,7 +154,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-morgan.png" class="resume_img">
+				<img src="img/background-francis-cohen.webp" class="resume_img">
 			</div>
 		</div>
 
@@ -165,7 +164,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:morgan.ericksen@novastone-ca.com">morgan.ericksen@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:francis.cohen@novastone-ca.com">francis.cohen@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -178,8 +177,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">If you want to build a ship, don’t drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast endless sea.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Antoine de Saint-Exupéry</h5>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">The most important lesson in entrepreneurship: Embrace the struggle</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Ben Horowitz, The Hard Thing About Hard Things</h5>
 							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
 					</div>
 				</div>
@@ -195,7 +194,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Morgan Ericksen</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Francis Cohen</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -217,8 +216,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:morgan.ericksen@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">morgan.ericksen@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/morgancoan/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:francis.cohen@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">francis.cohen@novastone-ca.com</a>
+						<a href="https://www.linkedin.com/in/franciscohen/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
