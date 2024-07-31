@@ -77,7 +77,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">I plan to help as many in need as possible by leveraging these three strategic models: (1) Solutions Shop Model, (2) Partnership Growth Model, and (3) Tax Restructuring Model. </p>
-					<p class="font__size-16 line__height-24 mt-1">you want to learn more about my search, please get in touch with me at reed.davis@novastone-ca.com.</p>    
+					<p class="font__size-16 line__height-24 mt-1">If you want to learn more about my search, please get in touch with me at reed.davis@novastone-ca.com.</p>    
 			</div>
 		</div>
 	</div>
