@@ -563,7 +563,7 @@ $_SESSION["lan"] = "English";
                     </div>	
 				</div>
 
-				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+				<div class="hide col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
                     	<img class="w-100" src="img/jeff_revoy_about.png">
                     </div>	
