@@ -58,7 +58,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							    </p>	
 
 								<p style="margin-top: 8px;  "> 
-								<a href="https://www.linkedin.com/in/bill-rees/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2">
+								<a href="https://www.linkedin.com/in/rovero/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2">
 									<i style="font-size: 18px;" class="fab fa-linkedin-in"></i>
 								</a>
 								
@@ -66,15 +66,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	                    </div>
 
 	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160">
-							<p class="heading_bg">Bill</p>
-							<p class="heading_bg_2">Rees</p>
+							<p class="heading_bg">Robert</p>
+							<p class="heading_bg_2">Vero</p>
 						</h2>
 				    </div>	
 				</div>    
 			</div>
 			<div class="col-lg-8">
 				<div class="searcher_image position-relative" style="position: revert;">
-					<img class="w-100" src="img/bill-rees.png">
+					<img class="w-100" src="img/robert-vero.png">
 				</div>	
 			</div>	
 		</div>
@@ -115,7 +115,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/about-bill-rees.png">
+							<img class="w-100" src="img/about-robert-vero.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-36">ABOUT ME</p>
 							</div>
@@ -124,7 +124,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
 							<p class="mt-30 font__size-16">
-                              I’m a battle-hardened, hands-on C-suite player who is determined to unearth the full potential of a brand. I have 30+ years of industry-specific experience, spanning from the Frontline to the Boardroom.  Over this time, and all over the world, it's been an honor to serve & learn alongside some of the best names in the industry.  Now it is time to put all of that into play for real!
+                              My passion for entrepreneurship and love for manufacturing have been the driving forces through my career. I have actively sought opportunities to innovate, disrupt industries and create value for stakeholders. Whether it was acquiring a new business, spearheading product development initiatives, or driving business expansion in new markets, I have consistently embraced calculated risks and demonstrated resilience in the face of challenges.
+
+                              <br /><br />
+
+                              My fluency in English, Romanian, Hebrew, and Hungarian positions me to effectively communicate and collaborate with stakeholders across different geographies, fostering strong relationships and enabling successful business expansion into international markets.
 							</p>
 
 							<p class="mt-30 font__size-16 font__halvetica-regular">
@@ -139,7 +143,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/my-search-bill.png">
+							<img class="w-100" src="img/my-search-robert.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-36">MY SEARCH</p>
 							</div>
@@ -148,7 +152,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
 							<p class="mt-30 font__size-16">
-                              I seek to invest in companies that safeguard underground infrastructure and critical assets across the energy and utility sector.  These assets are expanding, aging, and in need of transformation.  This drives demand for verification, asset upgrades, and modifications driven by public & regulatory pressure.  My search focus centers upon businesses headquartered in the US South-Central Corridor, extending from Tulsa, OK to Dallas, TX. But, since this is a global industry, I'm eager to connect with businesses operating far beyond that footprint.
+                              In partnership with Novastone Capital Advisors my objective is to identify, acquire and join as the CEO, a B2B manufacturing small to medium sized enterprise (SME) at the convergence of the elastomer, printing and technology sectors.
+
+                              <br /><br />
+
+                              The integration of elastomers, printing and technology represents a primary engine for value creation supported by significant industry mega-trends such as infrastructure revitalization, electrification of transportation, reshoring, Industry 4.0, AI and wearables.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
                     
@@ -163,7 +171,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/my-contribution-bill-rees.png">
+							<img class="w-100" src="img/my-contribution-robert-vero.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-28">MY CONTRIBUTION</p>
 							</div>
@@ -172,10 +180,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
 							<p class="mt-30 font__size-16">
-                              This industry needs bold, experienced leadership and that’s what I bring to the table.  My playbook for success is a proven, people-focus winning formula: I build high-performance teams, engage at every level, develop coherent strategies, and involve all to unlock a brand’s full potential.
+                             Post-acquisition as the CEO of the newly acquired company I will bring my unique vision of integrating elastomers with printing and technology and develop differentiated new products and push the elastomer industry into the Industry 4.0 revolution.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                              This may sound simple, but it requires a relatable & transformational mindset, an affiliative leadership style, and infectious enthusiasm that complements my foundation of technical credibility as an industry name. 
+                             Furthermore, I plan to apply my previous experience to drive operational efficiencies, increase operating margins by focusing on improving legacy operations, and driving capital efficiency along with investing in new technology and process automation. 
 							</p>
 						</div>	
 					</div>
@@ -199,7 +207,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-						  Success is <br> simply the ability<br> to go from failure <br>to failure <br>with no loss <br> of enthusiasm<br>	<br>			 
+                          THE BEST  <br> WAY TO PREDICT<br> THE FUTURE <br>IS TO CREATE IT <br>	<br>			 
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -207,7 +215,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-                          Winston Churchill 
+                           P. Drucker & A. Lincoln
 						</p> 
 					</div>	
 				</div>	
@@ -215,9 +223,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-8 pl-lg-20">
 				<div class="video_div d-flex h-100 pt-lg-0 pt-50">
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-	                    <img src="img/thumbnail-bill-rees.jpeg" alt="alt" class="image_video object-fit_cover w-100 h-100">
+	                    <img src="img/thumbnail-robert-vero.jpg" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/mDHXqkTHY0g?si=X3mPlJBi8UHNlaM0" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/8oITA-8AppM" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
@@ -226,7 +234,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/Bill-Rees-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
+					<a download href="docs/Robert-Vero-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
@@ -245,7 +253,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </h2>
                     <ul class="pl-0 mt-30">
                     	<li class="w-100 mb-30">
-                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:bill.rees@novastone-ca.com">bill.rees@novastone-ca.com</a>
+                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:robert.vero@novastone-ca.com">robert.vero@novastone-ca.com</a>
                     	</li>
                     </ul>
 				</div>	
@@ -261,7 +269,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Bill Rees</h1>
+							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Robert Vero</h1>
 							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Entrepreneur</span></h3>
 						</div>
 						<div class="jan_detail mt-60">
@@ -283,8 +291,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-lg-right">
 					<div class="searcher_mail d-flex align-items-center justify-content-end mt-3 pt-1">
-						<a href="mailTo:bill.rees@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>bill.rees@novastone-ca.com</span></a>
-						<a href="https://www.linkedin.com/in/bill-rees/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:robert.vero@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>robert.vero@novastone-ca.com</span></a>
+						<a href="https://www.linkedin.com/in/rovero/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
