@@ -137,7 +137,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 						<li class="dropdown mo-li">
 
-							<a href="http://insights.novastone-ca.com/"><span class="d-lg-none menu_for">For</span>Insights
+							<a href=""><span class="d-lg-none menu_for">For</span>Insights
 								<i class="fa fa-caret-down pl-1"></i>
 							</a>
 
@@ -147,7 +147,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								</a></li> -->
 								<li><a href="news-resources.php">Resources</a></li>
 
-								<li><a href="http://insights.novastone-ca.com/">Blog</a></li>
+								<li><a href="https://novastone-ca.com/blog/blog.php">Blog</a></li>
 
 							</ul>
 

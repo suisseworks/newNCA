@@ -287,7 +287,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Christian Malek</h5>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Christian Malek</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">CEO</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/christian-malek-2088368b/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -422,6 +422,205 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
 					</div>
 
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/taylor-perry.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Taylor Perry</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								 Head of M&A
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/taylorperry1/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+			
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/blair-late-about.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Blair Late</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								Head of HR
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/blair-madison-late-1a7a5914/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/arantxa.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Arantxa Aguilar</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								  Legal Counsel
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+					
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/Giancarlo.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Giancarlo Interiano </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								 CFO
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/giancarlo-interiano-8347b0126/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/robin.jpg">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Robin Goldhagen</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								  Investor Relations Manager
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/rag95/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/nechama-averick.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Nechama Averick </h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								  IR Senior Associate
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/nechama-averick/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/adam-lovasz.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Adam Lovasz</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								  Investor Relations Manager
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/adam-lovasz/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/stephanie-maas.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Stephanie Maas</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								  IR Senior Associate
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/stephanie-m-maas/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/tanja-krajeva.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Tanja Krajeva</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								   Corporate Paralegal, Europe
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/tanja-krajeva-35714568/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 					
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
@@ -440,22 +639,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
 					</div>
 
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/jose-infantozzi.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> José Infantozzi </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Financial Controller
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/jose-miguel-infantozzi-h/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
+
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/elias_meier.png">
@@ -468,6 +652,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/elias-m-7617a2130/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+					
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/Eric-Tai.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Eric Tai</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								  Senior Investment Associate
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/eric-tai-ab4846b1/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
 							    </div>							
 						    </div>	
                         </div>	
@@ -522,39 +724,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						    </div>	
                         </div>	
 					</div>
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/taylor-perry.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Taylor Perry</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								 Head of M&A
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/taylorperry1/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
-                   
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/blair-late-about.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br> Blair Late</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Head of HR
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/blair-madison-late-1a7a5914/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
+
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
@@ -611,43 +781,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/Eric-Tai.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Eric Tai</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								  Senior Investment Associate
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/eric-tai-ab4846b1/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
-
-
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/Giancarlo.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Giancarlo Interiano </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								 CFO
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/giancarlo-interiano-8347b0126/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
-
-
-
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/Jacob.png">
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
@@ -662,7 +795,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						    </div>	
                         </div>	
 					</div>
-
 
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
@@ -720,22 +852,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 
 
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/nechama-averick.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Nechama Averick </h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								  IR Senior Associate
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/nechama-averick/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
+
+
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
@@ -754,22 +872,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
 					</div>
 
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/arantxa.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Arantxa Aguilar</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								  Legal Counsel
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
+
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
@@ -789,22 +892,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 
 
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/robin.jpg">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Robin Goldhagen</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								  Investor Relations Manager
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/rag95/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
+
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
@@ -824,41 +912,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 
 
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/stephanie-maas.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Stephanie Maas</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								  IR Senior Associate
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/stephanie-m-maas/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
-
-
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/tanja-krajeva.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Tanja Krajeva</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								   Corporate Paralegal, Europe
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/tanja-krajeva-35714568/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
-
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
@@ -877,22 +930,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
 					</div>
 
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
-                        <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/adam-lovasz.png">
-                        </div>	
-                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
-                        	<div>
-	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Adam Lovasz</h5>
-			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								  Investor Relations Manager
-			        			</p>
-			        			<div class="d-flex align-items-center justify-content-center mt-3">
-									<a href="https://www.linkedin.com/in/adam-lovasz/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
-							    </div>							
-						    </div>	
-                        </div>	
-					</div>
+
+
+
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
