@@ -34,15 +34,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="col-12 col-lg-9 pl-0 nca_circle_text_col">
 									<div class="responsive_xs_pad pl-60 pt-120 pb-90 position-relative z-index-1">
 										<div class="headline about_headline">
-										<h3 class="mb-3 underline title wow fadeInUp">
-										    Novastone Capital Advisors (NCA) is a global company based in Switzerland that runs an Entrepreneurship Through Acquisition program.
+										<h3 class="mb-3 underline title wow fadeInUp" style="font-size: 30px !important;">
+										 Novastone Capital Advisors (NCA) is a global firm headquartered in Switzerland that solves succession challenges faced by small to medium-sized enterprises (SMEs) through our Entrepreneurship Through Acquisition (ETA) program.
 										</h3>
-										<h4 class="mb-5 subtitle wow fadeInUp subtitle_text">
-											Our ETA program is a highly specialized process that connects investors with talented entrepreneurs who are looking to locate, acquire, manage, and grow a privately held company.
+										<h4 class="mb-5 subtitle wow fadeInUp subtitle_text" style="text-align: justtify;">
+										 We closely partner with experienced, mid-career entrepreneurs with deep industry knowledge to identify, acquire, and grow privately held companies across Europe, the U.S., and Canada. Our carefully selected entrepreneurs serve as the optimal solution to succession by providing the next generation of leadership and ownership for SMEs.
 										</h4>
 										</div>
 										<p class="font__family-open-sans font__size-16 text-content wow fadeInUp what_we_do_text">
-											We focus on mutual benefit, profit, and growth for all of our stakeholders.<br> Our program carefully selects talented individuals who are capable of operating and<br> growing a company through a proprietary Talent Identification and Selection Process. We also partner with the best business schools around the globe to source top-tier talented individuals that would fit our ETA program. When working with us, aspiring entrepreneurs benefit from access to capital resources and support in pursuing a direct path to owning and managing a small business; existing businesses benefit from succession solutions with qualified, funded entrepreneurs; and co-investors benefit from sound investment opportunities with historically high rates of success.
+
+                                          At NCA, our focus is on fostering mutual benefit, profitability, and growth for all stakeholders. Entrepreneurs benefit from NCA‘s support and parthership, enabling them to transition directly into owning and managing a small business. Existing business owners find an optimal solution to succession with experienced, funded entreprneuers that proudly continue their company’s legacy and growth. Co-investors are presented with sound investment opportunities with historically high rates of success.
+
 									    </p>
 									</div>
 								</div>
@@ -577,45 +579,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 					
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
@@ -737,6 +700,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						    </div>	
                         </div>	
 					</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
