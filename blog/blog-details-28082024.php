@@ -22,12 +22,6 @@ if (isset($_GET['slug'])) {
 ?>
 
 <style>
-	strong,b{
-		font-weight: 900;
-	}
-	i{
-		font-style: italic;
-	}
 	.blog-footer .brk-footer__wrapper{
     background-color: #2c2c2c !important;
 }
@@ -35,9 +29,6 @@ if (isset($_GET['slug'])) {
     background: linear-gradient(90deg, rgb(186 163 133 / 0.3) 1px, transparent 1px) 1px 0 !important;
     background-size: 257px 1px !important;
     background-position: calc(13px);
-}
-.blog-details-content ul li{
-	margin-left: 33px !important;
 }
 .blog-detail-main-img{
 	border-radius: 20px;
