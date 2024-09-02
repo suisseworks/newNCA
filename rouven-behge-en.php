@@ -58,7 +58,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							    </p>	
 
 								<p style="margin-top: 8px;  "> 
-								<a href="https://www.linkedin.com/in/bill-rees/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2">
+								<a href="https://www.linkedin.com/in/rouvenbehge/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2">
 									<i style="font-size: 18px;" class="fab fa-linkedin-in"></i>
 								</a>
 								
@@ -66,15 +66,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	                    </div>
 
 	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160">
-							<p class="heading_bg">Bill</p>
-							<p class="heading_bg_2">Rees</p>
+							<p class="heading_bg">Rouven</p>
+							<p class="heading_bg_2">Behge</p>
 						</h2>
 				    </div>	
 				</div>    
 			</div>
 			<div class="col-lg-8">
 				<div class="searcher_image position-relative" style="position: revert;">
-					<img class="w-100" src="img/bill-rees.png">
+					<img class="w-100" src="img/rouven_behge.png">
 				</div>	
 			</div>	
 		</div>
@@ -115,7 +115,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/about-bill-rees.png">
+							<img class="w-100" src="img/about-rouven.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-36">ABOUT ME</p>
 							</div>
@@ -123,8 +123,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
-							<p class="mt-30 font__size-18">
-							  I’m a battle-hardened, hands-on C-suite player who is determined to unearth the full potential of a brand. I have 30+ years of industry-specific experience, spanning from the Frontline to the Boardroom. Over this time, and all over the world, it's been an honor to serve & learn alongside some of the best names in the industry. Now it is time to put all of that into play for real!
+							<p class="mt-30 font__size-16">
+							  Born in Switzerland and raised in Germany, I have lived and worked in both countries and embody a blend of German-Swiss cultural influences. With 17 years of experience at industry leaders like Panalpina and DSV, and as the founder of a logistics-focused SME management consulting business, I bring a wealth of insights to the table. My educational background includes an Executive MBA and a B.A. in Forwarding, Transport and Logistics, which have equipped me with a solid foundation to tackle complex challenges in our fast-paced industry. Outside of my professional life, I am an avid hiker who loves exploring the Black Forest and other stunning landscapes across Europe, always finding inspiration in nature’s beauty and resilience.
 							</p>
 
 							<p class="mt-30 font__size-16 font__halvetica-regular">
@@ -139,7 +139,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/my-search-bill.png">
+							<img class="w-100" src="img/my-search-rouven.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-36">MY SEARCH</p>
 							</div>
@@ -147,8 +147,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
-							<p class="mt-30 font__size-18">
-							I seek to invest in companies that safeguard underground infrastructure and critical assets across the energy and utility sector. These assets are expanding, aging, and undergoing transition. This drives demand for verification, asset upgrades, and modifications - all amplified by public & regulatory pressure. My search focus centers upon businesses headquartered in the US South-Central Corridor, extending from Tulsa, OK to Dallas, TX. As this is a global industry, I'm eager to connect with businesses operating far beyond that footprint. 
+							<p class="mt-30 font__size-16">
+							You (co-)own a logistics company and have not found the right succession solution yet?<br />
+Together with NCA, I am currently looking for a healthy, medium-sized logistics company in Germany or Switzerland that I can acquire and develop further in the long term.
+Your company ideally generates between 2 and 5 million €/CHF EBITDA and already has air and sea freight or courier services in its portfolio. In addition, I’m focusing on logistics companies that specialize in certain industry verticals, complex services or logistics software and equipment.
+
+
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
                     
@@ -163,7 +167,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/my-contribution-bill-rees.png">
+							<img class="w-100" src="img/my-contribution-rouven.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-28">MY CONTRIBUTION</p>
 							</div>
@@ -171,12 +175,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
-							<p class="mt-30 font__size-18">
-							This industry needs bold, experienced leadership and that’s what I bring to the table. My playbook for success is a proven, people-focused winning formula: I build high-performing
- teams, engage at every level, develop coherent strategies, and involve ALL to unlock a brand’s full potential.
+							<p class="mt-30 font__size-16">
+							  Long-term independence and development: Our unique succession solution<br /> 
+                              As a proven entrepreneurial logistics leader with 17 years of industry experience, I excel in strategy development and execution, co-creating value with customers, and building high-performance organizations that maximize human potential and technology. My cross-functional know-how spans over 20 countries, encompassing strategic positioning, customer diversification and sales, procurement and negotiation, process and operations management, and more. During several acquisitions, I experienced first-hand the major uncertainties caused by such processes. And I have learned how to manage these changes successfully and respectfully.
+
+
 							</p>
-							<p class="mt-30 font__size-18 font__halvetica-regular">
-							This may sound simple, but it requires a relatable & transformational mindset, an affiliative leadership style, and infectious enthusiasm that complements my foundation of technical credibility as an industry name. 
+							<p class="mt-30 font__size-16 font__halvetica-regular">
+							If you are considering passing on your successful business to safe hands, please reach out. I look forward to hearing from you, and to our informal and confidential conversation!
+
 							</p>
 						</div>	
 					</div>
@@ -184,6 +191,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>	 
 				</div>	
 			</div>	
+			
 	</div>	
 </section>
 
@@ -200,7 +208,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-						  Success is <br> simply the ability<br> to go from failure <br>to failure <br>with no loss <br> of enthusiasm<br>	<br>			 
+						  You miss  <br>100%	<br>of the<br> shots <br>you<br> don't take		 <br><br>
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -208,7 +216,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-                          Winston Churchill 
+						  Wayne Gretzky <br>
+						  Canadian ice hockey legend
 						</p> 
 					</div>	
 				</div>	
@@ -216,9 +225,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-8 pl-lg-20">
 				<div class="video_div d-flex h-100 pt-lg-0 pt-50">
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-	                    <img src="img/thumbnail-bill-rees.jpeg" alt="alt" class="image_video object-fit_cover w-100 h-100">
+	                    <img src="img/rouven_thumb.jpeg" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/mDHXqkTHY0g?si=X3mPlJBi8UHNlaM0" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/-_1-QTv6rWc?si=SGVYBKnryn87Mhr8" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
@@ -227,7 +236,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/Bill-Rees-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
+					<a download href="docs/Rouven-Behge-resume-EN.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
@@ -246,7 +255,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </h2>
                     <ul class="pl-0 mt-30">
                     	<li class="w-100 mb-30">
-                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:bill.rees@novastone-ca.com">bill.rees@novastone-ca.com</a>
+                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailto:rouven.behge@novastone-ca.com">rouven.behge@novastone-ca.com</a>
                     	</li>
                     </ul>
 				</div>	
@@ -262,7 +271,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Bill Rees</h1>
+							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Rouven Behge</h1>
 							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Entrepreneur</span></h3>
 						</div>
 						<div class="jan_detail mt-60">
@@ -284,8 +293,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-lg-right">
 					<div class="searcher_mail d-flex align-items-center justify-content-end mt-3 pt-1">
-						<a href="mailTo:bill.rees@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>bill.rees@novastone-ca.com</span></a>
-						<a href="https://www.linkedin.com/in/bill-rees/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:rouven.behge@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>rouven.behge@novastone-ca.com</span></a>
+						<a href="https://www.linkedin.com/in/rouvenbehge/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
