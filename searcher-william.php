@@ -280,7 +280,7 @@ For this search, it will be exciting to bring together my engineering and senior
 			<div class="row align-items-center mt-30">
 							
 				<div class="col-lg-8 col-sm-12 col-12 col-xs-12">
-					<p class="font__size-12 font__family-open-sans text-white">&copy; Novastone Capital Advisors <?php echo date("Y"); ?> - Haldenstraße 5, 6340 Baar, Schweiz</p>
+					<p class="font__size-12 font__family-open-sans text-white">&copy; Novastone Capital Advisors <?php echo date("Y"); ?> - Haldenstrasse 5, 6340 Baar, Switzerland</p>
 				</div>
 				<div class="col-lg-4 col-sm-12 col-12 col-xs-12">
 					<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12 font__family-open-sans font-weight-bold">
