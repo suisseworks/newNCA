@@ -142,7 +142,7 @@
 							STL COMMUNICATIONS
 				</h3>
 				<div class="forza-img w-100">
-					<img src="img/stl-communication-usa.png">
+					<img src="img/stl.com-cloud-services.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
 					<a href="https://stlcom.com/" target="_blank"><img src="img/stl-communication.png"></a>

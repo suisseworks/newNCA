@@ -143,7 +143,7 @@
 							FOO SENG
 				</h3>
 				<div class="forza-img w-100">
-					<img src="img/foo-seng-france.png">
+					<img src="img/foo-seng-company-france.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
 					<a href="https://fooseng.com/" target="_blank"><img src="img/foo-seng-logo.png"></a>

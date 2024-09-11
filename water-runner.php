@@ -142,7 +142,7 @@
 							WATER RUNNER
 				</h3>
 				<div class="forza-img w-100">
-					<img src="img/water-runner-texas.png">
+					<img src="img/Water-Runner-Trucks.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
 					<a href="https://waterrunner.com/" target="_blank"><img src="img/water-runner-logo.png"></a>
