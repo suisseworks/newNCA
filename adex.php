@@ -1,4 +1,3 @@
-
 <?php include 'inc/header.php'; ?>
 
 <style>
@@ -141,41 +140,44 @@
 
 
 
+
+
 			<div class="col-lg-6">
 				<div class="forza-top-content pl-50">
 					<div class="headline pr-90">
 						<h3 class="mb-3 desktop-title forza-title title text-uppercase wow fadeInUp">
-							Forza Doors
+							ADEX
 						</h3>
                         <div class="forza-log desktop-logo text-left">
-					      <a href="https://www.forza-doors.com/" target="_blank"><img style="width: 217px !important;" src="img/forza-logo.png"></a>
+					      <a href="https://adexcp.com/en/" target="_blank"><img style="width: 180px !important;" src="img/adex.svg"></a>
 				        </div>
                         <br> <br>
 						<h4 class="mb-5 forza-subtitle subtitle wow fadeInUp">
-							A leading provider of premium quality veneer & laminate timber products to the UK construction industry, with special focus on doors and frames.
+                            Adex Cosmetics & Pharma is a well-established cosmetics contract manufacturing company in Poland with highly flexible production capabilities, top technological and R&D know-how and excellent customer service.
+
 						</h4>
 						<p>
-							Founded in 2010, Forza is the UK's premier high quality timber veneer & laminate doors, panels and door frames supplier for commercial, residential and educational sectors. It designs, manufactures and distributes certified fire-rated timber products in multiple configurations characterised by the highest standard finishes and specification. Forza boasts a modern production facility and an integrated supply chain which allows to shorten the project lead time to a minimum, with the ability to adapt to customers’ demands.<br><br><br><br><br><br><br>
+                            Founded in 1984, the company specializes in private label production in the field of perfumery, custom-made cosmetics and medical products. It has been recognized for a high quality services, flexibility in product development and production processes with unmatched time to market. Having extensive, long-term experience on the market, qualified staff and modern laboratory, the company is able to support its customers at each stage of cosmetics production incl. product formula development, design and packaging.<br><br><br><br><br><br><br>
 						</p>	
 					</div>
 					<div class="col-12 visit-btn px-0 mt-5">
 						<div class="d-flex align-items-center justify-content-center talent_btn_learn h-100 pb-lg-0 pb-sm-2 pl-lg-50">
-								<a href="https://www.forza-doors.com/" target="_blank" class="social_icon d-inline-flex align-items-center h-100 justify-content-start border-radius-0 p-2 pl-50 text-white bg-primary w-100 text-uppercase">Visit Website</a>
+								<a href="https://adexcp.com/en/" target="_blank" class="social_icon d-inline-flex align-items-center h-100 justify-content-start border-radius-0 p-2 pl-50 text-white bg-primary w-100 text-uppercase">Visit Website</a>
 							</div>
 					</div>
 				</div>	
-			</div>	
+			</div>
 
 
             <div class="col-lg-6 bg-white">
 				<h3 class="mb-3 forza-title mobile-title title text-uppercase wow fadeInUp">
-							Forza Doors
+							ADEX
 				</h3>
 				<div class="forza-img w-100">
-					<img src="img/forza-doors.png">
+					<img src="img/adex-cosmetics.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
-					<a href="https://www.forza-doors.com/" target="_blank"><img src="img/forza-logo.png"></a>
+					<a href="https://adexcp.com/en/" target="_blank"><img src="img/adex.svg"></a>
 				</div>
 				<div class="forza-heading">
 					  <h2 class="stroke_text px-5 text-uppercase text-center mb-100 wow fadeInLeft">About The Company</h2>
@@ -184,20 +186,20 @@
                 <div class="forza-list mt-5 text-left">
 							<ul>
 								<li>
-									<strong>Headquarters:</strong> Partridge Green, Horsham, West Sussex, UK
+									<strong>Headquarters:</strong> Iława, Poland
 								</li>
 								<li>
-									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong> Will Hunnam</a>
+									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong> Fryderyk Rdułtowski</a>
 								</li>
 								<li>
-									<strong>In NCA portfolio since:</strong> April 2023
+									<strong>In NCA portfolio since:</strong> Dec. 2023
 								</li>
 							</ul>                
                 </div>
                 
 			</div>
-
-
+            
+            
 
 
 
@@ -236,7 +238,7 @@
 				</div>   
 			</div>
 			<div class="col-4 mbw-70">
-				
+					
 			</div>	
 			<div class="col-4 mbw-15">
 				<div class="text-right prev-next-text">
