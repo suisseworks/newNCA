@@ -18,7 +18,7 @@
 					<img src="img/ffco.ltd.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
-					<a href="https://ffzrt.com/" target="_blank"><img src="img/adex.svg"></a>
+					<a href="https://ffzrt.com/" target="_blank"><img src="img/FF_CO_LTD.png"></a>
 				</div>
 				<h3   class="mb-3 mt-5 text-center desktop-title forza-title title text-uppercase wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                 FF CO. LTD
