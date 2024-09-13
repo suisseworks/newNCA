@@ -139,8 +139,38 @@
 
 
 
+            <div class="col-lg-6 bg-white">
+				<h3 class="mb-3 forza-title mobile-title title text-uppercase wow fadeInUp">
+							FF CO. LTD
+				</h3>
+				<div class="forza-img w-100">
+					<img src="img/ffco.ltd.png">
+				</div>	
+				<div class="forza-log mobile-logo text-center">
+					<a href="https://ffzrt.com/" target="_blank"><img src="img/adex.svg"></a>
+				</div>
+				<div class="forza-heading">
+					  <h2 class="stroke_text px-5 text-uppercase text-center mb-100 wow fadeInLeft">About The Company</h2>
+				</div>
 
-			<div class="col-lg-6">
+                <div class="forza-list mt-5 text-center">
+							<ul>
+								<li>
+									<strong>Headquarters:</strong> Mezőtúr, Hungary
+								</li>
+								<li>
+									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong> Viktor Dimitrov</a>
+								</li>
+								<li>
+									<strong>In NCA portfolio since:</strong> Aug. 2023
+								</li>
+							</ul>                
+                </div>
+                
+			</div>
+
+
+            <div class="col-lg-6">
 				<div class="forza-top-content pl-50">
 					<div class="headline pr-90">
 						<h3 class="mb-3 desktop-title forza-title title text-uppercase wow fadeInUp">
@@ -165,38 +195,6 @@
 					</div>
 				</div>	
 			</div>	
-
-
-
-            <div class="col-lg-6 bg-white">
-				<h3 class="mb-3 forza-title mobile-title title text-uppercase wow fadeInUp">
-							FF CO. LTD
-				</h3>
-				<div class="forza-img w-100">
-					<img src="img/ffco.ltd.png">
-				</div>	
-				<div class="forza-log mobile-logo text-center">
-					<a href="https://ffzrt.com/" target="_blank"><img src="img/adex.svg"></a>
-				</div>
-				<div class="forza-heading">
-					  <h2 class="stroke_text px-5 text-uppercase text-center mb-100 wow fadeInLeft">About The Company</h2>
-				</div>
-
-                <div class="forza-list mt-5 text-left">
-							<ul>
-								<li>
-									<strong>Headquarters:</strong> Mezőtúr, Hungary
-								</li>
-								<li>
-									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong> Viktor Dimitrov</a>
-								</li>
-								<li>
-									<strong>In NCA portfolio since:</strong> Aug. 2023
-								</li>
-							</ul>                
-                </div>
-                
-			</div>
 
 
 
