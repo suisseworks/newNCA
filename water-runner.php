@@ -1,138 +1,8 @@
 <?php include 'inc/header.php'; ?>
 
-<style>
-	
-.forza-heading .stroke_text{
-    font-size: 88px !important;
-    line-height: 105px !important;
-}
-.forza-title.title{
-     font-size: 98px;
-     line-height: 124.26px;
-     font-weight: 700;
-}
-.forza-subtitle.subtitle{
-    font-size: 28px;
-    font-weight: 400;
-   line-height: 35.5px;
+<link rel="stylesheet" type="text/css" href="css/assets/portafolio-styles.css">
 
-}
-.forza-list ul li strong{
-    font-weight: 700;
-}
-.forza-list ul li{
-    font-size: 18px;
-    line-height: 22.82px;
-    margin-bottom: 15px;
-}
-.forza-top-content .headline p{
-    font-size: 16px;
-}
-.visit-btn .social_icon{
-    font-size: 34.22px;
-    font-weight: 700;
-    line-height: 43.39px;
-    background-color: #D6762C !important;
-}
-.partering-sec{
-    background-color: #0E2336;
-    padding: 70px 0px;
-}
-.content-div p{
-    font-size: 28px;
-    font-style: italic;
-    font-weight: 500;
-    line-height: 35.5px;
-    text-align: left;
-    color: #ffffff;
-    width: 100%;
-}
-.span-bar{
-    width: 25px;
-    background-color: #D6762C;
-    height: 104px;
-    margin-right: 15px;
-}
-.prev-next-text{
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 30.43px;
-}
-.forza-log img{
-    width: 266px;
-}
-.mobile-title,.mobile-logo{
-    display: none;
-}
-.main-page .forza-sec .container{
-    background: inherit;
-}
-
-@media only screen and (max-width: 767px){
-    .mobile-title.title{
-        display: block;
-        font-size: 49.67px;
-        line-height: 62.98px;
-        text-align: center;
-    }
-    .desktop-title,.desktop-logo{
-        display: none;
-    }
-    .mobile-logo{
-        display: block;
-        background-color: #ffffff;
-        padding: 15px 30px;
-        position: relative;
-        max-width: 199px;
-        margin: -40px auto 0px;
-        box-shadow: 0px 1px 3px 0px #00000040;
-    }
-    .forza-heading .stroke_text{
-        font-size: 62px !important;
-        line-height: 67px !important;
-        padding: 0px !important;
-    }
-    .forza-top-content{
-        background-color: #ffffff;
-    }
-    .forza-subtitle.subtitle{
-        font-size: 24px !important;
-    }
-    .partering-sec .content-div.pl-80{
-        padding-left: 0px !important;
-        flex-wrap: wrap;
-    }
-    .m-hidden{
-        display: none;
-    }
-    .span-bar{
-        width: 15.67px;
-        height: 56px;
-    }
-    .content-div p{
-        padding-left: 18px;
-        margin-top: -50px;
-    }
-    .m-company{
-        display: none;
-    }
-    .prev-next-text{
-        font-size: 20px;
-    }
-    .col-4.mbw-70{
-        flex: 0 0 70%;
-        max-width: 70%;
-    }
-    .col-4.mbw-15{
-        flex: 0 0 15%;
-        max-width: 15%;
-    }
-    .underline.m-underline{
-        text-decoration: auto;
-    }
-}
-</style>
-
+ 
 <section class="pt-lg-70 pt-70 forza-sec">
 	<div class="container-fluid px-0">
 		<div class="row no-gutters">
@@ -147,9 +17,9 @@
 				<div class="forza-log mobile-logo text-center">
 					<a href="https://waterrunner.com/" target="_blank"><img src="img/water-runner-logo.png"></a>
 				</div>
-				<div class="forza-heading">
-					  <h2 class="stroke_text px-5 text-uppercase text-center mb-100 wow fadeInLeft">About The Company</h2>
-				</div>
+				<h3   class="mb-3 mt-5 text-center desktop-title forza-title title text-uppercase wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+							WATER RUNNER
+						</h3>
 
                 <div class="forza-list mt-5 text-center">
 							<ul>
@@ -170,10 +40,9 @@
 
             <div class="col-lg-6">
 				<div class="forza-top-content pl-50">
-					<div class="headline pr-90">
-						<h3 class="mb-3 desktop-title forza-title title text-uppercase wow fadeInUp">
-							WATER RUNNER
-						</h3>
+                <div class="forza-heading">						                          		 
+                            <h2 class="stroke_text  desktop-title text-uppercase text-start mb-100 wow fadeInLeft">About the Company</h2> 
+				         </div>
                         <div class="forza-log desktop-logo text-left">
 					      <a href="https://waterrunner.com/" target="_blank"><img style="width: 224px !important;" src="img/water-runner-logo.png"></a>
 				        </div>
