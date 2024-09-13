@@ -3,7 +3,7 @@
 <style>
 	
 .forza-heading .stroke_text{
-    font-size: 88px !important;
+    font-size: 75px !important;
     line-height: 105px !important;
 }
 .forza-title.title{
@@ -146,12 +146,12 @@
 				<div class="forza-log mobile-logo text-center">
 					<a href="https://www.chapter-1.net/" target="_blank"><img src="img/chapter-one.png"></a>
 				</div>
-				<div class="forza-heading">
-					  <h2 class="stroke_text px-5 text-uppercase text-center mb-100 wow fadeInLeft">About The Company</h2>
-				</div>
+				<h3 style="font-size:70px" class="mb-3 mt-5 text-center desktop-title forza-title title text-uppercase wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+							CHAPTER ONE
+						</h3>
 
                 <div class="forza-list mt-5 text-center">
-							<ul>
+                <ul class="d-inline-block text-start" style="text-align:'middle'">
 								<li>
 									<strong>Headquarters:</strong> Montreal, Canada
 								</li>
@@ -167,10 +167,14 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="forza-top-content pl-50">
-					<div class="headline pr-90">
-						<h3 class="mb-3 desktop-title forza-title title text-uppercase wow fadeInUp">
-							CHAPTER ONE
-						</h3>
+					<div class="forza-heading">
+						<!-- <h3 class="mb-3 desktop-title forza-title title text-uppercase wow fadeInUp"> -->
+                        <div class="forza-heading">
+					 <!-- <h2 class="stroke_text px-5 desktop-title text-uppercase text-center mb-100 wow fadeInLeft">	CHAPTER ONE</h2> -->
+                     <h2 class="stroke_text  desktop-title text-uppercase text-start mb-100 wow fadeInLeft">About the Company</h2> 
+				</div>
+						
+						</h2>
                         <div class="forza-log desktop-logo text-left">
 					      <a href="https://www.chapter-1.net/" target="_blank"><img style="width: 170px !important;" src="img/chapter-one.png"></a>
 				        </div>
