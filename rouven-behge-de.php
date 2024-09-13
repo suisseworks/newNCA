@@ -57,7 +57,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	                        	
 			        			<p class="font__size-30 font__halvetica-bold line__height-50">
 									
-								<span class="pb-15 d-inline-block">NCA Unternehmer</span><br><span class="font__size-41">2024</span> <span class=" member_count_arrow px-lg-3 pt-lg-12 pt-10 d-inline-flex">
+								<span class="pb-15 d-inline-block">NCA Entrepreneur</span><br><span class="font__size-41">2024</span> <span class=" member_count_arrow px-lg-3 pt-lg-12 pt-10 d-inline-flex">
 			        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
 									  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
 									</svg>
@@ -98,7 +98,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="sabastien_col wow fadeInRight w-100 apply_sec_div">
 					<a href="https://www.novastone-ca.com/about-us.php" class="d-block p-5 text-white sercher_clr_div">
 						<img class="searcher_logo" src="img/LOGO-WHITE.png">
-						<p class="font__size-30 mb-2 mt-30 font__halvetica-bold font__weight-500">NCA Unternehmer</p>
+						<p class="font__size-30 mb-2 mt-30 font__halvetica-bold font__weight-500">NCA Entrepreneur</p>
 						<p class="font__size-16 text-white mt-4 font__weight-500">	
                             Das NCA Programm Entrepreneurship Through Acquisition <br> begleitet die nächste Generation<br> außergewöhnlicher Talente auf jedem Schritt ihres<br> unternehmerischen Weges.					 
 						</p>
@@ -282,7 +282,7 @@ Als bewährte unternehmerische Führungskraft in der Logistik mit 17 Jahren Bran
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
 							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Rouven Behge</h1>
-							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Unternehmer</span></h3>
+							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Entrepreneur</span></h3>
 						</div>
 						<div class="jan_detail mt-60">
 							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">Diese Website stellt kein Angebot an die Öffentlichkeit dar und ist keine Aufforderung zum Kauf oder zur Investition in ein Finanzinstrument. Die auf dieser Website bereitgestellten Informationen dienen nur Informationszwecken und stellen kein Angebot, keine Aufforderung und keine Empfehlung dar, ein Finanzdienstleistungsprodukt zu abonnieren. Soweit diese Website Ansichten zu Anlagestrategien und Investitionsideen äußert, sind solche Informationen nur allgemeiner Natur und dürfen nicht als Werbung für ein Finanzdienstleistungsprodukt oder zur Investition in ein spezifisches Finanzinstrument ausgelegt werden.</p>

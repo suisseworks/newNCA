@@ -145,7 +145,7 @@
 					<img src="img/seyses-spain.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
-					<a href="https://seyses.com/es/en/" target="_blank"><img src="img/seyses-spain.png"></a>
+					<a href="https://seyses.com/es/en/" target="_blank"><img src="img/SEYSES-logo.png"></a>
 				</div>
 				<div class="forza-heading">
 					  <h2 class="stroke_text px-5 text-uppercase text-center mb-100 wow fadeInLeft">About The Company</h2>
@@ -175,7 +175,7 @@
 							SEYSES
 						</h3>
                         <div class="forza-log desktop-logo text-left">
-					      <a href="https://seyses.com/es/en/" target="_blank"><img style="width: 250px !important;" src="img/seyses.png"></a>
+					      <a href="https://seyses.com/es/en/" target="_blank"><img style="width: 250px !important;" src="img/SEYSES-logo.png"></a>
 				        </div>
                         <br> <br>
 						<h4 class="mb-5 forza-subtitle subtitle wow fadeInUp">
