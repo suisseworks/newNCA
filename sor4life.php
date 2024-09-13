@@ -93,15 +93,13 @@
 		<div class="row">
 			<div class="col-4 mbw-15">
 				<div class="text-left prev-next-text">
-				   <a href="" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
+				   <a href="stockton-truss.php" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
 				</div>   
 			</div>
 			<div class="col-4 mbw-70">
-				
 			</div>	
 			<div class="col-4 mbw-15">
 				<div class="text-right prev-next-text">
-				   <a href="" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
 				</div>   
 			</div>	
 		</div>	
