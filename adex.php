@@ -21,7 +21,7 @@
 							ADEX
 						</h3>
 
-                <div class="forza-list mt-5 text-center">
+                <div class="forza-list mt-5 text-left">
 							<ul>
 								<li>
 									<strong>Headquarters:</strong> Iława, Poland
