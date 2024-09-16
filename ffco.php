@@ -18,7 +18,7 @@
 					<img src="img/ffco.ltd.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
-					<a href="https://ffzrt.com/" target="_blank"><img src="img/adex.svg"></a>
+					<a href="https://ffzrt.com/" target="_blank"><img src="img/FF_CO_LTD.png"></a>
 				</div>
 				<h3   class="mb-3 mt-5 text-center desktop-title forza-title title text-uppercase wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                 FF CO. LTD
@@ -101,15 +101,14 @@
 		<div class="row">
 			<div class="col-4 mbw-15">
 				<div class="text-left prev-next-text">
-				   <a href="" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
+				   <a href="fooseng.php" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
 				</div>   
 			</div>
 			<div class="col-4 mbw-70">
-					
 			</div>	
 			<div class="col-4 mbw-15">
 				<div class="text-right prev-next-text">
-				   <a href="" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
+				   <a href="adex.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
 				</div>   
 			</div>	
 		</div>	

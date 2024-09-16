@@ -90,7 +90,10 @@
 			</div>
 			<div class="col-4 mbw-70">
 				<div class="text-center prev-next-text">
+<<<<<<< HEAD
 				 
+=======
+>>>>>>> 5677c472fa489de3782f21ccc743ea02350ed413
 				</div>	
 			</div>	
 			<div class="col-4 mbw-15">
