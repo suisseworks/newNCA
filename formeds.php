@@ -27,7 +27,7 @@
 									<strong>Headquarters:</strong> Poznań, Poland
 								</li>
 								<li>
-									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong> Waldemar Plich</a>
+									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong> Waldemar Pilch</a>
 								</li>
 								<li>
 									<strong>In NCA portfolio since:</strong> Dec. 2022

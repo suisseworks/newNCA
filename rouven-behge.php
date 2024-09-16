@@ -61,6 +61,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<a href="https://www.linkedin.com/in/rouvenbehge/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2">
 									<i style="font-size: 18px;" class="fab fa-linkedin-in"></i>
 								</a>
+								<a style="margin-top: -2px" href="http://novastone-ca.com/rouven-behge-de.php" class="bg-transparent   ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Deutsch</a>
 								
 						    </div>	
 	                    </div>

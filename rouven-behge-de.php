@@ -69,6 +69,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<a href="https://www.linkedin.com/in/rouvenbehge/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2">
 									<i style="font-size: 18px;" class="fab fa-linkedin-in"></i>
 								</a>
+								<a style="margin-top: -2px" href="http://novastone-ca.com/rouven-behge.php" class="bg-transparent   ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">English</a>
 								
 						    </div>	
 	                    </div>
@@ -237,7 +238,7 @@ Als bewährte unternehmerische Führungskraft in der Logistik mit 17 Jahren Bran
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
 	                    <img src="img/rouven_thumb.jpeg" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/-_1-QTv6rWc?si=SGVYBKnryn87Mhr8" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/E6xcGGqhP58" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
