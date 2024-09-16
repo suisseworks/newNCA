@@ -90,7 +90,7 @@
 			</div>
 			<div class="col-4 mbw-70">
 				<div class="text-center prev-next-text">
-					<a href="" class="text-uppercase underline">View Portfolio</a>
+				 
 				</div>	
 			</div>	
 			<div class="col-4 mbw-15">

@@ -52,7 +52,7 @@
 
 						</h4>
 						<p>
-                            Founded in 1972, Green Logistics Groeningen B.V. offers fully integrated and customized end-to-end solutions for all supply chain and logistics needs. Whether the customers' needs are for warehousing, freight forwarding, or value-added logistics services, the offer is tailored to meet unique requirements of a variety of local and international partners. As a tech-driven company, Green Logistics leverages the latest technology to enhance their proposal and excell in offering reliable services, easy integration, and worldwide shipping.<br><br><br><br><br><br><br><br>
+                            Founded in 1972, Green Logistics Groningen B.V. offers fully integrated and customized end-to-end solutions for all supply chain and logistics needs. Whether the customers' needs are for warehousing, freight forwarding, or value-added logistics services, the offer is tailored to meet unique requirements of a variety of local and international partners. As a tech-driven company, Green Logistics leverages the latest technology to enhance their proposal and excell in offering reliable services, easy integration, and worldwide shipping.<br><br><br><br><br><br><br><br>
 						</p>	
 					</div>
 					<div class="col-12 visit-btn px-0 mt-5">

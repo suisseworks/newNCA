@@ -52,7 +52,7 @@
 
 						</h4>
 						<p>
-                            Founded in 1984, the company specializes in private label production in the field of perfumery, custom-made cosmetics and medical products. It has been recognized for a high quality services, flexibility in product development and production processes with unmatched time to market. Having extensive, long-term experience on the market, qualified staff and modern laboratory, the company is able to support its customers at each stage of cosmetics production incl. product formula development, design and packaging.<br><br><br><br><br><br><br>
+                            Founded in 1984, the company specializes in private label production in the field of perfumery, custom-made cosmetics and medical products. It has been recognized for a high quality services, flexibility in product development and production processes with unmatched time to market. Having extensive, long-term experience on the market, qualified staff and modern laboratory, the company is able to support its customers at each stage of cosmetics production including product formula development, design and packaging.<br><br><br><br><br><br><br>
 						</p>	
 					</div>
 					<div class="col-12 visit-btn px-0 mt-5">
