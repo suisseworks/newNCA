@@ -56,16 +56,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			        			</span>
 								<span class="font__size-41 ml-lg-0 ml-10">2026</span>
 							    </p>	
-
 								<p style="margin-top: 8px;  "> 
 								<a href="https://www.linkedin.com/in/rouvenbehge/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2">
 									<i style="font-size: 18px;" class="fab fa-linkedin-in"></i>
 								</a>
 								<a style="margin-top: -2px" href="http://novastone-ca.com/rouven-behge-de.php" class="bg-transparent   ml-10 font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button">Deutsch</a>
-								
 						    </div>	
 	                    </div>
-
 	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160">
 							<p class="heading_bg">Rouven</p>
 							<p class="heading_bg_2">Behge</p>
@@ -78,14 +75,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<img class="w-100" src="img/rouven_behge.png">
 				</div>	
 			</div>	
-		</div>
-				
+		</div>			
 	</div>	
 </section>
 
 <section class="sabs_page">
 	<div class="outer_container container-outer-1600 pb-lg-200 pb-50">
-		
 		<div class="row pl-lg-100">
 			<div class="col-12 col-lg-12">
 				<div class="sabastien_col wow fadeInRight w-100 apply_sec_div">
@@ -100,18 +95,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<svg id="Forward_arrow" class="ml-lg-5 ml-2" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 60 60">
 							  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
 							</svg>
-
 						</div>
 					</a>
 				</div>
 			</div>
 		</div>
-		
 	</div>			
 </section>
 <section class="sabs_page"> 
 	<div class="outer_container container-outer-1600 pb-lg-200 pb-50">
-		
 			<div class="div_section">
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
@@ -124,11 +116,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
-							<p class="mt-30 font__size-16">
-							  Born in Switzerland and raised in Germany, I have lived and worked in both countries and embody a blend of German-Swiss cultural influences. With 17 years of experience at industry leaders like Panalpina and DSV, and as the founder of a logistics-focused SME management consulting business, I bring a wealth of insights to the table. My educational background includes an Executive MBA and a B.A. in Forwarding, Transport and Logistics, which have equipped me with a solid foundation to tackle complex challenges in our fast-paced industry. Outside of my professional life, I am an avid hiker who loves exploring the Black Forest and other stunning landscapes across Europe, always finding inspiration in nature’s beauty and resilience.
+							<p class="font-weight-bold font__size-16">
+							  Born in Switzerland and raised in Germany, I have lived and worked in both countries and embody a blend of German-Swiss cultural influences. With 17 years of experience at industry leaders like Panalpina and DSV, and as the founder of a logistics-focused SME management consulting business, I bring a wealth of insights to the table.
 							</p>
-
 							<p class="mt-30 font__size-16 font__halvetica-regular">
+							  My educational background includes an Executive MBA and a B.A. in Forwarding, Transport and Logistics, which have equipped me with a solid foundation to tackle complex challenges in our fast-paced industry. Outside of my professional life, I am an avid hiker who loves exploring the Black Forest and other stunning landscapes across Europe, always finding inspiration in nature’s beauty and resilience.
 							</p>
 						</div>	
 					</div>
@@ -148,15 +140,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
-							<p class="mt-30 font__size-16">
-							You (co-)own a logistics company and have not found the right succession solution yet?<br />
-Together with NCA, I am currently looking for a healthy, medium-sized logistics company in Germany or Switzerland that I can acquire and develop further in the long term.
-Your company ideally generates between 2 and 5 million €/CHF EBITDA and already has air and sea freight or courier services in its portfolio. In addition, I’m focusing on logistics companies that specialize in certain industry verticals, complex services or logistics software and equipment.
-
-
+							<p class="font-weight-bold font__size-16">
+							  You (co-)own a logistics company and have not found the right succession solution yet?
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                    
+							  Together with NCA, I am currently looking for a healthy, medium-sized logistics company in Germany or Switzerland that I can acquire and develop further in the long term.
+							  Your company ideally generates between 2 and 5 million €/CHF EBITDA and already has air and sea freight or courier services in its portfolio. In addition, I’m focusing on logistics companies that specialize in certain industry verticals, complex services or logistics software and equipment.
 							</p>
 						</div>	
 					</div>
@@ -176,23 +165,20 @@ Your company ideally generates between 2 and 5 million €/CHF EBITDA and alread
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
-							<p class="mt-30 font__size-16">
-							  Long-term independence and development: Our unique succession solution<br /> 
-                              As a proven entrepreneurial logistics leader with 17 years of industry experience, I excel in strategy development and execution, co-creating value with customers, and building high-performance organizations that maximize human potential and technology. My cross-functional know-how spans over 20 countries, encompassing strategic positioning, customer diversification and sales, procurement and negotiation, process and operations management, and more. During several acquisitions, I experienced first-hand the major uncertainties caused by such processes. And I have learned how to manage these changes successfully and respectfully.
-
-
+							<p class="font-weight-bold font__size-16">
+							  Long-term independence and development: Our unique succession solution
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-							If you are considering passing on your successful business to safe hands, please reach out. I look forward to hearing from you, and to our informal and confidential conversation!
-
+							  As a proven entrepreneurial logistics leader with 17 years of industry experience, I excel in strategy development and execution, co-creating value with customers, and building high-performance organizations that maximize human potential and technology.
+							  My cross-functional know-how spans over 20 countries, encompassing strategic positioning, customer diversification and sales, procurement and negotiation, process and operations management, and more. During several acquisitions, I experienced first-hand the major uncertainties caused by such processes. And I have learned how to manage these changes successfully and respectfully.
+							  If you are considering passing on your successful business to safe hands, please reach out. I look forward to hearing from you, and to our informal and confidential conversation!
 							</p>
 						</div>	
 					</div>
 					<div class="col-lg-2">
 					</div>	 
 				</div>	
-			</div>	
-			
+			</div>			
 	</div>	
 </section>
 
@@ -206,10 +192,9 @@ Your company ideally generates between 2 and 5 million €/CHF EBITDA and alread
 						   <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
 							  <path id="Path_25" data-name="Path 25" d="M281.719,2916.173l30.059-25.84v20.918l-17.93,15.381,17.93,15.293v20.918l-30.059-25.752Zm-38.935,0,30.058-25.84v20.918l-17.929,15.381,17.929,15.293v20.918l-30.058-25.752Z" transform="translate(-241.784 -2888.155)" fill="none" stroke="#ea5b0c" stroke-width="2"/>
 							</svg>
-
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-						  You miss  <br>100%	<br>of the<br> shots <br>you<br> don't take		 <br><br>
+						   You miss 100%	<br>of the shots <br>you don't take <br><br>
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -217,8 +202,8 @@ Your company ideally generates between 2 and 5 million €/CHF EBITDA and alread
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-						  Wayne Gretzky <br>
-						  Canadian ice hockey legend
+						   Wayne Gretzky <br>
+						   Canadian ice hockey legend
 						</p> 
 					</div>	
 				</div>	
@@ -228,7 +213,7 @@ Your company ideally generates between 2 and 5 million €/CHF EBITDA and alread
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
 	                    <img src="img/rouven_thumb.jpeg" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/-_1-QTv6rWc?si=SGVYBKnryn87Mhr8" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" style="border-style: solid; border-color: #e57200;" href="https://youtu.be/-_1-QTv6rWc?si=SGVYBKnryn87Mhr8" data-brk-library="fancybox"><i class="fas fa-play font__size-50" style="color: #e57200"></i><span class="ml-2 font__size-18 font__family-open-sans" style="color: #e57200;">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
@@ -237,15 +222,13 @@ Your company ideally generates between 2 and 5 million €/CHF EBITDA and alread
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/Rouven-Behge-resume-EN.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
+					<a download href="docs/Rouven-Behge-CV-EN.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
 						    <path id="Path_27" data-name="Path 27" d="M570,3696l-2.545-2.546-9.637,9.637V3682h-3.636v21.091l-9.637-9.637L542,3696l14,14Z" fill="#e5720a"/>
 						  </g>
 						</svg>
-
-
 					</a>
 				</div>
 			</div>	
@@ -256,7 +239,11 @@ Your company ideally generates between 2 and 5 million €/CHF EBITDA and alread
                     </h2>
                     <ul class="pl-0 mt-30">
                     	<li class="w-100 mb-30">
-                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailto:rouven.behge@novastone-ca.com">rouven.behge@novastone-ca.com</a>
+                    		<a class="font__halvetica-bold text-white font__size-38" href="mailto:rouven.behge@novastone-ca.com">rouven.behge@novastone-ca.com</a>
+                    	</li>
+						<li class="font__halvetica-bold text-white font__size-24">+49 156 7949 9262 / +41 79 449 91 81</li><br>
+						<li class="">
+                    		<a class="font__halvetica-bold text-white font__size-38" href="https://cal.com/rouvenbehge ; text = Schedule Call">Appointment</a>
                     	</li>
                     </ul>
 				</div>	

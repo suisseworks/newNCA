@@ -131,14 +131,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>	
 					</div>
 					<div class="col-lg-5 pl-lg-20">
-						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
-							<p class="mt-30 font__size-16">
-                             Geboren in der Schweiz und aufgewachsen in Deutschland, habe ich in beiden Ländern gelebt und gearbeitet und bringe diese Mischung aus deutsch-schweizerischen Kultureinflüssen mit. Mit 17 Jahren Erfahrung bei Branchenführern wie Panalpina und DSV sowie als Gründer eines auf Logistik-KMU spezialisierten Beratungsunternehmens habe ich wertvolle Erkenntnisse angesammelt. Mein Bildungshintergrund umfasst einen Executive MBA und einen B.A. in Spedition, Transport und Logistik, was mir eine solide Grundlage bietet, um die komplexen Herausforderungen in unserer temporeichen Branche zu meistern. Abseits meiner beruflichen Tätigkeit bin ich ein begeisterter Wanderer und erkunde gerne den Schwarzwald sowie andere beeindruckende Landschaften in Europa. Die Schönheit und Widerstandsfähigkeit der Natur inspiriert mich dabei immer wieder aufs Neue.
+					<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
+							<p class="font-weight-bold font__size-16">
+							 Geboren in der Schweiz und aufgewachsen in Deutschland, habe ich in beiden Ländern gelebt und gearbeitet und bringe diese Mischung aus deutsch-schweizerischen Kultureinflüssen mit. Mit 17 Jahren Erfahrung bei Branchenführern wie Panalpina und DSV sowie als Gründer eines auf Logistik-KMU spezialisierten Beratungsunternehmens habe ich wertvolle Erkenntnisse angesammelt.
 							</p>
-
 							<p class="mt-30 font__size-16 font__halvetica-regular">
+							 Mein Bildungshintergrund umfasst einen Executive MBA und einen B.A. in Spedition, Transport und Logistik, was mir eine solide Grundlage bietet, um die komplexen Herausforderungen in unserer temporeichen Branche zu meistern. Abseits meiner beruflichen Tätigkeit bin ich ein begeisterter Wanderer und erkunde gerne den Schwarzwald sowie andere beeindruckende Landschaften in Europa. Die Schönheit und Widerstandsfähigkeit der Natur inspiriert mich dabei immer wieder aufs Neue.
 							</p>
 						</div>	
+						
 					</div>
 					<div class="col-lg-2">
 					</div>	 
@@ -156,16 +157,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
-							<p class="mt-30 font__size-16">
-							Sie sind (Mit-)Eigentümer eines Logistikunternehmens und haben die richtige Nachfolgelösung noch nicht gefunden?<br />
-Zusammen mit NCA bin ich derzeit auf der Suche nach einem gesunden, mittelständischen Logistikunternehmen in Deutschland oder der Schweiz, das ich übernehmen und langfristig weiterentwickeln kann.
-Ihr Unternehmen erwirtschaftet idealerweise zwischen 2 und 5 Mio. €/CHF EBITDA und bietet bereits Luft- und Seefracht oder Kurier-Dienstleistungen an. Zusätzlich suche ich nach Logistikunternehmen mit Spezialisierungen auf bestimmte Branchen, komplexe Dienstleistungen oder im Bereich Logistik-Software und -Equipment.
-
-
-
+							<p class="font-weight-bold font__size-16">
+							Sie sind (Mit-)Eigentümer eines Logistikunternehmens und haben die richtige Nachfolgelösung noch nicht gefunden?
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                    
+							Zusammen mit NCA bin ich derzeit auf der Suche nach einem gesunden, mittelständischen Logistikunternehmen in Deutschland oder der Schweiz, das ich übernehmen und langfristig weiterentwickeln kann.
+							Ihr Unternehmen erwirtschaftet idealerweise zwischen 2 und 5 Mio. €/CHF EBITDA und bietet bereits Luft- und Seefracht oder Kurier-Dienstleistungen an. Zusätzlich suche ich nach Logistikunternehmen mit Spezialisierungen auf bestimmte Branchen, komplexe Dienstleistungen oder im Bereich Logistik-Software und -Equipment.
 							</p>
 						</div>	
 					</div>
@@ -185,14 +182,11 @@ Ihr Unternehmen erwirtschaftet idealerweise zwischen 2 und 5 Mio. €/CHF EBITDA
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
-							<p class="mt-30 font__size-16">
-                            Langfristige Unabhängigkeit und Weiterentwicklung: Unsere einzigartige Nachfolgelösung<br />
-Als bewährte unternehmerische Führungskraft in der Logistik mit 17 Jahren Branchenerfahrung bin ich spezialisiert auf Strategieentwicklung und -umsetzung, die gemeinsame Wertschöpfung mit Kunden, sowie den Aufbau leistungsstarker Organisationen, die menschliches Potenzial und Technologie optimal nutzen. Mein funktionsübergreifendes Know-How aus über 20 Ländern umfasst die strategische Positionierung, Kundendiversifikation und Vertrieb, Beschaffung und Verhandlungsführung, Prozess- und Operations Management und mehr. Zudem habe ich bei mehreren Akquisitionen hautnah erlebt, welche großen Unsicherheiten durch solche Prozesse entstehen. Dadurch habe ich gelernt, diese Übergänge erfolgreich und wertschätzend zu gestalten.
-
-
-
+							<p class="font-weight-bold font__size-16">
+                            Langfristige Unabhängigkeit und Weiterentwicklung: Unsere einzigartige Nachfolgelösung
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
+							Als bewährte unternehmerische Führungskraft in der Logistik mit 17 Jahren Branchenerfahrung bin ich spezialisiert auf Strategieentwicklung und -umsetzung, die gemeinsame Wertschöpfung mit Kunden, sowie den Aufbau leistungsstarker Organisationen, die menschliches Potenzial und Technologie optimal nutzen. Mein funktionsübergreifendes Know-How aus über 20 Ländern umfasst die strategische Positionierung, Kundendiversifikation und Vertrieb, Beschaffung und Verhandlungsführung, Prozess- und Operations Management und mehr. Zudem habe ich bei mehreren Akquisitionen hautnah erlebt, welche großen Unsicherheiten durch solche Prozesse entstehen. Dadurch habe ich gelernt, diese Übergänge erfolgreich und wertschätzend zu gestalten.
 							Wenn Sie darüber nachdenken, Ihr erfolgreiches Unternehmen in sichere Hände zu übergeben, dann kontaktieren Sie mich gerne. Ich freue mich auf Sie und unser unverbindliches und vertrauliches Gespräch!
 
 							</p>
@@ -219,7 +213,7 @@ Als bewährte unternehmerische Führungskraft in der Logistik mit 17 Jahren Bran
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-                          Du <br>verfehlst <br>100%<br>der <br>Schüsse<br> die du <br>nicht<br> abgibst	 <br>
+                          Du verfehlst 100%<br>der Schüsse<br> die du nicht abgibst	 <br>
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -238,39 +232,41 @@ Als bewährte unternehmerische Führungskraft in der Logistik mit 17 Jahren Bran
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
 	                    <img src="img/rouven_thumb.jpeg" alt="alt" class="image_video object-fit_cover w-100 h-100">
 	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/E6xcGGqhP58" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+		                    <a class="d-flex align-items-center fancybox" style="border-style: solid; border-color: #e57200;" href="https://youtu.be/E6xcGGqhP58?si=WCAhIXOiFSLN1j5d" data-brk-library="fancybox"><i class="fas fa-play font__size-50" style="color: #e57200"></i><span class="ml-2 font__size-18 font__family-open-sans" style="color: #e57200;">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
-			</div>	
+			</div>		
 		</div>	
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/Rouven-Behge-resume-DE.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-35 line__height-60 p-0 m-0">LEBENSLAUF<br> HERUNTERLADEN
+					<a download href="docs/Rouven-Behge-CV-DE.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-35 line__height-60 p-0 m-0">LEBENSLAUF<br> HERUNTERLADEN
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
 						    <path id="Path_27" data-name="Path 27" d="M570,3696l-2.545-2.546-9.637,9.637V3682h-3.636v21.091l-9.637-9.637L542,3696l14,14Z" fill="#e5720a"/>
 						  </g>
 						</svg>
-
-
 					</a>
 				</div>
 			</div>	
 			<div class="col-lg-8 pl-lg-20">
 				<div class="info_text sabastien_col mt-lg-0 mt-50 p-xs-0 pl-50 pr-50 pt-100 pb-100">
                     <h2 class="font__halvetica-bold font__size-30 text-uppercase text-white">
-                      MEINE KONTAKTDATEN
+                    	MEINE KONTAKTDATEN
                     </h2>
                     <ul class="pl-0 mt-30">
                     	<li class="w-100 mb-30">
-                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailto:rouven.behge@novastone-ca.com">rouven.behge@novastone-ca.com</a>
+                    		<a class="font__halvetica-bold text-white font__size-38" href="mailto:rouven.behge@novastone-ca.com">rouven.behge@novastone-ca.com</a>
+                    	</li>
+						<li class="font__halvetica-bold text-white font__size-24">+49 156 7949 9262 / +41 79 449 91 81</li><br>
+						<li class="">
+                    		<a class="font__halvetica-bold text-white font__size-38" href="https://cal.com/rouvenbehge ; text = Schedule Call">Termin</a>
                     	</li>
                     </ul>
 				</div>	
-			</div>	
+			</div>
 		</div>	
 	</div>	
 </section>
