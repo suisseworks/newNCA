@@ -126,17 +126,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="image_content_div position-relative">
 							<img class="w-100" src="img/about-rouven.png">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-36">Über mich</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-36">ÜBER MICH</p>
 							</div>
 						</div>	
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 					<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
 							<p class="font-weight-bold font__size-16">
-							 Geboren in der Schweiz und aufgewachsen in Deutschland, habe ich in beiden Ländern gelebt und gearbeitet und bringe diese Mischung aus deutsch-schweizerischen Kultureinflüssen mit. Mit 17 Jahren Erfahrung bei Branchenführern wie Panalpina und DSV sowie als Gründer eines auf Logistik-KMU spezialisierten Beratungsunternehmens habe ich wertvolle Erkenntnisse angesammelt.
+							Geboren in der Schweiz und aufgewachsen in Deutschland, habe ich in beiden Ländern gelebt und gearbeitet und bringe diese Mischung aus deutsch-schweizerischen Kultureinflüssen mit. Mit 17 Jahren Erfahrung bei Branchenführern wie Panalpina und DSV sowie als Gründer eines auf Logistik-KMU spezialisierten Beratungsunternehmens habe ich wertvolle Erkenntnisse angesammelt. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-							 Mein Bildungshintergrund umfasst einen Executive MBA und einen B.A. in Spedition, Transport und Logistik, was mir eine solide Grundlage bietet, um die komplexen Herausforderungen in unserer temporeichen Branche zu meistern. Abseits meiner beruflichen Tätigkeit bin ich ein begeisterter Wanderer und erkunde gerne den Schwarzwald sowie andere beeindruckende Landschaften in Europa. Die Schönheit und Widerstandsfähigkeit der Natur inspiriert mich dabei immer wieder aufs Neue.
+							Mein Bildungshintergrund umfasst einen Executive MBA und einen B.A. in Spedition, Transport und Logistik, was mir eine solide Grundlage bietet, um die komplexen Herausforderungen in unserer temporeichen Branche zu meistern. Abseits meiner beruflichen Tätigkeit bin ich ein begeisterter Wanderer und erkunde gerne den Schwarzwald sowie andere beeindruckende Landschaften in Europa. Die Schönheit und Widerstandsfähigkeit der Natur inspiriert mich dabei immer wieder aufs Neue.
 							</p>
 						</div>	
 						
@@ -151,7 +151,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="image_content_div position-relative">
 							<img class="w-100" src="img/my-search-rouven.png">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-36">Meine Suche</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-36">MEINE SUCHE</p>
 							</div>
 						</div>	
 					</div>
@@ -176,7 +176,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="image_content_div position-relative">
 							<img class="w-100" src="img/my-contribution-rouven.png">
 							<div class="transform_div position-absolute">
-								<p class="py-3 px-3 font__halvetica-bold font__size-28">Mein Beitrag</p>
+								<p class="py-3 px-3 font__halvetica-bold font__size-36">MEIN BEITRAG</p>
 							</div>
 						</div>	
 					</div>
@@ -212,8 +212,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</svg>
 
 						</div>    
-						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-                          Du verfehlst 100%<br>der Schüsse<br> die du nicht abgibst	 <br>
+						<h2 style="padding-bottom: 20px" class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
+                          Du verfehlst 100%<br>der Schüsse<br> die du nicht  abgibst	 <br>
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -241,7 +241,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/Rouven-Behge-CV-DE.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-35 line__height-60 p-0 m-0">LEBENSLAUF<br> HERUNTERLADEN
+					<a download href="docs/Rouven-Behge-CV-DE.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-40 line__height-60 p-0 m-0">LEBENSLAUF<br> HERUNTERLADEN
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
@@ -260,9 +260,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     	<li class="w-100 mb-30">
                     		<a class="font__halvetica-bold text-white font__size-38" href="mailto:rouven.behge@novastone-ca.com">rouven.behge@novastone-ca.com</a>
                     	</li>
-						<li class="font__halvetica-bold text-white font__size-24">+49 156 7949 9262 / +41 79 449 91 81</li><br>
+						<li class="font__halvetica-bold text-white font__size-36">+49 156 7949 9262 / +41 79 449 91 81</li><br><br>
 						<li class="">
-                    		<a class="font__halvetica-bold text-white font__size-38" href="https://cal.com/rouvenbehge ; text = Schedule Call">Termin</a>
+                    		<a class="font__halvetica-bold text-white font__size-38" href="https://cal.com/rouvenbehge ; text = Schedule Call">Gesprächstermin finden</a>
                     	</li>
                     </ul>
 				</div>	

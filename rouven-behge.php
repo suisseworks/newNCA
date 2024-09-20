@@ -117,10 +117,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
 							<p class="font-weight-bold font__size-16">
-							  Born in Switzerland and raised in Germany, I have lived and worked in both countries and embody a blend of German-Swiss cultural influences. With 17 years of experience at industry leaders like Panalpina and DSV, and as the founder of a logistics-focused SME management consulting business, I bring a wealth of insights to the table.
+							Born in Switzerland and raised in Germany, I have lived and worked in both countries and embody a blend of German-Swiss cultural influences. With 17 years of experience at industry leaders like Panalpina and DSV, and as the founder of a logistics-focused SME management consulting business, I bring a wealth of insights to the table. 
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-							  My educational background includes an Executive MBA and a B.A. in Forwarding, Transport and Logistics, which have equipped me with a solid foundation to tackle complex challenges in our fast-paced industry. Outside of my professional life, I am an avid hiker who loves exploring the Black Forest and other stunning landscapes across Europe, always finding inspiration in nature’s beauty and resilience.
+							My educational background includes an Executive MBA and a B.A. in Forwarding, Transport and Logistics, which have equipped me with a solid foundation to tackle complex challenges in our fast-paced industry. Outside of my professional life, I am an avid hiker who loves exploring the Black Forest and other stunning landscapes across Europe, always finding inspiration in nature’s beauty and resilience.
 							</p>
 						</div>	
 					</div>
@@ -141,7 +141,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
 							<p class="font-weight-bold font__size-16">
-							  You (co-)own a logistics company and have not found the right succession solution yet?
+							Are you a (co-)owner of a logistics company and have not found the right succession solution yet?
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
 							  Together with NCA, I am currently looking for a healthy, medium-sized logistics company in Germany or Switzerland that I can acquire and develop further in the long term.
@@ -193,8 +193,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							  <path id="Path_25" data-name="Path 25" d="M281.719,2916.173l30.059-25.84v20.918l-17.93,15.381,17.93,15.293v20.918l-30.059-25.752Zm-38.935,0,30.058-25.84v20.918l-17.929,15.381,17.929,15.293v20.918l-30.058-25.752Z" transform="translate(-241.784 -2888.155)" fill="none" stroke="#ea5b0c" stroke-width="2"/>
 							</svg>
 						</div>    
-						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-						   You miss 100%	<br>of the shots <br>you don't take <br><br>
+						<h2 style="padding-bottom: 18px" class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
+						   You miss 100%	<br>of the shots <br>you don't take <br>
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -241,9 +241,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     	<li class="w-100 mb-30">
                     		<a class="font__halvetica-bold text-white font__size-38" href="mailto:rouven.behge@novastone-ca.com">rouven.behge@novastone-ca.com</a>
                     	</li>
-						<li class="font__halvetica-bold text-white font__size-24">+49 156 7949 9262 / +41 79 449 91 81</li><br>
+						<li class="font__halvetica-bold text-white font__size-38">+49 156 7949 9262 / +41 79 449 91 81</li><br>
 						<li class="">
-                    		<a class="font__halvetica-bold text-white font__size-38" href="https://cal.com/rouvenbehge ; text = Schedule Call">Appointment</a>
+						</br>
+                    		<a class="font__halvetica-bold text-white font__size-38" href="https://cal.com/rouvenbehge ; text = Schedule Call">Schedule Call</a>
                     	</li>
                     </ul>
 				</div>	
