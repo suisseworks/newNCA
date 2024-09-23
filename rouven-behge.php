@@ -116,10 +116,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
+							
 							<p class="font-weight-bold font__size-16">
-							Born in Switzerland and raised in Germany, I have lived and worked in both countries and embody a blend of German-Swiss cultural influences. With 17 years of experience at industry leaders like Panalpina and DSV, and as the founder of a logistics-focused SME management consulting business, I bring a wealth of insights to the table. 
+							A passion for logistics
+							
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
+							Born in Switzerland and raised in Germany, I have lived and worked in both countries and embody a blend of German-Swiss cultural influences. With 17 years of experience at industry leaders like Panalpina and DSV, and as the founder of a logistics-focused SME management consulting business, I bring a wealth of insights to the table. 
 							My educational background includes an Executive MBA and a B.A. in Forwarding, Transport and Logistics, which have equipped me with a solid foundation to tackle complex challenges in our fast-paced industry. Outside of my professional life, I am an avid hiker who loves exploring the Black Forest and other stunning landscapes across Europe, always finding inspiration in nature’s beauty and resilience.
 							</p>
 						</div>	
@@ -237,14 +240,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h2 class="font__halvetica-bold font__size-30 text-uppercase text-white">
                     	MY CONTACT DETAILS
                     </h2>
-                    <ul class="pl-0 mt-30">
-                    	<li class="w-100 mb-30">
-                    		<a class="font__halvetica-bold text-white font__size-38" href="mailto:rouven.behge@novastone-ca.com">rouven.behge@novastone-ca.com</a>
+                    <ul class="pl-0 mt-40">
+                    	<li class="w-100 mb-50">
+                    		<a class="font__halvetica-bold text-white font__size-30" href="mailto:rouven.behge@novastone-ca.com">rouven.behge@novastone-ca.com</a>
                     	</li>
-						<li class="font__halvetica-bold text-white font__size-38">+49 156 7949 9262 / +41 79 449 91 81</li><br>
-						<li class="">
-						</br>
-                    		<a class="font__halvetica-bold text-white font__size-38" href="https://cal.com/rouvenbehge ; text = Schedule Call">Schedule Call</a>
+						<li class="w-100 mb-40 font__halvetica-bold text-white font__size-30">+49 156 7949 9262 / +41 79 449 91 81</li> 
+						<li class="w-100 mb-30">
+						 
+                    		<a class="font__halvetica-bold text-white font__size-30" href="https://cal.com/rouvenbehge">Schedule Call</a>
                     	</li>
                     </ul>
 				</div>	

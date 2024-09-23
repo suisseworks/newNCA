@@ -172,6 +172,11 @@ footer .container,
 .stroke_text.talents_stroke_text.talents_strok_cls_2{
     font-size: 100px !important;
 }
+
+.stroke_text.talents_stroke_text.talents_strok_cls_3{
+    font-size: 75px !important;
+    
+}
 @media only screen and (max-width: 1229px) and (min-width: 992px){
     .stroke_text.talents_stroke_text.talents_strok_cls_2{
         font-size: 65px !important;

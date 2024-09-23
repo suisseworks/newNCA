@@ -409,7 +409,7 @@ $_SESSION["lan"] = "English";
 					<span class="faq_circle_bg"></span>
 					<div class="container-inner875">
 						<div class="row no-gutters d-flex align-items-center">
-							<h2 class="stroke_text talents_stroke_text talents_strok_cls_2 text-uppercase text-center mb-90 wow fadeInLeft">
+							<h2 class="stroke_text talents_stroke_text talents_strok_cls_3 text-uppercase text-center mb-90 wow fadeInLeft">
 								Want to know more?
 							</h2>
 							<div class="col-lg-12">
@@ -531,7 +531,7 @@ $_SESSION["lan"] = "English";
 			</div>
 		</section>
 
-		<section class="py-5 team_section" id="team">
+		<section class="hide py-5 team_section" id="team">
 			<div class="container-outer1643">
 				<div class="talent_faq_accordion px-3 px-lg-0">
 					<span class="faq_circle_bg"></span>
@@ -550,7 +550,7 @@ $_SESSION["lan"] = "English";
 										NCA’s program is powered by a wide range of specialists, analysts, and advisors that make the Entrepreneur journey as seamless and successful as possible. Find out how we support our Entrepreneurs during their journey:
 									</p>
 									<div class="download_pdf download_faq d-flex justify-content-start mt-lg-5 w-100">
-										<a class="font__family-efb font__size-20" href="http://insights.novastone-ca.com/insights/keys-to-success-how-the-nca-team-supports-searchers/" type="button">Learn More</a>
+										<a class="font__family-efb font__size-20" href="about-us.php" type="button">Learn More</a>
 									</div>
 								</div>	
 							</div>	

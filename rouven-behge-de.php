@@ -133,9 +133,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 					<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
 							<p class="font-weight-bold font__size-16">
-							Geboren in der Schweiz und aufgewachsen in Deutschland, habe ich in beiden Ländern gelebt und gearbeitet und bringe diese Mischung aus deutsch-schweizerischen Kultureinflüssen mit. Mit 17 Jahren Erfahrung bei Branchenführern wie Panalpina und DSV sowie als Gründer eines auf Logistik-KMU spezialisierten Beratungsunternehmens habe ich wertvolle Erkenntnisse angesammelt. 
+							Eine Leidenschaft für Logistik
+							
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
+							Geboren in der Schweiz und aufgewachsen in Deutschland, habe ich in beiden Ländern gelebt und gearbeitet und bringe diese Mischung aus deutsch-schweizerischen Kultureinflüssen mit. Mit 17 Jahren Erfahrung bei Branchenführern wie Panalpina und DSV sowie als Gründer eines auf Logistik-KMU spezialisierten Beratungsunternehmens habe ich wertvolle Erkenntnisse angesammelt. 
 							Mein Bildungshintergrund umfasst einen Executive MBA und einen B.A. in Spedition, Transport und Logistik, was mir eine solide Grundlage bietet, um die komplexen Herausforderungen in unserer temporeichen Branche zu meistern. Abseits meiner beruflichen Tätigkeit bin ich ein begeisterter Wanderer und erkunde gerne den Schwarzwald sowie andere beeindruckende Landschaften in Europa. Die Schönheit und Widerstandsfähigkeit der Natur inspiriert mich dabei immer wieder aufs Neue.
 							</p>
 						</div>	
@@ -256,13 +258,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h2 class="font__halvetica-bold font__size-30 text-uppercase text-white">
                     	MEINE KONTAKTDATEN
                     </h2>
-                    <ul class="pl-0 mt-30">
-                    	<li class="w-100 mb-30">
-                    		<a class="font__halvetica-bold text-white font__size-38" href="mailto:rouven.behge@novastone-ca.com">rouven.behge@novastone-ca.com</a>
+                    <ul class="pl-0 mt-40">
+                    	<li class="w-100 mb-50">
+                    		<a class="font__halvetica-bold text-white font__size-30" href="mailto:rouven.behge@novastone-ca.com">rouven.behge@novastone-ca.com</a>
                     	</li>
-						<li class="font__halvetica-bold text-white font__size-36">+49 156 7949 9262 / +41 79 449 91 81</li><br><br>
-						<li class="">
-                    		<a class="font__halvetica-bold text-white font__size-38" href="https://cal.com/rouvenbehge ; text = Schedule Call">Gesprächstermin finden</a>
+						<li class="w-100 mb-40 font__halvetica-bold text-white font__size-30">+49 156 7949 9262 / +41 79 449 91 81</li>
+						<li class="w-100 mb-30">
+                    		<a class="font__halvetica-bold text-white font__size-30" href="https://cal.com/rouvenbehge">Gesprächstermin finden</a>
                     	</li>
                     </ul>
 				</div>	
