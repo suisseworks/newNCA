@@ -32,6 +32,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="resource_wrap_links py-3 bg-light">
 
 						<div class="anchore_div anchore_div py-3 px-3 position-relative">
+								<a href="docs/IESE_International_Search_Fund_Study_2024.pdf" target="_blank" class="font__size-20 font__family-efb">2024 IESE International Search Fund Study<span class="arrow_link_a"></span></a>
+							</div>
+
+							<div class="anchore_div anchore_div py-3 px-3 position-relative">
+								<a href="docs/2024_Stanford_Search_Fund_Study.pdf" target="_blank" class="font__size-20 font__family-efb">2024 Stanford Search Fund Study<span class="arrow_link_a"></span></a>
+							</div>
+
+
+						<div class="anchore_div anchore_div py-3 px-3 position-relative">
 								<a href="https://www.ibtimes.com/navigating-succession-challenges-novastone-capital-advisors-unique-approach-entrepreneurship-3735760" target="_blank" class="font__size-20 font__family-efb">Navigating Succession Challenges: Novastone Capital Advisors' Unique Approach to Entrepreneurship Through Acquisition | IBTimes<span class="arrow_link_a"></span></a>
 							</div>
 						 	
