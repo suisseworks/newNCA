@@ -1681,6 +1681,12 @@ input.zcwf_ckbox:checked::after {
 a.modal_btn {
     margin: 0px;
 }
+
+
+.info_text.sabastien_col ul li span  {
+    line-height: 35px;
+}
+
 @media only screen and (max-width: 1699px) and (min-width: 1599px) {
     .learn_more_btns.sbs_download_btn.resume_btn a {
         font-size: 45px;
@@ -1715,6 +1721,11 @@ a.modal_btn {
         line-height: 30px;
     }
     .info_text.sabastien_col ul li a {
+        font-size: 24px;
+    }
+
+
+    .info_text.sabastien_col ul li span  {
         font-size: 24px;
     }
     .transform_div {

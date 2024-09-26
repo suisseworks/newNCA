@@ -244,7 +244,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     	<li class="w-100 mb-50">
                     		<a class="font__halvetica-bold text-white font__size-30" href="mailto:rouven.behge@novastone-ca.com">rouven.behge@novastone-ca.com</a>
                     	</li>
-						<li class="w-100 mb-40 font__halvetica-bold text-white font__size-30">+49 156 7949 9262 / +41 79 449 91 81</li> 
+						<li class="w-100 mb-40 font__halvetica-bold text-white font__size-30"><span>+49 156 7949 9262 <br> +41 79 449 91 81</span></li> 
 						<li class="w-100 mb-30">
 						 
                     		<a class="font__halvetica-bold text-white font__size-30" href="https://cal.com/rouvenbehge">Schedule Call</a>
