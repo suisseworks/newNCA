@@ -51,10 +51,10 @@
 				        </div>
                         <br> <br>
 						<h4 class="mb-5 forza-subtitle subtitle wow fadeInUp">
-							A leading provider of premium quality veneer & laminate timber products to the UK construction industry, with special focus on doors and frames.
+						A leading provider of premium bespoke timber products to the UK construction industry, with special focus on doors and frames.
 						</h4>
 						<p>
-							Founded in 2010, Forza is the UK's premier high quality timber veneer & laminate doors, panels and door frames supplier for commercial, residential and educational sectors. It designs, manufactures and distributes certified fire-rated timber products in multiple configurations characterised by the highest standard finishes and specification. Forza boasts a modern production facility and an integrated supply chain which allows to shorten the project lead time to a minimum, with the ability to adapt to customers’ demands.<br><br><br><br><br><br><br>
+						Founded in 2010, Forza is the UK's leading supplier of timber doors, frames, screens and partitioning systems for commercial, residential and educational sectors. It designs, manufactures and distributes certified fire-rated and non-fire rated timber products characterised by the highest standard finishes and specification. Forza boasts a modern production facility and an integrated supply chain, allowing 'best in industry' project lead times and the ability to adapt to customers’ demands.<br><br><br><br><br><br><br>
 						</p>	
 					</div>
 					<div class="col-12 visit-btn px-0 mt-5">

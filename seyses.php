@@ -48,11 +48,11 @@
 				        </div>
                         <br> <br>
 						<h4 class="mb-5 forza-subtitle subtitle wow fadeInUp">
-                           SEYSES is an international engineering services provider specializing in the renewable energy industry, including wind and photovoltaic technology.
+						SEYSES is a comprehensive manager of medium and large-scale renewable energy projects focused on ensuring quality, budget, and schedule compliance while protecting worker welfare and the environment.
 
 						</h4>
 						<p>
-                           Established in 2017 with offices spanning Spain, Mexico, Chile, Colombia, Panama, and Brazil, the company specializes in Owner's Engineering, Project Management (Construction Oversight), Document Management, Accreditation, and Access Control services. Seyses provides comprehensive support to clients throughout their projects and investments, aiming to reduce the risks and responsibilities linked with outsourcing activities. Utilizing an advanced technological platform, managed by highly skilled professionals, the company ensures meticulous document control throughout the entire subcontracting chain, encompassing companies, workers, and machinery.<br><br><br><br><br><br>
+						Established in 2017 with offices spanning Spain, Mexico, Chile, Colombia, Brazil and the United States, the company specializes in the renewable energy segment, providing Project Management and Supervision, Operations and Maintenance, and Subcontractor Management services. With over 250 staff members, SEYSES has participated in over 400 projects with an aggregate capacity of over 48 GW. It serves leading asset managers, EPC contractors and technology companies through the combination of deep sector expertise and a proprietary technology platform to digitize construction management and site control.<br><br><br><br><br><br>
 						</p>	
 					</div>
 					<div class="col-12 visit-btn px-0 mt-5">

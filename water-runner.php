@@ -48,11 +48,11 @@
 				        </div>
                         <br> <br>
 						<h4 class="mb-5 forza-subtitle subtitle wow fadeInUp">
-                            Water Runner is a bulk water delivery and logistics firm based in Texas US.
+						Water Runner is a bulk water purification and delivery business based in West Texas.
 
 						</h4>
 						<p>
-                            Water Runner Inc., founded over 20 years ago, is based in Midland, Texas, and delivers drinking, R.O., and deionized water to residents and businesses (including gas plants, rig sites, field offices) in the greater Permian Basin area. The company prioritizes providing safe and high-quality water, sourced from local TCEQ-approved wells, filtered using state-of-the-art water purification technology, and subjected to rigorous and frequent lab testing.<br><br><br><br><br><br><br>
+						Founded over 25 years ago in Midland, Texas, Water Runner LLC purifies and delivers water in bulk for residential, commercial, and industrial applications to customers throughout Texas and New Mexico on a routine and emergency basis. Recently, the company began a water storage tank rental and commercial water purification system service and maintenance business line based on feedback from customers and a growing need in its local market.
 						</p>	
 					</div>
 					<div class="col-12 visit-btn px-0 mt-5">

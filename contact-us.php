@@ -43,21 +43,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         width: 100%;
         padding: 12px 20px;
         border: 1px solid #ddd;
-        border-radius: 24px; /* Redondeo similar al de los inputs */
-        background-color: #e7ebec; /* Fondo similar al de los inputs */
+        border-radius: 24px;
+        background-color: #e7ebec;
         font-size: 16px;
         color: #666;
-        -webkit-appearance: none; /* Ocultar flecha en WebKit */
-        -moz-appearance: none; /* Ocultar flecha en Mozilla */
-        appearance: none; /* Ocultar flecha en otros navegadores */
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
     }
 
     .form-group select:focus {
-        border-color: #bfbfbf; /* Borde más visible al enfocar */
+        border-color: #bfbfbf;
         outline: none;
     }
 
-    /* Estilo del label */
     .form-group label {
         display: block;
         margin-bottom: 8px;
@@ -65,7 +64,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         font-weight: bold;
     }
 
-    /* Estilos para inputs */
     .form-group input,
     .form-group textarea {
         width: 100%;
@@ -74,6 +72,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         border-radius: 24px;
         box-sizing: border-box;
         background-color: #e7ebec;
+        color: black;
         outline: none;
     }
 
@@ -81,7 +80,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         resize: none;
     }
 
-    /* Estilo del botón */
     .form-group button {
         background-color: white;
         color: #e5720a;
@@ -93,7 +91,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         font-size: 18px;
     }
 
-    /* Imagen a la derecha del formulario */
     .form-image {
         flex: 1 1 50%;
         background-color: #fff;
@@ -116,7 +113,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         left: 0;
     }
 
-    /* Responsividad */
+
+    .form-group input[type="checkbox"] {
+    width: auto; /* You can specify auto or a specific width */
+}
+
+
+/* Specific styles for aligning the checkbox and label */
+    .form-group.checkbox-group {
+        display: flex;
+        align-items: center; /* Aligns the checkbox and label vertically */
+        gap: 10px; /* Adds space between the checkbox and the label */
+    }
+
+    .form-group.checkbox-group input[type="checkbox"] {
+        margin: 0; /* Removes any margin around the checkbox */
+    }
+
+    .form-group.checkbox-group label {
+        margin: 0; /* Removes default margin */
+        font-weight: normal; /* Optional: Adjust label text style */
+    }
+
+
+
     @media (max-width: 768px) {
         .form-container {
             flex-direction: column;
@@ -138,6 +158,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             font-size: 16px;
         }
     }
+
+    /* Specific styles for aligning the checkbox and label */
+    .form-group .checkbox-group {
+        display: flex;
+        align-items: center;
+    }
+
+    .form-group .checkbox-group input[type="checkbox"] {
+        margin-right: 10px; /* Add space between checkbox and label */
+        width: auto; /* Ensure checkbox doesn't take full width */
+    }
+
 </style>
 
 <div class="form-container">
@@ -175,11 +207,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <label for="reason">Reason for contact</label>
                 <textarea id="reason" name="reason" required></textarea>
             </div>
-            <div class="form-group">
-                <input type="checkbox" id="terms" name="terms" required>
-                <label for="terms" class="terms">I agree to the <a href="/privacy-policy" target="_blank">Privacy Policy</a></label>
+            <div class="form-group checkbox-group">
+                    <input type="checkbox" id="terms" name="terms" required>
+                    <label for="terms" class="terms">I agree to the <a href="/privacy-policy" target="_blank">Privacy Policy</a></label>
             </div>
-            <div class="form-group">
+            <div class="form-group checkbox-group">
+                    <input type="checkbox" id="newsletter" name="terms" required>
+                    <label for="newsletter" class="terms">Subscribe to our Newsletter</label>
+            </div>
+
+            <div class="form-group mt-40">
                 <button type="submit">SEND NOW</button>
             </div>
         </form>
@@ -191,9 +228,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <script>
     document.getElementById('contact-form').addEventListener('submit', function(event) {
-        event.preventDefault(); // Evitar el envío estándar del formulario
+        event.preventDefault(); // Prevent default form submission
 
-        // Crear el objeto JSON con los datos del formulario
+        // Gather form data
         const data = {
             profile: document.getElementById('profile').value,
             email: document.getElementById('email').value,
@@ -203,28 +240,41 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             reason: document.getElementById('reason').value,
             terms: document.getElementById('terms').checked
         };
+/*
+header := w.Header()
+header.Add("Access-Control-Allow-Origin", "*")
+header.Add("Access-Control-Allow-Methods", "DELETE, POST, GET, OPTIONS")
+header.Add("Access-Control-Allow-Headers", "Content-Type, Authorization, X-Requ
 
-        // Enviar el JSON al endpoint usando fetch
+*/
+        // Send the data to Zoho webhook using fetch
         fetch('https://flow.zoho.eu/20078329175/flow/webhook/incoming?zapikey=1001.0f9d09ece68536a4ac31457bf70fa66e.649b557e7b489c3e9f42cb5a2e7909b3&isdebug=false', {
             method: 'POST',
             headers: {
-                'Content-Type': 'application/json'
+                'Content-Type': 'application/json',
+                'Accept': 'application/json',
+                'Access-Control-Allow-Origin': '*',
+                'Access-Control-Allow-Methods': 'DELETE, POST, GET, OPTIONS',
+                'Access-Control-Allow-Headers': 'Content-Type, Authorization, X-Requested-With'
             },
             body: JSON.stringify(data)
         })
-        .then(response => response.json())
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
         .then(result => {
-            alert('Formulario enviado exitosamente.');
+            alert('Form submitted successfully.');
             console.log(result);
         })
         .catch(error => {
-            alert('Error al enviar el formulario.');
+            alert('Error submitting the form.');
             console.error('Error:', error);
         });
     });
 </script>
 
 </body>
-
 <?php include 'inc/footer.php'; ?>
- 

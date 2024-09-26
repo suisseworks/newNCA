@@ -28,7 +28,7 @@
 									<strong>Headquarters:</strong> Montreal, Canada
 								</li>
 								<li>
-									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong> David Miller</a>
+									<a href="entrepreneurs.php#ceos"><strong>Co-CEOs: </strong>David Miller & Mitchell Goldstein</a>
 								</li>
 								<li>
 									<strong>In NCA portfolio since:</strong> May 2023
