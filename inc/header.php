@@ -496,8 +496,7 @@
 <!--Zoho Campaigns Web-Optin Form's Header Code Ends Here--><!--Zoho Campaigns Web-Optin Form Starts Here-->
 
 
-
-<div id="sf3z91324461e41f85b2f2303104634b5e29a8802aaa964c96c3702fdb248ad76b61" data-type="signupform">
+<div>
 
 	<div id="customForm">
 
@@ -561,7 +560,7 @@
 
 						</div>
 
-						<form method="POST" id="zcampaignOptinForm" style="margin:0px;" action="https://atds.maillist-manage.eu/weboptin.zc" target="_zcSignup" class="zoho_candidate_contact_form">
+						<form method="POST" id="zcampaignOptinForm" style="margin:0px;" target="_zcSignup" class="zoho_candidate_contact_form"  onsubmit="return false;">
 
 							<div id="SIGNUP_BODY_ALL" name="SIGNUP_BODY_ALL" style="border: none; padding: 0px;">
 
@@ -595,7 +594,7 @@
 
 															</div>
 
-															<select name="CONTACT_CF1" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" zc_display_name="Select your profile">
+															<select id="dt_CONTACT_CF1" name="CONTACT_CF1" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" zc_display_name="Select your profile">
 
 																<option value="Candidate">Candidate</option>
 
@@ -606,7 +605,6 @@
 																<option value="Intermediary">Intermediary</option>
 
 																<option value="Other">Other</option>
-
 															</select>&nbsp;
 
 															<span style="display:none" id="dt_CONTACT_CF1">1,true,3,Select your profile,2</span>
@@ -631,9 +629,9 @@
 
 														<div style="width:100%;  min-width:170px; margin-top:5px;"><!-- check to mark emailid field as type email, and other mandatory fields as type required -->
 
-															<input name="CONTACT_EMAIL" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="email" required="true" value="">
+															<input id="dt_CONTACT_EMAIL" name="CONTACT_EMAIL" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="email" required="true" value="">
 
-															<span style="display:none" id="dt_CONTACT_EMAIL">1,true,6,Contact Email,2</span>
+															<span style="display:none">1,true,6,Contact Email,2</span>
 
 														</div>
 
@@ -653,9 +651,9 @@
 
 														<div style="width:100%;  min-width:170px; margin-top:5px;"><!-- check to mark emailid field as type email, and other mandatory fields as type required -->
 
-															<input name="FIRSTNAME" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text" required="true" value="">
+															<input id="dt_FIRSTNAME" name="FIRSTNAME" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text" required="true" value="">
 
-															<span style="display:none" id="dt_FIRSTNAME">1,true,1,First Name,2</span>
+															<span style="display:none">1,true,1,First Name,2</span>
 
 														</div>
 
@@ -673,9 +671,9 @@
 
 														<div style="width:100%;  min-width:170px; margin-top:5px;"><!-- check to mark emailid field as type email, and other mandatory fields as type required -->
 
-															<input name="LASTNAME" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text" required="true" value="">
+															<input id="dt_LASTNAME" name="LASTNAME" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text" required="true" value="">
 
-															<span style="display:none" id="dt_LASTNAME">1,true,1,Last Name,2</span>
+															<span style="display:none">1,true,1,Last Name,2</span>
 
 														</div>
 
@@ -695,9 +693,9 @@
 
 														<div style="width:100%;  min-width:170px; margin-top:5px;"><!-- check to mark emailid field as type email, and other mandatory fields as type required -->
 
-															<input name="COMPANYNAME" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text" value="">
+															<input id="dt_COMPANYNAME" name="COMPANYNAME" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text" value="">
 
-															<span style="display:none" id="dt_COMPANYNAME">1,false,1,Company Name,2</span>
+															<span style="display:none">1,false,1,Company Name,2</span>
 
 														</div>
 
@@ -715,9 +713,9 @@
 
 														<div style="width:100%;  min-width:170px; margin-top:5px;"><!-- check to mark emailid field as type email, and other mandatory fields as type required -->
 
-															<input name="CONTACT_CF2" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text" value="">
+															<input id="dt_REASON" name="CONTACT_CF2" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text" value="">
 
-															<span style="display:none" id="dt_CONTACT_CF2">1,false,1,Reason for contact,2</span>
+															<span style="display:none" >1,false,1,Reason for contact,2</span>
 
 														</div>
 
@@ -787,11 +785,11 @@
 
 														<div style="padding-right:10px; display: flex; align-items: center;">
 
-															<input name="CONTACT_CF37" type="checkbox" zc_display_name="Newsletter" value="" style="padding-left:10px;padding-right:10px; margin-top:5px;">
+															<input id="dt_NEWSLETTER" name="CONTACT_CF37" type="checkbox" zc_display_name="Newsletter" value="" style="padding-left:10px;padding-right:10px; margin-top:5px;">
 
 															<label for="CONTACT_CF37"></label>
 
-															<span style="display:none" id="dt_CONTACT_CF37">4,true,4,Newsletter,2</span>
+															<span style="display:none" >4,true,4,Newsletter,2</span>
 
 														</div>
 
@@ -809,7 +807,7 @@
 
 											<div name="privacyPolicy" style=" padding:10px;width:100%;position:relative;display: inline-flex;">
 
-												<input type="checkbox" style="vertical-align:middle" name="PRIVACY_POLICY" value="PRIVACY_AGREED">
+												<input id="dt_AGGREE_POLICY" type="checkbox" style="vertical-align:middle" name="PRIVACY_POLICY" value="PRIVACY_AGREED">
 
 												<label for="PRIVACY_POLICY"></label>
 
@@ -821,7 +819,7 @@
 
 												<div class="btn-side-form" style="padding:10px; text-align:center;">
 
-													<input type="button" class="border-btn submit_border" action="Save" id="zcWebOptin" name="SIGNUP_SUBMIT_BUTTON" changetype="SIGNUP_SUBMIT_BUTTON_TEXT" style="cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(229, 114, 0); white-space: normal; border: 1px none rgb(49, 121, 206); padding: 9px 28px; text-align: center; outline: none medium; appearance: none; font-family: &quot;Open Sans&quot;; border-radius: 24px; width: 100%; font-size: 20px; background-position: center bottom; background-repeat: repeat no-repeat;" value="SEND NOW!">
+													<input type="button" class="border-btn submit_border" id="zcWebOptin" name="SIGNUP_SUBMIT_BUTTON" changetype="SIGNUP_SUBMIT_BUTTON_TEXT" style="cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(229, 114, 0); white-space: normal; border: 1px none rgb(49, 121, 206); padding: 9px 28px; text-align: center; outline: none medium; appearance: none; font-family: &quot;Open Sans&quot;; border-radius: 24px; width: 100%; font-size: 20px; background-position: center bottom; background-repeat: repeat no-repeat;" value="SEND NOW!">
 
 												</div><!-- Do not edit the below Zoho Campaigns hidden tags -->
 
@@ -916,4 +914,3 @@
 </div>
 
 </div>
-
