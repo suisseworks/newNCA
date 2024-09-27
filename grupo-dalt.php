@@ -21,7 +21,7 @@
 					<a href="https://www.linkedin.com/company/grupo-dalt/" target="_blank">
 
 
-                    <svg width="257" height="37" viewBox="0 0 257 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <svg width="138" height="37" viewBox="0 0 257 37" fill="none" xmlns="http://www.w3.org/2000/svg">
 <mask id="mask0_218_436" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="257" height="37">
 <path d="M256.024 0H0V36.9613H256.024V0Z" fill="white"/>
 </mask>
