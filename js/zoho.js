@@ -1,57 +1,42 @@
 $(document).ready(function () {
-
-    $("#business_owner_contact_form").on('submit', function (e) {
+    $("#zcWebOptin").on('click', function (e) {
         e.preventDefault();
-        registerZoho("business_owner_contact_form")
-    });
-
-    $("#header_co_investors_contact_form").on('submit', function (e) {
-        e.preventDefault();
-        registerZoho("header_co_investors_contact_form")
-    });
-
-    $("#co_investors_contact_form").on('submit', function (e) {
-        e.preventDefault();
-        registerZoho("co_investors_contact_form")
-    });
-
-    $("#intermediatry_contact_form").on('submit', function (e) {
-        e.preventDefault();
-        registerZoho("intermediatry_contact_form")
+        submitZoho();
     });
 });
 
 
-function registerZoho(formId) {
+function submitZoho() {
 
-    $("#"+formId+"-submit").hide();
-    $("#"+formId+"-loading").show();
+    const newsletter = document.getElementById('zcWebOptin').checked ? 'true' : 'false';
+    const agree = document.getElementById('zcWebOptin').checked ? 'true' : 'false';
 
-    var myform = document.getElementById(formId);
-    var dataForm = new FormData(myform);
-
-    var newsletter = dataForm.get('Newsletter') == 'on' ? 'true' : 'false';
-    dataForm.set('Newsletter', newsletter)
+    const json = {
+        selectprofile: document.getElementById('dt_CONTACT_CF1').value,
+        email: document.getElementById('dt_CONTACT_EMAIL').value,
+        first_name: document.getElementById('dt_FIRSTNAME').value,
+        last_name: document.getElementById('dt_LASTNAME').value,
+        company: document.getElementById('dt_COMPANYNAME').value,
+        reason: document.getElementById('dt_REASON').value,
+        newsletter: newsletter,
+        agree_policy: agree
+    };
 
     $.ajax({
-        url: "https://nca-api.whagons.com/api/registerContactZoho",
+        url: "https://nca-api.whagons.com/api/webHookZoho",
         type: 'POST',
         datatype: 'json',
-        data: dataForm,
-        contentType: false,
+        data: JSON.stringify(json),
+        contentType: 'application/json',
         processData: false,
-        success: function (data) {
-            $("#"+formId).hide();
-            $(".form-alert-success").show();
-            document.getElementById(formId).reset();
+        success: function (result) {
 
-            setTimeout(function(){
-                $(".form-alert-success").hide();
-                $("#"+formId).show();
-                $("#"+formId+"-loading").hide();
-                $("#"+formId+"-submit").show();
-            }, 3000);
+            if (result.status === 'success') {
+                console.log('Formulario enviado exitosamente.');
+            }
         },
-        error: function (data) {}
-    })
+        error: function (data) {
+            // alert('Error al enviar el formulario.');
+        }
+    });
 }
