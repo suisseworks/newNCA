@@ -527,359 +527,60 @@
 
 				<div id="signupMainDiv" style="margin: 0px auto; width: 100%; min-width: 230px; max-width: 600px;" name="SIGNUPFORM" changeid="SIGNUPFORM" changename="SIGNUPFORM">
 
-					<div>
-
-						<div style="position:relative;">
-
-							<div id="Zc_SignupSuccess" style="display:none;position:absolute;margin-left:4%;width:90%;background-color: white; padding: 3px; border: 3px solid rgb(194, 225, 154);  margin-top: 10px;margin-bottom:10px;word-break:break-all">
-
-								<table width="100%" cellpadding="0" cellspacing="0" border="0">
-
-									<tbody>
-
-										<tr>
-
-											<td width="10%">
-
-												<img class="successicon" src="https://atds.maillist-manage.eu/images/challangeiconenable.jpg" align="absmiddle">
-
-											</td>
-
-											<td>
-
-												<span id="signupSuccessMsg" style="color: rgb(73, 140, 132); font-family: sans-serif; font-size: 14px;word-break:break-word">&nbsp;&nbsp;Thank you for Signing Up</span>
-
-											</td>
-
-										</tr>
-
-									</tbody>
-
-								</table>
-
-							</div>
-
-						</div>
-
-						<form method="POST" id="zcampaignOptinForm" style="margin:0px;" action="https://atds.maillist-manage.eu/weboptin.zc" target="_zcSignup" class="zoho_candidate_contact_form">
-
-							<div id="SIGNUP_BODY_ALL" name="SIGNUP_BODY_ALL" style="border: none; padding: 0px;">
-
-								<h1 style="color: rgb(255, 255, 255); background-color: rgb(229, 114, 0); border: 1px none rgb(229, 114, 0); overflow-wrap: break-word; word-break: break-all; padding: 20px; margin: 0px; font-family: &quot;Open Sans&quot;; text-align: center; font-size: 28px; font-weight: 100;" id="SIGNUP_HEADING" name="SIGNUP_HEADING" changeid="SIGNUP_MSG" changetype="SIGNUP_HEADER">GET IN TOUCH</h1>
-
-								<div style="color: rgb(229, 114, 0); padding: 30px; font-family: &quot;Open Sans&quot;; border-radius: 30px; text-align: center; font-size: 14px; opacity: 1;" id="SIGNUP_BODY" name="SIGNUP_BODY">
-
-									<div style="margin:0px auto;text-align:left;">
-
-										<div style="line-height:1.6;" class="" changeid="SIGNUP_MSG" id="SIGNUP_DESCRIPTION" changetype="SIGNUP_DESCRIPTION">Please complete the form below to stay in touch via our quarterly newsletter. If you would like a member of our team to contact you, please leave a brief note so that we can forward you correctly.</div>
-
-										<div style="display:none;background-color:#FFEBE8;padding:10px 10px; color:#d20000; font-size:11px; margin:10px 0px;border:solid 1px #ffd9d3; margin-top:20px;" id="errorMsgDiv">&nbsp;&nbsp;Please correct the marked field(s) below.</div>
-
-										<div>
-
-											<div style="font-size:12px;  margin-top:10px;" name="fieldsdivSf" class="zcsffieldsdiv">
-
-												<div style="padding:10px 0px 10px 0px;" class="zcsffield " fieldid="103402000011283041">
-
-													<div style="">
-
-														<div style="position:relative">
-
-															<div style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" name="SIGNUP_FORM_LABEL">Select your profile&nbsp;
-
-
-
-																<span name="SIGNUP_REQUIRED" style="color: rgb(180, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">*</span>
-
-
-
-															</div>
-
-															<select name="CONTACT_CF1" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" zc_display_name="Select your profile">
-
-																<option value="Candidate">Candidate</option>
-
-														 
-
-																<option value="Business Owner">Business Owner</option>
-
-																<option value="Intermediary">Intermediary</option>
-
-																<option value="Other">Other</option>
-
-															</select>&nbsp;
-
-															<span style="display:none" id="dt_CONTACT_CF1">1,true,3,Select your profile,2</span>
-
-														</div>
-
-													</div>
-
-
-
-													<div style="clear:both"></div>
-
-
-
-												</div>
-
-												<div style="padding:10px 0px 10px 0px;" class="zcsffield " fieldid="103402000000000015">
-
-													<div style="">
-
-														<div style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" name="SIGNUP_FORM_LABEL">E-mail&nbsp;<span name="SIGNUP_REQUIRED" style="color: rgb(180, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">*</span></div>
-
-														<div style="width:100%;  min-width:170px; margin-top:5px;"><!-- check to mark emailid field as type email, and other mandatory fields as type required -->
-
-															<input name="CONTACT_EMAIL" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="email" required="true" value="">
-
-															<span style="display:none" id="dt_CONTACT_EMAIL">1,true,6,Contact Email,2</span>
-
-														</div>
-
-													</div>
-
-													<div style="clear:both"></div>
-
-												</div>
-
-
-
-												<div style="padding:10px 0px 10px 0px;" class="zcsffield " fieldid="103402000000000019">
-
-													<div style="">
-
-														<div style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" name="SIGNUP_FORM_LABEL">First Name&nbsp;<span name="SIGNUP_REQUIRED" style="color: rgb(180, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">*</span></div>
-
-														<div style="width:100%;  min-width:170px; margin-top:5px;"><!-- check to mark emailid field as type email, and other mandatory fields as type required -->
-
-															<input name="FIRSTNAME" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text" required="true" value="">
-
-															<span style="display:none" id="dt_FIRSTNAME">1,true,1,First Name,2</span>
-
-														</div>
-
-													</div>
-
-													<div style="clear:both"></div>
-
-												</div>
-
-												<div style="padding:10px 0px 10px 0px;" class="zcsffield " fieldid="103402000000000021">
-
-													<div style="">
-
-														<div style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" name="SIGNUP_FORM_LABEL">Last Name&nbsp;<span name="SIGNUP_REQUIRED" style="color: rgb(180, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">*</span></div>
-
-														<div style="width:100%;  min-width:170px; margin-top:5px;"><!-- check to mark emailid field as type email, and other mandatory fields as type required -->
-
-															<input name="LASTNAME" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text" required="true" value="">
-
-															<span style="display:none" id="dt_LASTNAME">1,true,1,Last Name,2</span>
-
-														</div>
-
-													</div>
-
-													<div style="clear:both"></div>
-
-												</div>
-
-
-
-												<div style="padding:10px 0px 10px 0px;" class="zcsffield " fieldid="103402000000000025">
-
-													<div style="">
-
-														<div style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" name="SIGNUP_FORM_LABEL">Company Name&nbsp;</div>
-
-														<div style="width:100%;  min-width:170px; margin-top:5px;"><!-- check to mark emailid field as type email, and other mandatory fields as type required -->
-
-															<input name="COMPANYNAME" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text" value="">
-
-															<span style="display:none" id="dt_COMPANYNAME">1,false,1,Company Name,2</span>
-
-														</div>
-
-													</div>
-
-													<div style="clear:both"></div>
-
-												</div>
-
-												<div style="padding:10px 0px 10px 0px;" class="zcsffield " fieldid="103402000011284001">
-
-													<div style="">
-
-														<div style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" name="SIGNUP_FORM_LABEL">Reason for contact&nbsp;</div>
-
-														<div style="width:100%;  min-width:170px; margin-top:5px;"><!-- check to mark emailid field as type email, and other mandatory fields as type required -->
-
-															<input name="CONTACT_CF2" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text" value="">
-
-															<span style="display:none" id="dt_CONTACT_CF2">1,false,1,Reason for contact,2</span>
-
-														</div>
-
-													</div>
-
-													<div style="clear:both"></div>
-
-												</div>
-
-												<div style="display:none" ishidden="true">
-
-													<div>
-
-														<div style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" name="SIGNUP_FORM_LABEL">Other Contact Type&nbsp;</div>
-
-														<div style="width:100%;  min-width:170px; margin-top:5px;"><!-- check to mark emailid field as type email, and other mandatory fields as type required -->
-
-															<input name="CONTACT_CF4" changeitem="SIGNUP_FORM_FIELD" style="width: 97%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text" value="Website ">
-
-															<span style="display:none" id="dt_CONTACT_CF4">1,false,1,Other Contact Type,2</span>
-
-														</div>
-
-													</div>
-
-													<div style="clear:both"></div>
-
-												</div>
-
-											</div><!-- Captcha for Signup -->
-
-											<div class="recaptcha" style="padding: 10px 0px 10px 10px;display:none " id="captchaOld" name="captchaContainer">
-
-												<div style="">
-
-													<div style="width: 59%; float: left; min-width: 170px; max-width: 70%;" id="captchaParent">
-
-														<img src="//campaigns.zoho.eu/images/refresh_icon.png" style="cursor: pointer;float:right;margin-right:4px" onclick="loadCaptcha('https://campaigns.zoho.eu/campaigns/CaptchaVerify.zc?mode=generate',this,'#sf3z91324461e41f85b2f2303104634b5e29a8802aaa964c96c3702fdb248ad76b61');" id="relCaptcha">
-
-														<div id="captchaDiv" captcha="true" name="" style="padding: 20px;background:#fff;border: 1px solid rgb(222, 222, 222);box-sizing: border-box;width:98.8%"></div>
-
-														<input placeholder="Captcha" id="captchaText" name="captchaText" changeitem="SIGNUP_FORM_FIELD" style="margin-top: 5px; width: 98.7%; color: rgb(229, 114, 0); background-color: rgb(235, 235, 235); border: 2px solid #ffffff; padding: 3px; background-attachment: scroll; background-image: url(&quot;data:image/png&quot;); box-sizing: border-box; text-indent: 15px; outline: 0px; font-family: &quot;Open Sans&quot;; border-radius: 24px; background-size: 16px 18px; font-size: 14px; height: 42px; background-position: 98% 50%; background-repeat: no-repeat no-repeat;" maxlength="100" type="text">
-
-														<span name="SIGNUP_REQUIRED" id="capRequired" style="color: rgb(180, 0, 0); margin-top: -16px; margin-right: -2px; float: right; font-family: Arial, Helvetica, sans-serif; font-size: 11px;">*</span>
-
-													</div>
-
-												</div>
-
-												<div style="clear: both"></div>
-
-											</div>
-
-											<input type="hidden" id="secretid" value="6LdNeDUUAAAAAG5l7cJfv1AA5OKLslkrOa_xXxLs"><!-- Captcha for Signup End--><!-- Other Lists Subscription Start--><!-- Other Lists Subscription End-->
-
-											<div style=" border-bottom:#ebebeb dotted 1px; margin-top:10px; clear:both;"></div>
-
-											<!-- <div id="REQUIRED_FIELD_TEXT" changetype="REQUIRED_FIELD_TEXT" name="SIGNUP_REQUIRED" style="color: rgb(180, 0, 0); padding: 10px 10px 10px 0px; font-family: Arial, Helvetica, sans-serif; font-size: 11px;">*Required Fields</div> -->
-
-											<div style="padding:10px 0px 10px 0px;" class="zcsffield " fieldid="103402000000401621">
-
-												<div>
-
-													<div class="newsletter_box" style="display: inline-flex; padding: 0px 10px;">
-
-
-
-														<div style="padding-right:10px; display: flex; align-items: center;">
-
-															<input name="CONTACT_CF37" type="checkbox" zc_display_name="Newsletter" value="" style="padding-left:10px;padding-right:10px; margin-top:5px;">
-
-															<label for="CONTACT_CF37"></label>
-
-															<span style="display:none" id="dt_CONTACT_CF37">4,true,4,Newsletter,2</span>
-
-														</div>
-
-														<div style="float: left; margin-top: 5px; padding-left:15px;font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px;" name="SIGNUP_FORM_LABEL">Newsletter&nbsp;</div>
-
-														<div style="clear:both"></div>
-
-													</div>
-
-												</div>
-
-												<div style="clear:both"></div>
-
-											</div>
-
-											<div name="privacyPolicy" style=" padding:10px;width:100%;position:relative;display: inline-flex;">
-
-												<input type="checkbox" style="vertical-align:middle" name="PRIVACY_POLICY" value="PRIVACY_AGREED">
-
-												<label for="PRIVACY_POLICY"></label>
-
-												<span style="vertical-align:middle;margin-left:5px; color: #FFFFFF;">I agree to the&nbsp;
-
-													<a href="https://www.novastone-ca.com/img/NCA-Privacy-Policy.pdf" class="privacy_anchor" target="_blank" style="text-decoration:none">Privacy Policy</a>&nbsp;&nbsp;&nbsp;</span>
-
-												</div>
-
-												<div class="btn-side-form" style="padding:10px; text-align:center;">
-
-													<input type="button" class="border-btn submit_border" action="Save" id="zcWebOptin" name="SIGNUP_SUBMIT_BUTTON" changetype="SIGNUP_SUBMIT_BUTTON_TEXT" style="cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(229, 114, 0); white-space: normal; border: 1px none rgb(49, 121, 206); padding: 9px 28px; text-align: center; outline: none medium; appearance: none; font-family: &quot;Open Sans&quot;; border-radius: 24px; width: 100%; font-size: 20px; background-position: center bottom; background-repeat: repeat no-repeat;" value="SEND NOW!">
-
-												</div><!-- Do not edit the below Zoho Campaigns hidden tags -->
-
-												<input type="hidden" id="fieldBorder" value="">
-
-												<input type="hidden" name="zc_trackCode" id="zc_trackCode" value="ZCFORMVIEW" onload="">
-
-												<input type="hidden" name="viewFrom" id="viewFrom" value="URL_ACTION">
-
-												<input type="hidden" id="submitType" name="submitType" value="optinCustomView">
-
-												<input type="hidden" id="lD" name="lD" value="116f5b9237bdd4c9">
-
-												<input type="hidden" name="emailReportId" id="emailReportId" value="">
-
-												<input type="hidden" name="zx" id="cmpZuid" value="14acf01986">
-
-												<input type="hidden" name="zcvers" value="2.0">
-
-												<input type="hidden" name="oldListIds" id="allCheckedListIds" value="">
-
-												<input type="hidden" id="mode" name="mode" value="OptinCreateView">
-
-												<input type="hidden" id="zcld" name="zcld" value="116f5b9237bdd4c9">
-
-												<input type="hidden" id="zctd" name="zctd" value="116f5b923710fdc1">
-
-												<input type="hidden" id="document_domain" value="">
-
-												<input type="hidden" id="zc_Url" value="atds.maillist-manage.eu">
-
-												<input type="hidden" id="new_optin_response_in" value="1">
-
-												<input type="hidden" id="duplicate_optin_response_in" value="1">
-
-												<input type="hidden" id="zc_formIx" name="zc_formIx" value="3z91324461e41f85b2f2303104634b5e29a8802aaa964c96c3702fdb248ad76b61"><!-- End of the campaigns hidden tags --></div>
-
-											</div>
-
-											<input type="hidden" id="isCaptchaNeeded" value="false">
-
-											<input type="hidden" id="superAdminCap" value="0">
-
-											<img src="https://atds.maillist-manage.eu/images/spacer.gif" onload="referenceSetter(this)" id="refImage" style="display:none;">
-
-										</div>
-
-										<div style="margin: 0px auto;margin-top:20px;text-align:left;height:76px;" id="privacyNotes" identity="privacyNotes">
-
-											<span>Note: It is our responsibility to protect your privacy and we guarantee that your data will be completely confidential.</span>
-
-										</div>
-
-									</div>
-
-								</form>
-
-							</div>
+					<div class="form-container">
+    <div class="form-content">
+
+        <h2>Get in Touch</h2>
+        <form id="contact-form">
+            <div class="form-group">
+                <label for="profile">Select your profile</label>
+                <select id="profile" name="profile" required>
+                    <option value="">Select...</option>
+                    <option value="candidate">Candidate</option>
+                    <option value="co-investor">Co-Investor</option>
+                    <option value="business-owner">Business Owner</option>
+                    <option value="intermediary">Intermediary</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="first-name">First Name</label>
+                <input type="text" id="first-name" name="first-name" required>
+            </div>
+            <div class="form-group">
+                <label for="last-name">Last Name</label>
+                <input type="text" id="last-name" name="last-name" required>
+            </div>
+            <div class="form-group">
+                <label for="company-name">Company Name</label>
+                <input type="text" id="company-name" name="company-name">
+            </div>
+            <div class="form-group">
+                <label for="reason">Reason for contact</label>
+                <textarea id="reason" name="reason" required></textarea>
+            </div>
+            <div class="form-group checkbox-group">
+                    <input type="checkbox" id="terms" name="terms" required>
+                    <label for="terms" class="terms">I agree to the <a href="/privacy-policy" target="_blank">Privacy Policy</a></label>
+            </div>
+            <div class="form-group checkbox-group">
+                    <input type="checkbox" id="newsletter" name="terms" required>
+                    <label for="newsletter" class="terms">Subscribe to our Newsletter</label>
+            </div>
+
+            <div class="form-group mt-40">
+                <button type="submit">SEND NOW</button>
+            </div>
+        </form>
+    </div>
+    <div class="form-image">
+        <img src="img/get-in-touch.jpeg" alt="Contact Image">
+    </div>
+</div>
 
 						</div>
 
@@ -917,3 +618,231 @@
 
 </div>
 
+
+<style>
+
+
+	#profile-styler {
+		background-color: var(--brk-secondary-1);
+		border-radius: 30px;
+		color: rgb(113, 122, 130);
+		line-height: 50px;
+		padding: 0px 15px 0px 29px;
+		width: 100%;
+		z-index: 10;
+	}
+
+	.jq-selectbox__dropdown {
+		background: white;
+		width: 60%;
+		color: black;
+		padding-left: 20px;
+	}
+
+	#contact-form {
+		margin-top: 15px;
+	}
+
+    .form-container {
+        background: #e5720a;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        max-width: 900px;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: stretch;
+        border-radius: 10px;
+        overflow: hidden;
+        margin-bottom: 20px;
+    }
+
+    .form-content {
+        flex: 1 1 50%;
+        box-sizing: border-box;
+        color: white;
+        padding: 20px;
+        text-align: left;
+    }
+
+    .form-group select {
+        width: 100%;
+        padding: 12px 20px;
+        border: 1px solid #ddd;
+        border-radius: 24px;
+        background-color: #e7ebec;
+        font-size: 16px;
+        color: #666;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+    }
+
+    .form-group select:focus {
+        border-color: #bfbfbf;
+        outline: none;
+    }
+
+    .form-group label {
+        display: block;
+        margin-bottom: 8px;
+        color: black;
+        font-weight: bold;
+    }
+
+    .form-group input,
+    .form-group textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ddd;
+        border-radius: 24px;
+        box-sizing: border-box;
+        background-color: #e7ebec;
+        color: black;
+        outline: none;
+    }
+
+    .form-group textarea {
+        resize: none;
+    }
+
+    .form-group button {
+        background-color: white;
+        color: #e5720a;
+        padding: 12px;
+        border: none;
+        border-radius: 24px;
+        cursor: pointer;
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .form-image {
+        flex: 1 1 50%;
+        background-color: #fff;
+    }
+
+    .form-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    footer {
+        width: 100%;
+        background-color: #333;
+        color: white;
+        padding: 10px 0;
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+    }
+
+
+    .form-group input[type="checkbox"] {
+    width: auto; /* You can specify auto or a specific width */
+}
+
+
+/* Specific styles for aligning the checkbox and label */
+    .form-group.checkbox-group {
+        display: flex;
+        align-items: center; /* Aligns the checkbox and label vertically */
+        gap: 10px; /* Adds space between the checkbox and the label */
+    }
+
+    .form-group.checkbox-group input[type="checkbox"] {
+        margin: 0; /* Removes any margin around the checkbox */
+    }
+
+    .form-group.checkbox-group label {
+        margin: 0; /* Removes default margin */
+        font-weight: normal; /* Optional: Adjust label text style */
+    }
+
+
+
+    @media (max-width: 768px) {
+        .form-container {
+            flex-direction: column;
+            max-width: 100%;
+            height: auto;
+        }
+
+        .form-content {
+            padding: 20px;
+        }
+
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            font-size: 14px;
+        }
+
+        .form-group button {
+            font-size: 16px;
+        }
+    }
+
+    /* Specific styles for aligning the checkbox and label */
+    .form-group .checkbox-group {
+        display: flex;
+        align-items: center;
+    }
+
+    .form-group .checkbox-group input[type="checkbox"] {
+        margin-right: 10px; /* Add space between checkbox and label */
+        width: auto; /* Ensure checkbox doesn't take full width */
+    }
+
+</style>
+
+<script>
+    document.getElementById('contact-form').addEventListener('submit', function(event) {
+        event.preventDefault(); // Prevent default form submission
+
+        // Gather form data
+        const data = {
+            profile: document.getElementById('profile').value,
+            email: document.getElementById('email').value,
+            firstName: document.getElementById('first-name').value,
+            lastName: document.getElementById('last-name').value,
+            companyName: document.getElementById('company-name').value,
+            reason: document.getElementById('reason').value,
+            terms: document.getElementById('terms').checked
+        };
+/*
+header := w.Header()
+header.Add("Access-Control-Allow-Origin", "*")
+header.Add("Access-Control-Allow-Methods", "DELETE, POST, GET, OPTIONS")
+header.Add("Access-Control-Allow-Headers", "Content-Type, Authorization, X-Requ
+
+*/
+        // Send the data to Zoho webhook using fetch
+        fetch('https://flow.zoho.eu/20078329175/flow/webhook/incoming?zapikey=1001.0f9d09ece68536a4ac31457bf70fa66e.649b557e7b489c3e9f42cb5a2e7909b3&isdebug=false', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Accept': 'application/json',
+                'Access-Control-Allow-Origin': '*',
+                'Access-Control-Allow-Methods': 'DELETE, POST, GET, OPTIONS',
+                'Access-Control-Allow-Headers': 'Content-Type, Authorization, X-Requested-With'
+            },
+            body: JSON.stringify(data)
+        })
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(result => {
+            alert('Form submitted successfully.');
+            console.log(result);
+        })
+        .catch(error => {
+            alert('Error submitting the form.');
+            console.error('Error:', error);
+        });
+    });
+</script>
