@@ -513,7 +513,7 @@
 
 			<div>
 
-				<div name="" changeid="" changename="" style="margin:0px auto">
+				<!-- <div name="" changeid="" changename="" style="margin:0px auto">
 
 					<div id="imgBlock" name="LOGO_DIV" logo="true" style="width: 600px; margin: 0px auto; font-family: Arial, Helvetica, sans-serif; padding-bottom: 10px; color: rgb(68, 68, 68); text-align: center; padding-right: 10px; font-size: 12px; padding-top: 10px; font-weight: bold;">
 
@@ -521,9 +521,9 @@
 
 					</div>
 
-				</div>
+				</div> -->
 
-				<br>
+				<!-- <br> -->
 
 				<div id="signupMainDiv" style="margin: 0px auto; width: 100%; min-width: 230px; max-width: 600px;" name="SIGNUPFORM" changeid="SIGNUPFORM" changename="SIGNUPFORM">
 
@@ -532,29 +532,45 @@
 
         <h2>Get in Touch</h2>
         <form id="contact-form">
-            <div class="form-group">
-                <label for="profile">Select your profile</label>
-                <select id="profile" name="profile" required>
-                    <option value="">Select...</option>
-                    <option value="candidate">Candidate</option>
-                    <option value="co-investor">Co-Investor</option>
-                    <option value="business-owner">Business Owner</option>
-                    <option value="intermediary">Intermediary</option>
-                    <option value="other">Other</option>
-                </select>
-            </div>
-            <div class="form-group">
-                <label for="email">Email</label>
-                <input type="email" id="email" name="email" required>
-            </div>
-            <div class="form-group">
-                <label for="first-name">First Name</label>
-                <input type="text" id="first-name" name="first-name" required>
-            </div>
-            <div class="form-group">
-                <label for="last-name">Last Name</label>
-                <input type="text" id="last-name" name="last-name" required>
-            </div>
+
+        	<div class="row">
+        		<div class="col-lg-6">
+        			<div class="form-group">
+        				<label for="profile">Select your profile</label>
+        				<select id="profile" name="profile" required>
+        					<option value="">Select...</option>
+        					<option value="candidate">Candidate</option>
+        					<option value="co-investor">Co-Investor</option>
+        					<option value="business-owner">Business Owner</option>
+        					<option value="intermediary">Intermediary</option>
+        					<option value="other">Other</option>
+        				</select>
+        			</div>
+        		</div>
+        		<div class="col-lg-6">
+        			<div class="form-group">
+        				<label for="email">Email</label>
+        				<input type="email" id="email" name="email" required>
+        			</div>
+        		</div>
+        	</div>
+
+
+        	<div class="row">
+        		<div class="col-lg-6">
+        			<div class="form-group">
+        				<label for="first-name">First Name</label>
+        				<input type="text" id="first-name" name="first-name" required>
+        			</div>
+        		</div>
+        		<div class="col-lg-6">
+        			<div class="form-group">
+        				<label for="last-name">Last Name</label>
+        				<input type="text" id="last-name" name="last-name" required>
+        			</div>
+        		</div>
+        	</div>
+
             <div class="form-group">
                 <label for="company-name">Company Name</label>
                 <input type="text" id="company-name" name="company-name">
@@ -563,23 +579,26 @@
                 <label for="reason">Reason for contact</label>
                 <textarea id="reason" name="reason" required></textarea>
             </div>
-            <div class="form-group checkbox-group">
-                    <input type="checkbox" id="terms" name="terms" required>
-                    <label for="terms" class="terms">I agree to the <a href="/privacy-policy" target="_blank">Privacy Policy</a></label>
-            </div>
+
             <div class="form-group checkbox-group">
                     <input type="checkbox" id="newsletter" name="terms" required>
                     <label for="newsletter" class="terms">Subscribe to our Newsletter</label>
             </div>
+
+            <div class="form-group checkbox-group">
+                    <input type="checkbox" id="terms" name="terms" required>
+                    <label for="terms" class="terms">I agree to the <a href="/privacy-policy" target="_blank">Privacy Policy</a></label>
+            </div>
+
 
             <div class="form-group mt-40">
                 <button type="submit">SEND NOW</button>
             </div>
         </form>
     </div>
-    <div class="form-image">
+    <!-- <div class="form-image">
         <img src="img/get-in-touch.jpeg" alt="Contact Image">
-    </div>
+    </div> -->
 </div>
 
 						</div>
@@ -624,7 +643,7 @@
 
 	#profile-styler {
 		background-color: var(--brk-secondary-1);
-		border-radius: 30px;
+		border-radius: 10px;
 		color: rgb(113, 122, 130);
 		line-height: 50px;
 		padding: 0px 15px 0px 29px;
@@ -644,8 +663,8 @@
 	}
 
     .form-container {
-        background: #e5720a;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        /*background: #e5720a;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);*/
         max-width: 900px;
         width: 100%;
         display: flex;
@@ -653,14 +672,15 @@
         align-items: stretch;
         border-radius: 10px;
         overflow: hidden;
-        margin-bottom: 20px;
+/*        margin-bottom: 20px;*/
     }
 
     .form-content {
         flex: 1 1 50%;
         box-sizing: border-box;
         color: white;
-        padding: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
         text-align: left;
     }
 
@@ -668,13 +688,17 @@
         width: 100%;
         padding: 12px 20px;
         border: 1px solid #ddd;
-        border-radius: 24px;
+        border-radius: 10px;
         background-color: #e7ebec;
         font-size: 16px;
         color: #666;
         -webkit-appearance: none;
         -moz-appearance: none;
         appearance: none;
+    }
+
+    .form-group input, .form-group textarea {
+    	border-radius: 10px !important;
     }
 
     .form-group select:focus {
@@ -710,7 +734,7 @@
         color: #e5720a;
         padding: 12px;
         border: none;
-        border-radius: 24px;
+        border-radius: 10px;
         cursor: pointer;
         width: 100%;
         font-size: 18px;

@@ -1654,20 +1654,22 @@ function isSafari() {
   // Brk-preloader
   if(!window.xMode) {
     window.addEventListener('load', function () {
-      $('html').addClass('brk-preloader-remove');
+
       setTimeout(function () {
+      	$('html').addClass('brk-preloader-remove');
         $('html').removeClass('brk-preloader brk-preloader-remove');
         $('.brk-header:not(.brk-header_vertical)').css('display', '').addClass('d-flex');
-      }, 1500)
+      }, 2500)
     });
 
     setTimeout(function () {
-      $('html').addClass('brk-preloader-remove');
       setTimeout(function () {
+      $('html').addClass('brk-preloader-remove');
         $('html').removeClass('brk-preloader brk-preloader-remove');
         $('.brk-header:not(.brk-header_vertical)').css('display', '').addClass('d-flex');
-      }, 1500)
-    }, 5000);
+      }, 2500)
+    }, 4000);
+
   } else {
     $('html').removeClass('brk-preloader');
     $('.brk-header:not(.brk-header_vertical)').css('display', '').addClass('d-flex');
