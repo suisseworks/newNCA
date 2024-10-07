@@ -137,6 +137,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="resource_wrap_links">
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="docs/SUCCESSFUL RECAPITALIZATION FOR NCA ENTREPRENEUR ADAM SALMEN_OCT 2 2024.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Successful Recapitalization for NCA Entrepreneur Adam Salmen<span class="arrow_link_a"></span></a>
+						</div>
+
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/SUCCESSFUL_ACQUISITION_FOR_NCA_ENTREPRENEUR_PAOLO_CIARLARIELLO.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Successful Italian Acquisition For NCA Entrepreneur Paolo Ciarlariello<span class="arrow_link_a"></span></a>
 						</div>
 
