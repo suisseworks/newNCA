@@ -58,6 +58,7 @@
 		</div>
 	</footer><a href="#top" id="toTop"></a>
 	<script src="js/scripts.min.js"></script>
+	<script src="js/zoho.js"></script> 
 	<!--<script src="vendor/revslider/js/jquery.themepunch.tools.min.js"></script>
 	<script src="vendor/revslider/js/jquery.themepunch.revolution.min.js"></script>
 	<script src="vendor/revslider/js/extensions/revolution.extension.actions.min.js"></script>

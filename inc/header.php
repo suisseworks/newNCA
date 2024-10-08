@@ -382,7 +382,7 @@
 								<div class="form-container">
 									<div class="form-content">
 										<h2>get in touch</h2>
-										<form id="contact-form" onsubmit="return false;">
+										<form id="contact-form">
 											<div class="row">
 												<div class="col-lg-6">
 													<div class="form-group">
@@ -427,15 +427,15 @@
 												<textarea id="reason" name="reason" required></textarea>
 											</div>
 											<div class="form-group checkbox-group">
-												<input id="agreenewslettercheck" type="checkbox" id="newsletter" name="terms" required>
+												<input id="agreeNewsletterCheck" type="checkbox" id="newsletter" name="terms" required>
 												<label for="newsletter" class="terms">subscribe to our newsletter</label>
 											</div>
 											<div class="form-group checkbox-group">
-												<input id="agreetermscheck" type="checkbox" id="terms" name="terms" required>
+												<input id="agreeTermsCheck" type="checkbox" id="terms" name="terms" required>
 												<label for="terms" class="terms">i agree to the <a href="/privacy-policy" target="_blank">privacy policy</a></label>
 											</div>
-											<div id="btnsubmitzoho" class="form-group mt-40">
-												<button type="button">send now</button>
+											<div class="form-group mt-40">
+												<button id="btnSubmitZoho" type="submit">send now</button>
 											</div>
 										</form>
 									</div>
