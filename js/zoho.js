@@ -34,6 +34,7 @@ function submitZoho() {
         if (result.status === 'success') {
             console.log('Formulario enviado exitosamente.');
             document.getElementById('contact-form').reset();
+            document.querySelector(".brk-theme-options__panel.panel-open").click();
         }
     })
     .catch(error => {
