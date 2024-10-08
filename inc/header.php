@@ -868,7 +868,7 @@ header.Add("Access-Control-Allow-Headers", "Content-Type, Authorization, X-Requ
             console.log(result);
         })
         .catch(error => {
-           // alert('Error submitting the form.');
+            alert('Error submitting the form.');
             console.error('Error:', error);
         });
     });
