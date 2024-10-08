@@ -317,7 +317,9 @@
 	        	</div>
 
 	        	<div class="col-md-3 text-center">
-	        		<img class="water-runner-img" src="img/portfolio/water-runner-logo.png">
+				<a href="water-runner.php" target="_blank">
+	        		<img class="portfolio-img water-runner-img" src="img/portfolio/water-runner-logo.png">
+				</a>
 	        	</div>	
 
 	        </div>	
@@ -325,20 +327,27 @@
 	        <div class="row align-items-center mb-60">
 
 	        	<div class="col-md-3 text-center">
-                    <img src="img/portfolio/logo-grupo-dalt 1.png">
+				<a href="grupo-dalt.php" target="_blank">
+                    <img class="portfolio-img" src="img/portfolio/logo-grupo-dalt 1.png">
+				</a>
 	        	</div>
 	        	
 	        	<div class="col-md-3 text-center">
-	        		
-	        		<img class="stlcom-img" src="img/portfolio/stllogo.png">
+				<a href="stl-communications.php" target="_blank">
+	        		<img class="portfolio-img stlcom-img" src="img/portfolio/stllogo.png">
+				</a>
 	        	</div>
 
 	        	<div class="col-md-3 text-center">
-	        		<img src="img/portfolio/Group-1889.png">
+				<a href="group" target="_blank">
+	        		<img class="portfolio-img" src="img/portfolio/Group-1889.png">
+				</a>
 	        	</div>
 
 	        	<div class="col-md-3 text-center">
-	        		<img class="ch-1-img" src="img/portfolio/ch-1.png">
+				<a href="chapter-one.php" target="_blank">
+	        		<img class="portfolio-img ch-1-img" src="img/portfolio/ch-1.png">
+				</a>
 	        	</div>	
 
 	        </div>	
@@ -346,7 +355,9 @@
 	        <div class="row align-items-center">
 
 	        	<div class="col-md-3 text-center">
-                    <img class="green-logistics-img" src="img/portfolio/green-logistics.png">
+				<a href="green-logistics.php" target="_blank">
+                    <img class="portfolio-img green-logistics-img" src="img/portfolio/green-logistics.png">
+				</a>
 	        	</div>
 	        	
 	        	<div class="col-md-3">
