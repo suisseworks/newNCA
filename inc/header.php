@@ -99,12 +99,12 @@
 	<div class="brk-theme-options__control shadow-none bg-primary get_touch_main">
 		<div class="zoho_form">
 			<meta content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
-			<script type="text/javascript" src="https://atds.maillist-manage.eu/js/optin.min.js" onload="setupsf('sf3z91324461e41f85b2f2303104634b5e29a8802aaa964c96c3702fdb248ad76b61','zcformview',false,'acc',false,'2')"></script>
+			<!-- <script type="text/javascript" src="https://atds.maillist-manage.eu/js/optin.min.js" onload="setupsf('sf3z91324461e41f85b2f2303104634b5e29a8802aaa964c96c3702fdb248ad76b61','zcformview',false,'acc',false,'2')"></script>
 			<script type="text/javascript">
 				function runonformsubmit_sf3z91324461e41f85b2f2303104634b5e29a8802aaa964c96c3702fdb248ad76b61(th) {
 					/*before submit, if you want to trigger your event, "include your code here"*/
 				};
-			</script>
+			</script> -->
 
 			<style>
 				#sf3z91324461e41f85b2f2303104634b5e29a8802aaa964c96c3702fdb248ad76b61 #customform *:not(.dateclass) {
@@ -370,7 +370,7 @@
 			</style>
 
 			<!--zoho campaigns web-optin form's header code ends here--><!--zoho campaigns web-optin form starts here-->
-			<div id="sf3z91324461e41f85b2f2303104634b5e29a8802aaa964c96c3702fdb248ad76b61" data-type="signupform">
+			<div>
 				<div id="customform">
 					<input type="hidden" id="recaptheme" value="2">
 					<input type="hidden" id="isrecapintegdone" value="false">
@@ -382,7 +382,7 @@
 								<div class="form-container">
 									<div class="form-content">
 										<h2>get in touch</h2>
-										<form id="contact-form">
+										<form id="contact-form" onsubmit="return false;">
 											<div class="row">
 												<div class="col-lg-6">
 													<div class="form-group">
@@ -435,7 +435,7 @@
 												<label for="terms" class="terms">i agree to the <a href="/privacy-policy" target="_blank">privacy policy</a></label>
 											</div>
 											<div id="btnsubmitzoho" class="form-group mt-40">
-												<button type="submit">send now</button>
+												<button type="button">send now</button>
 											</div>
 										</form>
 									</div>

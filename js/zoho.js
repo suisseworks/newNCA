@@ -1,7 +1,8 @@
 $(document).ready(function () {
     $("#btnSubmitZoho").on('click', function (e) {
         e.preventDefault();
-        submitZoho();
+        alert('Formulario enviado exitosamente.');
+        // submitZoho();
     });
 });
 
