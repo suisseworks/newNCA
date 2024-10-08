@@ -58,28 +58,28 @@
 	margin: 0 auto;
 }
 .iar-img,.fo-seng-img{
-	max-width: 120px;
+	max-width: 120px !important;
 }
 .adex-img{
-	max-width: 200px;
+	max-width: 200px !important;
 }
 .for-med-img{
-	max-width: 244px;
+	max-width: 244px !important;
 }
 .ffco-img{
-	max-width: 197.94px;
+	max-width: 197.94px !important;
 }
 .water-runner-img{
-	max-width: 186.86px;
+	max-width: 186.86px !important;
 }
 .stlcom-img{
-	max-width: 250px;
+	max-width: 250px !important;
 }
 .ch-1-img{
-	max-width: 154px;
+	max-width: 154px !important;
 }
 .green-logistics-img{
-	max-width: 182.86px;
+	max-width: 182.86px !important;
 }
 .img-bg{
     width: 284px;
@@ -87,9 +87,22 @@
     border-radius: 30px;
     padding: 30px 0px;
 }
-.forza-img{
+
+
+.portfolio-img{
 	max-width: 200px;
+	 
 }
+
+
+
+.portfolio-img:hover {
+    box-shadow: 0 4px 8px white; /* Adds a shadow on hover */
+    cursor: pointer;
+    transform: scale(1.05); /* Slightly enlarges the image on hover */
+}
+ 
+
 
 @media only screen and (min-width: 768px){
 	.desktop-display{
@@ -256,23 +269,29 @@
         <div class="desktop-logos logos-row-container pt-60">
 	        <div class="row align-items-center">
 
-	        	<div class="col-md-3 text-center">
-	        		<div class="img-bg  text-center">
-                       <img class="forza-img" src="img/portfolio/forza-logo.png">
-                    </div>   
+	        	<div class="col-md-3 text-center">			 					 
+				<a href="forza-doors.php" target="_blank">
+					<img class="portfolio-img" src="img/portfolio/forza-logo.png" alt="Forza Logo">
+				</a>
+		
 	        	</div>
 	        	
 	        	<div class="col-md-3 text-center">
-	        		
-	        		<img class="iar-img" src="img/portfolio/IAR-Dark-Desktop.png">
+				<a href="iar-group.php" target="_blank">
+	        		<img class="portfolio-img iar-img" src="img/portfolio/IAR-Dark-Desktop.png">
+				</a>
 	        	</div>
 
 	        	<div class="col-md-3 text-center">
-	        		<img class="fo-seng-img" src="img/portfolio/foo-seng.png">
+					<a href="fooseng.php" target="_blank">
+	        		<img class="portfolio-img fo-seng-img" src="img/portfolio/foo-seng.png">
+					</a>
 	        	</div>
 
 	        	<div class="col-md-3 text-center">
-	        		<img src="img/portfolio/logo-seyses.png">
+				<a href="seyses.php" target="_blank">
+	        		<img class="portfolio-img" src="img/portfolio/logo-seyses.png">
+				</a>
 	        	</div>	
 
 	        </div>	
@@ -280,16 +299,21 @@
 	        <div class="row align-items-center mb-30">
 
 	        	<div class="col-md-3 text-center">
-                    <img class="adex-img" src="img/portfolio/adex.png">
+				<a href="adex.php" target="_blank">
+                    <img class="portfolio-img adex-img" src="img/portfolio/adex.png">
+				</a>
 	        	</div>
 	        	
 	        	<div class="col-md-3 text-center">
-	        		
-	        		<img class="for-med-img" src="img/portfolio/Formeds_Logo__dark_blue_bez_tla 1.png">
+				<a href="formeds.php" target="_blank">
+	        		<img class="portfolio-img for-med-img" src="img/portfolio/Formeds_Logo__dark_blue_bez_tla 1.png">
+				</a>
 	        	</div>
 
 	        	<div class="col-md-3 text-center">
-	        		<img class="ffco-img" src="img/portfolio/FF_CO_LTD.png">
+				<a href="formeds.php" target="_blank">
+	        		<img class="portfolio-img ffco-img" src="img/portfolio/FF_CO_LTD.png">
+				</a>
 	        	</div>
 
 	        	<div class="col-md-3 text-center">
