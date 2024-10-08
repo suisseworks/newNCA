@@ -54,28 +54,31 @@
 
                             </li>
 
-                        <li class="dropdown m-li">
+                       
+
+						 
+
+					
+
+
+
+
+						<li class="dropdown d-li">
 							
-							<a href="entrepreneurs.php"><span class="d-lg-none menu_for"></span>Our Entrepreneurs
+							<a href="candidates.php">Candidates
 								<i class="fa fa-caret-down pl-1"></i>                  
 							</a>
 
 							<ul class="dropdown-content">
-								<!-- <li><a href="entrepreneurs.php">Entrepreneurs
 
-								</a></li> -->
-								<li><a href="news-resources.php">Searching Entrepreneurs</a></li>
-
-								<li><a href="entrepreneurs.php#ceos">NCA CEO's</a></li>
+								<li><a href="candidates.php#selectionprocess">Selection Process</a></li>
+								<li><a href="candidates.php#professional_development">Professional Development</a></li>
+								<li><a href="candidates.php#applynow">Apply Now</a></li>
 
 							</ul>
 
 						</li>
 
-
-
-
-						<li><a href="candidates.php"><div><span class="d-lg-none menu_for"></span>For Candidates</div></a></li>
 
 
 
@@ -865,7 +868,7 @@ header.Add("Access-Control-Allow-Headers", "Content-Type, Authorization, X-Requ
             console.log(result);
         })
         .catch(error => {
-            alert('Error submitting the form.');
+           // alert('Error submitting the form.');
             console.error('Error:', error);
         });
     });

@@ -65,6 +65,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>New Business Development</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Sales Management</li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic & Ethical Sourcing</li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Operations</li>
 					</ul>
 				</div>
 			</div>
@@ -72,7 +73,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">  
-                        My search focuses on eCommerce and B2B products sectors. eCommerce includes both B2C and B2B businesses. B2B Products includes companies supplying goods to other businesses. 
+					My search focuses on E-commerce and B2B Products sectors. E-Commerce includes both B2C and B2B businesses. B2B Products includes companies supplying goods to other businesses and can include anything from machinery to food items. My target companies are the ones with the HQ in the UK but can have customers and operations in the UK and internationally.
 
                      
 					<p class="font__size-16 line__height-24 mt-2">
@@ -85,7 +86,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					</p>
 					<p class="font__size-16 line__height-24 mt-1">
-                        With experience across different functions and managing full P&Ls, I have an in-depth knowledge of the entire value chain within both eCommerce and B2B products sectors. I have worked in different markets including Asia, Europe, and the Middle East, and have a large network within the target sectors. This experience and network would help me strategise the business, set up a clear customer value proposition, create efficiencies, execute growth plans, define product and technology requirements, and improve operational profitability.
+                        With experience across different functions and managing full P&Ls, I have an in-depth knowledge of the entire value chain within both eCommerce and B2B Products sectors. I have worked in different markets including Asia, Europe, and the Middle East, and have a large network within the target sectors. This experience and network would help me strategise the business, set up a clear customer value proposition, create efficiencies, execute growth plans, define product and technology requirements, and improve operational profitability.
 					</p>    
 			</div>
 		</div>
@@ -156,7 +157,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-ajay.png" class="resume_img">
+				<img src="img/background-ajay2.png" class="resume_img">
 			</div>
 		</div>
 

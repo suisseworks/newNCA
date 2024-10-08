@@ -38,12 +38,12 @@ $_SESSION["lan"] = "English";
 		</section>
 
 
-		<section class="slider_process_section">
+		<section id="selectionprocess" class="slider_process_section">
 			<div class="container">
 				<div class="pt-100 pb-200">
 					<div class="row no-gutters mb-100 d-flex align-items-center">
 						<div class="col-12">
-							<h2 class="stroke_text talents_stroke_text talents_strok_cls_2 pl-4 ml-3 pb-100 text-uppercase text-center wow fadeInLeft">Selection & onboarding process</h2>
+							<h2  class="stroke_text talents_stroke_text talents_strok_cls_2 pl-4 ml-3 pb-100 text-uppercase text-center wow fadeInLeft">Selection & onboarding process</h2>
 						</div>
 					</div>
 					<div class="row no-gutters d-flex align-items-center">
@@ -755,19 +755,21 @@ $_SESSION["lan"] = "English";
 	</div>
 </section>
 
-<section class="tabs-slider-section py-5">
+<section id="professional_development" class="tabs-slider-section py-5">
 	<div class="container">
 		<div class="row no-gutters d-flex align-items-center">
 			<div class="col-12">
-				<h2 class="stroke_text talents_stroke_text talents_strok_cls_2 text-uppercase text-center mb-60 wow fadeInLeft f-s-75">
-					Professor Bios
+				<h2 class="stroke_text talents_stroke_text talents_strok_cls_2 text-uppercase text-center mb-60  wow fadeInLeft f-s-75">
+				Professional Development Program
 				</h2>
-
+				 
 			</div>	
 		</div>				
 
 		<div class="col-12 mb-80">
 								<div class="support_team_content px-5">
+
+													
 									<p class="pr-lg-100 pr-0">
 									Introducing our esteemed panel of contributing professors, offering business training courses to our entrepreneurs. Hailing from renowned MBA programs across the EU and the US, each professor brings a wealth of academic expertise and real-world experience to our ETA program. Explore below to learn more about the professors contributing to NCA searchers on their entrepreneurial journey!
 									</p>
@@ -783,19 +785,19 @@ $_SESSION["lan"] = "English";
 	<div class="main tabs-slider">
 		<div class="slider slider-nav">
 			<div>
-				<h3>Dr. Benoit <br>Leleux</h3>
+				<h3>MBO & <br>Value Creation</h3>
 			</div>
 			<div>
-				<h3>Horacio <br>Falcao</h3>
+				<h3>Negotiation Course</h3>
 			</div>
 			<div>
-				<h3>Nuno <br>Fernandes</h3>
+				<h3>Corporate <br> Finance</h3>
 			</div>
 			<div>
-				<h3>Tim <br>Calkins</h3>
+				<h3>Strategic Marketing </h3>
 			</div>
 			<div>
-				<h3>John <br>Hallal</h3>
+				<h3>M&A Fundamentals</h3>
 			</div>
 			 
 		</div>
@@ -807,7 +809,8 @@ $_SESSION["lan"] = "English";
 						<img src="img/benoit_leleux.jpg">
 					</div>    
 					<div class="profile-data">
-						<h2>Dr. Benoit Leleux</h2>
+					<h2>MBO & Value Creation  <br> <span style="font-size: 80%; font-style: italic;">with Benoit Leleux</span></h2>
+
 						<div class="profile-pic">
 							<img src="img/profile-two.png">
 							<div class="footer_btns small-block">
@@ -815,6 +818,9 @@ $_SESSION["lan"] = "English";
 							</div>
 						</div>
 						<p>
+						This dynamic course empowers you with the essential skills and knowledge to excel in mergers and acquisitions (M&A) and Entrepreneurship Through Acquisition (ETA). Over five engaging sessions, you'll learn how to define acquisition criteria, build a winning search strategy, navigate due diligence, and master business valuation and financing. You’ll also dive into deal negotiations, making compelling offers, and the post-acquisition process. By the end, you'll confidently tackle every stage of the M&A journey, armed with practical tools to drive successful outcomes from start to finish.
+						</p>
+						<h2 style="font-size:130%" class="mb-10 mt-20">About the Professor</h2> 
 						   Dr. Benoît Leleux, the Stephan Schmidheiny Professor of Entrepreneurship and Finance at IMD in Lausanne, Switzerland, is a distinguished academic and expert in entrepreneurship, venture capital, and private equity. With a Ph.D. from INSEAD, he has held leadership roles at IMD, including director of the MBA program and Vice-President of the Pension Foundation. 
 						</p>
 
@@ -835,7 +841,7 @@ $_SESSION["lan"] = "English";
 						<img src="img/horacio-falcao.jpg">
 					</div>    
 					<div class="profile-data">
-						<h2>Horacio Falcao</h2>
+					<h2>Negotiation <br> <span style="font-size: 80%; font-style: italic;">with Horacio Falcao</span></h2>
 						<div class="profile-pic">
 							<img src="img/profile-two.png">
 							<div class="footer_btns small-block">
@@ -843,6 +849,10 @@ $_SESSION["lan"] = "English";
 							</div>
 						</div>
 						<p>
+						The Negotiation course at NCA empowers experienced executives to sharpen their negotiation skills and achieve better outcomes. Through the Value Negotiation framework, participants will identify their strengths, weaknesses, and areas for growth as negotiators. The course seamlessly blends theory with practical application, covering key topics like conflict resolution, value creation, and success measurement. With interactive lectures, discussions, and award-winning role-play simulations, executives will gain hands-on experience tailored to their unique negotiation challenges, including internal and external transactions. This course is designed to enhance both strategic thinking and practical negotiation techniques for high-stakes deals.
+						</p>
+						<p>
+						<h2 style="font-size:130%" class="mb-10 mt-20">About the Professor</h2> 
 						    Horacio Falcão is a Professor of Management Practice at INSEAD and the creator of the Value Negotiation system, designed to maximize rewards and minimize risks in negotiations. At INSEAD, Horacio is the program director for the Negotiation Dynamics program, the co-creator of two Online Negotiation Certificate programs, and the co-founder of the INSEAD Negotiation and Conflict Resolution initiative. 
 						</p>
 						
@@ -861,7 +871,7 @@ $_SESSION["lan"] = "English";
 						<img src="img/nuno_fernandes.jpg">
 					</div>    
 					<div class="profile-data">
-						<h2>Nuno Fernandes</h2>
+					<h2>Corporate Finance  <br> <span style="font-size: 80%; font-style: italic;">with Nuno Fernandes</span></h2>
 						<div class="profile-pic">
 							<img src="img/profile-two.png">
 							<div class="footer_btns small-block">
@@ -869,6 +879,10 @@ $_SESSION["lan"] = "English";
 							</div>
 						</div>
 						<p>
+						This dynamic Finance course empowers participants to make smart, value-driven decisions using key financial insights. You'll learn how to assess businesses from a financial perspective and explore strategies for enhancing operational success and growth. Through interactive, real-world applications, discover how finance integrates with marketing and operations, and dive deep into value creation, discounted cash flows, company valuation, and M&As. By the end, you'll be equipped to analyze corporate decisions, apply valuation techniques, and make strategic moves that drive sustainable profitability and business success.
+						</p>
+						<p>
+						<h2 style="font-size:130%" class="mb-10 mt-20">About the Professor</h2> 
 						   Nuno Fernandes, a distinguished finance expert and Professor of Finance at IESE Business School, holds key roles as Chairman of the Board of Auditors at the Portuguese Central Bank and Non-Executive Director at the European Investment Bank. With a focus on corporate finance, climate finance, mergers and acquisitions, and corporate governance, Professor Fernandes advises global companies and financial institutions and is a sought-after speaker, delivering impactful presentations worldwide. 
 						</p>
 						
@@ -888,7 +902,8 @@ $_SESSION["lan"] = "English";
 
 					</div>    
 					<div class="profile-data">
-						<h2>Tim Calkins</h2>
+					<h2>Strategic Marketing   <br> <span style="font-size: 80%; font-style: italic;">with Tim Calkins</span></h2>
+			
 						<div class="profile-pic">
 							<img src="img/profile-two.png">
 							<div class="footer_btns small-block">
@@ -896,6 +911,10 @@ $_SESSION["lan"] = "English";
 							</div>
 						</div>
 						<p>
+						The Strategic Marketing and Growth course is a dynamic four-day program designed to empower participants with key marketing strategies to fuel business success. You'll dive into core marketing concepts like differentiation, customer advantage, and positioning, while also exploring growth strategies and tactics for market entry and defending against competitors. This hands-on course offers insights into the vital role of strategic marketing, the importance of profitable growth, and how to thrive in both emerging and established markets. By the end, you'll be equipped with the tools to build a strong, defensible business that drives long-term success.
+						</p>
+						<p>
+						<h2 style="font-size:130%" class="mb-10 mt-20">About the Professor</h2> 
 						  Tim Calkins, the distinguished Associate Chair of the Marketing Department and Clinical Professor of Marketing at Northwestern University's Kellogg School of Management, is a two-time recipient of the Lawrence G. Lavengood Outstanding Professor of the Year Award and the 2018 recipient of the Top Professor Award from Germany’s Kellogg-WHU Executive MBA Program. Renowned for his exceptional teaching and recognized as one of Poets & Quants' "Favorite MBA Professors" in 2016, Tim is also an accomplished author. 
 						</p>
 						
@@ -914,7 +933,7 @@ $_SESSION["lan"] = "English";
 						<img src="img/john_hallal.jpg">
 					</div>    
 					<div class="profile-data">
-						<h2>John Hallal</h2>
+					<h2>M&A Fundamentals <br> <span style="font-size: 80%; font-style: italic;">John Hallal</span></h2>						 
 						<div class="profile-pic">
 							<img src="img/profile-two.png">
 							<div class="footer_btns small-block">
@@ -922,14 +941,21 @@ $_SESSION["lan"] = "English";
 							</div>
 						</div>
 						<p>
+						This dynamic course empowers you with the essential skills and knowledge to excel in mergers and acquisitions (M&A) and Entrepreneurship Through Acquisition (ETA). Over five engaging sessions, you'll learn how to define acquisition criteria, build a winning search strategy, navigate due diligence, and master business valuation and financing. You’ll also dive into deal negotiations, making compelling offers, and the post-acquisition process. By the end, you'll confidently tackle every stage of the M&A journey, armed with practical tools to drive successful outcomes from start to finish.
+						</p>
+						<p>
+						<h2 style="font-size:130%" class="mb-10 mt-20">About the Professor</h2> 
 						John Hallal is a seasoned entrepreneur and M&A expert, with a successful track record in advising and operating startup and emerging growth companies. As the founder of Network Blue, he specializes in providing comprehensive M&A advisory services to founder-led lower middle market companies, encompassing financial advisory, negotiations, deal structuring, and due diligence. 
 						</p>
 
 						<p>
 						In addition to his entrepreneurial endeavors, including involvement in medical device manufacturing and cannabis brands, John has been a faculty member at Babson College for twelve years, teaching courses on Entrepreneurship Through Acquisition and M&A for Entrepreneurs, while also actively advising and investing in various Entrepreneurship Through Acquisition projects, including search funds.
 					   </p>
-						<div class="footer_btns">
-							<a href="https://www.linkedin.com/in/john-hallal-b566617/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+
+
+					   <div class="footer_btns">
+							<a href="https://www.linkedin.com/in/john-hallal-b566617/" target="_blank" 
+							class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 						</div>
 					</div>                          
 				</div>
@@ -993,7 +1019,7 @@ $_SESSION["lan"] = "English";
 	</div>
 </section>
 
-<section class="apply_section bg-white">
+<section id="applynow" class="apply_section bg-white">
 	<div class="container">
 		<div class="pt-50 pb-50">
 			<div class="row no-gutters d-flex">

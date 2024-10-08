@@ -109,7 +109,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-						<li><a href="candidates.php"><div><span class="d-lg-none menu_for"></span>For Candidates</div></a></li>
+					
+						<li class="dropdown d-li">
+							
+							<a href="candidates.php">Candidates
+								<i class="fa fa-caret-down pl-1"></i>                  
+							</a>
+
+							<ul class="dropdown-content">
+
+								<li><a href="candidates.php#selectionprocess">Selection Process</a></li>
+								<li><a href="candidates.php#professional_development">Professional Development</a></li>
+								<li><a href="candidates.php#applynow">Apply Now</a></li>
+
+							</ul>
+
+						</li>
 
 
 

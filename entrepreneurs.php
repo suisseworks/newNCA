@@ -66,7 +66,7 @@ $_SESSION["lan"] = "English";
 
 		<div class="  col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/vanessa.jpg">
+                    	<img class="w-100" src="img/searcher-vanessa-monestel.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -87,7 +87,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/david-lin-about.png">
+                    	<img class="w-100" src="img/searcher-david-lin.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -101,23 +101,27 @@ $_SESSION["lan"] = "English";
                     </div>	
 				</div>
 
+ 
+
+			
+			 
+
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/adam-about.png">
+                    	<img class="w-100" src="img/searcher-olivier-guillebert.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Adam Salmen</h5>
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Olivier Guillebert</h5>
 		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
 							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-adam.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+									<a href="https://www.novastone-ca.com/olivier-guillebert.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
 								</div>	
 		        			</p>	
 					</div>	
                     </div>	
 				</div>
-
 
 				<div class="col-lg-3 member_card mt-10 mt-lg-0 pl-5 pr-5">
                     	<div class="bg-primary question-box question-box-height box-height-entrepre">
@@ -133,43 +137,10 @@ $_SESSION["lan"] = "English";
 						</div>	
 				</div>
 				
-				<!--
-				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
-                    <div class="img_section w-100">
-                    	<img class="w-100" src="img/daniel-about.png">
-                    </div>	
-                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
-                    	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Daniel Coutinho</h5>
-		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/searcher-daniel.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
-								</div>	
-		        			</p>	
-					</div>	
-                    </div>	
-				</div>
-                -->
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/olivier-about.png">
-                    </div>	
-                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
-                    	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Olivier Guillebert</h5>
-		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/olivier-guillebert.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
-								</div>	
-		        			</p>	
-					</div>	
-                    </div>	
-				</div>
-
-				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
-                    <div class="img_section w-100">
-                    	<img class="w-100" src="img/alejandro-about.png">
+                    	<img class="w-100" src="img/searcher-alejandro-salcedo.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -183,9 +154,11 @@ $_SESSION["lan"] = "English";
                     </div>	
 				</div>
 
+				
+
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/aron-about.png">
+                    	<img class="w-100" src="img/searcher-aron-szabo.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -203,7 +176,7 @@ $_SESSION["lan"] = "English";
 
 			  <div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/about-erika-obrien.png">
+                    	<img class="w-100" src="img/searcher-erika-obrien.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -219,7 +192,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/ben-about.png">
+                    	<img class="w-100" src="img/searcher-ben-boenk.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -236,7 +209,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/marcin-about.png">
+                    	<img class="w-100" src="img/searcher-marcin-chruciel.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -253,7 +226,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/about-jordan.png">
+                    	<img class="w-100" src="img/searcher-jordan-frank.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -268,7 +241,7 @@ $_SESSION["lan"] = "English";
 				</div>
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/about-bill.png">
+                    	<img class="w-100" src="img/searcher-bill-balliete.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -281,24 +254,10 @@ $_SESSION["lan"] = "English";
 					</div>	
                     </div>	
 				</div>
-				<div class="hide col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
-                    <div class="img_section w-100">
-                    	<img class="w-100" src="img/about-bill.png">
-                    </div>	
-                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
-                    	<div class="text-white">
-                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Bill Balliette</h5>
-		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-							<div class="d-flex align-items-center justify-content-center">
-									<a href="https://www.novastone-ca.com/bill-balliette.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
-								</div>	
-		        			</p>	
-					</div>	
-                    </div>	
-				</div>
+				 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/jim-kelly-about.png">
+                    	<img class="w-100" src="img/searcher-jim-kelly.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -313,7 +272,7 @@ $_SESSION["lan"] = "English";
 				</div>
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/simon-farmer-about.png">
+                    	<img class="w-100" src="img/searcher-simon-farmer.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -329,7 +288,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/martine-legault-about.png">
+                    	<img class="w-100" src="img/searcher-martine-legault.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -345,7 +304,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/about-eyal-kaplan.png">
+                    	<img class="w-100" src="img/searcher-eyal-keplan.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -362,7 +321,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/paolo-ribeirinho-about.png">
+                    	<img class="w-100" src="img/searcher-paulo-riberinho.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -380,7 +339,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/max-koutny-about.png">
+                    	<img class="w-100" src="img/searcher-max-koutny.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -401,7 +360,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/brooks-bergreen-about.png">
+                    	<img class="w-100" src="img/search-brooks-bergreen.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -419,7 +378,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/carlos-laconi-about.png">
+                    	<img class="w-100" src="img/searcher-carlos-laconi.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -436,7 +395,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/abed-shaheen-about.png">
+                    	<img class="w-100" src="img/searcher-abed-shaheen.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -452,7 +411,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/krishan_arora.png">
+                    	<img class="w-100" src="img/searcher-krishan-arora.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -468,7 +427,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/george_bassily_about.png">
+                    	<img class="w-100" src="img/searcher-george-bassily.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -484,7 +443,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/padraig_lawlor_about.jpg">
+                    	<img class="w-100" src="img/searcher-padraig-lawlor.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -500,7 +459,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/justin_mack_about.jpg">
+                    	<img class="w-100" src="img/searcher-justin-mack.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -533,7 +492,7 @@ $_SESSION["lan"] = "English";
 				
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/jen_liang_about.jpg">
+                    	<img class="w-100" src="img/searcher-jen-liang.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -549,7 +508,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/morgan_ericksen_about.png">
+                    	<img class="w-100" src="img/searcher-morgan-eriksen.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -565,7 +524,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/mark_lopez_about.png">
+                    	<img class="w-100" src="img/searcher-mark-lopez.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -581,7 +540,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/robert_vero_about.jpg">
+                    	<img class="w-100" src="img/searcher-robert-vero.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -598,7 +557,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/bill_rees_about.png">
+                    	<img class="w-100" src="img/searcher-bill-reese.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -614,7 +573,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/about-nell.jpg">
+                    	<img class="w-100" src="img/searcher-nell-smircina.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -630,7 +589,7 @@ $_SESSION["lan"] = "English";
 
 				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
                     <div class="img_section w-100">
-                    	<img class="w-100" src="img/about-rouven-behge.png">
+                    	<img class="w-100" src="img/searcher-rouven-behge.png">
                     </div>	
                     <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
                     	<div class="text-white">
@@ -727,7 +686,7 @@ $_SESSION["lan"] = "English";
 				<div class="img-logo d-flex">
 	                <a href="docs/NCA-CELEBRATES-FIRST-ACQUISITION.pdf" class="img_section w-50">
                         <div class="img_div">
-	                	   <img class="w-100" src="img/sabastien.png">
+	                	   <img class="w-100" src="img/sebasstien-ceo.png">
 	                	</div>   
 	                </a>
 	                <a href="https://iargroup.com/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center">
@@ -759,7 +718,7 @@ $_SESSION["lan"] = "English";
 				<div class="img-logo d-flex">
 	                <a href="docs/NCA-CELEBRATES-THIRD-ACQUISITION.pdf" class="img_section w-50">
                         <div class="img_div">
-	                	   <img class="w-100" src="img/Mike.jpg">
+	                	   <img class="w-100" src="img/mike-ceo.png">
 	                	</div>   
 	                </a>
 	                <a href="https://glgbv.com/en/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
@@ -791,7 +750,7 @@ $_SESSION["lan"] = "English";
 				<div class="img-logo d-flex">
 	                <a href="docs/NCA-CELEBRATES-ITS-NEXT-ACQUISITION-IN-POLAND.pdf" class="img_section w-50">
                         <div class="img_div">
-	                	   <img class="w-100" src="img/val-about.png">
+	                	   <img class="w-100" src="img/val-ceo.png">
 	                	</div>   
 	                </a>
 	                <a href="https://www.formeds.com.pl/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
@@ -1228,7 +1187,7 @@ $_SESSION["lan"] = "English";
 				<div class="img-logo d-flex">
 	                <a href="" class="img_section w-50">
                         <div class="img_div">
-	                	   <img class="w-100" src="img/about-us-marc.png">
+	                	   <img class="w-100" src="img/marc-decoste-ceo.png">
 	                	</div>   
 	                </a>
 	                <a href="http://extendedpowerinc.com/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
@@ -1332,7 +1291,7 @@ $_SESSION["lan"] = "English";
 	                	   <img class="w-100" src="img/adam-salmen-ceo.png">
 	                	</div>   
 	                </a>
-	                <a href="https://umecc.com/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
+	                <a href="https://umecc.com/about.html" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
 	                	<div class="logo_div">
 	                	    <img style="padding-left:20px" class="w-80" src="img/logo-umecc.png">
 	                	</div>    
