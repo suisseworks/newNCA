@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    $("#zcWebOptin").on('click', function (e) {
+    $("#btnSubmitZoho").on('click', function (e) {
         e.preventDefault();
         submitZoho();
     });
@@ -8,16 +8,16 @@ $(document).ready(function () {
 
 function submitZoho() {
 
-    const newsletter = document.getElementById('zcWebOptin').checked ? 'true' : 'false';
-    const agree = document.getElementById('zcWebOptin').checked ? 'true' : 'false';
+    const newsletter = document.getElementById('agreeNewsletterCheck').checked ? 'true' : 'false';
+    const agree = document.getElementById('agreeTermsCheck').checked ? 'true' : 'false';
 
     const json = {
-        selectprofile: document.getElementById('dt_CONTACT_CF1').value,
-        email: document.getElementById('dt_CONTACT_EMAIL').value,
-        first_name: document.getElementById('dt_FIRSTNAME').value,
-        last_name: document.getElementById('dt_LASTNAME').value,
-        company: document.getElementById('dt_COMPANYNAME').value,
-        reason: document.getElementById('dt_REASON').value,
+        selectprofile: document.getElementById('profile').value,
+        email: document.getElementById('contact-email').value,
+        first_name: document.getElementById('first-name').value,
+        last_name: document.getElementById('last-name').value,
+        company: document.getElementById('company-name').value,
+        reason: document.getElementById('reason').value,
         newsletter: newsletter,
         agree_policy: agree
     };
