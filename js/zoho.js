@@ -1,11 +1,10 @@
-$(document).ready(function () {
-    $("#btnSubmitZoho").on('click', function (e) {
-        e.preventDefault();
-        alert('Formulario enviado exitosamente.');
-        // submitZoho();
-    });
-});
+setTimeout(() => {
 
+    document.getElementById("contact-form").addEventListener('submit', function(e) {
+        e.preventDefault();
+        submitZoho();
+    });
+}, 500);
 
 function submitZoho() {
 
@@ -23,21 +22,23 @@ function submitZoho() {
         agree_policy: agree
     };
 
-    $.ajax({
-        url: "https://nca-api.whagons.com/api/webHookZoho",
-        type: 'POST',
-        datatype: 'json',
-        data: JSON.stringify(json),
-        contentType: 'application/json',
-        processData: false,
-        success: function (result) {
-
-            if (result.status === 'success') {
-                console.log('Formulario enviado exitosamente.');
-            }
+    fetch("https://nca-api.whagons.com/api/webHookZoho", {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
         },
-        error: function (data) {
-            // alert('Error al enviar el formulario.');
+        body: JSON.stringify(json)
+    })
+    .then(response => response.json())
+    .then(result => {
+        if (result.status === 'success') {
+            console.log('Formulario enviado exitosamente.');
+            document.getElementById('contact-form').reset();
+            document.querySelector(".brk-theme-options__panel.panel-open").click();
         }
+    })
+    .catch(error => {
+        console.error('Error al enviar el formulario.', error);
     });
+    
 }
