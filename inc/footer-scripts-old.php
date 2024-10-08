@@ -133,30 +133,6 @@
 			</div>
 		</div>
 		<?php //include 'inc/cookies.php'; ?>
-
-<script>
-    //window.addEventListener('load', function () {
-      
-      setTimeout(function () {
-        $('.counter-count').each(function () {
-        $(this).prop('Counter',0).animate({
-            Counter: $(this).text()
-        }, {
-          
-          //chnage count up speed here
-            duration: 5000,
-            easing: 'swing',
-            step: function (now) {
-                $(this).text(Math.ceil(now));
-            }
-        });
-    });
-        console.log('removed');
-      }, 2500)
-    //});
-</script>
-
-
 	</body>
 
 	</html>
