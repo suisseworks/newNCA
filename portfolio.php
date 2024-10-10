@@ -209,12 +209,12 @@
 }
 </style>
 <main class="portfolio-main-cls">
-<!-- <section class="portfolio-banner">
+  <section class="portfolio-banner">
 	<div class="map-img-div">
-		<img class="w-100 desktop-display" src="img/portfolio/map-banner.jpg">
-		<img class="w-100 mobile-display" src="img/portfolio/mobile-banner.jpg">
+		<img class="w-100 desktop-display" src="img/portfolio/porfolio-background.jpg">
+		<img class="w-100 mobile-display" src="img/portfolio/porfolio-background.jpg">
 	</div>	
-</section> -->
+</section> 
 
 <section class="counter-section pt-100 pb-70">
 	<div class="container">
@@ -230,7 +230,7 @@
 
                 <div class="counter-div d-flex justify-content-space-between text-white">
 				    <div class="count-up">
-	                    <p><span class="counter-count">15</span></p>
+	                    <p><span class="counter-count">20</span></p>
 	                    <h3 class="counter-name">Companies</h3>
                     </div>
 					<div class="count-up">
@@ -238,7 +238,7 @@
 	                    <h3 class="counter-name">Countries</h3>
                     </div>
 					<div class="count-up">
-	                    <p>0<span class="counter-count">7</span></p>
+	                    <p><span class="counter-count">7</span></p>
 	                    <h3 class="counter-name">Industries</h3>
                     </div>
 				</div>
@@ -260,55 +260,120 @@
 			<div class="col-lg-12">
 				<div class="talents_headline partners-headline text-center">
 					<p class="responsive_bottom_text pl-lg-0 pl-sm-30 px-xs-50">
-						marketing design project is a captivating exploration of style and creativity. With meticulous attention to detail, their goal is to craft
+					Novastone Capital Advisors boasts a diverse portfolio of companies across the US, Canada, and the EU, reflecting our commitment to supporting SMEs in their growth while preserving their unique legacies.
 					</p>
 				</div>
 			</div>
         </div>	
 
         <div class="desktop-logos logos-row-container pt-60">
-	        <div class="row align-items-center">
+	      
+		<div class="row align-items-center">
 
-	        	<div class="col-md-3 text-center">			 					 
-				<a href="forza-doors.php" target="_blank">
-					<img class="portfolio-img" src="img/portfolio/forza-logo.png" alt="Forza Logo">
-				</a>
-		
-	        	</div>
 	        	
-	        	<div class="col-md-3 text-center">
-				<a href="iar-group.php" target="_blank">
-	        		<img class="portfolio-img iar-img" src="img/portfolio/IAR-Dark-Desktop.png">
-				</a>
-	        	</div>
-
-	        	<div class="col-md-3 text-center">
-					<a href="fooseng.php" target="_blank">
-	        		<img class="portfolio-img fo-seng-img" src="img/portfolio/foo-seng.png">
+			<div class="col-md-3 text-center">
+					<a href="iar-group.php" target="_blank">
+						<img class="portfolio-img iar-img" src="img/portfolio/IAR-Dark-Desktop.png">
 					</a>
 	        	</div>
 
+				<div class="col-md-3 text-center">
+				<a href="green-logistics.php" target="_blank">
+                    <img class="portfolio-img green-logistics-img" src="img/portfolio/green-logistics.png">
+				</a>
+	        	</div>
+			
+					
 	        	<div class="col-md-3 text-center">
-				<a href="seyses.php" target="_blank">
-	        		<img class="portfolio-img" src="img/portfolio/logo-seyses.png">
+				<a href="formeds.php" target="_blank">
+	        		<img class="portfolio-img for-med-img" src="img/portfolio/Formeds_Logo__dark_blue_bez_tla 1.png">
+				</a>
+	        	</div>
+
+				<div class="col-md-3 text-center">			 					 
+					<a href="forza-doors.php" target="_blank">
+						<img class="portfolio-img" src="img/portfolio/forza-logo.png" alt="Forza Logo">
+					</a>
+	        	</div>
+			
+	        	
+	        	
+
+	        
+
+	        
+	        </div>	
+
+
+
+
+	        <div class="row align-items-center mb-30">
+
+
+				<div class="col-md-3 text-center">
+					<a href="seyses.php" target="_blank">
+						<img class="portfolio-img" src="img/portfolio/logo-seyses.png">
+					</a>
+	        	</div>	
+
+				<div class="col-md-3 text-center">
+					<a href="chapter-one.php" target="_blank">
+						<img class="portfolio-img ch-1-img" src="img/portfolio/ch-1.png">
+					</a>
+	        	</div>	
+
+					
+	        	<div class="col-md-3 text-center">
+					<a href="stl-communications.php" target="_blank">
+						<img class="portfolio-img stlcom-img" src="img/portfolio/stllogo.png">
+					</a>
+	        	</div>
+
+				
+	        	<div class="col-md-3 text-center">
+				<a href="water-runner.php" target="_blank">
+	        		<img class="portfolio-img water-runner-img" src="img/portfolio/water-runner-logo.png">
 				</a>
 	        	</div>	
 
-	        </div>	
+				<div class="col-md-3 text-center">
+					<a href="fooseng.php" target="_blank">
+	        			<img class="portfolio-img fo-seng-img" src="img/portfolio/foo-seng.png">
+					</a>
+	        	</div>
 
-	        <div class="row align-items-center mb-30">
+				<div class="col-md-3 text-center">
+				<a href="#"  >
+                    <img class="portfolio-img adex-img" src="img/portfolio/med-systeme.jpg">
+				</a>
+	        	</div>
 
 	        	<div class="col-md-3 text-center">
 				<a href="adex.php" target="_blank">
                     <img class="portfolio-img adex-img" src="img/portfolio/adex.png">
 				</a>
 	        	</div>
-	        	
-	        	<div class="col-md-3 text-center">
-				<a href="formeds.php" target="_blank">
-	        		<img class="portfolio-img for-med-img" src="img/portfolio/Formeds_Logo__dark_blue_bez_tla 1.png">
+
+				<div class="col-md-3 text-center">
+					<a href="stockton-truss" target="_blank">
+						<img class="portfolio-img " src="img/portfolio/stockton-truss-logo.png">
+					</a>
+	        	</div>	
+
+				<div class="col-md-3 text-center">
+					<a href="sor4life.php" target="_blank">
+						<img class="portfolio-img" src="img/portfolio/stewards-of-recovery-logo.png">
+					</a>
+	        	</div>
+	        
+
+				<div class="col-md-3 text-center">
+				<a href="#" >
+	        		<img class="portfolio-img ffco-img" src="img/portfolio/mecavit.png">
 				</a>
 	        	</div>
+			
+
 
 	        	<div class="col-md-3 text-center">
 				<a href="formeds.php" target="_blank">
@@ -316,55 +381,47 @@
 				</a>
 	        	</div>
 
-	        	<div class="col-md-3 text-center">
-				<a href="water-runner.php" target="_blank">
-	        		<img class="portfolio-img water-runner-img" src="img/portfolio/water-runner-logo.png">
+				<div class="col-md-3 text-center">
+				<a href="#"  >
+	        		<img class="portfolio-img ffco-img" src="img/portfolio/Garner-Osborne.svg">
 				</a>
-	        	</div>	
+	        	</div>
+
+				<div class="col-md-3 text-center">
+				<a href="#"  >
+	        		<img class="portfolio-img ffco-img" src="img/portfolio/Extended-Power-Logo.png">
+				</a>
+	        	</div>
+				<div class="col-md-3 text-center">
+				<a href="#"  >
+	        		<img class="portfolio-img ffco-img" src="img/portfolio/keystone-pharmacy.png">
+				</a>
+	        	</div>
+
+				<div class="col-md-3 text-center">
+				<a href="#"  >
+	        		<img class="portfolio-img ffco-img" src="img/portfolio/Showroom-Marcona3.png">
+				</a>
+	        	</div>
+
+				<div class="col-md-3 text-center">
+				<a href="#"  >
+	        		<img class="portfolio-img ffco-img" src="img/portfolio/logo-umecc.png">
+				</a>
+	        	</div>
 
 	        </div>	
 
-	        <div class="row align-items-center mb-60">
+	        <div class="row align-items-center ">
 
-	        	<div class="col-md-3 text-center">
-				<a href="grupo-dalt.php" target="_blank">
-                    <img class="portfolio-img" src="img/portfolio/logo-grupo-dalt 1.png">
-				</a>
-	        	</div>
-	        	
-	        	<div class="col-md-3 text-center">
-				<a href="stl-communications.php" target="_blank">
-	        		<img class="portfolio-img stlcom-img" src="img/portfolio/stllogo.png">
-				</a>
-	        	</div>
+	        
 
-	        	<div class="col-md-3 text-center">
-				<a href="group" target="_blank">
-	        		<img class="portfolio-img" src="img/portfolio/Group-1889.png">
-				</a>
-	        	</div>
-
-	        	<div class="col-md-3 text-center">
-				<a href="chapter-one.php" target="_blank">
-	        		<img class="portfolio-img ch-1-img" src="img/portfolio/ch-1.png">
-				</a>
-	        	</div>	
+			 
 
 	        </div>	
 
 	        <div class="row align-items-center">
-
-	        	<div class="col-md-3 text-center">
-				<a href="green-logistics.php" target="_blank">
-                    <img class="portfolio-img green-logistics-img" src="img/portfolio/green-logistics.png">
-				</a>
-	        	</div>
-	        	
-	        	<div class="col-md-3">
-	        		
-	        		
-	        	</div>
-
+ 
 	        	<div class="col-md-3">
 	        		
 	        	</div>

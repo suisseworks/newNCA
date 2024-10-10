@@ -818,7 +818,7 @@ $_SESSION["lan"] = "English";
 							</div>
 						</div>
 						<p>
-						This dynamic course empowers you with the essential skills and knowledge to excel in mergers and acquisitions (M&A) and Entrepreneurship Through Acquisition (ETA). Over five engaging sessions, you'll learn how to define acquisition criteria, build a winning search strategy, navigate due diligence, and master business valuation and financing. You’ll also dive into deal negotiations, making compelling offers, and the post-acquisition process. By the end, you'll confidently tackle every stage of the M&A journey, armed with practical tools to drive successful outcomes from start to finish.
+						The Management Buyout and Value Creation course dives deep into the world of MBOs, MBIs, and post-acquisition value creation. Through engaging lectures, real-world case studies, and hands-on assignments, participants will master the financial, strategic, and operational aspects of successful buyouts. Perfect for executives, managers, and professionals, this course equips you with the skills to navigate complex buyout scenarios and drive meaningful value creation. Get ready to enhance your expertise and lead with confidence in the buyout process!
 						</p>
 						<h2 style="font-size:130%" class="mb-10 mt-20">About the Professor</h2> 
 						   Dr. Benoît Leleux, the Stephan Schmidheiny Professor of Entrepreneurship and Finance at IMD in Lausanne, Switzerland, is a distinguished academic and expert in entrepreneurship, venture capital, and private equity. With a Ph.D. from INSEAD, he has held leadership roles at IMD, including director of the MBA program and Vice-President of the Pension Foundation. 
@@ -856,9 +856,7 @@ $_SESSION["lan"] = "English";
 						    Horacio Falcão is a Professor of Management Practice at INSEAD and the creator of the Value Negotiation system, designed to maximize rewards and minimize risks in negotiations. At INSEAD, Horacio is the program director for the Negotiation Dynamics program, the co-creator of two Online Negotiation Certificate programs, and the co-founder of the INSEAD Negotiation and Conflict Resolution initiative. 
 						</p>
 						
-						<p>
-						   Horacio Falcão is a Professor of Management Practice at INSEAD and the creator of the Value Negotiation system, designed to maximize rewards and minimize risks in negotiations. At INSEAD, Horacio is the program director for the Negotiation Dynamics program, the co-creator of two Online Negotiation Certificate programs, and the co-founder of the INSEAD Negotiation and Conflict Resolution initiative.
-					   </p>
+						 
 						<div class="footer_btns">
 							<a href="https://www.linkedin.com/in/horaciofalcao" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 						</div>

@@ -50,6 +50,11 @@
 								</ul>
 							</li>
 							<li>
+								<a href="portfolio.php">
+									<div><span class="d-lg-none menu_for"></span>Our Portfolio</div>
+								</a>
+							</li>
+							<li>
 								<a href="business-owners.php">
 									<div><span class="d-lg-none menu_for"></span>for business owners</div>
 								</a>

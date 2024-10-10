@@ -29,7 +29,7 @@
 									<strong>Headquarters:</strong> Orly near Paris, France
 								</li>
 								<li>
-									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong> Daniel Countinho</a>
+									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong> Daniel Coutinho</a>
 								</li>
 								<li>
 									<strong>In NCA portfolio since:</strong> July 2023
