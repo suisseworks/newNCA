@@ -126,6 +126,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 						</li>
 
+						<li>
+								<a href="portfolio.php">
+									<div><span class="d-lg-none menu_for"></span>Our Portfolio</div>
+								</a>
+							</li>
+
 
 
 						<!-- <li><a href="co-investors.php"><div><span class="d-lg-none menu_for"></span>For Co-Investors</div></a></li> -->

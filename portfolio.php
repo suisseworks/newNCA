@@ -271,43 +271,36 @@
 		<div class="row align-items-center">
 
 	        	
-			<div class="col-md-3 text-center">
+				<div class="col-md-3 text-center">
 					<a href="iar-group.php" target="_blank">
 						<img class="portfolio-img iar-img" src="img/portfolio/IAR-Dark-Desktop.png">
 					</a>
 	        	</div>
 
 				<div class="col-md-3 text-center">
-				<a href="green-logistics.php" target="_blank">
-                    <img class="portfolio-img green-logistics-img" src="img/portfolio/green-logistics.png">
-				</a>
+					<a href="green-logistics.php" target="_blank">
+						<img class="portfolio-img green-logistics-img" src="img/portfolio/green-logistics.png">
+					</a>
 	        	</div>
 			
 					
 	        	<div class="col-md-3 text-center">
-				<a href="formeds.php" target="_blank">
-	        		<img class="portfolio-img for-med-img" src="img/portfolio/Formeds_Logo__dark_blue_bez_tla 1.png">
-				</a>
+					<a href="formeds.php" target="_blank">
+						<img class="portfolio-img for-med-img" src="img/portfolio/Formeds_Logo__dark_blue_bez_tla 1.png">
+					</a>
 	        	</div>
 
 				<div class="col-md-3 text-center">			 					 
 					<a href="forza-doors.php" target="_blank">
 						<img class="portfolio-img" src="img/portfolio/forza-logo.png" alt="Forza Logo">
 					</a>
-	        	</div>
-			
-	        	
-	        	
-
-	        
-
-	        
+	        	</div>			
 	        </div>	
 
 
 
 
-	        <div class="row align-items-center mb-30">
+	        <div class="row align-items-center">
 
 
 				<div class="col-md-3 text-center">
@@ -331,10 +324,18 @@
 
 				
 	        	<div class="col-md-3 text-center">
-				<a href="water-runner.php" target="_blank">
-	        		<img class="portfolio-img water-runner-img" src="img/portfolio/water-runner-logo.png">
-				</a>
+					<a href="water-runner.php" target="_blank">
+						<img class="portfolio-img water-runner-img" src="img/portfolio/water-runner-logo.png">
+					</a>
 	        	</div>	
+
+				
+
+	        </div>	
+
+	       
+			
+			<div class="row align-items-center  ">
 
 				<div class="col-md-3 text-center">
 					<a href="fooseng.php" target="_blank">
@@ -343,22 +344,30 @@
 	        	</div>
 
 				<div class="col-md-3 text-center">
-				<a href="#"  >
-                    <img class="portfolio-img adex-img" src="img/portfolio/med-systeme.jpg">
-				</a>
+					<a href="https://www.med-systeme.com/"  >
+						<img class="portfolio-img adex-img" src="img/portfolio/med-systeme.jpg">
+					</a>
 	        	</div>
 
 	        	<div class="col-md-3 text-center">
-				<a href="adex.php" target="_blank">
-                    <img class="portfolio-img adex-img" src="img/portfolio/adex.png">
-				</a>
+					<a href="adex.php" target="_blank">
+						<img class="portfolio-img adex-img" src="img/portfolio/adex.png">
+					</a>
 	        	</div>
 
-				<div class="col-md-3 text-center">
+				<div class="col-md-3 text-center">			
 					<a href="stockton-truss" target="_blank">
 						<img class="portfolio-img " src="img/portfolio/stockton-truss-logo.png">
 					</a>
 	        	</div>	
+
+			
+
+	       </div>	
+
+		   <div class="row align-items-center  ">
+
+		  		
 
 				<div class="col-md-3 text-center">
 					<a href="sor4life.php" target="_blank">
@@ -366,9 +375,8 @@
 					</a>
 	        	</div>
 	        
-
 				<div class="col-md-3 text-center">
-				<a href="#" >
+				<a href="https://www.mecavit.it/it/" >
 	        		<img class="portfolio-img ffco-img" src="img/portfolio/mecavit.png">
 				</a>
 	        	</div>
@@ -376,101 +384,171 @@
 
 
 	        	<div class="col-md-3 text-center">
-				<a href="formeds.php" target="_blank">
-	        		<img class="portfolio-img ffco-img" src="img/portfolio/FF_CO_LTD.png">
-				</a>
+					<a href="formeds.php" target="_blank">
+						<img class="portfolio-img ffco-img" src="img/portfolio/FF_CO_LTD.png">
+					</a>
 	        	</div>
 
 				<div class="col-md-3 text-center">
-				<a href="#"  >
-	        		<img class="portfolio-img ffco-img" src="img/portfolio/Garner-Osborne.svg">
-				</a>
+					<a href="https://www.garnerosborne.co.uk/"  >
+						<img class="portfolio-img ffco-img" src="img/portfolio/Garner-Osborne.svg">
+					</a>
+	        	</div>
+
+				
+		   </div>
+
+
+		   <div class="row align-items-center  ">
+
+		  		
+
+				<div class="col-md-3 text-center">
+					<a href="http://extendedpowerinc.com/"  >
+						<img class="portfolio-img ffco-img" src="img/portfolio/Extended-Power-Logo.png">
+					</a>
+	        	</div>
+				<div class="col-md-3 text-center">
+					<a href="https://keystone-pharmacy.com/"  >
+						<img class="portfolio-img ffco-img" src="img/portfolio/keystone-pharmacy.png">
+					</a>
 	        	</div>
 
 				<div class="col-md-3 text-center">
-				<a href="#"  >
-	        		<img class="portfolio-img ffco-img" src="img/portfolio/Extended-Power-Logo.png">
-				</a>
-	        	</div>
-				<div class="col-md-3 text-center">
-				<a href="#"  >
-	        		<img class="portfolio-img ffco-img" src="img/portfolio/keystone-pharmacy.png">
-				</a>
+					<a href="https://www.marcona3.com/"  >
+						<img class="portfolio-img ffco-img" src="img/portfolio/Showroom-Marcona3.png">
+					</a>
 	        	</div>
 
 				<div class="col-md-3 text-center">
-				<a href="#"  >
-	        		<img class="portfolio-img ffco-img" src="img/portfolio/Showroom-Marcona3.png">
-				</a>
+					<a href="https://umecc.com/about.html"  >
+						<img class="portfolio-img ffco-img" src="img/portfolio/logo-umecc.png">
+					</a>
 	        	</div>
 
-				<div class="col-md-3 text-center">
-				<a href="#"  >
-	        		<img class="portfolio-img ffco-img" src="img/portfolio/logo-umecc.png">
-				</a>
-	        	</div>
+				 
+		   </div>
 
-	        </div>	
+		</div>
 
-	        <div class="row align-items-center ">
 
-	        
+	       
 
-			 
-
-	        </div>	
-
-	        <div class="row align-items-center">
- 
-	        	<div class="col-md-3">
-	        		
-	        	</div>
-
-	        	<div class="col-md-3">
-	        		
-	        	</div>	
-
-	        </div>
-
-	    </div>
+		<!-- Mobile Logos -->
 
 
 	    <div class="mobile-logos logos-row-container">
 	        <div class="row align-items-center">
 
-                <div class="col-6 text-center">
-                    <img class="mobile-adex-img mb-5" src="img/portfolio/adex.png">
+
+				<div class="col-6 text-center">	        		
+	        		<img class="iar-img-mobile mb-5" src="img/portfolio/IAR-Dark-Desktop.png">
 	        	</div>
 
+				<div class="col-6 text-center">	        		
+	        		<img class="iar-img-mobile mb-5" src="img/portfolio/green-logistics.png">
+	        	</div>
+
+				<div class="col-6 text-center">	        		
+	        		<img class="iar-img-mobile mb-5" src="img/portfolio/formed-mobile-logo.png">
+	        	</div>
+				
 	        	<div class="col-6 text-center">
                        <img class="mobile-forza mb-5" src="img/portfolio/forza-logo.png">
 	        	</div>
 
+				<div class="col-6 text-center">
+	        		<img class="mobile-seyses" src="img/portfolio/logo-seyses-mobile.png">
+	        	</div>	
+
+				<div class="col-6 text-center">
+                    <img class="grupo-mobile mb-5" src="img/portfolio/ch-1.png">
+	        	</div>
+
+				<div class="col-6 text-center">
+                    <img class="grupo-mobile mb-5" src="img/stllogo.png">
+	        	</div>
+
+				<div class="col-6 text-center">
+                    <img class="grupo-mobile mb-5" src="img/water-runner-logo.png">
+	        	</div>
+				
 	        	<div class="col-6 text-center">
+	        		<img class="fo-seng-mobile mb-5" src="img/portfolio/foo-seng.png">
+	        	</div>
+
+				<div class="col-6 text-center">
+                    <img class="grupo-mobile mb-5" src="img/portfolio/med-systeme.jpg">
+	        	</div>
+
+				
+                <div class="col-6 text-center">
+                    <img class="mobile-adex-img mb-5" src="img/portfolio/adex.png">
+	        	</div>
+
+				<div class="col-6 text-center">
+                    <img class="mobile-adex-img mb-5" src="img/portfolio/stockton-truss-logo.png">
+	        	</div>
+
+				<div class="col-6 text-center">
+                    <img class="mobile-adex-img mb-5" src="img/portfolio/stewards-of-recovery-logo.png">
+	        	</div>
+
+				<div class="col-6 text-center">
+                    <img class="mobile-adex-img mb-5" src="img/portfolio/mecavit.png">
+	        	</div>
+
+				<div class="col-6 text-center">
+                    <img class="mobile-adex-img mb-5" src="img/portfolio/FF_CO_LTD.png">
+	        	</div>
+
+				<div class="col-6 text-center">
+                    <img class="mobile-adex-img mb-5" src="img/portfolio/Garner-Osborne.svg">
+	        	</div>
+
+				<div class="col-6 text-center">
+                    <img class="mobile-adex-img mb-5" src="img/portfolio/Extended-Power-Logo.png">
+	        	</div>
+
+				<div class="col-6 text-center">
+                    <img class="mobile-adex-img mb-5" src="img/portfolio/keystone-pharmacy.png">
+	        	</div>
+
+				<div class="col-6 text-center">
+                    <img class="mobile-adex-img mb-5" src="img/portfolio/Showroom-Marcona3.png">
+	        	</div>
+
+				<div class="col-6 text-center">
+                    <img class="mobile-adex-img mb-5" src="img/portfolio/logo-umecc.png">
+	        	</div>
+
+
+
+
+
+
+
+
+
+
+				<div class="col-6 text-center">
                     <img class="grupo-mobile mb-5" src="img/portfolio/mobile-green.png">
 	        	</div>
+
+	        	
 
 	        	<div class="col-6 text-center">
 	        		<img class="feme-mobile mb-5" src="img/portfolio/feme-logo.png">
 	        	</div>
 	        	
-	        	<div class="col-6 text-center">
-	        		
-	        		<img class="iar-img-mobile mb-5" src="img/portfolio/IAR-Dark-Desktop.png">
-	        	</div>
+	        
 
-	        	<div class="col-6 text-center">
-	        		<img class="fo-seng-mobile mb-5" src="img/portfolio/foo-seng.png">
-	        	</div>
 
 	        	<div class="col-6 text-center">	
 	        		<img class="for-med-mobile" src="img/portfolio/formed-mobile-logo.png">
 	        	</div>
 
-	        	<div class="col-6 text-center">
-	        		<img class="mobile-seyses" src="img/portfolio/logo-seyses-mobile.png">
-	        	</div>	
-
+	        	
 	        </div>	
 	    </div>    
 

@@ -18,35 +18,35 @@
 						<ul class="brk-nav__menu">
 							<li class="home-menu d-xs-none">
 								<a href="index.php">
-									<div>home</div>
+									<div>Home</div>
 								</a>
 							</li>
 							<li>
 								<a href="about-us.php">
-									<div>about us</div>
+									<div>About Us</div>
 								</a>
 							</li>
 							<li class="dropdown d-li">
 								<a href="entrepreneurs.php">
 									<div><span class="d-lg-none menu_for">
 
-										</span>our entrepreneurs
+										</span>Our Entrepreneurs
 									</div>
 									<i class="fa fa-caret-down pl-1"></i>
 								</a>
 								<ul class="dropdown-content">
-									<li><a href="entrepreneurs.php#entrepreneurs">searching entrepreneurs</a></li>
-									<li><a href="entrepreneurs.php#ceos">nca ceo's</a></li>
+									<li><a href="entrepreneurs.php#entrepreneurs">Searching Entrepreneurs</a></li>
+									<li><a href="entrepreneurs.php#ceos">Nca Ceo's</a></li>
 								</ul>
 							</li>
 							<li class="dropdown d-li">
-								<a href="candidates.php">candidates
+								<a href="candidates.php">Candidates
 									<i class="fa fa-caret-down pl-1"></i>
 								</a>
 								<ul class="dropdown-content">
-									<li><a href="candidates.php#selectionprocess">selection process</a></li>
-									<li><a href="candidates.php#professional_development">professional development</a></li>
-									<li><a href="candidates.php#applynow">apply now</a></li>
+									<li><a href="candidates.php#selectionprocess">Selection Process</a></li>
+									<li><a href="candidates.php#professional_development">Professional Development</a></li>
+									<li><a href="candidates.php#applynow">Apply Now</a></li>
 								</ul>
 							</li>
 							<li>
@@ -56,40 +56,32 @@
 							</li>
 							<li>
 								<a href="business-owners.php">
-									<div><span class="d-lg-none menu_for"></span>for business owners</div>
+									<div><span class="d-lg-none menu_for"></span>For Business Owners</div>
 								</a>
 							</li>
 							<li class="dropdown d-li">
-								<a href="#">insights
+								<a href="#">Insights
 									<i class="fa fa-caret-down pl-1"></i>
 								</a>
 								<ul class="dropdown-content">
-									<li><a href="news-resources.php">resources</a></li>
-									<li><a href="blog/blog.php">blog</a></li>
+									<li><a href="news-resources.php">Resources</a></li>
+									<li><a href="blog/blog.php">Blog</a></li>
 								</ul>
 							</li>
 
-							<li class="dropdown mo-li">
-								<a href="blog/blog.php"><span class="d-lg-none menu_for">for</span>insights
-									<i class="fa fa-caret-down pl-1"></i>
-								</a>
-								<ul class="dropdown-content">
-									<li><a href="news-resources.php">resources</a></li>
-									<li><a href="blog/blog.php">blog</a></li>
-								</ul>
-							</li>
+							 
 						</ul>
 					</nav>
 				</div>
 
-				<div class="col-lg-2 align-self-lg-stretch text-lg-right header_third_part">
-					<div class="brk-header__item h-100 d-flex align-items-center justify-content-center">
-						<!-- <a href="<?php echo $_session['page'] ?>" class="bg-transparent font_family-arial language_btn btn btn-prime btn-sm border-radius-25 font__weight-bold shadow-none header_btn" data-brk-library="component__button"><?php echo $_session['lan'] ?></a> -->
+				<!-- <div class="col-lg-2 align-self-lg-stretch text-lg-right header_third_part">
+					<div class="brk-header__item h-100 d-flex align-items-center justify-content-center">						
 						<div class="footer_btns">
 							<a href="https://www.linkedin.com/company/novastone-capital-advisors/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 						</div>
 					</div>
-				</div>
+				</div> -->
+
 			</div>
 		</div>
 	</div>
