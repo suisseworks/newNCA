@@ -298,8 +298,6 @@
 	        </div>	
 
 
-
-
 	        <div class="row align-items-center">
 
 
@@ -356,7 +354,7 @@
 	        	</div>
 
 				<div class="col-md-3 text-center">			
-					<a href="stockton-truss" target="_blank">
+					<a href="stockton-truss.php" target="_blank">
 						<img class="portfolio-img " src="img/portfolio/stockton-truss-logo.png">
 					</a>
 	        	</div>	
@@ -384,7 +382,7 @@
 
 
 	        	<div class="col-md-3 text-center">
-					<a href="formeds.php" target="_blank">
+					<a href="ffco.php" target="_blank">
 						<img class="portfolio-img ffco-img" src="img/portfolio/FF_CO_LTD.png">
 					</a>
 	        	</div>
@@ -426,6 +424,12 @@
 					</a>
 	        	</div>
 
+				<div class="col-md-3 text-center">
+					<a href="/grupo-dalt.php"  >
+						<img class="portfolio-img ffco-img" src="img/portfolio/mobile-green.png">
+					</a>
+	        	</div>
+
 				 
 		   </div>
 
@@ -441,112 +445,136 @@
 	        <div class="row align-items-center">
 
 
-				<div class="col-6 text-center">	        		
-	        		<img class="iar-img-mobile mb-5" src="img/portfolio/IAR-Dark-Desktop.png">
+				<div class="col-6 text-center">	      
+					<a href="iar-group.php" target="_blank">  		
+	        			<img class="iar-img-mobile mb-5" src="img/portfolio/IAR-Dark-Desktop.png">
+					</a>
 	        	</div>
 
-				<div class="col-6 text-center">	        		
-	        		<img class="iar-img-mobile mb-5" src="img/portfolio/green-logistics.png">
+				<div class="col-6 text-center">	   
+					<a href="green-logistics.php" target="_blank">    		
+	        			<img class="iar-img-mobile mb-5" src="img/portfolio/green-logistics.png">
+					</a>
 	        	</div>
 
-				<div class="col-6 text-center">	        		
-	        		<img class="iar-img-mobile mb-5" src="img/portfolio/formed-mobile-logo.png">
+				<div class="col-6 text-center">	     
+					<a href="formeds.php" target="_blank">   		
+	        			<img class="iar-img-mobile mb-5" src="img/portfolio/formed-mobile-logo.png">
+					</a>
 	        	</div>
 				
 	        	<div class="col-6 text-center">
+					<a href="forza-doors.php" target="_blank">
                        <img class="mobile-forza mb-5" src="img/portfolio/forza-logo.png">
+					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-	        		<img class="mobile-seyses" src="img/portfolio/logo-seyses-mobile.png">
+					<a href="seyses.php" target="_blank">
+	        			<img class="mobile-seyses" src="img/portfolio/logo-seyses-mobile.png">
+					</a>
 	        	</div>	
 
 				<div class="col-6 text-center">
-                    <img class="grupo-mobile mb-5" src="img/portfolio/ch-1.png">
+					<a href="chapter-one.php" target="_blank">
+                    	<img class="grupo-mobile mb-5" src="img/portfolio/ch-1.png">
+					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-                    <img class="grupo-mobile mb-5" src="img/stllogo.png">
+					<a href="stl-communications.php" target="_blank">
+						<img class="grupo-mobile mb-5" src="img/stllogo.png">
+					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-                    <img class="grupo-mobile mb-5" src="img/water-runner-logo.png">
+					<a href="water-runner.php" target="_blank">
+						<img class="grupo-mobile mb-5" src="img/water-runner-logo.png">
+					</a>
 	        	</div>
 				
 	        	<div class="col-6 text-center">
-	        		<img class="fo-seng-mobile mb-5" src="img/portfolio/foo-seng.png">
+					<a href="fooseng.php" target="_blank">
+						<img class="fo-seng-mobile mb-5" src="img/portfolio/foo-seng.png">
+					</a>	
 	        	</div>
 
 				<div class="col-6 text-center">
-                    <img class="grupo-mobile mb-5" src="img/portfolio/med-systeme.jpg">
+					<a href="https://www.med-systeme.com/"  >
+						<img class="grupo-mobile mb-5" src="img/portfolio/med-systeme.jpg">
+					</a>
 	        	</div>
 
 				
                 <div class="col-6 text-center">
-                    <img class="mobile-adex-img mb-5" src="img/portfolio/adex.png">
+					<a href="adex.php" target="_blank">
+						<img class="mobile-adex-img mb-5" src="img/portfolio/adex.png">
+					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-                    <img class="mobile-adex-img mb-5" src="img/portfolio/stockton-truss-logo.png">
+					<a href="stockton-truss.php" target="_blank">
+						<img class="mobile-adex-img mb-5" src="img/portfolio/stockton-truss-logo.png">
+					</a>	
 	        	</div>
 
 				<div class="col-6 text-center">
+				<a href="sor4life.php" target="_blank">
                     <img class="mobile-adex-img mb-5" src="img/portfolio/stewards-of-recovery-logo.png">
+				</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-                    <img class="mobile-adex-img mb-5" src="img/portfolio/mecavit.png">
+					<a href="https://www.mecavit.it/it/" >
+						<img class="mobile-adex-img mb-5" src="img/portfolio/mecavit.png">
+					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-                    <img class="mobile-adex-img mb-5" src="img/portfolio/FF_CO_LTD.png">
+					<a href="ffco.php" target="_blank">
+						<img class="mobile-adex-img mb-5" src="img/portfolio/FF_CO_LTD.png">
+					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-                    <img class="mobile-adex-img mb-5" src="img/portfolio/Garner-Osborne.svg">
+					<a href="https://www.garnerosborne.co.uk/"  >
+						<img class="mobile-adex-img mb-5" src="img/portfolio/Garner-Osborne.svg">
+					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-                    <img class="mobile-adex-img mb-5" src="img/portfolio/Extended-Power-Logo.png">
+					<a href="http://extendedpowerinc.com/"  >
+                    	<img class="mobile-adex-img mb-5" src="img/portfolio/Extended-Power-Logo.png">
+					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-                    <img class="mobile-adex-img mb-5" src="img/portfolio/keystone-pharmacy.png">
+					<a href="https://keystone-pharmacy.com/"  >
+						<img class="mobile-adex-img mb-5" src="img/portfolio/keystone-pharmacy.png">
+					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-                    <img class="mobile-adex-img mb-5" src="img/portfolio/Showroom-Marcona3.png">
+					<a href="https://www.marcona3.com/"  >
+						<img class="mobile-adex-img mb-5" src="img/portfolio/Showroom-Marcona3.png">
+					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-                    <img class="mobile-adex-img mb-5" src="img/portfolio/logo-umecc.png">
+					<a href="https://umecc.com/about.html"  >
+						<img class="mobile-adex-img mb-5" src="img/portfolio/logo-umecc.png">
+					</a>
 	        	</div>
 
 
-
-
-
-
-
-
-
-
 				<div class="col-6 text-center">
-                    <img class="grupo-mobile mb-5" src="img/portfolio/mobile-green.png">
+					<a href="/grupo-dalt.php"  >
+						<img class="grupo-mobile mb-5" src="img/portfolio/mobile-green.png">
+					</a>
 	        	</div>
 
 	        	
-
-	        	<div class="col-6 text-center">
-	        		<img class="feme-mobile mb-5" src="img/portfolio/feme-logo.png">
-	        	</div>
-	        	
-	        
-
-
-	        	<div class="col-6 text-center">	
-	        		<img class="for-med-mobile" src="img/portfolio/formed-mobile-logo.png">
-	        	</div>
+ 
 
 	        	
 	        </div>	

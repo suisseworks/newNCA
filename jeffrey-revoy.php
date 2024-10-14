@@ -31,7 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<span class="font-weight-bold font__size-22">2023</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2025</span>
 						</div>
 						<p class="font__size-18 line__height-24"> 
-                           I have extensive experience across multiple sized companies continually excelling in functional marketing, revenue generation and overall business leadership positions as a high-impact leader. I truly pride myself on my integrity, work ethic/drive, and the ability to build and coach/lead high-performing teams while fostering collaborative cross organization success.  
+						I have a proven track record across companies of varying sizes, consistently excelling in functional marketing, revenue generation, and overall business leadership roles. As a high-impact leader, I take pride in my integrity, strong work ethic, and ability to build, coach, and lead high-performing teams, fostering collaboration and success across the organization.
                         </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
@@ -70,20 +70,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">  
-                      Driven by population growth and migration, the Western United States is facing a growing crisis of water scarcity and housing shortages.  I am seeking to acquire a multi-family property management company or a civil engineering firm, with an underlying focus on water management. 
+					Digital transformation, including AI adoption, will influence all businesses; however, it will be particularly crucial for small to mid-market businesses over the next five years. I am focusing on vertical market providers and professional business services, where digital enablement can drive significant and measurable economic improvements.
                      
 					<p class="font__size-16 line__height-24 mt-2">This is where my 25-year journey—spanning technology, software, and real estate—converges with my passion for sustainability and community impact.</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 mt-1"> 
-                    <p class="font__family-efb" >Functional Breadth:</p> I have practical and leadership experience in nearly every functional area (Finance, Engineering, Sales, Marketing) within an organization, giving me a holistic understanding of business operations. <br /><br />
-                    <p class="font__family-efb" >Operations:</p> I have executed across various types of companies, from Fortune 100 firms to mid-sized growth companies to early-stage startups. I have direct operational experience as a Founder or CEO at four companies that completed successful exits.<br /><br />
+					
 
-                    </p>
-					<p class="font__size-16 line__height-24 mt-1">
-                    <p class="font__family-efb" >Leadership:</p> My leadership experience ranges from founding teams to leading operations with up to 3,000 employees. I have a track record of building world-class teams and leading with integrity. <br /><br />
-                    <p class="font__family-efb" >Profitable Growth:</p> I have a history of driving profitable growth in companies of all sizes, with notable achievements such as substantial EBITDA and revenue growth. 
-                    </p>    
+<p class="font__size-16 line__height-24 mt-1">
+    <span class="font__family-efb">Functional Expertise:</span> Broad experience across Finance, Product, Engineering, Sales, and Marketing, providing a holistic view of business operations.
+</p>
+
+<p class="font__size-16 line__height-24 mt-1">
+    <span class="font__family-efb">Operational Leadership:</span> Proven track record in leading diverse companies—from Fortune 100 firms to startups. Founder or CEO of multiple successful acquisitions.
+</p>
+
+<p class="font__size-16 line__height-24 mt-1">
+    <span class="font__family-efb">Leadership &amp; Team Building:</span> Extensive leadership experience, from founding teams to managing operations of up to 3,000 employees, consistently building world-class teams and leading with integrity.
+</p>
+
+<p class="font__size-16 line__height-24 mt-1">
+    <span class="font__family-efb">Driving Profitable Growth:</span> Consistently delivered profitable growth across businesses of all sizes, achieving significant EBITDA and revenue increases.
+</p>
+
+<p class="font__size-16 line__height-24 mt-1">
+    <span class="font__family-efb">Proven Success in Startups &amp; Enterprise:</span> Successfully grew four startups, two of which I founded, to over $50M in revenue, leading to successful acquisitions. Managed a billion-dollar business line within a Fortune 200 company.
+</p>
+
+<p class="font__size-16 line__height-24 mt-1">
+    <span class="font__family-efb">Domain Expertise &amp; Go-to-Market Acceleration:</span> Deep expertise in technology and diverse vertical sectors, with a focus on building and accelerating go-to-market strategies to drive customer acquisition and revenue growth.
+</p>
+
 			</div>
 		</div>
 	</div>
