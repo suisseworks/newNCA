@@ -11,12 +11,13 @@
 
 					<div class="col-12 col-sm-4 col-lg-3 col-xs-12">
 						<ul class="d-flex flex-column brk-white-font-color font__size-14 font__weight-normal line__height-16 text-sm-left  footer_custom_colum">
-							<li class="mb-20"><a href="#">Home</a></li>
-							<li class="mb-20"><a href="#">About us</a></li>
-							<li class="mb-20"><a href="#">Talents</a></li>
-							<li class="mb-20"><a href="#">Business owners & Intermediaries</a></li>
-							<li class="mb-20"><a href="#">Co-investors</a></li>
-							<li class="mb-20"><a href="#">News & Resources</a></li>
+							<li class="mb-20"><a href="index.php">Home</a></li>
+							<li class="mb-20"><a href="about-us.php">About us</a></li>
+							<li class="mb-20"><a href="enterpreneurs.php">Our Enterpreneurs</a></li>
+							<li class="mb-20"><a href="candidates.php">Candidates</a></li>
+							<li class="mb-20"><a href="portfolio.php">Our Portafolio</a></li>
+							<li class="mb-20"><a href="business-owners.php">For Business Owners</a></li>
+							<li class="mb-20"><a href="news-resources.php">News & Resources</a></li>
 						</ul>
 					</div>
 
@@ -47,8 +48,8 @@
 						</div>
 						<div class="col-lg-4 col-sm-5 col-12 col-xs-12">
 							<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12">
-								<li><a href="#">Terms and Conditions</a></li>
-								<li><a href="#">Privacy Policy</a></li>
+								<li><a href="/docs/Terms-and-Conditions-Legal Notice.pdf">Terms and Conditions</a></li>
+								<li><a href="/docs/NCA-Privacy-Policy.pdf">Privacy Policy</a></li>
 							</ul>
 						</div>
 					</div>

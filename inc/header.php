@@ -60,7 +60,7 @@
 								</a>
 							</li>
 							<li class="dropdown d-li">
-								<a href="#">Insights
+								<a href="blog/blog.php">Insights
 									<i class="fa fa-caret-down pl-1"></i>
 								</a>
 								<ul class="dropdown-content">
