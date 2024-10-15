@@ -72,7 +72,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<p class="font__size-16 line__height-24 font__family-efb">  
 					Digital transformation, including AI adoption, will influence all businesses; however, it will be particularly crucial for small to mid-market businesses over the next five years. I am focusing on vertical market providers and professional business services, where digital enablement can drive significant and measurable economic improvements.
                      
-					<p class="font__size-16 line__height-24 mt-2">This is where my 25-year journey—spanning technology, software, and real estate—converges with my passion for sustainability and community impact.</p>
+					<p class="font__size-16 line__height-24 mt-2">This is where my 25-year journey - spanning technology, software, and real estate converges with my passion for sustainability and community impact.</p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
 					

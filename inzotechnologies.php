@@ -9,16 +9,16 @@
 
 			<div class="col-lg-6 bg-white">
 				<h3 class="mb-3 forza-title mobile-title title text-uppercase wow fadeInUp">
-							STL COMMUNICATIONS
+				Inzo Technologies
 				</h3>
 				<div class="forza-img w-100">
 					<img src="img/stl.com-cloud-services.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
-					<a href="https://stlcom.com/" target="_blank"><img src="img/stl-communication.png"></a>
+					<a href="https://https://inzotechnologies.com/" target="_blank"><img src="img/portfolio/inzo.png"></a>
 				</div>
 				<h3   class="mb-3 mt-5 text-center desktop-title forza-title title text-uppercase wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                STL COMMUNICATIONS
+				Inzo Technologies
 						</h3>
 
                 <div class="forza-list mt-5 text-center">
@@ -44,20 +44,20 @@
                             <h2 class="stroke_text  desktop-title text-uppercase text-start mb-100 wow fadeInLeft">About the Company</h2> 
 				         </div>
                         <div class="forza-log desktop-logo text-left">
-					      <a href="https://stlcom.com/" target="_blank"><img style="width: 247px !important;" src="img/stl-communication.png"></a>
+					      <a href="https://stlcom.com/" target="_blank"><img style="width: 247px !important;" src="img/portfolio/inzo.png"></a>
 				        </div>
                         <br> <br>
 						<h4 class="mb-5 forza-subtitle subtitle wow fadeInUp">
-                            STL Communications is a Business Services Partner (BSP) specializing in voice, networking, storage and managed cloud services.
+                            Inzo Technologies is a Business Services Partner (BSP) specializing in voice, networking, storage and managed cloud services.
 
 						</h4>
 						<p>
-                            Founded in 1989, STL Communications is a Missouri-based unified communications (UCaaS) provider and an authorized premium partner of global technology leaders. The company caters to a diverse range of sectors, including healthcare, manufacturing, insurance, transportation, professional services, education, and retail, offering a unique combination of industry experience, technological expertise, and personalized customer service.<br><br><br><br><br><br><br><br>
+                            Founded in 1989, Inzo Technologies is a Missouri-based unified communications (UCaaS) provider and an authorized premium partner of global technology leaders. The company caters to a diverse range of sectors, including healthcare, manufacturing, insurance, transportation, professional services, education, and retail, offering a unique combination of industry experience, technological expertise, and personalized customer service.<br><br><br><br><br><br><br><br>
 						</p>	
 					</div>
 					<div class="col-12 visit-btn px-0 mt-5">
 						<div class="d-flex align-items-center justify-content-center talent_btn_learn h-100 pb-lg-0 pb-sm-2 pl-lg-50">
-								<a href="https://stlcom.com/" target="_blank" class="social_icon d-inline-flex align-items-center h-100 justify-content-start border-radius-0 p-2 pl-50 text-white bg-primary w-100 text-uppercase">Visit Website</a>
+								<a href="https://inzotechnologies.com/" target="_blank" class="social_icon d-inline-flex align-items-center h-100 justify-content-start border-radius-0 p-2 pl-50 text-white bg-primary w-100 text-uppercase">Visit Website</a>
 							</div>
 					</div>
 				</div>	

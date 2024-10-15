@@ -930,9 +930,9 @@ $_SESSION["lan"] = "English";
 	                	   <img class="w-100" src="img/nick-akers-ceo.png">
 	                	</div>   
 	                </a>
-	                <a href="https://stlcom.com/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
+	                <a href="https://inzotechnologies.com/" target="_self" class="logo_section w-50 bg-white text-center d-flex align-items-center c-logo-border2">
 	                	<div class="logo_div">
-	                	    <img style="padding-left:20px" class="w-80" src="img/stllogo.png">
+	                	    <img style="padding-left:20px" class="w-80" src="img/portfolio/inzo.png">
 	                	</div>    
 	                </a>	
 	            </div>    	
@@ -942,7 +942,7 @@ $_SESSION["lan"] = "English";
 						Nick Akers
                     	</h5>
 	        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-						CEO STL Communications
+						CEO Inzo Technologies
 	        			</p>
 	        			<div class="icon_div mt-3 text-center">
 							<a href="https://www.linkedin.com/in/akersnick/" target="_self" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">

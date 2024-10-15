@@ -72,6 +72,15 @@
 .water-runner-img{
 	max-width: 186.86px !important;
 }
+
+.inzo-img{
+	max-width: 186.86px !important;
+}
+
+.dalt-img{
+	max-width: 156.86px !important;
+}
+
 .stlcom-img{
 	max-width: 250px !important;
 }
@@ -260,7 +269,7 @@
 			<div class="col-lg-12">
 				<div class="talents_headline partners-headline text-center">
 					<p class="responsive_bottom_text pl-lg-0 pl-sm-30 px-xs-50">
-					Novastone Capital Advisors boasts a diverse portfolio of companies across the US, Canada, and the EU, reflecting our commitment to supporting SMEs in their growth while preserving their unique legacies.
+					Novastone Capital Advisors boasts a diverse portfolio of companies across the US, Canada, and Europe, reflecting our commitment to supporting SMEs in their growth while preserving their unique legacies.
 					</p>
 				</div>
 			</div>
@@ -315,8 +324,8 @@
 
 					
 	        	<div class="col-md-3 text-center">
-					<a href="stl-communications.php" target="_blank">
-						<img class="portfolio-img stlcom-img" src="img/portfolio/stllogo.png">
+					<a href="inzotechnologies.php" target="_blank">
+						<img class="portfolio-img inzo-img" src="img/portfolio/inzo.png">
 					</a>
 	        	</div>
 
@@ -341,12 +350,7 @@
 					</a>
 	        	</div>
 
-				<div class="col-md-3 text-center">
-					<a href="https://www.med-systeme.com/"  >
-						<img class="portfolio-img adex-img" src="img/portfolio/med-systeme.jpg">
-					</a>
-	        	</div>
-
+			 
 	        	<div class="col-md-3 text-center">
 					<a href="adex.php" target="_blank">
 						<img class="portfolio-img adex-img" src="img/portfolio/adex.png">
@@ -359,6 +363,13 @@
 					</a>
 	        	</div>	
 
+				
+				<div class="col-md-3 text-center">
+					<a href="sor4life.php" target="_blank">
+						<img class="portfolio-img" src="img/portfolio/stewards-of-recovery-logo.png">
+					</a>
+	        	</div>
+
 			
 
 	       </div>	
@@ -367,11 +378,6 @@
 
 		  		
 
-				<div class="col-md-3 text-center">
-					<a href="sor4life.php" target="_blank">
-						<img class="portfolio-img" src="img/portfolio/stewards-of-recovery-logo.png">
-					</a>
-	        	</div>
 	        
 				<div class="col-md-3 text-center">
 				<a href="https://www.mecavit.it/it/" >
@@ -393,6 +399,11 @@
 					</a>
 	        	</div>
 
+				<div class="col-md-3 text-center">
+					<a href="http://extendedpowerinc.com/"  >
+						<img class="portfolio-img ffco-img" src="img/portfolio/Extended-Power-Logo.png">
+					</a>
+	        	</div>
 				
 		   </div>
 
@@ -401,11 +412,7 @@
 
 		  		
 
-				<div class="col-md-3 text-center">
-					<a href="http://extendedpowerinc.com/"  >
-						<img class="portfolio-img ffco-img" src="img/portfolio/Extended-Power-Logo.png">
-					</a>
-	        	</div>
+			
 				<div class="col-md-3 text-center">
 					<a href="https://keystone-pharmacy.com/"  >
 						<img class="portfolio-img ffco-img" src="img/portfolio/keystone-pharmacy.png">
@@ -420,22 +427,24 @@
 
 				<div class="col-md-3 text-center">
 					<a href="https://umecc.com/about.html"  >
-						<img class="portfolio-img ffco-img" src="img/portfolio/logo-umecc.png">
+						<img class="portfolio-img ffco-img" src="img/portfolio/umecc-logo.gif">
 					</a>
 	        	</div>
 
 				<div class="col-md-3 text-center">
 					<a href="/grupo-dalt.php"  >
-						<img class="portfolio-img ffco-img" src="img/portfolio/mobile-green.png">
+						<img class="portfolio-img dalt-img" src="img/portfolio/mobile-green.png">
 					</a>
 	        	</div>
+
+				
 
 				 
 		   </div>
 
+ 
+
 		</div>
-
-
 	       
 
 		<!-- Mobile Logos -->
@@ -482,8 +491,8 @@
 	        	</div>
 
 				<div class="col-6 text-center">
-					<a href="stl-communications.php" target="_blank">
-						<img class="grupo-mobile mb-5" src="img/stllogo.png">
+					<a href="inzotechnologies.php" target="_blank">
+						<img class="grupo-mobile mb-5" src="img/portfolio/inzo.png">
 					</a>
 	        	</div>
 
@@ -562,7 +571,7 @@
 
 				<div class="col-6 text-center">
 					<a href="https://umecc.com/about.html"  >
-						<img class="mobile-adex-img mb-5" src="img/portfolio/logo-umecc.png">
+						<img class="mobile-adex-img mb-5" src="img/portfolio/umecc-logo.gif">
 					</a>
 	        	</div>
 
@@ -572,9 +581,6 @@
 						<img class="grupo-mobile mb-5" src="img/portfolio/mobile-green.png">
 					</a>
 	        	</div>
-
-	        	
- 
 
 	        	
 	        </div>	
