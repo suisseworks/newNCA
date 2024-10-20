@@ -36,7 +36,7 @@ I am a self-starter with an entrepreneurial can-do attitude and a strong growth-
 
 I lead by example, and I am extremely demanding, starting with myself. I believe that remaining humble and listening to others is the sign of great leadership. <br><br>
 
-Success to me is solving complex problems, in the most effective and innovative way.I constantly strive to create a significant positive impact, both in my personal and professional life.
+Success to me is solving complex problems, in the most effective and innovative way. I constantly strive to create a significant positive impact, both in my personal and professional life.
 
                         </p>
 					</div>
