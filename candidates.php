@@ -246,7 +246,11 @@ $_SESSION["lan"] = "English";
 														</li>
 														<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 															<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-															Enterprise Value in the range of EUR 5-50 million
+															Enterprise Value in the range of 5-50 million $/EUR
+														</li>
+														<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+															<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+															Potential for additional growth/value creation
 														</li>
 
 													</ul>
@@ -306,6 +310,11 @@ $_SESSION["lan"] = "English";
 															<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 															Fragmented industries
 														</li>
+														<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+															<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+															Low Customer Concentration
+														</li>
+														
 													</ul>
 												</div>
 

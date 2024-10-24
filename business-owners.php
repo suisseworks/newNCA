@@ -1,7 +1,4 @@
-<?php 
-	$_SESSION["lan"] = "Deutsch";
-	$_SESSION["page"] = "business-owners-de.php";
-?>
+ 
 <?php include 'inc/header.php'; ?>
 <body>
 	<!-- Google Tag Manager (noscript) -->
@@ -82,7 +79,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<h3 class="mb-5 underline title wow fadeInUp">
 								Are you an intermediary<br> who assists existing businesses<br> with succession?</h3>
 							<h4 class="mb-3 subtitle wow fadeInUp">
-								We specialize in matching exceptional talents<br> with existing SMEs to enhance growth and strengthen sustainable business legacies.
+							We specialize in matching exceptional operators and executives with existing SMEs to enhance growth and strengthen sustainable business legacies.
 							</h4>
 							</div>
 							<p class="font__family-open-sans text-content wow fadeInUp">We are constantly building our network of intermediaries and key stakeholders active in SME succession challenges. We are always open to opportunities that may be a great fit for our partners and we work hard to deliver rapid feedback on potential new deals. Please scroll down to see more information about the types of companies we are looking for. </p>
@@ -118,15 +115,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											<ul>
 											<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-30 text-uppercase">
 												<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-												Located in DACH for 2020, followed by the rest of Europe and the US in 2021
+												Located in US, Canada, EU, and the UK
 											</li>
 											<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 												<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-												EBITDA in the range of EUR 2-5 million
+												EBITDA in the range of 1-5 million $/EUR
+											</li>
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+												<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>												 
+												Enterprise Value in the range of 5-50 million $/EUR
+											</li>
 											</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 												<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-												Enterprise Value in the range of EUR 10-35 million
+												Potential for additional growth/value creation
 											</li>
 												 
 											</ul>
@@ -179,7 +181,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											<ul>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													10%+ EBITDA margins
+													15%+ EBITDA margins
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
@@ -195,6 +197,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													Asset light
 												</li>
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+													Low Customer Concentration
+												</li>
 											</ul>
 										</div>
 									</div>
@@ -202,20 +208,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
 							<div class="brk-tab-item text-center text-lg-left mt-4 px-5 mx-4 px-xs-0 mx-xs-0">
 								<div class="row">
-									<div class="col-lg-6">
+									<div class="col-lg-4">
 										<div class="tabs_wrap">
 											<ul>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Education
+													Manufacturing
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													Logistics
+													Healthcare
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													HEALTHCARE AND WELLNESS
+													Business Services
 												</li>
 												
 												
@@ -223,22 +229,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											</ul>
 										</div>
 									</div>
-									<div class="col-lg-6">
+									<div class="col-lg-4">
 										<div class="tabs_wrap">
 											<ul>
 											<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													LIGHT MANUFACTURING
+													Infrastructure
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
-													WASTE MANAGEMENT
+													Utilities
+												</li>
+												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+													Food/Beverage
+												 
+												</li>
+												
+											</ul>
+										</div>
+									</div>
+									<div class="col-lg-4">
+										<div class="tabs_wrap">
+											<ul>
+											<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
+													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
+													Logistics
 												</li>
 												<li class="text-left font__size-20 font__weight-bold font__family-efb d-flex align-items-center mb-4 text-uppercase">
 													<i class="fa fa-check mr-4 bg-primary p-2 font__size-14 text-white rounded"></i>
 													THIS IS A NON-EXHAUSTIVE LIST; OTHER SECTORS WILL BE CONSIDERED
-												 
 												</li>
+												 
 												
 											</ul>
 										</div>
