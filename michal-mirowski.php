@@ -21,12 +21,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</div>		
 					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Michael <br> Mirowski</h2>
+						<h2 class="font__family-efb text-uppercase line__height-90">Michal <br> Mirowski</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
 							<span class="font-weight-bold font__size-22">2024</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2026</span>
 						</div>
-						<p class="font__size-18 line__height-24">I grew up in Colorado and was raised in an entrepreneurial family, working at my father’s computer software business as a child. And while I was offered the reigns of the company when my father wanted to retire, I was only graduating from high school at the time, and not old or experienced enough to take on the challenge.  <br> <br> I pursued an undergraduate degree from the University of Denver in Finance, and continued with a Master’s at Babson College before starting a consulting company, and co-founding a biofuels company in the US. Over the past 15 years I was blessed to have had the opportunity to work in global leadership roles across China, Germany and England for multinational Industrial companies, I am looking to bring these globally acquired skills back to the US and lead a company in the lower middle market.    </p>
+						<p class="font__size-18 line__height-24">I was born in Poland, lived and worked in various countries. In my childhood I devoted a lot of time for playing badminton and became the member of Polish National Team. Discipline, hard working and a perseverance in reaching the excellence shaped my character and helped me in my future professional career.  <br> <br>
+I’m MBA gradute from University of Minnesota and AMP from Harvard Business School. Over last 20 years I had the opportunity to work for highly diversified, blue chip company in Poland and across Middle East and Africa. I have expierience in growing, transforming and improving operational efficiency with large P&Ls in vertically integrated companies across med-tech, pharma  and other industries. 
+</p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
 						<a href="mailto:adam.salmen@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
@@ -50,25 +52,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-2"></div>
 			<div class="col-lg-4">
 				<div class="key_skill position-relative pl-90 pr-5032 pb-80 pt-50 ml-40">
-					<h2  class="text-uppercase font__family-efb line__height-70 text-brand-primary">Core Competencies<span style="color: transparent"><span></h2>
+					<h2  class="text-uppercase font__family-efb line__height-70 text-brand-primary">Key Skills<span style="color: transparent"><span></h2>
 					<ul class="ml-5 pl-4">
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>High integrity</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Entrepreneurial thinker </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategically minded </li>
 						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Results oriented </li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Team player </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic thinker </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Team player  </li>
+						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Analitical mindset </li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-lg-6 pl-0">
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I am looking for a private, well-established industrial or manufacturing type company, possibly facing succession issues, which needs marketing and management for continued growth.  </p>
-					<p class="font__size-16 line__height-24 mt-2">This company will ideally have deep technical knowhow and is in the mountain west region. Ultimately, it’s about finding a company where our values align, and I can see a potential for meaningful impact through our investment and management. Initially, were looking in chemicals, basic materials, and advanced manufacturing. </p>
+					<p class="font__size-16 line__height-24 font__family-efb">Im looking to aquire a well established private company within health care services or manufacturing sector , possibly facing succession issues which needs capable leadership to further grow established legacy.  </p>
+					<p class="font__size-16 line__height-24 mt-2">Initially I will focus on Poland, pharma and medical devices or health care services sector and will be ready to expand the search across CEE or to light manufacturing across various industries in Poland. </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My Contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">When you look at my career, you will see that I have a track record of increasing responsibility, most recently holding positions in senior global management positions, and trusted to lead the strategic vision of several $50M+ business units, managing large cross-functional teams, innovation projects, and driving strategy & implementation to grow both top line and bottom-line results.    </p>
-					<p class="font__size-16 line__height-24 mt-1">While it ultimately depends on what the company needs, my experience in Consulting, Marketing, Strategy and Management will be the foundation of my contribution.  </p>    
+					<p class="font__size-16 line__height-24 font__family-efb">I have track record in scaling up and improving operational excellence. AS General Manager I led organizational turn around  growing the business 3x in Poland and 2x in Saudi Arabia while improving profitability.  </p>
+					<p class="font__size-16 line__height-24 mt-1">I will apply  value creation strategy and provide a fresh outlook on the business while using my rich experience and business acumen. I have a knack how to use strategic vision, big picture thinking and execution skills to achieve the best outcomes and nurture and develop talent while ensuring sustainable value growth.  </p>    
 			</div>
 		</div>
 	</div>
@@ -124,7 +126,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Adam-Salmen-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD RESUME<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+						<a download href="docs/Michal-Mirowski-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD RESUME<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="38" height="38" fill="none"/>
@@ -138,7 +140,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/adam-salmen-background.png" class="resume_img">
+				<img src="img/michal-mirowski-background.png" class="resume_img">
 			</div>
 		</div>
 
@@ -148,7 +150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="font__family-efb text-uppercase mb-3">My Contact Details</h2>
 					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
 					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:adam.salmen@novastone-ca.com">adam.salmen@novastone-ca.com</a>
+					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:adam.salmen@novastone-ca.com">michal.mirowski@novastone-ca.com</a>
 				</div>
 				</div>
 			</div>
@@ -161,9 +163,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 					</div>
 					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Opportunity is missed by most people because it is dressed in overalls and looks like work.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Thomas Edison</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase">American inventor and businessman</p>
+							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Success usually comes to those who are too busy to be looking for it.</h4>
+							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Henry David Thoreau</h5>
+							<p class="font__size-16 line__height-35 mt-2 text-uppercase">American naturalist and essayist</p>
 					</div>
 				</div>
 			  </div>
@@ -178,7 +180,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">ADAM SALMEN</h1>
+							<h1 class="font__size-30 font__family-efb line__height-70 text-white">MICHAL MIROWSKI</h1>
 							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
 						</div>
 						<div class="jan_detail mt-4">
@@ -200,7 +202,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:adam.salmen@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">adam.salmen@novastone-ca.com</a>
+						<a href="mailTo:michal.mirowski@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">michal.mirowski@novastone-ca.com</a>
 						<a href="https://www.linkedin.com/in/adam-salmen-131a675/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
