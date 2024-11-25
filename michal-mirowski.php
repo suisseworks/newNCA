@@ -203,7 +203,7 @@ I’m MBA gradute from University of Minnesota and AMP from Harvard Business Sch
 				<div class="col-12 col-lg-5 text-right">
 					<div class="searcher_mail mt-3 pt-1">
 						<a href="mailTo:michal.mirowski@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">michal.mirowski@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/adam-salmen-131a675/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="https://www.linkedin.com/in/michalmirowski/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>

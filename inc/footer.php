@@ -13,7 +13,7 @@
 						<ul class="d-flex flex-column brk-white-font-color font__size-14 font__weight-normal line__height-16 text-sm-left  footer_custom_colum">
 							<li class="mb-20"><a href="index.php">Home</a></li>
 							<li class="mb-20"><a href="about-us.php">About us</a></li>
-							<li class="mb-20"><a href="enterpreneurs.php">Our Enterpreneurs</a></li>
+							<li class="mb-20"><a href="entrepreneurs.php">Our Enterpreneurs</a></li>
 							<li class="mb-20"><a href="candidates.php">Candidates</a></li>
 							<li class="mb-20"><a href="portfolio.php">Our Portafolio</a></li>
 							<li class="mb-20"><a href="business-owners.php">For Business Owners</a></li>

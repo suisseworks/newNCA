@@ -30,9 +30,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<span class="font-weight-bold font__size-22">2024</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2026</span>
 						</div>
 						<p class="font__size-18 line__height-24"> 
-                           I am a British Citizen born and brought up in India with Global work experience. I started my career in South Asia in the Apparel supply chain, and then moved to Europe where I earned an MBA from IMD in Switzerland with Leadership Distinction, before leading global B2B sales within CPG. In 2016, I got the opportunity to venture into eCommerce with Amazon and since then I have launched and grown multiple extremely successful global businesses at Amazon, Deliveroo, and Zapp. I have worked across continents, in multiple functions, within large corporations such as Amazon, and start-ups such as Zapp. <br><br>
+						As a British citizen with roots in India, I've built a global career spanning multiple industries and continents. My journey began in South Asian apparel supply chain at Gap, leading to a strategic pivot to Europe. After earning an MBA with Leadership Distinction from IMD in Switzerland, I transitioned into global B2B sales within CPG. In 2016, I embraced eCommerce with Amazon, subsequently launching and scaling successful global businesses across Amazon, Deliveroo, and Zapp. My professional experience encompasses cross-continental leadership, multifunctional expertise, and experience in both large corporations and dynamic startups. <br><br>
 
-                           I believe that personal well being and professional success go hand in hand and, therefore, I love to exercise regularly and engage in sports such as Tennis and Squash. I also push for personal development through continuous learning and have recently completed a certificate course in Artificial Intelligence from Oxford University.
+                            
 
                         </p>
 					</div>
@@ -73,20 +73,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">  
-					My search focuses on E-commerce and B2B Products sectors. E-Commerce includes both B2C and B2B businesses. B2B Products includes companies supplying goods to other businesses and can include anything from machinery to food items. My target companies are the ones with the HQ in the UK but can have customers and operations in the UK and internationally.
+					My search is focused on eCommerce and B2B Products sectors. This includes both B2C and B2B eCommerce businesses, and B2B products spanning a wide range of industries – from machinery to food items that businesses supply to other businesses. I'm targeting companies headquartered in the UK, with the understanding that their customer base and operations can extend both domestically and internationally.
 
                      
-					<p class="font__size-16 line__height-24 mt-2">
-                        These goods have a wide range and can include anything from machinery to food items. My target companies are the ones with HQ in the UK but can have businesses in the UK and internationally.
-					</p>
+					 
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">
-                        I have proven executive and leadership experience within eCommerce and B2B Products. I have grown revenues, done international expansion, and improved profitability for companies within the B2B sector. I have developed and led large teams, launched new businesses, set up operations from scratch, led business transformation, and done international expansion within the eCommerce sector, with large corporations such as Amazon and Deliveroo, and start-ups such as Zapp.
+					Throughout my career, I've demonstrated executive leadership in eCommerce and B2B Products, driving revenue growth, international expansion, and profitability. My experience spans large corporations within eCommerce and retail like Amazon, Deliveroo, and Gap, and within B2B products like Firmenich and Kerry, in addition to startups such as Zapp, where I've developed and led large teams, launched new businesses, established operations from scratch, and led business transformations.
 
 					</p>
 					<p class="font__size-16 line__height-24 mt-1">
-                        With experience across different functions and managing full P&Ls, I have an in-depth knowledge of the entire value chain within both eCommerce and B2B Products sectors. I have worked in different markets including Asia, Europe, and the Middle East, and have a large network within the target sectors. This experience and network would help me strategise the business, set up a clear customer value proposition, create efficiencies, execute growth plans, define product and technology requirements, and improve operational profitability.
+					With comprehensive experience across different functions and full P&L management, I possess deep insights into the entire value chain of eCommerce and B2B products. My work across diverse markets including Asia, Europe, and the Middle East, coupled with an extensive professional network, positions me to strategically develop businesses. I can effectively create compelling customer value propositions, drive operational efficiencies, execute growth strategies, define product and technology requirements, and enhance operational profitability.
 					</p>    
 			</div>
 		</div>

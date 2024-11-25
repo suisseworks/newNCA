@@ -410,9 +410,9 @@ $_SESSION["lan"] = "English";
 					</div>
 				</div>
 			</div>
-		</section>
+		</section>  
 
-		<section class="py-5 faq_section" id="faqs">
+		<section class="hide py-5 faq_section" id="faqs">
 			<div class="container-outer1643">
 				<div class="talent_faq_accordion">
 					<span class="faq_circle_bg"></span>
