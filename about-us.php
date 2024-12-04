@@ -935,7 +935,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>	
 					</div>
 
-					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+					<!-- <div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
                         	<img class="w-100" src="img/dummy_img.png">
                         </div>	
@@ -950,7 +950,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							    </div>							
 						    </div>	
                         </div>	
-					</div>
+					</div> -->
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
@@ -968,6 +968,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						    </div>	
                         </div>	
 					</div>
+
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/dummy_img.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Pedro Carci</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								Corporate Paralegal, EU
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/pedro-trujillano-carci-2a3667251/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
+					<!-- <div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/searcher-jen-liang.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Jen Liang</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								COO, Novastone Partners
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/jencliang/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div> -->
 
 
 

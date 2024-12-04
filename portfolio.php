@@ -437,12 +437,25 @@
 					</a>
 	        	</div>
 
+			 
+
+				
+
 				
 
 				 
 		   </div>
 
- 
+		   
+		   <div class="row align-items-center  ">
+
+					<div class="col-3 text-center">
+								<a href="https://gdipackaging.ca/"  >
+									<img class="portfolio-img dalt-img mb-5" src="img/GDILOGO.jpg">
+								</a>
+							</div>
+
+			</div>
 
 		</div>
 	       
@@ -579,6 +592,12 @@
 				<div class="col-6 text-center">
 					<a href="/grupo-dalt.php"  >
 						<img class="grupo-mobile mb-5" src="img/portfolio/mobile-green.png">
+					</a>
+	        	</div>
+
+				<div class="col-6 text-center">
+					<a href="https://gdipackaging.ca/"  >
+						<img class="grupo-mobile mb-5" src="img/GDILOGO.jpg">
 					</a>
 	        	</div>
 

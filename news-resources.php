@@ -32,6 +32,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="resource_wrap_links py-3 bg-light">
 
 						<div class="anchore_div anchore_div py-3 px-3 position-relative">
+								<a href="https://calbizjournal.com/novastone-capital-advisors-qa-with-ceo-christian-malek/" target="_blank" class="font__size-20 font__family-efb">Novastone Capital Advisors: Q&A With CEO Christian Malek<span class="arrow_link_a"></span></a>
+							</div>
+
+						<div class="anchore_div anchore_div py-3 px-3 position-relative">
 								<a href="docs/IESE_International_Search_Fund_Study_2024.pdf" target="_blank" class="font__size-20 font__family-efb">2024 IESE International Search Fund Study<span class="arrow_link_a"></span></a>
 							</div>
 
@@ -133,12 +137,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				
 				<div class=" row no-gutters">
 					<div class="col-12 col-lg-6">
-						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">Nca <br> News</h2>
+						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">NCA <br> news</h2>
 						<div class="resource_wrap_links">
 
-						<!-- <div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/NEW_EQUITY_PARTNERSHIP_FOR_GDI_PACKAGING_SOLUTIONS.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">New Equity Partnership for NCA Entrepreneur Jim Kelly<span class="arrow_link_a"></span></a>
-						</div> -->
+						</div>
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/SUCCESSFUL RECAPITALIZATION FOR NCA ENTREPRENEUR ADAM SALMEN_OCT 2 2024.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Successful Recapitalization for NCA Entrepreneur Adam Salmen<span class="arrow_link_a"></span></a>
