@@ -42,8 +42,9 @@
 							</div>
 							<form id="contact-form" class="pt-5 investors_contact_form needs-validation" novalidate>
 								<input type="hidden" id="profile" name="selectprofile" value="co-investor">
+							 
 								<div class="d-inline brk-form-round mr-30 selection_div s_side">
-									<select name="Title">
+									<select name="title">
 										<option value="Title" selected disabled>Title</option>
 										<option value="Mr.">Mr.</option>
 										<option value="Ms.">Ms.</option>

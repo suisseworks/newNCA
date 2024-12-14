@@ -9,7 +9,11 @@ function submitZoho() {
     const newsletter = document.getElementById('agreeNewsletterCheck').checked ? 'true' : 'false';
     const agree = document.getElementById('agreeTermsCheck').checked ? 'true' : 'false';
 
+    const titleSelect = document.querySelector('select[name="title"]');
+    console.log('Title ', titleSelect);
+
     const json = {
+        title: titleSelect ? titleSelect.value : '', 
         selectprofile: document.getElementById('profile').value,
         email: document.getElementById('contact-email').value,
         first_name: document.getElementById('first-name').value,

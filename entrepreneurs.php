@@ -1371,7 +1371,7 @@ $_SESSION["lan"] = "English";
 
 			<div class="col-lg-4 member_card mt-10 mb-10 mt-lg-0 pl-50 pr-50">
 				<div class="img-logo d-flex">
-	                <a href="docs/NEW_EQUITY_PARTNERSHIP_FOR_GDI_PACKAGING_SOLUTIONS.pdf" class="img_section w-50">
+	                <a href="docs/NEW_EQUITY_PARTNERSHIP_FOR_NCA_ENTREPRENEUR_JIM_KELLY.pdf" class="img_section w-50">
                         <div class="img_div">
 	                	   <img class="w-100" src="img/searcher-jim-kelly.png">
 	                	</div>   
@@ -1389,7 +1389,7 @@ $_SESSION["lan"] = "English";
 						  Jim Kelly
                     	</h5>
 	        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
-						CEO GDI<br>
+						CEO GDI Packaging Solutions<br>
 	        			</p>
 	        			<div class="icon_div mt-3 text-center">
 							<a href="https://www.linkedin.com/in/jim-kelly-769a166/profile" target="_self" class="social_icon social_icon_white d-inline-flex border-radius-5 p-1 font__family-avenir">

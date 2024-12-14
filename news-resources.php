@@ -140,8 +140,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">NCA <br> news</h2>
 						<div class="resource_wrap_links">
 
+						
+
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
-								<a href="docs/NEW_EQUITY_PARTNERSHIP_FOR_GDI_PACKAGING_SOLUTIONS.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">New Equity Partnership for NCA Entrepreneur Jim Kelly<span class="arrow_link_a"></span></a>
+								<a href="docs/NCA Completes Sale of Chapter One Sportswear Inc. 9_12_24.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">NCA Completes Sale of Chapter One Sportswear Inc.<span class="arrow_link_a"></span></a>
+						</div>
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="docs/NEW_EQUITY_PARTNERSHIP_FOR_NCA_ENTREPRENEUR_JIM_KELLY.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">New Equity Partnership for NCA Entrepreneur Jim Kelly<span class="arrow_link_a"></span></a>
 						</div>
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">

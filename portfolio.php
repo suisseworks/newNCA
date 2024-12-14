@@ -239,7 +239,7 @@
 
                 <div class="counter-div d-flex justify-content-space-between text-white">
 				    <div class="count-up">
-	                    <p><span class="counter-count">20</span></p>
+	                    <p><span class="counter-count">21</span></p>
 	                    <h3 class="counter-name">Companies</h3>
                     </div>
 					<div class="count-up">
@@ -247,7 +247,7 @@
 	                    <h3 class="counter-name">Countries</h3>
                     </div>
 					<div class="count-up">
-	                    <p><span class="counter-count">7</span></p>
+	                    <p><span class="counter-count">11</span></p>
 	                    <h3 class="counter-name">Industries</h3>
                     </div>
 				</div>
