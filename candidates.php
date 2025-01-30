@@ -654,7 +654,7 @@ $_SESSION["lan"] = "English";
 								</div>
 							</div>	
 
-                    <!-- <div class="time-pad w-100">
+                    <div class="time-pad w-100">
                     	<ul class="timeline position-relative">
 						  <li class="timeline-active" ><span class="timeline-nmber">1</span></li>
 						  <li><span class="timeline-nmber">2</span></li>
@@ -755,7 +755,7 @@ $_SESSION["lan"] = "English";
 						</ul>
 						</div>
 
-					</div> -->
+					</div>
 
 				</div>
 				

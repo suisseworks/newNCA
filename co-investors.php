@@ -34,7 +34,7 @@
 							<div class="contact_text">
 								<h2 class="text-uppercase text-white font__family-efb font__size-60 mb-2">contact</h2>
 								<p class="text-white font__size-20 font__family-open-sans">Please complete the form
-									below and our Investor Relations Team will be in touch shortly.</p>
+									below and our Investor Relations team will be in touch shortly.</p>
 							</div>
 							<div style="display: none;" id="form-alert-success"
 								class="alert alert-success form-alert-success" role="alert">
@@ -133,7 +133,7 @@
 									Investors in this asset class have historically benefited from a diversified
 									portfolio of profitable and well-established companies. If you want to learn more
 									about search funds and NCA, please complete the contact form on this page and our
-									Investor Relations team Director will be in touch shortly.
+									Investor Relations team will be in touch shortly.
 								</p>
 							</div>
 						</div>

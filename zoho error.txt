@@ -1,0 +1,23 @@
+itle  <select name=​"title">​…​</select>​
+zoho.js:27 
+        
+        
+       POST https://nca-api.whagons.com/api/webHookZoho net::ERR_CERT_AUTHORITY_INVALID
+submitZoho @ zoho.js:27
+(anonymous) @ zoho.js:4Understand this errorAI
+zoho.js:47 Error al enviar el formulario. TypeError: Failed to fetch
+    at submitZoho (zoho.js:27:5)
+    at HTMLFormElement.<anonymous> (zoho.js:4:9)
+(anonymous) @ zoho.js:47
+Promise.catch
+submitZoho @ zoho.js:46
+(anonymous) @ zoho.js:4Understand this errorAI
+zoho.js:73 Uncaught TypeError: Cannot read properties of null (reading 'click')
+    at zoho.js:73:71
+(anonymous) @ zoho.js:73
+setTimeout
+showMessage @ zoho.js:71
+(anonymous) @ zoho.js:48
+Promise.catch
+submitZoho @ zoho.js:46
+(anonymous) @ zoho.js:4Understand this errorAI

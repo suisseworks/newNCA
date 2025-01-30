@@ -25,7 +25,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="font__family-efb text-uppercase line__height-90">Michal <br> Mirowski</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2024</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2026</span>
+							<span class="font-weight-bold font__size-22">2025</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2027</span>
 						</div>
 						<p class="font__size-18 line__height-24">I was born in Poland, and lived and worked in various countries. In my childhood, I devoted a lot of time to playing badminton and became a member of Polish National Team. Discipline, hard working and perseverance in reaching my goals shaped my character and helped me in my future professional career.<br> <br>
 						I’m a MBA graduate from the University of Minnesota and AMP from Harvard Business School. Over the last 20 years I had the opportunity to work for highly diversified, blue-chip companies in Poland and across the Middle East and Africa. I have experience in growing, transforming and improving operational efficiency with large P&Ls in vertically integrated companies across med-tech, pharma and other industries. 
@@ -87,7 +87,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
                     <img src="img/thumbnail-mirowski.png" alt="alt" class="image_video">
                     <div class="play_button left_btn center_btn play_btn_white position-absolute">
-	                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/js8B97xoUeE" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+	                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/LOlpTcHKqfk" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                     </div>
                 </div>
 			</div>

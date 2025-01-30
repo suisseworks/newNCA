@@ -380,7 +380,7 @@
 
 	        
 				<div class="col-md-3 text-center">
-				<a href="https://www.mecavit.it/it/" >
+				<a href="mecavit.php" >
 	        		<img class="portfolio-img ffco-img" src="img/portfolio/mecavit.png">
 				</a>
 	        	</div>
@@ -414,7 +414,7 @@
 
 			
 				<div class="col-md-3 text-center">
-					<a href="https://keystone-pharmacy.com/"  >
+					<a href="keystone.php"  >
 						<img class="portfolio-img ffco-img" src="img/portfolio/keystone-pharmacy.png">
 					</a>
 	        	</div>

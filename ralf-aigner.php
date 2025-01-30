@@ -46,18 +46,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="member_content py-4">
                         	<div>
 	                        	
-			        			<p class="font__size-30 font__halvetica-bold line__height-50">
+							<p class="font__size-30 font__halvetica-bold line__height-50">
 									
-								<span class="pb-15 d-inline-block">NCA Entrepreneur</span><br><span class="font__size-41">2024</span> <span class=" member_count_arrow px-lg-3 pt-lg-12 pt-10 d-inline-flex">
-			        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
-									  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
-									</svg>
-			        			</span>
-								<span class="font__size-41 ml-lg-0 ml-10">2026</span>
-							    </p>	
+									<span class="pb-15 d-inline-block">NCA Entrepreneur</span><br><span class="font__size-41">2025</span> <span class=" member_count_arrow px-lg-3 pt-lg-12 pt-10 d-inline-flex">
+										<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
+										  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
+										</svg>
+									</span>
+									<span class="font__size-41 ml-lg-0 ml-10">2027</span>
+									</p>	
 
 								<p style="margin-top: 8px;  "> 
-								<a href="https://www.linkedin.com/in/bill-rees/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2">
+								<a href="https://www.linkedin.com/in/ralf-aigner/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2">
 									<i style="font-size: 18px;" class="fab fa-linkedin-in"></i>
 								</a>
 								
@@ -73,7 +73,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 			<div class="col-lg-8">
 				<div class="searcher_image position-relative" style="position: revert;">
-					<img class="w-100" src="img/bill-rees.png">
+					<img class="w-100" src="img/ralf-aigner.png">
 				</div>	
 			</div>	
 		</div>
@@ -114,7 +114,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/about-bill-rees.png">
+							<img class="w-100" src="img/about-ralf-aigner.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-36">ABOUT ME</p>
 							</div>
@@ -138,7 +138,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/my-search-bill.png">
+							<img class="w-100" src="img/my-search-ralf-aigner.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-36">MY SEARCH</p>
 							</div>
@@ -147,7 +147,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
 							<p class="mt-30 font__size-16">
-                              I seek to invest in companies that safeguard underground infrastructure and critical assets across the energy and utility sector.  These assets are expanding, aging, and in need of transformation.  This drives demand for verification, asset upgrades, and modifications driven by public & regulatory pressure.  My search focus centers upon businesses headquartered in the US South-Central Corridor, extending from Tulsa, OK to Dallas, TX. But, since this is a global industry, I'm eager to connect with businesses operating far beyond that footprint.
+							I am focused on acquiring a B2B service business in Germany that has a strong foundation and growth potential. My goal is to leverage my extensive experience in scaling businesses to drive significant value and innovation in the acquired company.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
                     
@@ -162,7 +162,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="row">
 					<div class="col-lg-5 pr-lg-20">
 						<div class="image_content_div position-relative">
-							<img class="w-100" src="img/my-contribution-bill-rees.png">
+							<img class="w-100" src="img/my-contribution-ralf-aigner.png">
 							<div class="transform_div position-absolute">
 								<p class="py-3 px-3 font__halvetica-bold font__size-28">MY CONTRIBUTION</p>
 							</div>
@@ -171,11 +171,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-regular">
 							<p class="mt-30 font__size-16">
-                              This industry needs bold, experienced leadership and that’s what I bring to the table.  My playbook for success is a proven, people-focus winning formula: I build high-performance teams, engage at every level, develop coherent strategies, and involve all to unlock a brand’s full potential.
+							With a proven track record in scaling businesses and driving growth, I bring a hands-on approach to leadership and strategic planning. I am committed to working closely with the existing team to build on their successes and create new opportunities for growth. My focus on fostering a positive company culture and leveraging digital transformation will ensure the continued success and expansion of the business.
 							</p>
-							<p class="mt-30 font__size-16 font__halvetica-regular">
-                              This may sound simple, but it requires a relatable & transformational mindset, an affiliative leadership style, and infectious enthusiasm that complements my foundation of technical credibility as an industry name. 
-							</p>
+							 
 						</div>	
 					</div>
 					<div class="col-lg-2">
@@ -198,7 +196,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						</div>    
 						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
-						  Success is <br> simply the ability<br> to go from failure <br>to failure <br>with no loss <br> of enthusiasm<br>	<br>			 
+						Success is not the key to happiness. Happiness is the key to success. <br> If you love what you are doing, you will be successful.<br>	<br>			 
 						</h2>
 						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
 						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
@@ -206,7 +204,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</svg>
 						</div> 
 						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
-                          Winston Churchill 
+						Albert Schweitzer
 						</p> 
 					</div>	
 				</div>	
@@ -214,9 +212,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-8 pl-lg-20">
 				<div class="video_div d-flex h-100 pt-lg-0 pt-50">
 					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-	                    <img src="img/video.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
-	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
-		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/4_2q9CJPmBE?si=GKmBOuD2mzHgaiSA" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+	                    <img src="img/thumbnail-ralf-aigner.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
+	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute" style="right:25%">
+		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/_9ulgZfpl_M?si=bP5RPQwBtHhzHoh3" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
 	                    </div>
 	                </div>
 				</div>	
@@ -225,7 +223,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row pt-50 pb-130">
 			<div class="col-lg-4 pr-lg-20">
 				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
-					<a download href="docs/Bill-Rees-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
+					<a download href="docs/2024_CV Ralf Aigner_EN_Novastone.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
 						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
 						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
 						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
@@ -244,7 +242,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </h2>
                     <ul class="pl-0 mt-30">
                     	<li class="w-100 mb-30">
-                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:bill.rees@novastone-ca.com">bill.rees@novastone-ca.com</a>
+                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:ralf.aigner@novastone-ca.com">ralf.aigner@novastone-ca.com</a>
                     	</li>
                     </ul>
 				</div>	
@@ -260,7 +258,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Bill Rees</h1>
+							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Ralf Aigner</h1>
 							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Entrepreneur</span></h3>
 						</div>
 						<div class="jan_detail mt-60">
@@ -282,8 +280,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-12 col-lg-5 text-lg-right">
 					<div class="searcher_mail d-flex align-items-center justify-content-end mt-3 pt-1">
-						<a href="mailTo:bill.rees@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>bill.rees@novastone-ca.com</span></a>
-						<a href="https://www.linkedin.com/in/bill-rees/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+						<a href="mailTo:ralf.aigner@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>ralf.aigner@novastone-ca.com</span></a>
+						<a href="https://www.linkedin.com/in/ralf-aigner/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>

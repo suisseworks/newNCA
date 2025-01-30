@@ -925,14 +925,14 @@ header .brk-nav__menu>li>a:hover {
 }
 .play_button.left_btn.play_btn_white {
     justify-content: center !important;
-    left: 20px;
+    left: 90px;
     right: 0;
-    top: 180px;
+    top: 280px;
     margin: 0 !important;
 }
 .play_button.left_btn.play_btn_white a {
     border-color: var(--white);
-    color: var(--white);
+    /*color: var(--white); */
     width: 300px;
     height: 300px;
 }
@@ -1878,7 +1878,7 @@ a.modal_btn {
         left: -270px;
     }
     .transform_div {
-        left: -160px;
+        left: -150px;
     }
 }
 @media only screen and (max-width: 1598px) and (min-width: 1230px) {

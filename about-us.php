@@ -43,7 +43,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</div>
 										<p class="font__family-open-sans font__size-16 text-content wow fadeInUp what_we_do_text">
 
-                                          At NCA, our focus is on fostering mutual benefit, profitability, and growth for all stakeholders. Entrepreneurs benefit from NCA‘s support and parthership, enabling them to transition directly into owning and managing a small business. Existing business owners find an optimal solution to succession with experienced, funded entreprneuers that proudly continue their company’s legacy and growth. Co-investors are presented with sound investment opportunities with historically high rates of success.
+                                          At NCA, our focus is on fostering mutual benefit, profitability, and growth for all stakeholders. Entrepreneurs benefit from NCA‘s support and partnership, enabling them to transition directly into owning and managing a small business. Existing business owners find an optimal solution to succession with experienced, funded entrepreneuers that proudly continue their company’s legacy and growth. Co-investors are presented with sound investment opportunities with historically high rates of success.
 
 									    </p>
 									</div>
@@ -353,6 +353,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						    </div>	
                         </div>	
 					</div>
+
+					
+					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
+                        <div class="img_section dummy w-100">
+                        	<img class="w-100" src="img/krishan-arora.png">
+                        </div>	
+                        <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
+                        	<div>
+	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Krishan Arora</h5>
+			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
+								Managing Director & CMO
+			        			</p>
+			        			<div class="d-flex align-items-center justify-content-center mt-3">
+									<a href="https://www.linkedin.com/in/krishan-arora/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
+							    </div>							
+						    </div>	
+                        </div>	
+					</div>
+
 
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
@@ -754,7 +773,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Jacob Yocum </h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								 Investment Associate
+								Senior Associate
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/jacobyocum/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -954,13 +973,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">
-                        	<img class="w-100" src="img/dummy_img.png">
+                        	<img class="w-100" src="img/bart.png">
                         </div>	
                         <div class="member_content bg-white py-4 d-flex align-items-center justify-content-center px-4">
                         	<div>
 	                        	<h5 class="text-center font__size-22 line__height-30 font__family-efb">Meet<br>Bart Szczurek</h5>
 			        			<p class="text-center font__size-16 font__family-open-sans line__height-28 mt-2 member_status">
-								Porfolio Management
+								Portfolio Management
 			        			</p>
 			        			<div class="d-flex align-items-center justify-content-center mt-3">
 									<a href="https://www.linkedin.com/in/bart%C5%82omiej-szczurek-cfa-439358ba/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-2"><i class="fab fa-linkedin-in"></i></a>
@@ -985,6 +1004,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						    </div>	
                         </div>	
 					</div>
+
+					
 
 					<!-- <div class="col-lg-3  member_card pl-5 pr-5 mb-10 mt-10 mt-lg-0">
                         <div class="img_section dummy w-100">

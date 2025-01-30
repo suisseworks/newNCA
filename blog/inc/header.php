@@ -106,7 +106,7 @@
 						<li><a href="../candidates.php"><div><span class="d-lg-none menu_for"></span>For Candidates</div></a></li>
 
 
-
+						<li><a href="../co-investors.php"><div>For Co-Investors</div></a></li>
 					 
 
 						<li><a href="../business-owners.php"><div><span class="d-lg-none menu_for"></span>For Business Owners</div></a></li>

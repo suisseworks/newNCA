@@ -141,6 +141,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="resource_wrap_links">
 
 						
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="https://www.youtube.com/watch?v=znwMDZFKvOg" target="_blank" title=" " class="font__size-20 font__family-efb">Novastone Capital Advisors -Interview at Davos 2025 - World Economic Forum<span class="arrow_link_a"></span></a>
+						</div>
+						
+
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="/docs/DEAN CURRAN FORMS GROUP WITH SECOND STRATEGIC ACQUISITION_FINAL 2025.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Dean Curran Forms Group with Second Strategic Acquisition<span class="arrow_link_a"></span></a>
+						</div>
+
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="/docs/NEW ACQUISITION IN CANADA FOR NCA ENTREPRENEUR MARTINE LEGAULT FINAL.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">New Acquisition in Canada for NCA Entrepreneur Martine Legault<span class="arrow_link_a"></span></a>
+						</div>
+						
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="https://markets.businessinsider.com/news/stocks/novastone-capital-advisors-completes-sale-of-chapter-one-sportswear-inc-1034164332" target="_blank" title=" " class="font__size-20 font__family-efb">NCA Completes Sale of Chapter One Sportswear Inc - Published on Business Insider<span class="arrow_link_a"></span></a>
+						</div>
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/NCA Completes Sale of Chapter One Sportswear Inc. 9_12_24.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">NCA Completes Sale of Chapter One Sportswear Inc.<span class="arrow_link_a"></span></a>

@@ -12,10 +12,10 @@
 					<div class="col-12 col-sm-4 col-lg-3 col-xs-12">
 						<ul class="d-flex flex-column brk-white-font-color font__size-14 font__weight-normal line__height-16 text-sm-left  footer_custom_colum">
 							<li class="mb-20"><a href="index.php">Home</a></li>
-							<li class="mb-20"><a href="about-us.php">About us</a></li>
+							<li class="mb-20"><a href="about-us.php">About Us</a></li>
 							<li class="mb-20"><a href="entrepreneurs.php">Our Enterpreneurs</a></li>
 							<li class="mb-20"><a href="candidates.php">Candidates</a></li>
-							<li class="mb-20"><a href="portfolio.php">Our Portafolio</a></li>
+							<li class="mb-20"><a href="portfolio.php">Our Portfolio</a></li>
 							<li class="mb-20"><a href="business-owners.php">For Business Owners</a></li>
 							<li class="mb-20"><a href="news-resources.php">News & Resources</a></li>
 						</ul>
@@ -59,7 +59,7 @@
 		</div>
 	</footer><a href="#top" id="toTop"></a>
 	<script src="js/scripts.min.js"></script>
-	<script src="js/zoho.js"></script> 
+	<script src="js/zoho.js?v=1.3"></script> 
 	<!--<script src="vendor/revslider/js/jquery.themepunch.tools.min.js"></script>
 	<script src="vendor/revslider/js/jquery.themepunch.revolution.min.js"></script>
 	<script src="vendor/revslider/js/extensions/revolution.extension.actions.min.js"></script>
