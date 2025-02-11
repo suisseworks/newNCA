@@ -239,7 +239,7 @@
 
                 <div class="counter-div d-flex justify-content-space-between text-white">
 				    <div class="count-up">
-	                    <p><span class="counter-count">21</span></p>
+	                    <p><span class="counter-count">22</span></p>
 	                    <h3 class="counter-name">Companies</h3>
                     </div>
 					<div class="count-up">
@@ -394,13 +394,13 @@
 	        	</div>
 
 				<div class="col-md-3 text-center">
-					<a href="https://www.garnerosborne.co.uk/"  >
+					<a href="garnerosborne.php"  >
 						<img class="portfolio-img ffco-img" src="img/portfolio/Garner-Osborne.svg">
 					</a>
 	        	</div>
 
 				<div class="col-md-3 text-center">
-					<a href="http://extendedpowerinc.com/"  >
+					<a href="extended-power.php"  >
 						<img class="portfolio-img ffco-img" src="img/portfolio/Extended-Power-Logo.png">
 					</a>
 	        	</div>
@@ -420,19 +420,19 @@
 	        	</div>
 
 				<div class="col-md-3 text-center">
-					<a href="https://www.marcona3.com/"  >
+					<a href="marcona3.php"  >
 						<img class="portfolio-img ffco-img" src="img/portfolio/Showroom-Marcona3.png">
 					</a>
 	        	</div>
 
 				<div class="col-md-3 text-center">
-					<a href="https://umecc.com/about.html"  >
+					<a href="umecc.php"  >
 						<img class="portfolio-img ffco-img" src="img/portfolio/umecc-logo.gif">
 					</a>
 	        	</div>
 
 				<div class="col-md-3 text-center">
-					<a href="/grupo-dalt.php"  >
+					<a href="grupo-dalt.php"  >
 						<img class="portfolio-img dalt-img" src="img/portfolio/mobile-green.png">
 					</a>
 	        	</div>
@@ -450,10 +450,16 @@
 		   <div class="row align-items-center  ">
 
 					<div class="col-3 text-center">
-								<a href="https://gdipackaging.ca/"  >
+								<a href="gdi.php"  >
 									<img class="portfolio-img dalt-img mb-5" src="img/GDILOGO.jpg">
 								</a>
-							</div>
+					</div>
+
+					<div class="col-3 text-center">
+								<a href="protek.php"  >
+									<img class="portfolio-img dalt-img mb-5" src="img/portfolio/protek-logo.png">
+								</a>
+					</div>
 
 			</div>
 
@@ -559,45 +565,51 @@
 	        	</div>
 
 				<div class="col-6 text-center">
-					<a href="https://www.garnerosborne.co.uk/"  >
+					<a href="garnerosborne.php"  >
 						<img class="mobile-adex-img mb-5" src="img/portfolio/Garner-Osborne.svg">
 					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-					<a href="http://extendedpowerinc.com/"  >
+					<a href="extended-power.php"  >
                     	<img class="mobile-adex-img mb-5" src="img/portfolio/Extended-Power-Logo.png">
 					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-					<a href="https://keystone-pharmacy.com/"  >
+					<a href="keystone.php"  >
 						<img class="mobile-adex-img mb-5" src="img/portfolio/keystone-pharmacy.png">
 					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-					<a href="https://www.marcona3.com/"  >
+					<a href="marcona3.php"  >
 						<img class="mobile-adex-img mb-5" src="img/portfolio/Showroom-Marcona3.png">
 					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-					<a href="https://umecc.com/about.html"  >
+					<a href="umecc.php"  >
 						<img class="mobile-adex-img mb-5" src="img/portfolio/umecc-logo.gif">
 					</a>
 	        	</div>
 
 
 				<div class="col-6 text-center">
-					<a href="/grupo-dalt.php"  >
+					<a href="grupo-dalt.php"  >
 						<img class="grupo-mobile mb-5" src="img/portfolio/mobile-green.png">
 					</a>
 	        	</div>
 
 				<div class="col-6 text-center">
-					<a href="https://gdipackaging.ca/"  >
+					<a href="gdi.php"  >
 						<img class="grupo-mobile mb-5" src="img/GDILOGO.jpg">
+					</a>
+	        	</div>
+
+				<div class="col-6 text-center">
+					<a href="protek.php"  >
+						<img class="grupo-mobile mb-5" src="img/portfolio/protek-logo.png">
 					</a>
 	        	</div>
 

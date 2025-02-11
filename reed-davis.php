@@ -29,10 +29,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="font__family-efb text-uppercase line__height-90">Reed <br> Davis</h2>
 						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
 						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2024</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2026</span>
+							<span class="font-weight-bold font__size-22">2025</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2027</span>
 						</div>
 						<p class="font__size-18 line__height-24"> 
-                           I am a passionate and visionary business strategist with over 15 years of executive experience founding and growing small businesses in the healthcare and wellness industries. I also taught and led strategy projects at Harvard Business School with renowned innovator Clayton M. Christensen. I started my career in management consulting, where I created three products, generating $57 million in annual revenue in less than four years. My primary expertise is in strategic growth and operational excellence. I am eager to leverage these skills in collaboration with my investors and NCA to identify and grow a healthcare or wellness business.
+						I am a seasoned entrepreneur, business strategist, and innovator with nearly two decades of experience in the services industry, spanning healthcare, education, financial services, professional consulting, and horticultural services. I co-founded seven businesses, achieving a consolidated revenue of $20 million+, including a successful exit. Early in my career, I excelled in management consulting, developing and launching three products that generated $57 million in annual revenue within four years.
+						  </p>
+						  <p class="font__size-18 line__height-24 mt-2">
+
+						   
+						  As part of my career, I had the privilege of working directly with renowned innovator Clayton M. Christensen at Harvard Business School (HBS), leading strategy projects that advanced groundbreaking ideas in business innovation and cultural excellence. I also collaborated with HBS's prestigious think tank, the Forum for Growth & Innovation, where I deepened my expertise in disruptive innovation and strategic growth frameworks. These hands-on experiences with such influential initiatives have profoundly shaped my approach to leadership and problem-solving.
 						  </p>
 					</div>
 					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
@@ -72,12 +77,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
 					<p class="font__size-16 line__height-24 font__family-efb">  
 
-                      I intend to acquire and expand a healthcare or wellness business in the US. One area of interest is mental health, with over 50 million adults (20% of the US population) suffering.
-					<p class="font__size-16 line__height-24 mt-2"> 55% are not receiving care due to accessibility, affordability, or lack of information, with the average delay between the onset of symptoms and treatment is 11 years. We also see that 30% of youth currently have an emotional health issue (a 250% increase over the last two years). </p>
+					I am seeking to acquire and lead a business in the services sector, focusing on industries such as healthcare, education, finance, horticulture, and professional services. 
+					<p class="font__size-16 line__height-24 mt-2"> I am particularly drawn to organizations with a strong foundation that are poised for their next phase of growth through innovative strategies and operational enhancements. My mission is to partner with business owners seeking a seamless leadership transition while preserving the legacy and values that define their company. Additionally, I aim to cultivate a strong culture where team members are inspired to thrive both personally and professionally. </p>
 
 					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">I plan to help as many in need as possible by leveraging these three strategic models: (1) Solutions Shop Model, (2) Partnership Growth Model, and (3) Tax Restructuring Model. </p>
-					<p class="font__size-16 line__height-24 mt-1">If you want to learn more about my search, please get in touch with me at reed.davis@novastone-ca.com.</p>    
+					<p class="font__size-16 line__height-24 font__family-efb">I bring a distinctive combination of entrepreneurial expertise, strategic vision, and operational excellence to the businesses I lead. My track record includes launching and scaling new products, driving profitability, and fostering a culture of innovation and individual fulfillment. I am deeply committed to building strong, inclusive cultures that prioritize the growth and well-being of every team member. </p>
+					<p class="font__size-16 line__height-24 mt-1">With extensive experience building high-performing teams, streamlining operations, and creating customer-centric solutions, I deliver measurable growth and sustainable success. My leadership philosophy centers on helping individuals realize their potential while achieving collective success, making me an ideal partner for businesses seeking transformative leadership and growth.</p>    
 			</div>
 		</div>
 	</div>
@@ -91,9 +96,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-10">
 				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/reed-thumbnail.png" alt="alt" class="image_video">
+                        <img src="img/thumbnail-reed-davis.png" alt="alt" class="image_video">
                         <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/Cqv3uIhUA1w?si=13tNuHW9SDeCeX8z" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
+                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/PAY5W2OHF2c" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
                         </div>
                      </div>
 			</div>
@@ -147,7 +152,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-reed.png" class="resume_img">
+				<img src="img/background-reed2.png" class="resume_img">
 			</div>
 		</div>
 

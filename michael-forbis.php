@@ -1,201 +1,236 @@
-<?php include 'inc/header-scripts.php'; ?>		
+<?php include 'inc/header-scripts.php'; ?>	
 <body>
 	<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHG7P3C"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+<div class="sabs_main">
+<section class="sabs_page searcher_img_sec">
+	<div class="outer_container container-outer-1600">
+	   
+		<div class="row pt-70 pt-xs-0 pb-lg-100 pb-50 pl-lg-100 align-items-end">
+			<div class="col-lg-4 main_text">
+			    <div class="key_skill key_skill_new position-relative pl-lg-90 pr-50 pb-80 pt-50 ml-40">
+				    <h2 class="d-flex align-items-center justify-content-center text-uppercase font__halvetica-bold line__height-70 text-brand-primary"> </h2>
+				</div>	
+				<div class="detail_main_col d-flex align-items-end h-100">
+				    <div class="detail_searcher sbs_deatail mt-5 position-relative">
+						<div class="member_content py-4">
+                        	<div>
+	                        	
+			        			<p class="font__size-30 font__halvetica-bold line__height-50"><span class="pb-15 d-inline-block">NCA Entrepreneur</span><br><span class="font__size-41">2024</span> <span class=" member_count_arrow px-lg-3 pt-lg-12 pt-10 d-inline-flex">
+			        				<svg xmlns="http://www.w3.org/2000/svg" width="32.578" height="32.578" viewBox="0 0 32.578 32.578">
+									  <path id="Path_21" data-name="Path 21" d="M377.34,928.108l-2.96,2.961,11.21,11.212H361.051v4.232H385.59l-11.21,11.211,2.96,2.962L393.629,944.4Z" transform="translate(-361.051 -928.108)" fill="#e5720a"/>
+									</svg>
 
-<section class="searcher_sectain searcher_bg">
-	<div class="row no-gutters">
-		<div class="col-lg-6">
-			<div class="searcher_jan_img">
-				<img src="img/mark-lopez.png">
-			</div>
-		</div>
-		<div class="col-lg-6 pr-0">
-				<div class="searcher_content pt-100 ml-4">
-					
-
-					<div class="align-self-lg-stretch">
-						<div class="brk-header__item h-100 d-flex align-items-center">
-							<a href="https://www.linkedin.com/in/mark-lopez-96565020/" target="_blank" class="social_icon searcher_linkdin mt-100 d-inline-flex align-items-center ml-2 justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
-							 
-						</div>
-					</div>	
-
-
-
-					<div class="detail_searcher mt-2">
-						<h2 class="font__family-efb text-uppercase line__height-90">Mark <br> Lopez</h2>
-						<h4 class="font__size-38 mt-4">NCA Entrepreneur</h4>
-						<div class="yaers_div d-flex align-items-center font__family-open-sans my-4">
-							<span class="font-weight-bold font__size-22">2024</span><i class="fa fa-arrow-right mx-1 px-1 text-brand-primary font__size-18"></i><span class="font-weight-bold font__size-22">2026</span>
-						</div>
-						<p class="font__size-18 line__height-24"> 
-
-                          I grew up in Paris, France, and moved to the United States 15 years ago. I have lived in Miami, New York, and Chicago, where I currently reside with my wife and daughter. My professional experience has been focused on consumer goods and covers a variety of functions, including finance, M&A, sales & marketing, and operations. I have worked mostly at large public companies and more recently as an entrepreneur, where I have truly enjoyed working in a small and midsized company environment. I look forward to continuing my entrepreneurial journey through acquisition.
-
-						  </p>
-					</div>
-					<div class="contact_me_btn bg-primary pl-50 py-4 mt-5">
-						<a href="mailto:mark.lopez@novastone-ca.com" type="button" class="btn text-white font__family-efb">Contact<span class="ml-3"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="31" viewBox="0 0 30 31">
-								  <defs>
-								    <clipPath id="clip-path">
-								      <rect width="30" height="31" fill="none"/>
-								    </clipPath>
-								  </defs>
-								  <g id="Forward_arrow" data-name="Forward arrow" clip-path="url(#clip-path)">
-								    <path id="Path_10" data-name="Path 10" d="M15.056,0,12.319,2.738,22.682,13.1H0v3.911H22.682L12.319,27.375l2.738,2.738L30.113,15.056Z" fill="#fff"/>
-								  </g>
-								</svg>
-								</span></a>
-					</div>
-				</div>
-		</div>
-	</div>
-	<div class="my_searcher">
-		<div class="container">
-		<div class="row no-gutters">
-			<div class="col-lg-2"></div>
-			<div class="col-lg-4">
-				<div class="key_skill position-relative pl-90 pr-50 pb-80 pt-50 ml-40">
-					<h2 class="text-uppercase font__family-efb line__height-70 text-brand-primary"><span style="visibility:hidden"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span>Key Skills</h2>
-					<ul class="ml-5 pl-4">
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>High integrity</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Strategic leadership</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Operational excellence</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Results orientation</li>
-						<li class="font__size-20 text-light d-flex align-items-center mb-4"><i class="fa fa-check font__size-16 text-dark bg-light rounded mr-3"></i>Culture champion</li>
-					</ul>
-				</div>
-			</div>
-			<div class="col-lg-6 pl-0">
-				<div class="my_search_content bg-white pl-80 pr-80 pt-60 pb-60 position-relative">
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90" id="my_search_heading">MY SEARCH</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">  
-
-                    My objective is to acquire a successful company and take it to new heights by capitalizing on its existing strengths and further unlocking potential with new initiatives. 
-					<p class="font__size-16 line__height-24 mt-2"> As an entrepreneur and previous founder, it is paramount to me to be respectful of the company’s legacy and work hard to preserve it. I take pride in my leadership approach which values listening and learning to ensure business continuity and coherence. With a focus on long-term value creation, success begins with my personal commitment to employees, customers, and suppliers.  </p>
-
-					<h2 class="font__size-58 text-uppercase text-brand-primary font__family-efb line__height-90 mt-5" id="my_search_heading">My contribution</h2>
-					<p class="font__size-16 line__height-24 font__family-efb">The wellness industry is booming, and growth opportunities in the sector abound. I believe I can infuse new ideas to generate further growth by enhancing the strategic alignment between the company’s products and the industry’s secular trends.     </p>
-					<p class="font__size-16 line__height-24 mt-1">Inspired by 15 years at best-in-class companies such as L’Oréal and Kraft Heinz, I possess extensive leadership experience across a variety of functions. My structured approach to driving growth and achieving results is complemented by my ability to build strong relationships with both clients and team members under my leadership.     </p>    
-			</div>
-		</div>
-	</div>
-	</div>
-
-</section>
-<br/>
-<section class="jan_video searcher_bg">
-	<div class="container">
-		<div class="row no-gutters">
-			<div class="col-lg-1"></div>
-			<div class="col-lg-10">
-				<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
-                        <img src="img/mark-thumbnail.png" alt="alt" class="image_video">
-                        <div class="play_button left_btn center_btn play_btn_white position-absolute">
-                        <a class="d-flex align-items-center fancybox" href="https://youtu.be/3swgtKPzgt8?si=ydcoe0XX1m19qyHE" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-20">PLAY</span></a>
-                        </div>
-                     </div>
-			</div>
-			<div class="col-lg-1"></div>
-		</div>
-	</div>
-</section>
-
-<section class="resume_sec searcher_bg">
-	<div class="pt-150 pb-100">
-		<div class="row no-gutters">
-			<div class="col-lg-4 bg-white">
-				<div class="about_learn pt-100 pb-80 pl-100 pr-100">
-					<span>
-						<svg id="LOGO" xmlns="http://www.w3.org/2000/svg" width="122.254" height="53.98" viewBox="0 0 122.254 53.98">
-						  <path id="Path_6599" data-name="Path 6599" d="M831.743-839.838a3.048,3.048,0,0,1-3.024-3.071,3.048,3.048,0,0,1,3.024-3.072,3.048,3.048,0,0,1,3.024,3.072A3.048,3.048,0,0,1,831.743-839.838Z" transform="translate(-801.438 849.425)" fill="#fff"/>
-						  <path id="Path_6604" data-name="Path 6604" d="M3.03-.007A3.023,3.023,0,0,1,6.047,3.051,3.074,3.074,0,0,1,3.009,6.131,3.023,3.023,0,0,1-.007,3.072,3.074,3.074,0,0,1,3.03-.007Z" transform="translate(26.662 4.229) rotate(-13.282)" fill="#fff"/>
-						  <path id="Path_6600" data-name="Path 6600" d="M1099.743-728.186a3.048,3.048,0,0,0-3.025,3.072,3.048,3.048,0,0,0,3.025,3.071,3.048,3.048,0,0,0,3.024-3.071A3.048,3.048,0,0,0,1099.743-728.186Z" transform="translate(-1000.344 762.47)" fill="#fff"/>
-						  <path id="Path_6601" data-name="Path 6601" d="M902.1-820.66c5.005-8.947,12.356-25.768,15.107-32.162l19.958,44.661.131.293h2.739l-22.886-51.218-1.115,2.644c-.406.96-10.019,23.655-16.1,34.53-5.43,9.7-12.615,14.225-22.613,14.225a24.3,24.3,0,0,1-24.082-24.456A24.3,24.3,0,0,1,877.321-856.6a23.954,23.954,0,0,1,20.255,11.188h2.908a26.462,26.462,0,0,0-23.162-13.722,26.816,26.816,0,0,0-26.578,26.99,26.817,26.817,0,0,0,26.568,26.99h.019C888.314-805.155,896.187-810.084,902.1-820.66Z" transform="translate(-817.784 859.133)" fill="#fff"/>
-						  <path id="Path_6602" data-name="Path 6602" d="M725.4-850.671c6.158,4.2,23.007,17.9,29.133,45.4l.086.389h2.547l-.132-.607c-7.571-34.61-32.04-48.449-32.286-48.585l-1.842-1.013v50.233h2.5Z" transform="translate(-722.906 856.146)" fill="#fff"/>
-						</svg>
-					</span>
-					<h3 class="font__family-efb font__size-30 text-white line__height-52 mt-2">NCA Entrepreneur </h3>
-					<p class="font__size-17 line__height-24 mt-2 text-white font__family-open-sans">The NCA Entrepreneurship Through Acquisition Program accompanies the next generation of exceptional talents on every stage of their entrepreneurial path.</p>
-					<div class="learn_more_btns learn_about_btn mt-5 mb-4 pb-2">
-						<a href="about-us.php" target="__blank" type="button" class="btn text-white text-uppercase font__size-24 p-0 d-flex align-items-center m-0">LEARN MORE <span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
-							  <defs>
-							    <clipPath id="clip-path">
-							      <rect width="38" height="38" fill="none"/>
-							    </clipPath>
-							  </defs>
-							  <g id="Forward_arrow" data-name="Forward arrow" clip-path="">
-							    <path id="Path_10" data-name="Path 10" d="M19,0,15.545,3.455,28.623,16.532H0v4.935H28.623L15.545,34.545,19,38,38,19Z" fill="#fff"/>
-							  </g>
-							</svg>
-							</span></a>
-					</div>
-				</div>
-				<div class="learn_more_btns resume_btn bg-primary pt-60 pb-60 pl-100 pr-100">
-						<a download href="docs/Mark-Lopez-resume.pdf" type="button" class="pb-1 btn text-white d-inline-flex align-items-center text-uppercase font__size-20 p-0 m-0">DOWNLOAD CURRICULUM VITAE<span class="ml-5 d-flex"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
-								  <defs>
-								    <clipPath id="clip-path">
-								      <rect width="38" height="38" fill="none"/>
-								    </clipPath>
-								  </defs>
-								  <g id="Forward_arrow" data-name="Forward arrow" transform="translate(38) rotate(90)" clip-path="">
-								    <path id="Path_10" data-name="Path 10" d="M19,0,15.545,3.455,28.623,16.532H0v4.935H28.623L15.545,34.545,19,38,38,19Z" fill="#fff"/>
-								  </g>
-								</svg>
-								</span></a>
-					</div>
+			        			</span><span class="font__size-41 ml-lg-0 ml-10">2026</span></p>	
+								<p style="margin-top: 8px;  "> <a href="https://www.linkedin.com/in/michaelforbis/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5  mr-2"><i style="font-size: 20px;" class="fab fa-linkedin-in"></i></a>
+								
+						    </div>	
+	                    </div>
+	                    <h2 class="font__halvetica-bold text-uppercase font__size-133 line__height-160 position-relative"><span class="heading_bg">MICHAEL</span> <br> <sapn class="heading_bg_2">FORBIS</sapn></h2>
+				    </div>	
+				</div>    
 			</div>
 			<div class="col-lg-8">
-				<img src="img/background-mark.png" class="resume_img">
-			</div>
+				<div class="searcher_image position-relative">
+					<img class="w-100" src="img/michael-forbis.png">
+				</div>	
+			</div>	
 		</div>
-
-		<div class="row no-gutters">
-			<div class="col-lg-4">
-				<div class="about_contact_info pl-100 bg-white pr-100 pt-60 pb-80">
-					<h2 class="font__family-efb text-uppercase mb-3">My contact details</h2>
-					<!-- <a class="font__size-34 font__family-open-sans font-weight-bold" href="tel:+33 6 85 39 53 94">+33 6 85 39 53 94</a> -->
-					<div class="mt-3 searcher_mail_jan">
-					<a class="font__size-25 font__family-open-sans font-weight-bold" href="mailTo:mark.lopez@novastone-ca.com">mark.lopez@novastone-ca.com</a>
-				</div>
-				</div>
-			</div>
-			<div class="col-lg-2"></div>
-			  <div class="col-lg-6">
-				<div class="pouse_sec d-flex pt-60">
-					<div class="pouse_button mr-4">
-						<a href="#">
-							<img src="img/pouse.png" class="mt-3">
-						</a>
-					</div>
-					<div class="headline">
-							<h4 class="mb-3 underline font__size-32 line__height-48 font__family-efm wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">Vision without execution is just hallucination.</h4>
-							<h5 class="font__size-23 line__height-35 font__family-open-sans font-weight-bold mt-3 text-uppercase">Henry Ford, founder of the Ford Motor Company</h5>
-							<p class="font__size-16 line__height-35 mt-2 text-uppercase"></p>
-					</div>
-				</div>
-			  </div>
-		</div>
+				
 	</div>	
 </section>
 
-<section class="searcher_bg searcher_footer_sec bg-secondary-2">
-	<div class="searcher_footer pb-100 pt-70">
-		<div class="container">
+<section class="sabs_page">
+	<div class="outer_container container-outer-1600 pb-lg-200 pb-50">
+		
+		<div class="row pl-lg-100">
+			<div class="col-12 col-lg-12">
+				<div class="sabastien_col wow fadeInRight w-100 apply_sec_div">
+					<a href="https://www.novastone-ca.com/about-us.php" class="d-block p-5 text-white sercher_clr_div">
+						<img class="searcher_logo" src="img/LOGO-WHITE.png">
+						<p class="font__size-30 mb-2 mt-30 font__halvetica-bold font__weight-500">NCA Entrepreneur</p>
+						<p class="font__size-16 text-white mt-4 font__weight-500">
+                            The NCA Entrepreneurship Through Acquisition <br> Program accompanies the next generation <br> of exceptional talents on every stage of their<br> entrepreneurial path.							 
+						</p>
+						<div class="text-right arrow_link sas_arrow font__halvetica-bold">
+							LEARN MORE
+							<svg id="Forward_arrow" class="ml-lg-5 ml-2" data-name="Forward arrow" xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 60 60">
+							  <path id="Path_10" data-name="Path 10" d="M30,0,24.545,5.455,45.195,26.1H0V33.9H45.195L24.545,54.545,30,60,60,30Z" fill="#fff"/>
+							</svg>
+
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+		
+	</div>			
+</section>
+<section class="sabs_page"> 
+	<div class="outer_container container-outer-1600 pb-lg-200 pb-50">
+		
+			<div class="div_section">
+				<div class="row">
+					<div class="col-lg-5 pr-lg-20">
+						<div class="image_content_div position-relative">
+							<img class="w-100" src="img/about-me-miichael-forbis.png">
+							<div class="transform_div position-absolute">
+								<p class="py-3 px-3 font__halvetica-bold font__size-36">ABOUT ME</p>
+							</div>
+						</div>	
+					</div>
+					<div class="col-lg-5 pl-lg-20">
+						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
+							<p class="font-weight-bold font__size-16">
+                            I am from Metro Detroit, Michigan, where I was raised by great parents along with my siblings, and currently live with my wonderful wife and two kids.  My career has been varied and intentional, including design engineer, project manager, operations/turnaround business consultant, startup CEO, and most recently, investment banker. 
+							</p>
+							<p class="mt-30 font__size-16 font__halvetica-regular">
+                            I’ve developed a broad set of experiences and skills for successfully building a technology company.  As a kid, I spent a lot of time playing sports such as hockey, soccer, and wrestling; and I was lucky enough to be on some really excellent teams (winning state and national titles) where I learned a lot about competition, teamwork, and sacrifice.  As an engineer with the heart of an entrepreneur and the spirit of an athlete, I love to build teams, products, and great companies. 
+							</p>
+						</div>	
+					</div>
+					<div class="col-lg-2">
+					</div>	 
+				</div>
+			</div>	
+			<div class="div_section mt-75">	
+				<div class="row">
+					<div class="col-lg-5 pr-lg-20">
+						<div class="image_content_div position-relative">
+							<img class="w-100" src="img/my-search-michael-forbis.png">
+							<div class="transform_div position-absolute">
+								<p class="py-3 px-3 font__halvetica-bold font__size-36">MY SEARCH</p>
+							</div>
+						</div>	
+					</div>
+					<div class="col-lg-5 pl-lg-20">
+						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
+							<p class="font-weight-bold font__size-16">
+                            The focus of my search is engineering design and manufacturing companies in the Upper Midwest.  I will target SMEs with strong engineering capabilities that deliver innovative B2B solutions. 
+
+ 
+							</p>
+							<p class="mt-30 font__size-16 font__halvetica-regular">
+                            In some cases, there may be opportunities for developing new products to expand the business, and possibly integrating some manufacturing to deliver higher value to end customers and improve financial performance. 
+							</p>
+						</div>	
+					</div>
+					<div class="col-lg-2">
+					</div>	 
+				</div>	
+			</div>
+			<div class="div_section mt-75">	
+				<div class="row">
+					<div class="col-lg-5 pr-lg-20">
+						<div class="image_content_div position-relative">
+							<img class="w-100" src="img/my-contribution-michal-forbis.png">
+							<div class="transform_div position-absolute">
+								<p class="py-3 px-3 font__halvetica-bold font__size-28">MY CONTRIBUTION</p>
+							</div>
+						</div>	
+					</div>
+					<div class="col-lg-5 pl-lg-20">
+						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
+							<p class="font-weight-bold font__size-16">
+                            I will provide clear and specific goals for the company, a pathway to achieving those goals, and lead the team every day to accomplish those goals.  I will support and foster a collaborative team environment in which everyone embraces high performance standards. 
+							</p>
+							<p class="mt-30 font__size-16 font__halvetica-regular">
+							I will explore and pursue innovative opportunities to expand the business.  I will build upon, and further develop a special company of excellence and creativity. 
+							</p>
+						</div>	
+					</div>
+					<div class="col-lg-2">
+					</div>	 
+				</div>	
+			</div>	
+			
+	</div>	
+</section>
+
+<section class="video_section">
+	<div class="outer_container container-outer-1600">
+		<div class="row video_col">
+			<div class="col-lg-4 pr-lg-20">
+				<div class="video_text about_contact_info pl-45 pr-30 pb-30 w-100 d-flex h-100 align-items-center">
+					<div>
+						<div class="heading-_icon heading_top_icon w-100">
+						   <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
+							  <path id="Path_25" data-name="Path 25" d="M281.719,2916.173l30.059-25.84v20.918l-17.93,15.381,17.93,15.293v20.918l-30.059-25.752Zm-38.935,0,30.058-25.84v20.918l-17.929,15.381,17.929,15.293v20.918l-30.058-25.752Z" transform="translate(-241.784 -2888.155)" fill="none" stroke="#ea5b0c" stroke-width="2"/>
+							</svg>
+
+						</div>    
+						<h2 class="font__size-37 line__height-47 font__halvetica-bold text-uppercase w-100 mb-3 mt__12">
+                        The team, <br>	 the team, <br>	 the team<br><br>							 
+						</h2>
+						<div class="heading-_icon heading_bottom_icon mt-3 d-flex justify-content-end w-100 px-4">
+						    <svg xmlns="http://www.w3.org/2000/svg" width="68.99" height="72.51" viewBox="0 0 70.994 76.862">
+							  <path id="Path_26" data-name="Path 26" d="M558.287,3363.96l-30.059-25.84v20.918l17.93,15.382-17.93,15.293v20.917l30.059-25.751Zm38.935,0-30.058-25.84v20.918l17.929,15.382-17.929,15.293v20.917l30.058-25.751Z" transform="translate(-527.228 -3335.942)" fill="none" stroke="#ea5b0c" stroke-width="2"/>
+							</svg>
+						</div> 
+						<p class="font__size-20 line__height-24 font__family-open-sans font-weight-bold text-golden pl-30">
+						Bo Schembechler <br>  
+						</p> 
+					</div>	
+				</div>	
+			</div>
+			<div class="col-lg-8 pl-lg-20">
+				<div class="video_div d-flex h-100 pt-lg-0 pt-50">
+					<div class="image_caption_vidio" data-brk-library="component__image_caption_css">
+	                    <img src="img/thumbnail-michael-forbis.png" alt="alt" class="image_video object-fit_cover w-100 h-100">
+	                    <div class="sbs_btn play_button left_btn center_btn play_btn_white position-absolute">
+		                    <a class="d-flex align-items-center fancybox" href="https://youtu.be/Bp-X65RIJTY" data-brk-library="fancybox"><i class="fas fa-play font__size-50"></i><span class="ml-2 font__size-18 font__family-open-sans">PLAY</span></a>
+	                    </div>
+	                </div>
+				</div>	
+			</div>	
+		</div>	
+		<div class="row pt-50 pb-130">
+			<div class="col-lg-4 pr-lg-20">
+				<div class="learn_more_btns sbs_download_btn resume_btn pt-30 pb-30 pl-70 pr-70 d-flex justify-content-center">
+					<a download href="docs/michael-forbis-resume.pdf" type="button" class="pb-1 btn text-primary font-weight-bold text-left font__family-open-sans text-uppercase font__size-45 line__height-60 p-0 m-0">DOWNLOAD<br> RESUME
+						<svg xmlns="http://www.w3.org/2000/svg" width="58.109" height="42.5" viewBox="0 0 58.109 42.5">
+						  <g id="Group_73" data-name="Group 73" transform="translate(-526.5 -3682)">
+						    <path id="Path_19" data-name="Path 19" d="M528,3697.7V3723h55.109V3697.7" fill="none" stroke="#e5720a" stroke-width="3"/>
+						    <path id="Path_27" data-name="Path 27" d="M570,3696l-2.545-2.546-9.637,9.637V3682h-3.636v21.091l-9.637-9.637L542,3696l14,14Z" fill="#e5720a"/>
+						  </g>
+						</svg>
+
+
+					</a>
+				</div>
+			</div>	
+			<div class="col-lg-8 pl-lg-20">
+				<div class="info_text sabastien_col mt-lg-0 mt-50 p-xs-0 pl-50 pr-50 pt-100 pb-100">
+                    <h2 class="font__halvetica-bold font__size-30 text-uppercase text-white">
+                    	MY CONTACT DETAILS
+                    </h2>
+                    <ul class="pl-0 mt-30">
+                    	<li class="w-100 mb-30">
+                    		<a class="font__halvetica-bold pr-50 text-white font__size-38" href="mailTo:michael.forbis@novastone-ca.com">michael.forbis@novastone-ca.com</a>
+                    	</li>
+                    </ul>
+				</div>	
+			</div>	
+		</div>	
+	</div>	
+</section>
+
+<section class="searcher_footer_sec bg-footer">
+	<div class="searcher_footer">
+		<div class="container pb-100 pt-70">
 			<div class="row">
 				<div class="col-12 col-lg-7">
 					<div class="searcher_about_us">
 						<div class="jan_title d-flex align-items-baseline">
-							<h1 class="font__size-30 font__family-efb line__height-70 text-white">Mark Lopez</h1>
-							<h3 class="font__size-17 ml-3 font__family-open-sans text-white">NCA Entrepreneur</h3>
+							<h1 class="font__size-27 font__family-avenir text-capitalize line__height-70 text-white">Michael Forbis</h1>
+							<h3 class="font__size-17 ml-5 font__family-avenir text-white">NCA <span class="font__size-18">Entrepreneur</span></h3>
 						</div>
-						<div class="jan_detail mt-4">
-							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4">This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>
+						<div class="jan_detail mt-60">
+							<p class="text-white font__size-12 line__height-24 font__family-open-sans mb-4"> This website does not constitute an offer to the public or a solicitation to purchase or invest in any financial instrument. The information provided on this website is for information purposes only and does not constitute an offer, a solicitation, or a recommendation, to subscribe to any financial service. To the extent this website expresses views on investment strategies and investment ideas, any such information is of a general nature only and shall not be construed as advertisement to subscribe for a financial service or to make an investment in any specific financial instrument.</p>
 
-							<a href="index.php" target="__blank" class="back_to d-inline-flex align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3">NCA Website <span class="ml-2"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
+							<a href="index.php" target="__blank" class="font__family-avenir back_primary text-capitalize d-inline-flex text-left align-items-center text-white font__family-open-sans btn btn-prime m-0 font__size-12 font-weight-bold btn-no-shadow btn_lang p-3 mt-10">NCA website <span class="ml-108"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="18" viewBox="0 0 10 10">
 								  <defs>
 								    <clipPath id="clip-path">
 								      <rect width="10" height="10" fill="none"/>
@@ -209,27 +244,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</div>
 				</div>
-				<div class="col-12 col-lg-5 text-right">
-					<div class="searcher_mail mt-3 pt-1">
-						<a href="mailTo:mark.lopez@novastone-ca.com" class="font__size-17 text-brand-primary font__family-open-sans font-weight-bold mr-2">mark.lopez@novastone-ca.com</a>
-						<a href="https://www.linkedin.com/in/mark-lopez-96565020/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 p-1 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
+				<div class="col-12 col-lg-5 text-lg-right">
+					<div class="searcher_mail d-flex align-items-center justify-content-end mt-3 pt-1">
+						<a href="mailTo:michael.forbis@novastone-ca.com" class="font__size-17 text-brand-primary font__halvetica-bold font-weight-bold underline mr-3"><span>michael.forbis@novastone-ca.com</span></a>
+						<a href="https://www.linkedin.com/in/michaelforbis/" target="_blank" class="social_icon d-inline-flex align-items-center justify-content-center border-radius-5 font__family-avenir"><i class="fab fa-linkedin-in font__size-18"></i></a>
 					</div>
 				</div>
 			</div>
-			<div class="row align-items-center mt-5">
+			<div class="row align-items-center mt-30">
 							
-						<div class="col-lg-8 col-sm-12 col-12 col-xs-12">
-							<p class="font__size-12 font__family-open-sans text-white">&copy; Novastone Capital Advisors <?php echo date("Y"); ?> - Haldenstrasse 5, 6340 Baar, Switzerland</p>
-						</div>
-						<div class="col-lg-4 col-sm-12 col-12 col-xs-12">
-							<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12">
-								<li><a href="img/Terms-and-Conditions-Legal Notice.pdf" download="">Terms and Conditions</a></li>
-								<li><a href="img/NCA-Privacy-Policy.pdf" download="">Privacy Policy</a></li>
-							</ul>
-						</div>
-					</div>
+				<div class="col-lg-8 col-sm-12 col-12 col-xs-12">
+					<p class="font__size-12 font__family-open-sans text-white">&copy; Novastone Capital Advisors <?php echo date("Y"); ?> - Haldenstrasse 5, 6340 Baar, Switzerland</p>
+				</div>
+				<div class="col-lg-4 col-sm-12 col-12 col-xs-12">
+					<ul class="copyright_menu d-inline-flex brk-white-font-color font__size-12 font__family-open-sans font-weight-bold">
+						<li><a href="img/Terms-and-Conditions-Legal Notice.pdf" download="">Terms and Conditions</a></li>
+						<li><a href="img/NCA-Privacy-Policy.pdf" download="">Privacy Policy</a></li>
+					</ul>
+				</div>
+
+			</div>
 		</div>
 	</div>
-</section>
-						</body>
-	<?php include 'inc/footer-scripts-searcher.php'; ?>
+</section>	
+</div>
+</body>
+<?php include 'inc/footer-scripts-searcher.php'; ?>

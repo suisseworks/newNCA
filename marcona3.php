@@ -14,7 +14,7 @@
 							Marcona3
 				</h3>
 				<div class="forza-img w-100">
-					<img src="img/portfolio/keystone-background.png">
+					<img src="img/portfolio/marcona3-background.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
 					<a href="https://www.marcona3.com/" target="_blank"><img src="img/portfolio/keystone-background.png"></a>

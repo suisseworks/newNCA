@@ -13,7 +13,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<a href="about-us.php">
 							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name">About Us</h2>
 							<p class="font__size-12 font__family-open-sans line__height-17 pt-2">
-							Novastone Capital Advisors (NCA) is a global company based in Switzerland that runs an Entrepreneurship Through Acquisition program.
+							Novastone Capital Advisors (NCA) is a global company based in Switzerland that runs an Operator-Led Search Fund Program.
 							</p>
 						</a>	
 					</div>	
@@ -24,7 +24,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<a href="candidates.php" class="position-relative">
 							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name"><span class="font__size-13 font__family-efblack position-absolute for_text">For</span>Candidates</h2>
 							<p class="font__size-12 font__family-open-sans line__height-17 pt-2 pr-50">
-								Are you looking to take the next big step in your career without starting a company from scratch? NCA enables the most talented executives to become entrepreneurs through acquisition.
+								Are you looking to take the next big step in your career without starting a company from scratch? NCA enables the most talented executives to become Searchers.
 							</p>
 						</a>	
 					</div>
@@ -57,9 +57,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="landing_col_5 landing_page_menus">
 					<div class="page_text">
 						<a href="entrepreneurs.php" class="position-relative">
-							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name"><span class="font__size-13 font__family-efblack position-absolute for_text">Our</span>Entrepreneurs</h2>
+							<h2 class="text-uppercase font__size-36 font__family-efb line__height-48 page_name"><span class="font__size-13 font__family-efblack position-absolute for_text">Our</span>Searchers</h2>
 							<p class="font__size-12 font__family-open-sans line__height-17 pt-2">
-								Once Searching Entrepreneurs complete a successful acquisition they become NCA CEOs.
+								Once Searchers complete a successful acquisition they become NCA CEOs.
 							</p>
 						</a>	
 					</div>

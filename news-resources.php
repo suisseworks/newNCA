@@ -32,6 +32,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="resource_wrap_links py-3 bg-light">
 
 						<div class="anchore_div anchore_div py-3 px-3 position-relative">
+								<a href="https://www.youtube.com/watch?v=xS9Q0XyVGHE" target="_blank" class="font__size-20 font__family-efb">Daniel Gartner, NCA Managing Partner featured on Close the Deal podcast<span class="arrow_link_a"></span></a>
+							</div>	
+
+						
+
+						<div class="anchore_div anchore_div py-3 px-3 position-relative">
 								<a href="https://calbizjournal.com/novastone-capital-advisors-qa-with-ceo-christian-malek/" target="_blank" class="font__size-20 font__family-efb">Novastone Capital Advisors: Q&A With CEO Christian Malek<span class="arrow_link_a"></span></a>
 							</div>
 
@@ -139,6 +145,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-12 col-lg-6">
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">NCA <br> news</h2>
 						<div class="resource_wrap_links">
+
+
+						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="https://www.msn.com/en-us/money/smallbusiness/how-novastone-capital-advisors-empowered-women-entrepreneurs-in-2024/ar-AA1ypWHk?ocid=BingNewsSerp" target="_blank" title=" " class="font__size-20 font__family-efb">How Novastone Capital Advisors Empowered Women Entrepreneurs in 2024<span class="arrow_link_a"></span></a>
+						</div>
+
+						
 
 						
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">

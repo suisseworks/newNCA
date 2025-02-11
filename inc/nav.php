@@ -11,11 +11,11 @@
 
 									<li class="dropdown d-li">
 										<a href="entrepreneurs.php">
-											<div><span class="d-lg-none menu_for"></span>Our Entrepreneurs</div>
+											<div><span class="d-lg-none menu_for"></span>Our Searchers</div>
 											<i class="fa fa-caret-down pl-1"></i>
 										</a>
 										<ul class="dropdown-content">
-											<li><a href="entrepreneurs.php#entrepreneurs">Searching Entrepreneurs</a>
+											<li><a href="entrepreneurs.php#entrepreneurs">Searchers</a>
 											</li>
 											<li><a href="entrepreneurs.php#ceos">NCA CEO's</a></li>
 										</ul>
@@ -27,7 +27,7 @@
 											<i class="fa fa-caret-down pl-1"></i>
 										</a>
 										<ul class="dropdown-content">									
-											<li><a href="news-resources.php">Searching Entrepreneurs</a></li>
+											<li><a href="news-resources.php">Searchers</a></li>
 											<li><a href="entrepreneurs.php#ceos">NCA CEO's</a></li>
 										</ul>
 									</li>

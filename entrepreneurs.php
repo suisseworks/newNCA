@@ -8,7 +8,7 @@ $_SESSION["lan"] = "English";
 			<div class="row no-gutters">
 					<div class="col-12 strike_heading_2 mt-3">
 	                    <h2 class="stroke_text text-uppercase text-center text-lg-left text-sm-left text-xs-left mb-10 mb-lg-0 wow fadeInLeft">
-	                    	Searching Entrepreneurs
+	                    	Searchers
 	                    </h2>
 	                </div>
 	                <div class="col-lg-7">
@@ -16,7 +16,7 @@ $_SESSION["lan"] = "English";
 							<div class="headline">
 							
 							<h4 class="mb-5 mt-3 subtitle wow fadeInUp">
-								Only exceptional talents, who are ready to embark on an exceptional journey, are chosen for our ETA program. Learn more about our current cohort of NCA Searching Entrepreneurs below.
+								Only exceptional operators, who are ready to embark on a unique journey, are chosen for our Operator-Led Search Fund Program. Learn more about our current cohort of NCA Searchers below.
 							</h4>
 							</div>
 						</div>
@@ -719,10 +719,39 @@ $_SESSION["lan"] = "English";
                     </div>	
 				</div>
 
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/about-ralf-aigner2.png">
+                    </div>	
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Ralf Aigner</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://novastone-ca.com/ralf-aigner.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
 
+				
 
-
-
+				<div class="col-lg-3 member_card mt-10 mb-10 mt-lg-0 pl-5 pr-5">
+                    <div class="img_section w-100">
+                    	<img class="w-100" src="img/matthieu-mary-about.png">
+                    </div>	
+                    <div class="member_content bg-primary py-4 d-flex align-items-center justify-content-center px-4">
+                    	<div class="text-white">
+                        	<h5 class="text-center text-white font__size-22 line__height-30 font__family-efb">Matthieu Mary</h5>
+		        			<p class="text-center font__size-16 font__family-open-sans line__height-34">
+							<div class="d-flex align-items-center justify-content-center">
+									<a href="https://novastone-ca.com/matthieu-mary.php" target="_self" class="font__size-13 font__family-open-sans btn btn-prime learn_more_btn bg-transparent2 text-capitalize border-radius-25 btn-no-shadow btn_lang px-3 font__weight-bold" data-brk-library="component__button">Learn more</a>
+								</div>	
+		        			</p>	
+					</div>	
+                    </div>	
+				</div>
 
 
 
@@ -751,7 +780,7 @@ $_SESSION["lan"] = "English";
 		<div class="row">
 			<div class="col-12">
 				<p class="font__size-24">
-					Once Searching Entrepreneurs complete a successful acquisition they become NCA CEOs.
+					Once Searchers complete a successful acquisition they become NCA CEOs.
 				</p>	
 			</div>	
 		</div>
@@ -771,7 +800,7 @@ $_SESSION["lan"] = "English";
 						
 						<div class="col-12">
 							<p class="font__family-open-sans text-content wow fadeInUp font__size-20 pl-50 pl-sm-0">
-								Following a successful acquisition, our Searching Entrepreneurs become CEOs and step into a leadership role at their new companies. NCA supports CEOs in value creation and serves on the boards alongside other co-investors. Learn more about our CEOs and their companies below.
+								Following a successful acquisition, our Searchers become CEOs and step into a leadership role at their new companies. NCA supports CEOs in value creation and serves on the boards alongside other co-investors. Learn more about our CEOs and their companies below.
 							</p>	
 						</div>
 					</div>

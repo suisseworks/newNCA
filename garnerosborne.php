@@ -14,7 +14,7 @@
 							Garner Osborne
 				</h3>
 				<div class="forza-img w-100">
-					<img src="img/portfolio/mecavit-background.png">
+					<img src="img/portfolio/garnerosborne-background.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
 					<a href="https://www.garnerosborne.co.uk/" target="_blank"><img src="img/portfolio/mecavit-background.png"></a>
