@@ -17,7 +17,7 @@
 					<img src="img/portfolio/gdibackground.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
-					<a href="https://gdipackaging.ca" target="_blank"><img src="img/portfolio/keystone-background.png"></a>
+					<a href="https://gdipackaging.ca" target="_blank"><img src="img/GDILOGO.jpg"></a>
 				</div>
 				<h3   class="mb-3 mt-5 text-center desktop-title forza-title title text-uppercase wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                 GDI
@@ -29,10 +29,10 @@
 									<strong>Headquarters:</strong> West Chester, Ohio, USA
 								</li>
 								<li>
-									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong>Adam Salmen</a>
+									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong> Jim Kelly</a>
 								</li>
 								<li>
-									<strong>In NCA portfolio since:</strong> October 2024
+									<strong>In NCA portfolio since:</strong> November 2024
 								</li>
 							</ul>                
                 </div>
@@ -46,15 +46,19 @@
                             <h2 class="stroke_text  desktop-title text-uppercase text-start mb-100 wow fadeInLeft">About the Company</h2> 
 				         </div>
                         <div class="forza-log desktop-logo text-left">
-					      <a href="https://gdipackaging.ca" target="_blank"><img style="" src="img/GDILOGO.jpg"></a>
+					      <a href="https://gdipackaging.ca" target="_blank"><img style="" src="img/portfolio/gdi-logo.png"></a>
 				        </div>
                         <br> <br>
 						<h4 class="mb-5 forza-subtitle subtitle wow fadeInUp">
-                        GDI is a Toronto based sustainable packaging broker serving grocers, bakeries, and hospitals.
-
+						GDI Bridgelink Ltd., based in Toronto, Canada, is a leading provider of sustainable packaging solutions for blue-chip clients, including the country's largest grocers, bakeries, and hospital networks. We hold nationwide rights to distribute packaging from some of North America's top manufacturers.
 						</h4>
 						<p>
-                        GDI/Enviro Healthcare Inc. provides packaging solutions for blue chip clients including Canada’s largest grocers, bakeries, and hospital networks holding nationwide exclusive rights to distribute packaging for some of North America’s leading manufacturers. As grocers continue to grow their commitment to reducing single-use plastics, GDI serves as a conduit through which customers can develop alternative solutions with packaging solutions for varius products at groceries, reusable and garbage bags, baking sheet paper or plastic containers at convenience stores. Enviro provides similarly advanced solutions like odor-sealing soiled linen hampers with hands-free operation and customizable recyclable linen bags for hospital systems across Canada. The company is a sustainability leader, pioneering innovative solutions to reduce waste and eliminate single-use plastics.<br><br><br><br><br><br><br>
+                        
+						 
+Our family of companies includes GDI Packaging Solutions, which provides reusable bags, industrial supplies (such as garbage bags and gloves), paper bags, tamper-evident solutions, and 100% compostable folding cartons. Additionally, Enviro Healthcare Inc. brings these solutions to the healthcare sector, supplying hospitals across Canada with our top-of-the-line, odor-sealing soiled linen hampers and customizable recyclable linen bags.
+<br><br>
+As a leader in sustainability, GDI Bridgelink Ltd. is at the forefront of pioneering innovative solutions to reduce waste and eliminate single-use plastics, helping our clients achieve their environmental goals.
+<br><br><br><br><br><br><br>
 						</p>	
 					</div>
 					<div class="col-12 visit-btn px-0 mt-5">
@@ -93,14 +97,14 @@
 		<div class="row">
 			<div class="col-4 mbw-15">
 				<div class="text-left prev-next-text">
-				   <a href="sor4life.php" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
+				   <a href="grupo-dalt.php" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
 				</div>   
 			</div>
 			<div class="col-4 mbw-70">
 			</div>	
 			<div class="col-4 mbw-15">
 				<div class="text-right prev-next-text">
-				<a href="ffco.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
+				<a href="protek.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
 				</div>   
 			</div>	
 		</div>	

@@ -84,10 +84,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            I am from Metro Detroit, Michigan, where I was raised by great parents along with my siblings, and currently live with my wonderful wife and two kids.  My career has been varied and intentional, including design engineer, project manager, operations/turnaround business consultant, startup CEO, and most recently, investment banker. 
+                            I am from Metro Detroit, Michigan, where I was raised by great parents along with my siblings, and currently live with my wonderful wife and two kids. My career has been varied and intentional, including design engineer, project manager, operations/turnaround business consultant, startup CEO, and most recently, investment banker.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            I’ve developed a broad set of experiences and skills for successfully building a technology company.  As a kid, I spent a lot of time playing sports such as hockey, soccer, and wrestling; and I was lucky enough to be on some really excellent teams (winning state and national titles) where I learned a lot about competition, teamwork, and sacrifice.  As an engineer with the heart of an entrepreneur and the spirit of an athlete, I love to build teams, products, and great companies. 
+                            I’ve developed a broad set of experiences and skills for successfully building a technology company. As a kid, I spent a lot of time playing sports such as hockey, soccer, and wrestling; and I was lucky enough to be on some really excellent teams (winning state and national titles) where I learned a lot about competition, teamwork, and sacrifice. As an engineer with the heart of an entrepreneur and the spirit of an athlete, I love to build teams, products, and great companies.
 							</p>
 						</div>	
 					</div>
@@ -108,12 +108,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            The focus of my search is engineering design and manufacturing companies in the Upper Midwest.  I will target SMEs with strong engineering capabilities that deliver innovative B2B solutions. 
+                        The focus of my search is engineering design, process, and manufacturing companies in the Upper Midwest. I will target SMEs with strong engineering capabilities that deliver innovative B2B solutions.
+
 
  
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-                            In some cases, there may be opportunities for developing new products to expand the business, and possibly integrating some manufacturing to deliver higher value to end customers and improve financial performance. 
+                            In some cases, there may be opportunities for developing new products and services to expand the business, and possibly integrating some manufacturing to deliver higher value to end customers and improve financial performance.
+
+
 							</p>
 						</div>	
 					</div>
@@ -134,10 +137,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-5 pl-lg-20">
 						<div class="image_text_div py-lg-0 py-4 h-100 font__halvetica-bold">
 							<p class="font-weight-bold font__size-16">
-                            I will provide clear and specific goals for the company, a pathway to achieving those goals, and lead the team every day to accomplish those goals.  I will support and foster a collaborative team environment in which everyone embraces high performance standards. 
+							I will provide clear and specific goals for the company, a pathway to achieving those goals, and lead the team every day to accomplish those goals. I will support and foster a collaborative team environment in which everyone embraces high performance standards.
 							</p>
 							<p class="mt-30 font__size-16 font__halvetica-regular">
-							I will explore and pursue innovative opportunities to expand the business.  I will build upon, and further develop a special company of excellence and creativity. 
+							I will explore and pursue innovative opportunities to expand the business. I will build upon, and further develop a special company of excellence and creativity.
 							</p>
 						</div>	
 					</div>

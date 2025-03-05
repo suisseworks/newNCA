@@ -17,7 +17,7 @@
 					<img src="img/portfolio/background-protek2.png" alt="Protek">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
-					<a href="https://covepro.ca/" target="_blank"><img src="img/portfolio/keystone-background.png"></a>
+					<a href="https://covepro.ca/" target="_blank"><img src="img/portfolio/logo-protek.png"></a>
 				</div>
 				<h3   class="mb-3 mt-5 text-center desktop-title forza-title title text-uppercase wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                Protek
@@ -29,7 +29,7 @@
 									<strong>Headquarters:</strong> Laval, Québec & Stouffville, Ontario; Canada
 								</li>
 								<li>
-									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong>Martine Legault</a>
+									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong> Martine Legault</a>
 								</li>
 								<li>
 									<strong>In NCA portfolio since:</strong> December 2024
@@ -46,7 +46,7 @@
                             <h2 class="stroke_text  desktop-title text-uppercase text-start mb-100 wow fadeInLeft">About the Company</h2> 
 				         </div>
                         <div class="forza-log desktop-logo text-left">
-					      <a href="https://covepro.ca/" target="_blank"><img style="" src="img/portfolio/protek-logo.png"></a>
+					      <a href="https://covepro.ca/" target="_blank"><img style="" src="img/portfolio/logo-protek.png"></a>
 				        </div>
                         <br> <br>
 						<h4 class="mb-5 forza-subtitle subtitle wow fadeInUp">
@@ -54,7 +54,7 @@
 
 						</h4>
 						<p>
-                        EProtek is a Canadian company specializing in vehicular electrical solutions, established through the acquisition of Protek Vehicular Controls based in Laval, Québec and Mobile Power Solutions in Stouffville, Ontario. The company provides advanced systems for auxiliary power installation, catering to businesses transitioning to electric vehicles (EVs). Protek’s solutions deliver an efficient electrical alternative to idling vehicles or relying on gas and diesel generators. With expertise in complex work vehicle upfitting, Protek helps clients reduce costs and lower emissions. The company serves fleets across diverse sectors, including energy, healthcare, transportation, construction, government, telecommunications, and municipalities.<br><br><br><br><br><br><br>
+                        Protek is a Canadian company specializing in vehicular electrical solutions, established through the acquisition of Protek Vehicular Controls based in Laval, Québec and Mobile Power Solutions in Stouffville, Ontario. The company provides advanced systems for auxiliary power installation, catering to businesses transitioning to electric vehicles (EVs). Protek’s solutions deliver an efficient electrical alternative to idling vehicles or relying on gas and diesel generators. With expertise in complex work vehicle upfitting, Protek helps clients reduce costs and lower emissions. The company serves fleets across diverse sectors, including energy, healthcare, transportation, construction, government, telecommunications, and municipalities.<br><br><br><br><br><br><br>
 						</p>	
 					</div>
 					<div class="col-12 visit-btn px-0 mt-5">
@@ -93,16 +93,16 @@
 		<div class="row">
 			<div class="col-4 mbw-15">
 				<div class="text-left prev-next-text">
-				   <a href="sor4life.php" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
+				   <a href="gdi.php" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
 				</div>   
 			</div>
 			<div class="col-4 mbw-70">
 			</div>	
-			<div class="col-4 mbw-15">
+			<!-- <div class="col-4 mbw-15">
 				<div class="text-right prev-next-text">
 				<a href="ffco.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
 				</div>   
-			</div>	
+			</div>	 -->
 		</div>	
 	</div>	
 </section>

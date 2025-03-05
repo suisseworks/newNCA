@@ -17,7 +17,7 @@
 					<img src="img/portfolio/background-extended-power.jpg">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
-					<a href="https://www.extendedpower.com/" target="_blank"><img src="img/portfolio/keystone-background.png"></a>
+					<a href="https://www.extendedpower.com/" target="_blank"><img src="img/portfolio/Extended-Power-Logo.png"></a>
 				</div>
 				<h3   class="mb-3 mt-5 text-center desktop-title forza-title title text-uppercase wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                 Extended Power
@@ -29,10 +29,10 @@
 									<strong>Headquarters:</strong> West Chester, Ohio, USA
 								</li>
 								<li>
-									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong>Adam Salmen</a>
+									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong> Marc Decoste</a>
 								</li>
 								<li>
-									<strong>In NCA portfolio since:</strong> October 2024
+									<strong>In NCA portfolio since:</strong> June 2024
 								</li>
 							</ul>                
                 </div>
@@ -46,7 +46,7 @@
                             <h2 class="stroke_text  desktop-title text-uppercase text-start mb-100 wow fadeInLeft">About the Company</h2> 
 				         </div>
                         <div class="forza-log desktop-logo text-left">
-					      <a href="https://www.extendedpower.com/" target="_blank"><img style="" src="img/portfolio/Extended-Power-Logo.png"></a>
+					      <a href="https://www.extendedpower.com/" target="_blank"><img style="" src="img/portfolio/extendedpower-logo.png"></a>
 				        </div>
                         <br> <br>
 						<h4 class="mb-5 forza-subtitle subtitle wow fadeInUp">
@@ -93,14 +93,14 @@
 		<div class="row">
 			<div class="col-4 mbw-15">
 				<div class="text-left prev-next-text">
-				   <a href="sor4life.php" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
+				   <a href="garnerosborne.php" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
 				</div>   
 			</div>
 			<div class="col-4 mbw-70">
 			</div>	
 			<div class="col-4 mbw-15">
 				<div class="text-right prev-next-text">
-				<a href="ffco.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
+				<a href="keystone.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
 				</div>   
 			</div>	
 		</div>	

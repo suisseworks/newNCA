@@ -32,7 +32,7 @@
 									<a href="entrepreneurs.php#ceos"><strong>CEO:</strong> Sebastien Perroud</a>
 								</li>
 								<li>
-									<strong>In NCA portfolio since:</strong> October 2021
+									<strong>In NCA portfolio since:</strong> December 2021
 								</li>
 							</ul>                
                 </div>

@@ -21,7 +21,7 @@
 					<div class="headline about_headline d-lg-none">
 						<h3 class="mb-3 underline title tile_2 position-relative wow fadeInUp pl-80">
 
-							NCA closely partners <br> with our Entrepreneurs <br>supporting them strategically,
+							NCA closely partners <br> with our Searching Operators <br>supporting them strategically,
 							operationally, and financially through all stages of their Search Fund.
 						</h3>
 					</div>
@@ -123,7 +123,7 @@
 						<div class="investors_content pt-lg-100 pt-50">
 							<div class="headline about_headline d-xs-none">
 								<h3 class="mb-3 underline title tile_2 position-relative wow fadeInUp pl-80">
-									NCA closely partners <br> with our Entrepreneurs <br>supporting them strategically,
+									NCA closely partners <br> with our Searching Operators <br>supporting them strategically,
 									operationally, and financially through all stages of their Search Fund.
 								</h3>
 							</div>

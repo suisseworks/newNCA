@@ -17,7 +17,7 @@
 					<img src="img/portfolio/marcona3-background.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
-					<a href="https://www.marcona3.com/" target="_blank"><img src="img/portfolio/keystone-background.png"></a>
+					<a href="https://www.marcona3.com/" target="_blank"><img src="img/portfolio/logo-marcona.png"></a>
 				</div>
 				<h3   class="mb-3 mt-5 text-center desktop-title forza-title title text-uppercase wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                 Marcona3
@@ -46,7 +46,7 @@
                             <h2 class="stroke_text  desktop-title text-uppercase text-start mb-100 wow fadeInLeft">About the Company</h2> 
 				         </div>
                         <div class="forza-log desktop-logo text-left">
-					      <a href="https://www.marcona3.com/" target="_blank"><img style="" src="img/portfolio/Showroom-Marcona3.png"></a>
+					      <a href="https://www.marcona3.com/" target="_blank"><img style="" src="img/portfolio/logo-marcona.png"></a>
 				        </div>
                         <br> <br>
 						<h4 class="mb-5 forza-subtitle subtitle wow fadeInUp">
@@ -93,14 +93,14 @@
 		<div class="row">
 			<div class="col-4 mbw-15">
 				<div class="text-left prev-next-text">
-				   <a href="sor4life.php" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
+				   <a href="marcona3.php" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
 				</div>   
 			</div>
 			<div class="col-4 mbw-70">
 			</div>	
 			<div class="col-4 mbw-15">
 				<div class="text-right prev-next-text">
-				<a href="ffco.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
+				<a href="umecc.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
 				</div>   
 			</div>	
 		</div>	

@@ -17,7 +17,7 @@
 					<img src="img/portfolio/keystone-background.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
-					<a href="https://keystone-pharmacy.com/" target="_blank"><img src="img/portfolio/keystone-background.png"></a>
+					<a href="https://keystone-pharmacy.com/" target="_blank"><img src="img/portfolio/keystone-pharmacy.png"></a>
 				</div>
 				<h3   class="mb-3 mt-5 text-center desktop-title forza-title title text-uppercase wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                 Keystone
@@ -93,14 +93,14 @@
 		<div class="row">
 			<div class="col-4 mbw-15">
 				<div class="text-left prev-next-text">
-				   <a href="sor4life.php" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
+				   <a href="extended-power.php" class="text-uppercase underline m-underline">< <span class="m-company">Previous Company</span></a>
 				</div>   
 			</div>
 			<div class="col-4 mbw-70">
 			</div>	
 			<div class="col-4 mbw-15">
 				<div class="text-right prev-next-text">
-				<a href="ffco.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
+				<a href="marcona3.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
 				</div>   
 			</div>	
 		</div>	

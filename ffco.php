@@ -108,7 +108,7 @@
 			</div>	
 			<div class="col-4 mbw-15">
 				<div class="text-right prev-next-text">
-				   <a href="adex.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
+				   <a href="garnerosborne.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
 				</div>   
 			</div>	
 		</div>	

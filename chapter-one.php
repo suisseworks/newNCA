@@ -31,7 +31,7 @@
 									<a href="entrepreneurs.php#ceos"><strong>Co-CEOs: </strong>David Miller & Mitchell Goldstein</a>
 								</li>
 								<li>
-									<strong>In NCA portfolio since:</strong> May 2023
+									<strong>Exited in December 2024</strong>
 								</li>
 							</ul>                
                 </div>
@@ -96,7 +96,7 @@
 			</div>	
 			<div class="col-4 mbw-15">
 				<div class="text-right prev-next-text">
-				   <a href="stl-communication.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
+				   <a href="inzotechnologies.php" class="text-uppercase underline m-underline"><span class="m-company">Next Company</span> ></a>
 				</div>   
 			</div>	
 		</div>	

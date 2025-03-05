@@ -17,7 +17,7 @@
 					<img src="img/portfolio/mecavit-background.png">
 				</div>	
 				<div class="forza-log mobile-logo text-center">
-					<a href="https://www.mecavit.it/uk/home" target="_blank"><img src="img/portfolio/mecavit-background.png"></a>
+					<a href="https://www.mecavit.it/uk/home" target="_blank"><img src="img/portfolio/mecavit.png"></a>
 				</div>
 				<h3   class="mb-3 mt-5 text-center desktop-title forza-title title text-uppercase wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                 Mecavit
