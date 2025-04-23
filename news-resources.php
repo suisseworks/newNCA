@@ -146,6 +146,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="stroke_text text-uppercase mb-60 wow fadeInLeft">NCA <br> news</h2>
 						<div class="resource_wrap_links">
 
+						
+
+
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="https://www.msn.com/en-us/money/smallbusiness/how-novastone-capital-advisors-empowered-women-entrepreneurs-in-2024/ar-AA1ypWHk?ocid=BingNewsSerp" target="_blank" title=" " class="font__size-20 font__family-efb">How Novastone Capital Advisors Empowered Women Entrepreneurs in 2024<span class="arrow_link_a"></span></a>
@@ -193,6 +196,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
 								<a href="docs/SUCCESSFUL_ACQUISITION_FOR_NCA_ENTREPRENEUR_LISA_PIERCEY.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">Successful Acquisition for NCA Entrepreneur Lisa Piercey<span class="arrow_link_a"></span></a>
 							</div>
+
+							<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
+								<a href="docs/Interview NCA Search Funds News.pdf" target="_blank" title=" " class="font__size-20 font__family-efb">How Novastone Capital Advisors Empowered Women Entrepreneurs in 2024<span class="arrow_link_a"></span></a>
+						</div>
 						
 
 						<div class="anchore_div anchore_div py-3 px-3 bg-light position-relative">
